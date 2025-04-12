@@ -1,0 +1,19 @@
+{
+    "name": "gsuite-bundle-puller",
+    "version": "0.0.1",
+    "description": "Extracts CSS from G Suite apps and attempts to theme them automatically",
+    "scripts": {
+        "build-all": "node --experimental-transform-types ./extract_css.ts"
+    },
+    "dependencies": {
+        "chalk": "^5.4.1",
+        "color": "^5.0.0",
+        "lightningcss": "^1.29.3",
+        "postcss": "^8.5.3",
+        "puppeteer": "^24.6.1"
+    },
+    "devDependencies": {
+        "@types/node": "^20.17.30"
+    },
+    "type": "module"
+}
