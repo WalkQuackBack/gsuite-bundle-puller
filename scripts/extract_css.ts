@@ -130,11 +130,14 @@ async function buildSite(targetUrl: string, linkedStyle: string) {
         ),
     );
 
-    const userstyleBuildTemplate = await fs.readFile(path.join(
-        "styles",
-        "templates",
-        `${linkedStyle}.user.less`,
-    ));
+    const userstyleBuildTemplate = await fs.readFile(
+        path.join(
+            "styles",
+            "templates",
+            `${linkedStyle}.user.less`,
+        ),
+        "utf8",
+    );
 
     const userstyleBuildOutput = path.join(
         "styles",
@@ -148,10 +151,11 @@ async function buildSite(targetUrl: string, linkedStyle: string) {
         suffix,
     );
     console.log(chalk.yellow(`\n⏳ templating userstyles...`), suffix);
-    const userstyle = buildThemed.replace(
-        "/**** Generated code REPLACE ****/",
-        buildThemed,
-    );
+    const userstyle = userstyleBuildTemplate.replace('@charset "UTF-8;"', "")
+        .replace(
+            "/**** Generated code REPLACE ****/",
+            buildThemed,
+        );
 
     await fs.writeFile(
         path.join(userstyleBuildOutput, `${linkedStyle}.user.less`),
