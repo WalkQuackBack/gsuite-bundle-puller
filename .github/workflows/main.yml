@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+  # Every day 12PM PST, rebuild userstyles
+  schedule: 
+    - cron: "0 12 * * *"
 
 jobs:
   build:
