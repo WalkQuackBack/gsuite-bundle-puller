@@ -10,22 +10,23 @@ import chalk from "chalk";
 async function extractAndSaveCSS(
     url: string,
     outputDir: string,
-    outputFilename: string = `build`,
+    outputFilename: string = `dump`,
     siteName: string,
-): Promise<void> {
+    logSuffix: string,
+): Promise<string> {
     let browser: Browser | null = null;
 
-    const suffix = chalk.bold(`${siteName} `);
-
-    console.log(chalk.yellow("⏳ loading main page..."), suffix);
+    console.log(chalk.yellow("⏳ loading main page..."), logSuffix);
 
     try {
-        browser = await puppeteer.launch();
+        browser = await puppeteer.launch({
+            args: ["--lang=en-US,en"],
+        });
         const page: Page = await browser.newPage();
 
         await page.goto(url, { waitUntil: "networkidle2" });
 
-        console.log(chalk.blue("📄 loaded main page"), suffix);
+        console.log(chalk.blue("📄 loaded main page"), logSuffix);
 
         const stylesheets: { href: string | null }[] = await page.$$eval(
             'link[rel="stylesheet"]',
@@ -50,7 +51,7 @@ async function extractAndSaveCSS(
                     console.log(
                         chalk.yellow(`⏳ loading external stylesheet`),
                         // chalk.blueBright(`${stylesheet.href}`),
-                        suffix,
+                        logSuffix,
                     );
 
                     const absoluteUrl: string =
@@ -68,7 +69,7 @@ async function extractAndSaveCSS(
                     console.log(
                         chalk.ansi256(171)(`🔗 loaded external stylesheet`),
                         // chalk.blueBright(`${stylesheet.href}`),
-                        suffix,
+                        logSuffix,
                     );
                 } catch (error) {
                     console.error(
@@ -95,11 +96,11 @@ async function extractAndSaveCSS(
         await fs.mkdir(outputDir, { recursive: true });
 
         await fs.writeFile(
-            path.join(outputDir, outputFilename + ".css"),
+            path.join(outputDir, outputFilename + "-GOOGLE.css"),
             cssContent,
         );
         await fs.writeFile(
-            path.join(outputDir, outputFilename + Date.now() + "-themed.css"),
+            path.join(outputDir, outputFilename + "-themed.css"),
             themedCss,
         );
         await fs.writeFile(
@@ -108,6 +109,7 @@ async function extractAndSaveCSS(
         );
 
         console.log(chalk.green(`💾 build saved to ${outputDir}`));
+        return themedCss;
     } finally {
         if (browser) {
             await browser.close();
@@ -115,27 +117,54 @@ async function extractAndSaveCSS(
     }
 }
 
-async function extractFromSite(targetUrl: string) {
+async function buildSite(targetUrl: string, linkedStyle: string) {
     const siteName = new URL(targetUrl).href;
-    const outputDirectory = path.join(
+    const suffix = chalk.bold(`${siteName} `);
+
+    const webBuildOutputDirectory = path.join(
         "dist",
+        String(Date.now()),
         siteName.replace(
             /[^a-zA-Z0-9_-]+/g,
             "_",
         ),
     );
 
-    const prefix = chalk.bold(`${siteName} `);
+    const userstyleBuildTemplate = await fs.readFile(path.join(
+        "styles",
+        "templates",
+        `${linkedStyle}.user.less`,
+    ));
 
-    await extractAndSaveCSS(targetUrl, outputDirectory, undefined, siteName)
-        .catch((error) =>
-            console.error(chalk.red(prefix, "building failed!", error))
-        );
+    const userstyleBuildOutput = path.join(
+        "styles",
+    );
+
+    const buildThemed = await extractAndSaveCSS(
+        targetUrl,
+        webBuildOutputDirectory,
+        undefined,
+        siteName,
+        suffix,
+    );
+    console.log(chalk.yellow(`\n⏳ templating userstyles...`), suffix);
+    const userstyle = buildThemed.replace(
+        "/**** Generated code REPLACE ****/",
+        buildThemed,
+    );
+
+    await fs.writeFile(
+        path.join(userstyleBuildOutput, `${linkedStyle}.user.less`),
+        userstyle,
+    );
+
+    console.log(
+        chalk.green(`💾 saved userstyle to ${userstyleBuildOutput}`),
+        suffix,
+    );
 }
 
-extractFromSite(
+buildSite(
     "https://docs.google.com/document/d/1RDErYoVPRCvy2nRvWo8a1xa5m7NrxpWBzZirE97m_3g/",
-);
-extractFromSite(
-    "https://docs.google.com/presentation/d/1-jVYOX5SuCT9hU9sOKgPEMOJ5W6X3bWD5SnMm7Kz6Sc/",
+    "docseditor",
 );

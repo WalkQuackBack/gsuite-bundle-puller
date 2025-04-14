@@ -1,9 +1,21 @@
 # google css bundle puller
 
-## prerequisites
+## Get the prebuilt files
+
+They should be under /styles, not /styles/templates
+
+## Developing locally
+
+### prerequisites
 
 - node.js
 - pnpm
+
+Install necessary files
+
+```bash
+pnpm install
+```
 
 Install a browser to use with Puppeteer, for example
 
@@ -11,12 +23,16 @@ Install a browser to use with Puppeteer, for example
 npx puppeteer browsers install chrome
 ```
 
-## building generated CSS
+### Live reload development
+
+WIP
+
+### building generated CSS
 
 run
-
-### build everything
 
 ```bash
 deno run build-all
 ```
+
+output files will be in /dist/\<time>/\<url>

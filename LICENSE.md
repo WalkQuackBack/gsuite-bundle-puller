@@ -1,3 +1,7 @@
+Files suffixed with "GOOGLE" are directly dumped from Google sites; these are
+governed by the exclusive copyright license found at
+[LICENSE-GOOGLE](LICENSE-GOOGLE.md).
+
 MIT License
 
 Copyright (c) 2025 WalkQuackBack
