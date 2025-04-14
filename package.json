@@ -7,12 +7,13 @@
     },
     "dependencies": {
         "chalk": "^5.4.1",
+        "clean-css": "^5.3.3",
         "color": "^5.0.0",
-        "lightningcss": "^1.29.3",
         "postcss": "^8.5.3",
         "puppeteer": "^24.6.1"
     },
     "devDependencies": {
+        "@types/clean-css": "^4.2.11",
         "@types/node": "^22.0.0"
     },
     "type": "module"

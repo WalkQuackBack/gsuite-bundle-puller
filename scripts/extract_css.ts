@@ -6,6 +6,9 @@ import { formatCSS } from "./format_css.ts";
 import { themeCSS } from "./theme_colors.ts";
 import { generateMdFromStyle } from "./output_colours_to_md.ts";
 import chalk from "chalk";
+import { trimCss } from "./trim_css.ts";
+
+const ANSI_PURPLE = 171;
 
 async function extractAndSaveCSS(
     url: string,
@@ -67,7 +70,9 @@ async function extractAndSaveCSS(
                     }
 
                     console.log(
-                        chalk.ansi256(171)(`🔗 loaded external stylesheet`),
+                        chalk.ansi256(ANSI_PURPLE)(
+                            `🔗 loaded external stylesheet`,
+                        ),
                         // chalk.blueBright(`${stylesheet.href}`),
                         logSuffix,
                     );
@@ -150,12 +155,24 @@ async function buildSite(targetUrl: string, linkedStyle: string) {
         siteName,
         suffix,
     );
-    console.log(chalk.yellow(`\n⏳ templating userstyles...`), suffix);
+
+    console.log(chalk.yellow(`\n⏳ minifying code...`), suffix);
+
+    const output = await trimCss(buildThemed);
+    console.log(chalk.green(`\n🎨 minified code for userstyle`), suffix);
+
     const userstyle = userstyleBuildTemplate.replace('@charset "UTF-8;"', "")
         .replace(
             "/**** Generated code REPLACE ****/",
-            buildThemed,
+            output,
         );
+
+    console.log(chalk.green(`🟦 templated userstyles`), suffix);
+
+    console.log(
+        chalk.blue(`\n💬 built userstyle size in bytes: `) +
+            chalk.bold.ansi256(ANSI_PURPLE)(userstyle.length),
+    );
 
     await fs.writeFile(
         path.join(userstyleBuildOutput, `${linkedStyle}.user.less`),

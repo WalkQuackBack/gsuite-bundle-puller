@@ -1,5 +1,4 @@
 import postcss, { Root, Rule } from "postcss";
-import { transform } from "lightningcss";
 
 const colorProperties: Set<string> = new Set([
     "background-color",
@@ -42,6 +41,7 @@ const colorProperties: Set<string> = new Set([
     "lighting-color",
     "scrollbar-color",
     "background-image",
+    // Commented to decrease scope bloating
     // "list-style-image", // Can contain gradients.
     // "content", // can contain gradients with the image() function
     // "mask-image", // Can contain gradients.
@@ -66,22 +66,12 @@ const postcssFilterColor = () => {
 
 async function filterAndFormatCSS(css: string): Promise<string> {
     try {
-        // 1. Process with PostCSS to filter
+        // Process with PostCSS to filter
         const processed = await postcss()
             .use(postcssFilterColor())
             .process(css, { from: undefined });
         const filteredCSS = processed.css;
-
-        // 2. Beautify with Lightning CSS
-        // const pretty = transform({
-        //     code: Buffer.from(filteredCSS),
-        //     filename: "style.css",
-        //     minify: false,
-        //     sourceMap: false,
-        // }).code.toString();
-
-        // return pretty;
-        return processed.css;
+        return filteredCSS;
     } catch (error) {
         console.error("Error processing CSS:", error);
         return css;
