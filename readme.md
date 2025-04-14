@@ -1,5 +1,7 @@
 # google css bundle puller
 
+Work in progress, builds may be broken or not work.
+
 ## Get the prebuilt files
 
 They should be under /styles, not /styles/templates
