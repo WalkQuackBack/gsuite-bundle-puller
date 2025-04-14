@@ -41,5 +41,4 @@ jobs:
       with:
         message: "ci: build userstyles"
         default_author: github_actions
-        add: '["dist", "styles"]'
         push: true
