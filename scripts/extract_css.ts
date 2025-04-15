@@ -66,7 +66,7 @@ async function extractAndSaveCSS(
                     if (response) {
                         const stylesheetContent: string = await response.text();
                         cssContent +=
-                            `\n/** External stylesheet "${stylesheet.href}" */\n${stylesheetContent}\n`;
+                            `\n/*! External stylesheet "${stylesheet.href}" */\n${stylesheetContent}\n`;
                     }
 
                     console.log(
@@ -87,7 +87,7 @@ async function extractAndSaveCSS(
 
         for (const styleTag of styleTags) {
             if (styleTag.content) {
-                cssContent += `\n/** Inline stylesheet\nData-Href: ${
+                cssContent += `\n/*! Inline stylesheet\nData-Href: ${
                     styleTag.href ?? "N/A"
                 } */\n\n${styleTag.content}\n`;
             }

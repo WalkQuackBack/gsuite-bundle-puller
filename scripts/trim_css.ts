@@ -2,6 +2,8 @@ import postcss, { AtRule, Declaration, Root, Rule } from "postcss";
 import CleanCSS from "clean-css";
 import chalk from "chalk";
 
+const vendorPrefixRegex = /^-\w+-|::-\w+/;
+
 const postcssTrimCss = () => {
     return (root: Root) => {
         root.walkDecls((decl: Declaration) => {
@@ -10,6 +12,14 @@ const postcssTrimCss = () => {
             } else {
                 decl.remove();
             }
+        });
+        root.walkAtRules((node: Root | AtRule) => {
+            node.walkRules((rule: Rule) => {
+                // Remove rules with vendor prefixes in the selector
+                rule.selectors = rule.selectors.filter((selector) =>
+                    !vendorPrefixRegex.test(selector.trim())
+                );
+            });
         });
         root.walkAtRules("charset", (atRule: AtRule) => {
             atRule.remove();
@@ -20,8 +30,32 @@ const postcssTrimCss = () => {
 const cCssInstance = new CleanCSS({
     format: "keep-breaks",
     level: {
-        2: {
-            all: true,
+        1: {
+            cleanupCharsets: false,
+            normalizeUrls: true,
+            optimizeBackground: true,
+            optimizeBorderRadius: true,
+            optimizeFilter: true,
+            optimizeFont: true,
+            optimizeFontWeight: true,
+            optimizeOutline: true,
+
+            removeEmpty: true,
+            removeNegativePaddings: true,
+            removeQuotes: true,
+            removeWhitespace: true,
+
+            replaceMultipleZeros: true,
+            replaceTimeUnits: true,
+            replaceZeroUnits: true,
+
+            roundingPrecision: false,
+            selectorsSortingMethod: "standard",
+            specialComments: "all",
+
+            tidyAtRules: false,
+            tidyBlockScopes: false,
+            tidySelectors: false,
         },
     },
 });

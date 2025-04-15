@@ -1,3 +1,5 @@
+import postcss, { Declaration, Root, Rule } from "postcss";
+
 const colorIndex: Record<string, string> = {
     "#f2b8b5": "var(--gm3-sys-color-error)",
     "#b3261e": "var(--gm3-sys-color-error)",
@@ -57,6 +59,7 @@ const colorIndex: Record<string, string> = {
     "#c2e7ff": "var(--gm3-sys-color-secondary-container)",
     "#bdbdbd": "var(--gm3-sys-color-secondary-container)",
     "#d5dae1": "var(--gm3-sys-color-secondary-container)",
+    "#004a77": "var(--gm3-sys-color-on-secondary-container)",
     "#001d35": "var(--gm3-sys-color-on-secondary-container)",
 
     // Disabled
@@ -205,17 +208,53 @@ const colorIndex: Record<string, string> = {
     // "#ff0000": "red",
 };
 
-async function findAndReplaceColors(inputCss: string): Promise<string> {
-    let css = inputCss;
-    for (const key in colorIndex) {
-        if (colorIndex.hasOwnProperty(key)) {
-            const value = colorIndex[key];
-            css = css.replaceAll(key, value);
-        }
-    }
-    return css;
-}
+// async function findAndReplaceColors(inputCss: string): Promise<string> {
+//     let css = inputCss;
+//     for (const key in colorIndex) {
+//         if (colorIndex.hasOwnProperty(key)) {
+//             const value = colorIndex[key];
+//             css = css.replaceAll(key, value);
+//         }
+//     }
+//     return css;
+// }
 
-export function themeCSS(css: string): Promise<string> {
-    return findAndReplaceColors(css);
-}
+const postcssThemeCss = () => {
+    return (root: Root) => {
+        root.walkRules((rule: Rule) => {
+            rule.walkDecls((decl: Declaration) => {
+                for (
+                    const [originalColor, replacementColor] of Object.entries(
+                        colorIndex,
+                    )
+                ) {
+                    // Construct a regular expression that matches the full color value only.
+                    // This regex ensures that the color is matched as a complete word or a standalone value.
+                    const colorRegex = new RegExp(
+                        `\\b${originalColor}\\b`,
+                        "g",
+                    );
+
+                    // Replace all occurrences of the original color with the replacement color.
+                    decl.value = decl.value.replace(
+                        colorRegex,
+                        replacementColor,
+                    );
+                }
+            });
+        });
+    };
+};
+
+export const themeCSS = async (css: string): Promise<string> => {
+    try {
+        const processed = await postcss()
+            .use(postcssThemeCss())
+            .process(css, { from: undefined });
+
+        return processed.css;
+    } catch (error) {
+        console.error("Error processing CSS:", error);
+        return css;
+    }
+};
