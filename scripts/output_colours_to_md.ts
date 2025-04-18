@@ -82,8 +82,8 @@ async function generateColorTable(css: string): Promise<string> {
                 colorOccurrences,
             )
         ) {
-            const uniqueValuesString = Array.from(uniqueValues).join(", ");
-            const classesString = Array.from(classes).join(", ");
+            const uniqueValuesString = Array.from(uniqueValues).join("`, `");
+            const classesString = Array.from(classes).join("`, `");
             markdownTable +=
                 `| ${hex} | ${uniqueValuesString} | ${classesString} |\n`;
         }
