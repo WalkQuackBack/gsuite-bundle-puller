@@ -128,7 +128,6 @@ async function buildSite(targetUrl: string, linkedStyle: string) {
 
     const webBuildOutputDirectory = path.join(
         "dist",
-        String(Date.now()),
         siteName.replace(
             /[^a-zA-Z0-9_-]+/g,
             "_",
