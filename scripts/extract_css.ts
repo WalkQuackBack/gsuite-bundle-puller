@@ -206,6 +206,10 @@ buildSite(
 )
 
 buildSite(
+    "https://trends.google.com/"
+)
+
+buildSite(
     "https://translate.google.com/"
 )
 
