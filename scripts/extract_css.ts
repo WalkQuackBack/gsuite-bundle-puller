@@ -134,6 +134,18 @@ async function buildSite(targetUrl: string, linkedStyle?: string) {
         ),
     );
 
+    const buildThemed = await extractAndSaveCSS(
+        targetUrl,
+        webBuildOutputDirectory,
+        undefined,
+        siteName,
+        suffix,
+    );
+
+    if (!linkedStyle) {
+        return
+    }
+
     const userstyleBuildTemplate = await fs.readFile(
         path.join(
             "styles",
@@ -146,18 +158,6 @@ async function buildSite(targetUrl: string, linkedStyle?: string) {
     const userstyleBuildOutput = path.join(
         "styles",
     );
-
-    const buildThemed = await extractAndSaveCSS(
-        targetUrl,
-        webBuildOutputDirectory,
-        undefined,
-        siteName,
-        suffix,
-    );
-
-    if (!linkedStyle) {
-        return
-    }
 
     console.log(chalk.yellow(`\n⏳ minifying code...`), suffix);
 
