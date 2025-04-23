@@ -122,7 +122,7 @@ async function extractAndSaveCSS(
     }
 }
 
-async function buildSite(targetUrl: string, linkedStyle: string) {
+async function buildSite(targetUrl: string, linkedStyle?: string) {
     const siteName = new URL(targetUrl).href;
     const suffix = chalk.bold(`${siteName} `);
 
@@ -154,6 +154,10 @@ async function buildSite(targetUrl: string, linkedStyle: string) {
         siteName,
         suffix,
     );
+
+    if (!linkedStyle) {
+        return
+    }
 
     console.log(chalk.yellow(`\n⏳ minifying code...`), suffix);
 
@@ -188,3 +192,23 @@ buildSite(
     "https://docs.google.com/document/d/1RDErYoVPRCvy2nRvWo8a1xa5m7NrxpWBzZirE97m_3g/",
     "docseditor",
 );
+
+buildSite(
+    "https://play.google.com/store/games"
+)
+
+buildSite(
+    "https://www.google.com/finance/"
+)
+
+buildSite(
+    "https://news.google.com/"
+)
+
+buildSite(
+    "https://translate.google.com/"
+)
+
+buildSite(
+    "https://artsandculture.google.com"
+)
