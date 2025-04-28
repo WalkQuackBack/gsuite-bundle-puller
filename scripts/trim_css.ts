@@ -28,7 +28,7 @@ const postcssTrimCss = () => {
 };
 
 const cCssInstance = new CleanCSS({
-    format: "keep-breaks",
+    format: "beautify",
     level: {
         1: {
             cleanupCharsets: false,

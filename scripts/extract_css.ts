@@ -7,8 +7,13 @@ import { themeCSS } from "./theme_colors.ts";
 import { generateMdFromStyle } from "./output_colours_to_md.ts";
 import chalk from "chalk";
 import { trimCss } from "./trim_css.ts";
+import CleanCSS from "clean-css";
 
 const ANSI_PURPLE = 171;
+
+const cCssInstance = new CleanCSS({
+    format: "beautify",
+});
 
 async function extractAndSaveCSS(
     url: string,
@@ -94,9 +99,10 @@ async function extractAndSaveCSS(
         }
 
         const markdownTable = await generateMdFromStyle(cssContent, siteName);
-        cssContent = await formatCSS(cssContent);
+        cssContent = cCssInstance.minify(await formatCSS(cssContent)).styles;
 
-        const themedCss = await themeCSS(cssContent);
+        const themedCss =
+            cCssInstance.minify(await themeCSS(cssContent)).styles;
 
         await fs.mkdir(outputDir, { recursive: true });
 
@@ -143,7 +149,7 @@ async function buildSite(targetUrl: string, linkedStyle?: string) {
     );
 
     if (!linkedStyle) {
-        return
+        return;
     }
 
     const userstyleBuildTemplate = await fs.readFile(
@@ -194,25 +200,25 @@ buildSite(
 );
 
 buildSite(
-    "https://play.google.com/store/games"
-)
+    "https://play.google.com/store/games",
+);
 
 buildSite(
-    "https://www.google.com/finance/"
-)
+    "https://www.google.com/finance/",
+);
 
 buildSite(
-    "https://news.google.com/"
-)
+    "https://news.google.com/",
+);
 
 buildSite(
-    "https://trends.google.com/"
-)
+    "https://trends.google.com/",
+);
 
 buildSite(
-    "https://translate.google.com/"
-)
+    "https://translate.google.com/",
+);
 
 buildSite(
-    "https://artsandculture.google.com"
-)
+    "https://artsandculture.google.com",
+);
