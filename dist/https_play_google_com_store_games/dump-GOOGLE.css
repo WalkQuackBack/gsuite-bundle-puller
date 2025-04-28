@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.mZ_4W9forrg.L.B1.O/am=p9tMWK8PgJHmgH_p7-IW/d=1/ed=1/rs=AB1caFV0amLaR9xfWXqVyyJ-bSz8c9UrAg/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.mZ_4W9forrg.L.B1.O/am=p9sMWK8PgJHAgH_p7-AW/d=1/ed=1/rs=AB1caFVIpkhk9oHKc4h52J7_EbSdzK_YOw/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -8131,21 +8131,6 @@ Data-Href: N/A */
 .ZCaYnd .VY7JQd .xjKiLb {
   fill: white
 }
-.Gq7XXc {
-  box-shadow: 0 2px 40px rgba(0,0,0,.4);
-  background-color: #fe8;
-  border: 1px solid #ba5
-}
-@media screen and (max-width:600px) {
-  .qlYO9b {
-    box-shadow: 0 2px 40px rgba(0,0,0,.4);
-    background-color: #fe8
-  }
-  .Gq7XXc {
-    box-shadow: none;
-    border: 0
-  }
-}
 .YALzif {
   background-color: #000
 }
@@ -8182,6 +8167,25 @@ Data-Href: N/A */
 .XL54pf {
   box-shadow: 0 0 0;
   background-color: transparent
+}
+.Gq7XXc {
+  box-shadow: 0 2px 40px rgba(0,0,0,.4);
+  background-color: #fe8;
+  border: 1px solid #ba5
+}
+@media screen and (max-width:600px) {
+  .qlYO9b {
+    box-shadow: 0 2px 40px rgba(0,0,0,.4);
+    background-color: #fe8
+  }
+  .Gq7XXc {
+    box-shadow: none;
+    border: 0
+  }
+}
+.rYrxJf,
+.rYrxJf:visited {
+  color: #00838f
 }
 .Ud1OW {
   background-color: #e9f0fe
