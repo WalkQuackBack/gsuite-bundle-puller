@@ -217,8 +217,13 @@ buildSite(
 
 buildSite(
     "https://translate.google.com/",
+    "googletranslate",
 );
 
 buildSite(
     "https://artsandculture.google.com",
+);
+
+buildSite(
+    "https://chromewebstore.google.com/",
 );
