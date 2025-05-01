@@ -31,31 +31,7 @@ const cCssInstance = new CleanCSS({
     format: "beautify",
     level: {
         1: {
-            cleanupCharsets: false,
-            normalizeUrls: true,
-            optimizeBackground: true,
-            optimizeBorderRadius: true,
-            optimizeFilter: true,
-            optimizeFont: true,
-            optimizeFontWeight: true,
-            optimizeOutline: true,
-
             removeEmpty: true,
-            removeNegativePaddings: true,
-            removeQuotes: true,
-            removeWhitespace: true,
-
-            replaceMultipleZeros: true,
-            replaceTimeUnits: true,
-            replaceZeroUnits: true,
-
-            roundingPrecision: false,
-            selectorsSortingMethod: "standard",
-            specialComments: "all",
-
-            tidyAtRules: false,
-            tidyBlockScopes: false,
-            tidySelectors: false,
         },
     },
 });
