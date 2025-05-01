@@ -8,6 +8,7 @@ import { generateMdFromStyle } from "./output_colours_to_md.ts";
 import chalk from "chalk";
 import { trimCss } from "./trim_css.ts";
 import CleanCSS from "clean-css";
+import lessCalcWorkaround from "./lib/less_calc_workaround.ts";
 
 const ANSI_PURPLE = 171;
 
@@ -167,7 +168,7 @@ async function buildSite(targetUrl: string, linkedStyle?: string) {
 
     console.log(chalk.yellow(`\n⏳ minifying code...`), suffix);
 
-    const output = await trimCss(buildThemed);
+    const output = await lessCalcWorkaround(await trimCss(buildThemed));
     console.log(chalk.green(`\n🎨 minified code for userstyle`), suffix);
 
     const userstyle = userstyleBuildTemplate.replace('@charset "UTF-8;"', "")
