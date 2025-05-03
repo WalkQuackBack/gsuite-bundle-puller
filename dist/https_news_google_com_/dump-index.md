@@ -290,8 +290,6 @@
 - #592fd0
 - #a596cf
 - #121212
-- #00234b
-- #6d0077
 
 ## Colour table
 
@@ -585,5 +583,3 @@
 | #592fd0 | #592FD0 | `#i31, , #i32` |
 | #a596cf | #A596CF | `.dm7YTc #i31, , .dm7YTc #i32` |
 | #121212 | #121212 | `#ucc-1 .DaYgZ::after, #ucc-1 .pLZE8d::after, , #ucc-1 .pLZE8d::before, #ucc-1 .jzzMj, #ucc-1 .QeY9wc:not(.kafKN), #ucc-1 .MyQDIb, body:not(.dm7YTc) #ucc-1 .vP0hTc::before, body:not(.dm7YTc) #ucc-1 .vP0hTc` |
-| #00234b | #00234B | `#ucc-3 .DaYgZ::after, #ucc-3 .pLZE8d::after, , #ucc-3 .pLZE8d::before, #ucc-3 .jzzMj, #ucc-3 .QeY9wc:not(.kafKN), #ucc-3 .MyQDIb, body:not(.dm7YTc) #ucc-3 .vP0hTc::before, body:not(.dm7YTc) #ucc-3 .vP0hTc` |
-| #6d0077 | #6D0077 | `#ucc-7 .DaYgZ::after, #ucc-7 .pLZE8d::after, , #ucc-7 .pLZE8d::before, #ucc-7 .jzzMj, #ucc-7 .QeY9wc:not(.kafKN), #ucc-7 .MyQDIb, body:not(.dm7YTc) #ucc-7 .vP0hTc::before, body:not(.dm7YTc) #ucc-7 .vP0hTc` |
