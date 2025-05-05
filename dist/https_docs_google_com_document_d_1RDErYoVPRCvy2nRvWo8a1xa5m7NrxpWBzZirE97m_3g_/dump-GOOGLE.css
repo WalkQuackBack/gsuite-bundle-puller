@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/1268595125-v3-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/2332218874-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -332,13 +332,15 @@ body.docs-hub {
 .right-gutter-resizer-ghost-line {
   background: gray
 }
-.goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight),
-.goog-menuitem.ai-standard-menu-item:not(.goog-menuitem-highlight) {
+.goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight) {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
 .goog-menuitem.ai-priority-menu-item .docs-new-badge,
 .goog-menuitem.ai-standard-menu-item .docs-new-badge {
   background-color: #1a73e8
+}
+.goog-menuitem.ai-standard-menu-item.goog-menuitem-highlight {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
 .docs-floating-navigation-button:not(.outline-refresh) {
   border: 1px solid #eee;
@@ -678,7 +680,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -68px -1308px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2477,7 +2479,7 @@ a:active {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -354px -20px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -820px -500px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3430,7 +3432,7 @@ a:active {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -68px -1308px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -4187,10 +4189,23 @@ a:active {
 .kix-spell-bubble .kix-spell-bubble-option {
   border: 0!important
 }
+.kix-spell-bubble .kix-spell-bubble-text-refinement {
+  border: 0!important
+}
+.kix-spell-bubble-text-refinement .refinement-label {
+  color: #3c4043
+}
 .docs-gm .kix-spell-bubble-option:hover {
   background-color: #f1f3f4
 }
 .docs-gm .kix-spell-bubble-option:focus {
+  background-color: #e8eaed;
+  outline: 0
+}
+.docs-gm .kix-spell-bubble-text-refinement:hover {
+  background-color: #f1f3f4
+}
+.docs-gm .kix-spell-bubble-text-refinement:focus {
   background-color: #e8eaed;
   outline: 0
 }
@@ -4239,6 +4254,9 @@ a:active {
 .embedded-file-projector-add-to-drive-button,
 .embedded-file-projector-download-button {
   background: 0 0
+}
+.magicbarPromptInputViewTitle {
+  background: linear-gradient(135deg,#217bfe,#078efb 33%,#ac87eb)
 }
 .magicbarPromptInputViewContainer .magicbarPromptInputViewInput {
   border: none;
@@ -4970,8 +4988,9 @@ input:disabled.kix-task-bubble-input-field.kix-task-bubble-title-input-field:hov
   }
 }
 .aiSuggestedActionsViewSummaryContent {
-  color: #3c4043
+  color: #444746
 }
+.aiSuggestedActionsViewSummaryShowLessButton,
 .aiSuggestedActionsViewSummaryShowMoreButton {
   color: #0b57d0
 }
@@ -7254,6 +7273,9 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 .docos-filter-reset-button.docs-material-button {
   background: #c2e7ff
 }
+.docs-docos-activity-sidebar-catch-me-up-button-container {
+  color: #444746
+}
 .docos-gm-notification-icon-path,
 .docos-new-comment-icon-path {
   fill: #1a73e8
@@ -7468,6 +7490,16 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 }
 .proactiveSummaryViewProactiveSummaryText {
   color: #444746
+}
+.proactiveSummaryViewCloseButton {
+  outline: 0
+}
+.proactiveSummaryViewCloseButton:hover {
+  background-color: rgba(68,71,70,.08)
+}
+.proactiveSummaryViewCloseButton:active,
+.proactiveSummaryViewCloseButton:focus {
+  background-color: rgba(68,71,70,.1)
 }
 .docs-live-region-log.docs-palette {
   background-color: #fff;
@@ -7738,6 +7770,10 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 .superfab-aicontentrefinements-button.superfab-airefinements-loading-highlight .instant-button,
 .superfab-aiwritingrefinements-button.superfab-airefinements-loading-highlight .instant-button {
   background-color: #edf2fc
+}
+.docsAiCatchMeUpButtonContent {
+  border: 1px solid #dadce0;
+  color: #5f6368
 }
 .docos-shelly-icon {
   background-image: url(//ssl.gstatic.com/docs/common/d-icons31.png)
@@ -10181,7 +10217,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -68px -1308px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10242,7 +10278,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -68px -1308px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -12162,15 +12198,9 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   border: 1px solid #c4c7c5;
   color: #1f1f1f
 }
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-default-placeholder .goog-textarea:-ms-input-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-default-placeholder .goog-textarea::-moz-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-default-placeholder .goog-textarea::-ms-input-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-default-placeholder .goog-textarea::-webkit-input-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-default-placeholder .goog-textarea::placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-focused-placeholder .goog-textarea:-ms-input-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-focused-placeholder .goog-textarea::-moz-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-focused-placeholder .goog-textarea::-ms-input-placeholder,
-.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-focused-placeholder .goog-textarea::-webkit-input-placeholder,
+.docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-default-placeholder .goog-textarea::placeholder {
+  color: #747775
+}
 .docs-image-synthesis-sidebar .docs-image-synthesis-search-bar-input-focused-placeholder .goog-textarea::placeholder {
   color: #747775
 }
@@ -12225,11 +12255,13 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: rgba(60,64,67,.38)
 }
 .docs-image-synthesis-sidebar .image-synthesis-creation-button.image-synthesis-begin-create:hover {
+  background: #0b57d0;
   color: #fff;
   box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
   background: #1f64d4
 }
 .docs-image-synthesis-sidebar .image-synthesis-creation-button.image-synthesis-begin-create:focus {
+  background: #0b57d0;
   color: #fff;
   background: #286bd6
 }
@@ -12318,19 +12350,24 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #fff
 }
 .docs-material-gm-dialog .docs-material-button-fill-primary.docs-material-button.docs-image-generation-onboarding-dialog-primary-button.docs-material-button-focused {
+  background: #0b57d0;
   color: #fff;
   background: #286bd6
 }
 .docs-material-gm-dialog .docs-material-button-fill-primary.docs-material-button.docs-image-generation-onboarding-dialog-primary-button.docs-material-button-hover {
+  background: #0b57d0;
   color: #fff;
   box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
   background: #1f64d4
 }
 .docs-material-gm-dialog .docs-material-button-fill-primary.docs-material-button.docs-image-generation-onboarding-dialog-primary-button.docs-material-button-active {
+  background: #0b57d0;
   color: #fff;
   background: #286bd6
 }
 .docs-material-gm-dialog .docs-material-button-fill-primary.docs-material-button.docs-image-generation-onboarding-dialog-primary-button.docs-material-button-disabled {
+  background: #0b57d0;
+  color: #fff;
   background: rgba(31,31,31,.12);
   color: rgba(31,31,31,.38)
 }
@@ -12880,7 +12917,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -68px -1308px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -12942,7 +12979,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite807_gm3_grey_medium.svg) -68px -1308px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -14625,206 +14662,216 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 .aiContextualTextRefineOnPasteBubbleGenericRefineButton:focus {
   background-color: rgba(68,71,70,.1)
 }
-.kix-ai-text-generator-bubble-button {
+.kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
+  background: rgba(31,31,31,.12)
+}
+.kixAiTextGeneratorBubbleContainer-button {
   border: 1px solid transparent;
   background: #0b57d0;
   box-shadow: unset;
   color: #fff
 }
-.kix-ai-text-generator-bubble-button.jfk-button-disabled {
+.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-disabled,
+.kixAiTextGeneratorBubbleContainer-button.jfk-button-disabled {
+  background: #0b57d0;
+  color: #fff;
   background: rgba(31,31,31,.12);
   color: rgba(31,31,31,.38);
   box-shadow: unset
 }
-.kix-ai-text-generator-bubble-button.docs-material-menu-button-flat-default-disabled {
-  background: rgba(31,31,31,.12);
-  color: rgba(31,31,31,.38);
-  box-shadow: unset
-}
-.kix-ai-text-generator-bubble-button:focus {
+.kixAiTextGeneratorBubbleContainer-button:focus {
+  background: #0b57d0;
   color: #fff;
   background: #286bd6;
   box-shadow: unset
 }
-.kix-ai-text-generator-bubble-button.docs-material-menu-button-flat-default-hover,
-.kix-ai-text-generator-bubble-button.jfk-button-hover {
+.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-hover,
+.kixAiTextGeneratorBubbleContainer-button.jfk-button-hover {
+  background: #0b57d0;
   color: #fff;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
   background: #1f64d4;
   box-shadow: unset
 }
-.kix-ai-text-generator-bubble-button.docs-material-menu-button-flat-default-active,
-.kix-ai-text-generator-bubble-button.jfk-button.jfk-button-active,
-.kix-ai-text-generator-bubble-button.jfk-button.jfk-button-checked {
+.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-active,
+.kixAiTextGeneratorBubbleContainer-button.jfk-button.jfk-button-active,
+.kixAiTextGeneratorBubbleContainer-button.jfk-button.jfk-button-checked {
+  background: #0b57d0;
   color: #fff;
   background: #286bd6;
   box-shadow: unset
 }
-.kix-ai-text-generator-bubble-button-outline {
+.kixAiTextGeneratorBubbleContainer-button-outline {
+  border: 1px solid transparent;
   border: 1px solid #747775;
   background: unset;
   color: #0b57d0
 }
-.kix-ai-text-generator-bubble-button-outline.jfk-button-disabled {
+.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button-disabled {
+  border: 1px solid #747775;
+  color: #0b57d0;
   border: 1px solid rgba(31,31,31,.12);
   color: rgba(31,31,31,.38);
   box-shadow: unset;
   background: unset
 }
-.goog-menu-button-open .kix-ai-text-generator-bubble-button-outline,
-.kix-ai-text-generator-bubble-button-outline.jfk-button-hover,
-.kix-ai-text-generator-bubble-button-outline:focus {
+.goog-menu-button-open .kixAiTextGeneratorBubbleContainer-button-outline,
+.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button-hover,
+.kixAiTextGeneratorBubbleContainer-button-outline:focus {
+  border: 1px solid #747775;
   color: #0b57d0;
   background: rgba(11,87,208,.12);
   border: 1px solid #0b57d0;
   box-shadow: unset
 }
-:not(.goog-menu-button-focused.goog-menu-button-open) > .kix-ai-text-generator-bubble-button-outline:not(.jfk-button-disabled).jfk-button-hover {
+:not(.goog-menu-button-focused.goog-menu-button-open) > .kixAiTextGeneratorBubbleContainer-button-outline:not(.jfk-button-disabled).jfk-button-hover {
   border: 1px solid #747775;
   color: #0b57d0;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
   background: rgba(11,87,208,.08);
   box-shadow: unset
 }
-.kix-ai-text-generator-bubble-button-outline.jfk-button.jfk-button-active,
-.kix-ai-text-generator-bubble-button-outline.jfk-button.jfk-button-checked {
+.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button.jfk-button-active,
+.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button.jfk-button-checked {
   border: 1px solid #747775;
   color: #0b57d0;
   background: rgba(11,87,208,.12);
   box-shadow: unset
 }
 @media screen and (forced-colors:active) {
-  .kix-ai-text-generator-bubble-button-outline.goog-menu-button-focused,
-  .kix-ai-text-generator-bubble-button.docs-material-menu-button-flat-default-focused,
-  .kix-ai-text-generator-bubble-button.goog-menu-button-focused,
-  .kix-ai-text-generator-bubble-button.jfk-button-focused {
+  .kixAiTextGeneratorBubbleContainer-button-outline.goog-menu-button-focused,
+  .kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-focused,
+  .kixAiTextGeneratorBubbleContainer-button.goog-menu-button-focused,
+  .kixAiTextGeneratorBubbleContainer-button.jfk-button-focused {
     outline: auto
   }
 }
-.kix-ai-text-generator-bubble-button.docs-material-menu-button-flat-default .docs-material-menu-button-flat-default-dropdown-icon {
+.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default .docs-material-menu-button-flat-default-dropdown-icon {
   fill: #fff
 }
-.kix-ai-text-generator-bubble {
+.kixAiTextGeneratorBubbleContainer {
   background: 0 0;
   border: unset;
   box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15)
 }
-.kix-ai-text-generator-bubble-error {
+.kixAiTextGeneratorBubbleContainer-error {
   color: #b3261e
 }
-.docs-bubble-material-body.kix-ai-text-generator-bubble-body {
+.kixAiTextGeneratorBubbleContainer-body.docs-bubble-material-body {
   background: linear-gradient(0deg,rgba(105,145,214,.08),rgba(105,145,214,.08)),#fff
 }
-.kix-ai-text-generator-bubble-button-first-open .kix-ai-text-generator-bubble-body {
+.kixAiTextGeneratorBubbleContainer-button-first-open .kixAiTextGeneratorBubbleContainer-body {
   background: linear-gradient(90.22deg,#d3e3fd,#84c4ff)
 }
-.kix-ai-text-generator-bubble-show-preview .kix-ai-text-generator-bubble-body {
+.kixAiTextGeneratorBubbleContainer-show-preview .kixAiTextGeneratorBubbleContainer-body {
   background: #fff
 }
-.kix-ai-text-generator-prompt-view-input {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
+  background: rgba(31,31,31,.12)
+}
+.kixAiTextGeneratorBubbleContainer-button-first-open .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
+  color: #1f1f1f
+}
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-input {
   background: unset;
   border: none;
   outline: unset
 }
-.kix-ai-text-generator-bubble-title-text-input .appsElementsChipRoot,
-.kix-ai-text-generator-prompt-view-input .appsElementsChipRoot {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-input .appsElementsChipRoot,
+.kixAiTextGeneratorBubbleContainer .kixAiTextGeneratorBubbleTitleTextInput .appsElementsChipRoot {
   color: #444746!important
 }
-.kix-ai-text-generator-bubble-refine-button-text {
+.kixAiTextGeneratorBubbleContainer-refine-button-text {
   color: #0b57d0
 }
-.kix-ai-text-generator-preview-view-generated-text {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-body-container {
+  border-top: 1px solid transparent
+}
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-body-container.body-container-scrolled {
+  border-color: #c4c7c5
+}
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text {
   border: unset
 }
-.kix-ai-text-generator-preview-view-generated-text table {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table {
   border: 1px solid #c4c7c5
 }
-.kix-ai-text-generator-preview-view-generated-text table th {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table th {
   background-color: #f2f2f2
 }
-.kix-ai-text-generator-preview-view-generated-text table td {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table td {
   border-top: 1px solid #c4c7c5
 }
-.kix-ai-text-generator-preview-view-disclaimer-text {
-  color: #747775
-}
-.kix-ai-text-generator-preview-view-disclaimer-text a {
-  color: #747775!important
-}
-.kix-ai-text-generator-preview-view-generated-text pre > code {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text pre > code {
   border: 1px solid #c4c7c5;
   color: #444746
 }
-.kix-ai-text-generator-bubble-bullet {
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-disclaimer-text {
+  color: #747775
+}
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-disclaimer-text a {
+  color: #747775!important
+}
+.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-secondary-action-menu.goog-menu {
+  border: 0
+}
+.kixAiTextGeneratorBubbleContainer-bullet {
   border: 1px solid;
   border-color: #3c4043
 }
-.kix-ai-text-generator-bubble-bullet-active {
+.kixAiTextGeneratorBubbleContainer-bullet-active {
   background: #1a73e8;
   border-color: #1a73e8
 }
 @media screen and (forced-colors:active) {
-  .kix-ai-text-generator-bubble-bullet-active {
+  .kixAiTextGeneratorBubbleContainer-bullet {
     background: Highlight;
     border-color: Highlight
   }
 }
-.kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
-  background: rgba(31,31,31,.12)
-}
-.kix-ai-text-generator-bubble-button-first-open .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
-  color: #1f1f1f
-}
-.kix-ai-text-generator-bubble-animation-fade-in:empty:before,
-.kix-ai-text-generator-bubble-animation-fade-in:placeholder-shown {
+.kixAiTextGeneratorBubbleContainer-animation-fade-in:empty:before,
+.kixAiTextGeneratorBubbleContainer-animation-fade-in:placeholder-shown {
   color: #686868
 }
-.kix-ai-text-generator-preview-view-body-container {
-  border-top: 1px solid transparent
-}
-.kix-ai-text-generator-preview-view-body-container.body-container-scrolled {
-  border-color: #c4c7c5
-}
-.kix-ai-text-generator-bubble-quota-upsell-message-container {
+.kixAiTextGeneratorBubbleContainer-quota-upsell-message-container {
   border-top: 1px solid #bdc1c6
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-button-first-open .kix-ai-text-generator-prompt-view-input {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-button-first-open .kix-ai-text-generator-prompt-view-input {
   color: #444746
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled:not(.kix-ai-text-generator-bubble-button-first-open) .docs-bubble-material-body.kix-ai-text-generator-bubble-body {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled:not(.kixAiTextGeneratorBubbleContainer-button-first-open) .docs-bubble-material-body.kixAiTextGeneratorBubbleContainer-body {
   background: #fff
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled:not(.kix-ai-text-generator-bubble-button-first-open) .kix-ai-text-generator-prompt-view-input {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled:not(.kixAiTextGeneratorBubbleContainer-button-first-open) .kix-ai-text-generator-prompt-view-input {
   color: #1f1f1f
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled .kix-ai-text-generator-bubble-title:not(.kix-ai-text-generator-bubble-title-editable) .kix-ai-text-generator-bubble-title-text-input {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled .kixAiTextGeneratorBubbleContainer-title:not(.kixAiTextGeneratorBubbleTitleEditable) .kixAiTextGeneratorBubbleTitleTextInput {
   color: #1f1f1f
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview {
   border: 2px solid #217bfe
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview .kix-ai-text-generator-preview-view-secondary-action-menu-button {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-secondary-action-menu-button {
   border-left: 1px solid rgba(0,0,0,.38)
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container {
+  border-bottom: 1px solid #c4c7c5
+}
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-scrolled:before {
+  background: linear-gradient(0deg,hsla(0,0%,100%,0),#fff)
+}
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-down-scrollable:after {
+  background: linear-gradient(180deg,hsla(0,0%,100%,0),#fff)
+}
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea {
   background: #f0f4f9
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea:focus {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea:focus {
   background: #fff;
   border: 1px solid #747775
 }
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview .kix-ai-text-generator-preview-view-body-container {
-  border-bottom: 1px solid #c4c7c5
-}
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-scrolled:before {
-  background: linear-gradient(0deg,hsla(0,0%,100%,0),#fff)
-}
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-down-scrollable:after {
-  background: linear-gradient(180deg,hsla(0,0%,100%,0),#fff)
-}
-.kix-ai-text-generator-bubble.kix-ai-text-generator-bubble-refine-ux-v2-enabled.kix-ai-text-generator-bubble-show-loading .kix-ai-text-generator-bubble-body {
+.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-loading .kixAiTextGeneratorBubbleContainer-body {
   background: #fff
-}
-.goog-menu.kix-ai-text-generator-preview-view-secondary-action-menu {
-  border: 0
 }
 .kixAiTextGeneratorBubbleTitleEditing .kixAiTextGeneratorBubbleTitleText {
   background-color: #edf2fa
@@ -16049,8 +16096,7 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-input-label,
 .kix-smart-controls-button-sidebar-insert-table-row-action-edit-view-input-label,
 .kix-smart-controls-button-sidebar-open-chat-group-action-edit-view-input-label,
-.kix-smart-controls-button-sidebar-open-url-action-edit-view-input-label,
-.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-input-label {
+.kix-smart-controls-button-sidebar-open-url-action-edit-view-input-label {
   color: #444746
 }
 .kix-smart-controls-button-sidebar-edit-view-button-label-text-input-container .goog-control,
@@ -16190,7 +16236,8 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   }
 }
 .kix-smart-controls-button-sidebar-audio-overview-action-edit-view,
-.kix-smart-controls-button-sidebar-audio-summary-action-edit-view {
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view {
   color: #444746
 }
 .smartControlsButtonDetailsBubbleContainer.docs-bubble-material .smartControlsButtonDetailsBubbleOpenSidebarButton .docs-material-button.docs-material-button-hover {
@@ -21129,14 +21176,26 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizButtonOutlined-button {
   border-color: var(--gm3-button-outlined-outline-color,var(--gm3-sys-color-outline,#747775))
 }
+.javascriptMaterialdesignGm3WizButtonOutlined-button.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle {
+  border-color: var(--gm3-button-outlined-expressive-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
+}
 .javascriptMaterialdesignGm3WizButtonOutlined-button:hover {
   border-color: var(--gm3-button-outlined-hover-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.javascriptMaterialdesignGm3WizButtonOutlined-button:hover.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle {
+  border-color: var(--gm3-button-outlined-expressive-unselected-hovered-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonOutlined-button:focus-visible {
   border-color: var(--gm3-button-outlined-focus-outline-color,var(--gm3-sys-color-primary,#0b57d0))
 }
+.javascriptMaterialdesignGm3WizButtonOutlined-button:focus-visible.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle {
+  border-color: var(--gm3-button-outlined-expressive-unselected-focused-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
+}
 .javascriptMaterialdesignGm3WizButtonOutlined-button:active {
   border-color: var(--gm3-button-outlined-pressed-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.javascriptMaterialdesignGm3WizButtonOutlined-button:active.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle {
+  border-color: var(--gm3-button-outlined-expressive-unselected-pressed-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonOutlined-button:disabled {
   border-color: var(--gm3-button-outlined-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -21145,6 +21204,15 @@ screen and (forced-colors:active) {
   .javascriptMaterialdesignGm3WizButtonOutlined-button:disabled {
     border-color: GrayText
   }
+}
+.javascriptMaterialdesignGm3WizButtonOutlined-button:disabled.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle {
+  border-color: var(--gm3-button-outlined-expressive-unselected-disabled-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
+}
+.javascriptMaterialdesignGm3WizButtonOutlined-button:disabled.javascriptMaterialdesignGm3WizButtonOutlined-button--selected {
+  background-color: var(--gm3-button-outlined-expressive-selected-disabled-container-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.javascriptMaterialdesignGm3WizButtonOutlined-button.javascriptMaterialdesignGm3WizButtonOutlined-button--selected {
+  background-color: var(--gm3-button-outlined-expressive-selected-container-color,var(--gm3-sys-color-inverse-surface,#303030))
 }
 .javascriptMaterialdesignGm3WizButtonText-button {
   border: none;
@@ -21387,14 +21455,26 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button {
   border-color: var(--gm3-dropdown-button-outlined-outline-color,var(--gm3-sys-color-outline,#747775))
 }
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle {
+  border-color: var(--gm3-dropdown-button-outlined-expressive-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
+}
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:hover {
   border-color: var(--gm3-dropdown-button-outlined-hover-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:hover.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle {
+  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-hovered-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:focus-visible {
   border-color: var(--gm3-dropdown-button-outlined-focus-outline-color,var(--gm3-sys-color-primary,#0b57d0))
 }
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:focus-visible.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle {
+  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-focused-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
+}
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:active {
   border-color: var(--gm3-dropdown-button-outlined-pressed-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:active.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle {
+  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-pressed-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled {
   border-color: var(--gm3-dropdown-button-outlined-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -21403,6 +21483,15 @@ screen and (forced-colors:active) {
   .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled {
     border-color: GrayText
   }
+}
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle {
+  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-disabled-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
+}
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--selected {
+  background-color: var(--gm3-dropdown-button-outlined-expressive-selected-disabled-container-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--selected {
+  background-color: var(--gm3-dropdown-button-outlined-expressive-selected-container-color,var(--gm3-sys-color-inverse-surface,#303030))
 }
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__icon-slot--dropdown .javascriptMaterialdesignGm3WizButtonDropdownOutlined-icon-dropdown {
   fill: currentColor
@@ -23828,15 +23917,6 @@ screen and (forced-colors:active) {
 .appsElementsLinkIconsBrandBlueFill {
   fill: #4285f4
 }
-.javascriptMaterialdesignGm3WizSnackbar-snackbar__surface {
-  background-color: var(--gm3-snackbar-container-color,var(--gm3-sys-color-inverse-surface,#303030))
-}
-.javascriptMaterialdesignGm3WizSnackbar-snackbar__surface:before {
-  border: 1px solid transparent
-}
-.javascriptMaterialdesignGm3WizSnackbar-snackbar__label {
-  color: var(--gm3-snackbar-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
-}
 .appsElementsSidekickResponseOptionsOptionsTextButton:before {
   border: 1px solid transparent
 }
@@ -24405,6 +24485,15 @@ screen and (forced-colors:active) {
 .altTextSectionTextExplanation {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
+.javascriptMaterialdesignGm3WizSnackbar-snackbar__surface {
+  background-color: var(--gm3-snackbar-container-color,var(--gm3-sys-color-inverse-surface,#303030))
+}
+.javascriptMaterialdesignGm3WizSnackbar-snackbar__surface:before {
+  border: 1px solid transparent
+}
+.javascriptMaterialdesignGm3WizSnackbar-snackbar__label {
+  color: var(--gm3-snackbar-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
+}
 .thumbNailControlUnchecked {
   border: 1px solid var(--gm3-sys-color-outline,#747775)
 }
@@ -24496,6 +24585,44 @@ screen and (forced-colors:active) {
 }
 .appsElementsChipLabelText {
   color: var(--ae-chip-label-text-color,inherit)
+}
+.appsElementsGenerativeAiCitationsSkittle:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeAiCitationsSkittle:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeAiCitationsChip {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsGenerativeAiCitationsChip :is(a:any-link,a:visited,a:hover,a:active) {
+  color: currentColor
+}
+.appsElementsGenerativeAiCitationsAttributionMarker {
+  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea);
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsGenerativeAiCitationsAttributionMarker:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeAiCitationsAttributionMarker:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeAiCitationsAnchorAttributionMarker {
+  background-color: var(--gm3-sys-color-surface-container-high,#e9eef6);
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
+    border-color: CanvasText
+  }
 }
 .appsElementsGenerativeaiAstInlineSource:hover {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
@@ -24636,6 +24763,9 @@ screen and (forced-colors:active) {
 .appsElementsGenerativeaiAstMultiModalContentContainer .appsElementsGenerativeaiAstMultiModalContent .appsElementsGenerativeaiAstTableTransparent {
   background-color: transparent
 }
+.appsElementsGenerativeaiAstMultiModalCitationsDisclosureChip {
+  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea)
+}
 .appsElementsGenerativeaiAstAnchorTextHighlight {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
 }
@@ -24645,44 +24775,6 @@ screen and (forced-colors:active) {
     color: HighlightText;
     text-decoration-color: HighlightText;
     background-color: Highlight
-  }
-}
-.appsElementsGenerativeAiCitationsSkittle:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeAiCitationsSkittle:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeAiCitationsChip {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsGenerativeAiCitationsChip :is(a:any-link,a:visited,a:hover,a:active) {
-  color: currentColor
-}
-.appsElementsGenerativeAiCitationsAttributionMarker {
-  background-color: var(--gm3-sys-color-surface-container-high,#e9eef6);
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsGenerativeAiCitationsAttributionMarker:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeAiCitationsAttributionMarker:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeAiCitationsAnchorAttributionMarker {
-  background-color: var(--gm3-sys-color-surface-container-high,#e9eef6);
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
-    border-color: CanvasText
   }
 }
 @media (-ms-high-contrast:active),
@@ -25150,6 +25242,64 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationValuePropGroupValuePropIcon {
   color: var(--gm3-sys-color-primary,#0b57d0)
 }
+.appsElementsSidekickAgentMessageBubbleContent table {
+  background-color: var(--gm3-sys-color-surface,#fff);
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickAgentMessageBubbleContent table td,
+.appsElementsSidekickAgentMessageBubbleContent table th {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickAgentMessageBubbleContent mark:not([class]) {
+  background-color: unset;
+  color: unset
+}
+.appsElementsSidekickAgentMessageBubbleContent a:any-link:not([class]) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsSidekickAgentMessageBubbleContent a:active:not([class]),
+.appsElementsSidekickAgentMessageBubbleContent a:hover:not([class]),
+.appsElementsSidekickAgentMessageBubbleContent a:visited:not([class]) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsSidekickAgentMessageSystemBubble {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickAgentMessageSystemBubble:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsSidekickAgentMessageSystemBubble:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsSidekickAgentMessageSpark {
+  color: #217bfe
+}
+.appsElementsSidekickAgentMessageStatusMessage {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+.appsElementsSidekickAgentMessageMultiModalButtonContainer {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsSidekickAvatarAvatarContainer:after {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickCalendarEventTitle {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsSidekickCalendarEventSubtitle {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsSidekickCalendarRowWithIcon {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsSidekickCommonCardListHeader {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsSidekickCommonCardListFooter {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
 .appsElementsSidekickFeed {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
@@ -25257,64 +25407,6 @@ screen and (forced-colors:active) {
 }
 .appsElementsSidekickPromptInputDisabled {
   background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
-}
-.appsElementsSidekickAgentMessageBubbleContent table {
-  background-color: var(--gm3-sys-color-surface,#fff);
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickAgentMessageBubbleContent table td,
-.appsElementsSidekickAgentMessageBubbleContent table th {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickAgentMessageBubbleContent mark:not([class]) {
-  background-color: unset;
-  color: unset
-}
-.appsElementsSidekickAgentMessageBubbleContent a:any-link:not([class]) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsSidekickAgentMessageBubbleContent a:active:not([class]),
-.appsElementsSidekickAgentMessageBubbleContent a:hover:not([class]),
-.appsElementsSidekickAgentMessageBubbleContent a:visited:not([class]) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsSidekickAgentMessageSystemBubble {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickAgentMessageSystemBubble:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsSidekickAgentMessageSystemBubble:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsSidekickAgentMessageSpark {
-  color: #217bfe
-}
-.appsElementsSidekickAgentMessageStatusMessage {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-.appsElementsSidekickAgentMessageMultiModalButtonContainer {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsSidekickAvatarAvatarContainer:after {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickCalendarEventTitle {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsSidekickCalendarEventSubtitle {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsSidekickCalendarRowWithIcon {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsSidekickCommonCardListHeader {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsSidekickCommonCardListFooter {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
 .appsElementsSidekickGemLogoLight {
   color: var(--ae-gem-icon-color-light,var(--gm3-sys-color-on-surface-variant,#444746));
@@ -25676,6 +25768,15 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
 }
 .quantumWizCommonModalBackground {
   background-color: rgba(0,0,0,.5)
+}
+.appsElementsGm3WizSnackbar-snackbar__surface {
+  background-color: var(--gm3-snackbar-container-color,var(--gm3-sys-color-inverse-surface,#303030))
+}
+.appsElementsGm3WizSnackbar-snackbar__surface:before {
+  border: 1px solid transparent
+}
+.appsElementsGm3WizSnackbar-snackbar__label {
+  color: var(--gm3-snackbar-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
 }
 .appsElementsPasteToChipContent {
   box-shadow: 0 1px 3px 0 rgba(60,64,67,.3),0 4px 8px 3px rgba(60,64,67,.15);
