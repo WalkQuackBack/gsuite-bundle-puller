@@ -1247,7 +1247,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.kCmIVwgiiGM.L.B1.O/am=GAgECAAMuAUGYA/d=1/ed=1/rs=ALs0n2OriM60s6uO-KQwClEJu63jnhMH3Q/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.kCmIVwgiiGM.L.B1.O/am=GAiECQAMuAUGYA/d=1/ed=1/rs=ALs0n2O5uRe9u-qjqIUkOklUGwLx7UrleA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -13854,80 +13854,24 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i31 {
+#i28 {
   color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i28 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i32 {
+#i29 {
   background-color: #592fd0
 }
-.dm7YTc #i32 {
+.dm7YTc #i29 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Barron\27 s-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
-}
-@font-face {
-  font-family: 'Barron\27 s-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Barron\27 s-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDu1qnJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-1 .DaYgZ::after,
-#ucc-1 .pLZE8d::after {
-  color: #00234b
-}
-#ucc-1 .pLZE8d::before {
-  background: #00234b
-}
-#ucc-1 .jzzMj {
-  background: #00234b
-}
-#ucc-1 .QeY9wc:not(.kafKN) {
-  border-top-color: #00234b
-}
-#ucc-1 .MyQDIb {
-  background: #00234b
-}
-body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
-  background: #00234b
-}
-body:not(.dm7YTc) #ucc-1 .vP0hTc {
-  color: #00234b
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #1b66b1
-}
-#ucc-5 .pLZE8d::before {
-  background: #1b66b1
-}
-#ucc-5 .jzzMj {
-  background: #1b66b1
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #1b66b1
-}
-#ucc-5 .MyQDIb {
-  background: #1b66b1
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #1b66b1
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #1b66b1
 }
