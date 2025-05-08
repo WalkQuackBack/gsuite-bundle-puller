@@ -1247,7 +1247,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.j-lthOUvGSg.L.B1.O/am=GAiECQAMuAUGYAAB/d=1/ed=1/rs=ALs0n2PRP5qGoBX5lwnFvOWlm-D0jQkbaA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.j-lthOUvGSg.L.B1.O/am=GAgECAAMuAUGYAAB/d=1/ed=1/rs=ALs0n2N_XBpZTAUfpGakuVlzRguFLGO8dQ/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -13871,19 +13871,67 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Associated Press-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Daily Memphian-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Associated Press-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Daily Memphian-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-@font-face {
-  font-family: 'The Associated Press-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDDsgdeKMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #e8ab47
+}
+#ucc-5 .pLZE8d::before {
+  background: #e8ab47
+}
+#ucc-5 .jzzMj {
+  background: #e8ab47
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #e8ab47
+}
+#ucc-5 .MyQDIb {
+  background: #e8ab47
+}
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: #e8ab47
+}
+.dm7YTc #ucc-5 .vP0hTc {
+  color: #e8ab47
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #6d0077
+}
+#ucc-7 .pLZE8d::before {
+  background: #6d0077
+}
+#ucc-7 .jzzMj {
+  background: #6d0077
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #6d0077
+}
+#ucc-7 .MyQDIb {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #6d0077
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -13892,25 +13940,25 @@ Data-Href: N/A */
   src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
   color: #ed8e21
 }
-#ucc-5 .pLZE8d::before {
+#ucc-9 .pLZE8d::before {
   background: #ed8e21
 }
-#ucc-5 .jzzMj {
+#ucc-9 .jzzMj {
   background: #ed8e21
 }
-#ucc-5 .QeY9wc:not(.kafKN) {
+#ucc-9 .QeY9wc:not(.kafKN) {
   border-top-color: #ed8e21
 }
-#ucc-5 .MyQDIb {
+#ucc-9 .MyQDIb {
   background: #ed8e21
 }
-.dm7YTc #ucc-5 .vP0hTc::before {
+.dm7YTc #ucc-9 .vP0hTc::before {
   background: #ed8e21
 }
-.dm7YTc #ucc-5 .vP0hTc {
+.dm7YTc #ucc-9 .vP0hTc {
   color: #ed8e21
 }
