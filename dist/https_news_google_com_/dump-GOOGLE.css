@@ -1247,7 +1247,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.kCmIVwgiiGM.L.B1.O/am=GAgECAAMuAUGYAAB/d=1/ed=1/rs=ALs0n2OBK0W26fJz78IX5mersJFyrmCRLA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.kCmIVwgiiGM.L.B1.O/am=GAiECQAMuAUGYA/d=1/ed=1/rs=ALs0n2O5uRe9u-qjqIUkOklUGwLx7UrleA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -13867,77 +13867,4 @@ Data-Href: N/A */
 }
 .dm7YTc #i32 {
   background-color: #a596cf
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: MarketWatch-headline-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: MarketWatch-panel-title-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: MarketWatch-body-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-1 .DaYgZ::after,
-#ucc-1 .pLZE8d::after {
-  color: #087c08
-}
-#ucc-1 .pLZE8d::before {
-  background: #087c08
-}
-#ucc-1 .jzzMj {
-  background: #087c08
-}
-#ucc-1 .QeY9wc:not(.kafKN) {
-  border-top-color: #087c08
-}
-#ucc-1 .MyQDIb {
-  background: #087c08
-}
-body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
-  background: #087c08
-}
-body:not(.dm7YTc) #ucc-1 .vP0hTc {
-  color: #087c08
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Daily Memphian-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Daily Memphian-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #e8ab47
-}
-#ucc-3 .pLZE8d::before {
-  background: #e8ab47
-}
-#ucc-3 .jzzMj {
-  background: #e8ab47
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #e8ab47
-}
-#ucc-3 .MyQDIb {
-  background: #e8ab47
-}
-.dm7YTc #ucc-3 .vP0hTc::before {
-  background: #e8ab47
-}
-.dm7YTc #ucc-3 .vP0hTc {
-  color: #e8ab47
 }
