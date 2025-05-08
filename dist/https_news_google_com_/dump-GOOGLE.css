@@ -1247,7 +1247,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.kCmIVwgiiGM.L.B1.O/am=GAiECQAMuAUGYA/d=1/ed=1/rs=ALs0n2O5uRe9u-qjqIUkOklUGwLx7UrleA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.kCmIVwgiiGM.L.B1.O/am=GAiECAAMuAUGYAAB/d=1/ed=1/rs=ALs0n2NoxyAYVe09GrzrIEAcGbtbNfrIAw/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -13867,4 +13867,28 @@ Data-Href: N/A */
 }
 .dm7YTc #i32 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #6d0077
+}
+#ucc-5 .pLZE8d::before {
+  background: #6d0077
+}
+#ucc-5 .jzzMj {
+  background: #6d0077
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #6d0077
+}
+#ucc-5 .MyQDIb {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #6d0077
 }
