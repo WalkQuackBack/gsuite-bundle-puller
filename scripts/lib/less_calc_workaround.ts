@@ -1,26 +1,17 @@
-import postcss, { Declaration, Root } from "postcss";
+import { Declaration, Root } from "postcss";
 
 // Workaround for https://github.com/less/less.js/issues/3777
 
-async function lessCalcWorkaround(css: string): Promise<string> {
-    // Regular expression to find calc() expressions (improved for nested)
-    const calcRegex =
-        /(?<!['"])\bcalc\((?:[^()]|\((?:[^()]|\([^()]*\))*\))*\)(?![`"])/gi;
-
-    const result = await postcss([
-        (root: Root) => {
-            root.walkDecls((decl: Declaration) => {
-                if (calcRegex.test(decl.value)) {
-                    // Only process declarations that contain calc()
-                    decl.value = decl.value.replace(
-                        calcRegex,
-                        (match) => `"${match}"`,
-                    );
-                }
-            });
-        },
-    ]).process(css, { from: undefined });
-    return result.css;
-}
+const lessCalcWorkaround = () => {
+  return (root: Root, result) => {
+    root.walkDecls((decl: Declaration) => {
+      // Check if the declaration value contains 'calc('
+      if (decl.value.includes('calc(')) {
+        // Wrap the entire declaration value with e("...")
+        decl.value = `e("${decl.value}")`;
+      }
+    });
+  };
+};
 
 export default lessCalcWorkaround;

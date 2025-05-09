@@ -147,7 +147,7 @@ async function buildUserstyle(cssContent: string, linkedStyle: string, suffix: s
 
     console.log(chalk.yellow(`\n⏳ minifying code...`), suffix);
 
-    const output = await lessCalcWorkaround(await trimCss(cssContent));
+    const output = await trimCss(cssContent);
     console.log(chalk.green(`\n🎨 minified code for userstyle`), suffix);
 
     const userstyle = userstyleBuildTemplate.replace('@charset "UTF-8;"', "")
