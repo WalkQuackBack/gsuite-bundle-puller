@@ -1247,7 +1247,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.j-lthOUvGSg.L.B1.O/am=GAiECQAMuAUGYAAB/d=1/ed=1/rs=ALs0n2PRP5qGoBX5lwnFvOWlm-D0jQkbaA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.j-lthOUvGSg.L.B1.O/am=GAgECAAMuAUGYAAB/d=1/ed=1/rs=ALs0n2N_XBpZTAUfpGakuVlzRguFLGO8dQ/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -13854,18 +13854,18 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i28 {
+#i31 {
   color: #592fd0
 }
-.dm7YTc #i28 {
+.dm7YTc #i31 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i29 {
+#i32 {
   background-color: #592fd0
 }
-.dm7YTc #i29 {
+.dm7YTc #i32 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
@@ -13945,125 +13945,4 @@ Data-Href: N/A */
 }
 .dm7YTc #ucc-3 .vP0hTc {
   color: #ffcf44
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Investor\27 s Business Daily-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #07508a
-}
-#ucc-5 .pLZE8d::before {
-  background: #07508a
-}
-#ucc-5 .jzzMj {
-  background: #07508a
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
-}
-#ucc-5 .MyQDIb {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #07508a
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #a9091f
-}
-#ucc-7 .pLZE8d::before {
-  background: #a9091f
-}
-#ucc-7 .jzzMj {
-  background: #a9091f
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
-}
-#ucc-7 .MyQDIb {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #a9091f
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-11 .DaYgZ::after,
-#ucc-11 .pLZE8d::after {
-  color: #e4021d
-}
-#ucc-11 .pLZE8d::before {
-  background: #e4021d
-}
-#ucc-11 .jzzMj {
-  background: #e4021d
-}
-#ucc-11 .QeY9wc:not(.kafKN) {
-  border-top-color: #e4021d
-}
-#ucc-11 .MyQDIb {
-  background: #e4021d
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
-  background: #e4021d
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc {
-  color: #e4021d
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-13 .DaYgZ::after,
-#ucc-13 .pLZE8d::after {
-  color: #f7941e
-}
-#ucc-13 .pLZE8d::before {
-  background: #f7941e
-}
-#ucc-13 .jzzMj {
-  background: #f7941e
-}
-#ucc-13 .QeY9wc:not(.kafKN) {
-  border-top-color: #f7941e
-}
-#ucc-13 .MyQDIb {
-  background: #f7941e
-}
-.dm7YTc #ucc-13 .vP0hTc::before {
-  background: #f7941e
-}
-.dm7YTc #ucc-13 .vP0hTc {
-  color: #f7941e
 }
