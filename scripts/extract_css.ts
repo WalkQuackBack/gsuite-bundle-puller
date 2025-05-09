@@ -16,13 +16,7 @@ const cCssInstance = new CleanCSS({
     format: "beautify",
 });
 
-async function extractAndSaveCSS(
-    url: string,
-    outputDir: string,
-    outputFilename: string = `dump`,
-    siteName: string,
-    logSuffix: string,
-): Promise<string> {
+async function extractCss(url: string, logSuffix: string) {
     let browser: Browser | null = null;
 
     console.log(chalk.yellow("⏳ loading main page..."), logSuffix);
@@ -98,30 +92,7 @@ async function extractAndSaveCSS(
                 } */\n\n${styleTag.content}\n`;
             }
         }
-
-        const markdownTable = await generateMdFromStyle(cssContent, siteName);
-        cssContent = cCssInstance.minify(await formatCSS(cssContent)).styles;
-
-        const themedCss =
-            cCssInstance.minify(await themeCSS(cssContent)).styles;
-
-        await fs.mkdir(outputDir, { recursive: true });
-
-        await fs.writeFile(
-            path.join(outputDir, outputFilename + "-GOOGLE.css"),
-            cssContent,
-        );
-        await fs.writeFile(
-            path.join(outputDir, outputFilename + "-themed.css"),
-            themedCss,
-        );
-        await fs.writeFile(
-            path.join(outputDir, outputFilename + "-index.md"),
-            markdownTable,
-        );
-
-        console.log(chalk.green(`💾 build saved to ${outputDir}`));
-        return themedCss;
+        return cssContent
     } finally {
         if (browser) {
             await browser.close();
@@ -129,30 +100,38 @@ async function extractAndSaveCSS(
     }
 }
 
-async function buildSite(targetUrl: string, linkedStyle?: string) {
-    const siteName = new URL(targetUrl).href;
-    const suffix = chalk.bold(`${siteName} `);
+async function saveCss(
+    cssContent: string,
+    outputDir: string,
+    outputFilename: string = `dump`,
+    siteName: string,
+): Promise<string> {
+    const markdownTable = await generateMdFromStyle(cssContent, siteName);
+    cssContent = cCssInstance.minify(await formatCSS(cssContent)).styles;
 
-    const webBuildOutputDirectory = path.join(
-        "dist",
-        siteName.replace(
-            /[^a-zA-Z0-9_-]+/g,
-            "_",
-        ),
+    const themedCss =
+        cCssInstance.minify(await themeCSS(cssContent)).styles;
+
+    await fs.mkdir(outputDir, { recursive: true });
+
+    await fs.writeFile(
+        path.join(outputDir, outputFilename + "-GOOGLE.css"),
+        cssContent,
+    );
+    await fs.writeFile(
+        path.join(outputDir, outputFilename + "-themed.css"),
+        themedCss,
+    );
+    await fs.writeFile(
+        path.join(outputDir, outputFilename + "-index.md"),
+        markdownTable,
     );
 
-    const buildThemed = await extractAndSaveCSS(
-        targetUrl,
-        webBuildOutputDirectory,
-        undefined,
-        siteName,
-        suffix,
-    );
+    console.log(chalk.green(`💾 build saved to ${outputDir}`));
+    return themedCss;
+}
 
-    if (!linkedStyle) {
-        return;
-    }
-
+async function buildUserstyle(cssContent: string, linkedStyle: string, suffix: string) {
     const userstyleBuildTemplate = await fs.readFile(
         path.join(
             "styles",
@@ -168,7 +147,7 @@ async function buildSite(targetUrl: string, linkedStyle?: string) {
 
     console.log(chalk.yellow(`\n⏳ minifying code...`), suffix);
 
-    const output = await lessCalcWorkaround(await trimCss(buildThemed));
+    const output = await lessCalcWorkaround(await trimCss(cssContent));
     console.log(chalk.green(`\n🎨 minified code for userstyle`), suffix);
 
     const userstyle = userstyleBuildTemplate.replace('@charset "UTF-8;"', "")
@@ -195,36 +174,99 @@ async function buildSite(targetUrl: string, linkedStyle?: string) {
     );
 }
 
-buildSite(
+async function buildSiteFromUrl(targetUrl: string, linkedStyle?: string) {
+    const siteName = new URL(targetUrl).href;
+    const suffix = chalk.bold(`${siteName} `);
+
+    const webBuildOutputDirectory = path.join(
+        "dist",
+        siteName.replace(
+            /[^a-zA-Z0-9_-]+/g,
+            "_",
+        ),
+    );
+
+    const extracted = await extractCss(targetUrl, suffix)
+
+    const buildThemed = await saveCss(
+        extracted,
+        webBuildOutputDirectory,
+        undefined,
+        siteName,
+    );
+
+    if (!linkedStyle) {
+        return;
+    }
+
+    buildUserstyle(buildThemed, linkedStyle, suffix)
+}
+
+async function buildSiteFromFile(targetFile: string, linkedStyle?: string) {
+    const fileBuildOutputDirectory = path.join(
+        "dist",
+        targetFile,
+    );
+    const suffix = chalk.bold(`${targetFile} `);
+
+    const sourceTemplate = await fs.readFile(
+        path.join(
+            "styles",
+            "sources",
+            `${targetFile}.css`,
+        ),
+        "utf8",
+    );
+
+    const buildThemed = await saveCss(
+        sourceTemplate,
+        fileBuildOutputDirectory,
+        undefined,
+        targetFile,
+    );
+
+    if (!linkedStyle) {
+        return;
+    }
+
+    buildUserstyle(buildThemed, linkedStyle, suffix)
+}
+
+buildSiteFromUrl(
     "https://docs.google.com/document/d/1RDErYoVPRCvy2nRvWo8a1xa5m7NrxpWBzZirE97m_3g/",
     "docseditor",
 );
 
-buildSite(
+buildSiteFromFile(
+    "google-vids",
+    "vidseditor",
+);
+
+buildSiteFromUrl(
     "https://play.google.com/store/games",
 );
 
-buildSite(
+buildSiteFromUrl(
     "https://www.google.com/finance/",
 );
 
-buildSite(
+buildSiteFromUrl(
     "https://news.google.com/",
 );
 
-buildSite(
+buildSiteFromUrl(
     "https://trends.google.com/",
 );
 
-buildSite(
+buildSiteFromUrl(
     "https://translate.google.com/",
     "googletranslate",
 );
 
-buildSite(
+buildSiteFromUrl(
     "https://artsandculture.google.com",
 );
 
-buildSite(
+buildSiteFromUrl(
     "https://chromewebstore.google.com/",
 );
