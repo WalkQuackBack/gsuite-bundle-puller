@@ -34,7 +34,7 @@ WIP
 run
 
 ```bash
-deno run build-all
+pnpm build-all
 ```
 
 output files will be in /dist/\<time>/\<url>
