@@ -107,10 +107,11 @@ async function saveCss(
     siteName: string,
 ): Promise<string> {
     const markdownTable = await generateMdFromStyle(cssContent, siteName);
-    cssContent = cCssInstance.minify(await formatCSS(cssContent)).styles;
+    cssContent = cCssInstance.minify(cssContent).styles;
+    cssContent = await formatCSS(cssContent);
 
     const themedCss =
-        cCssInstance.minify(await themeCSS(cssContent)).styles;
+        await themeCSS(cssContent);
 
     await fs.mkdir(outputDir, { recursive: true });
 
