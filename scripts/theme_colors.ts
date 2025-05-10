@@ -220,7 +220,7 @@ const colorIndex: Record<string, string> = {
 // }
 
 const postcssThemeCss = () => {
-    return (root: Root) 
+    return (root: Root) {
         // Create a regular expression that matches any of the keys in the replacement map.
         const colorRegex: RegExp = new RegExp(Object.keys(replacementMap).join('|'), 'gi');
 
