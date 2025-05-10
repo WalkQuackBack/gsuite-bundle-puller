@@ -229,7 +229,7 @@ const postcssThemeCss = () => {
                 for (const [originalColor, replacementColor] of Object.entries(colorIndex)) {
                     // Construct a regular expression that matches the full color value only,
                     // accounting for possible trailing characters like semicolons, commas, or spaces.
-                    const colorRegex = new RegExp(`\\b${originalColor}(?=[\\s;,)])\\b`, 'gi');
+                    const colorRegex = new RegExp(`\\b${originalColor}(?=[\\s;,)])?\\b`, 'gi');
     
                     // Replace all occurrences of the original color with the replacement color.
                     decl.value = decl.value.replace(colorRegex, replacementColor);
