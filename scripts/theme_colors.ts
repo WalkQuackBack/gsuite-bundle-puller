@@ -221,25 +221,18 @@ const colorIndex: Record<string, string> = {
 
 const postcssThemeCss = () => {
     return (root: Root) => {
+        // Walk through all the CSS rules in the stylesheet.
         root.walkRules((rule: Rule) => {
+            // Walk through all the declarations (properties and values) within each rule.
             rule.walkDecls((decl: Declaration) => {
-                for (
-                    const [originalColor, replacementColor] of Object.entries(
-                        colorIndex,
-                    )
-                ) {
-                    // Construct a regular expression that matches the full color value only.
-                    // This regex ensures that the color is matched as a complete word or a standalone value.
-                    const colorRegex = new RegExp(
-                        `\\b${originalColor}\\b`,
-                        "g",
-                    );
-
+                // Iterate over the color map.
+                for (const [originalColor, replacementColor] of Object.entries(colorIndex)) {
+                    // Construct a regular expression that matches the full color value only,
+                    // accounting for possible trailing characters like semicolons, commas, or spaces.
+                    const colorRegex = new RegExp(`\\b${originalColor}(?=[\\s;,)])\\b`, 'gi');
+    
                     // Replace all occurrences of the original color with the replacement color.
-                    decl.value = decl.value.replace(
-                        colorRegex,
-                        replacementColor,
-                    );
+                    decl.value = decl.value.replace(colorRegex, replacementColor);
                 }
             });
         });
