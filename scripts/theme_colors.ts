@@ -220,21 +220,40 @@ const colorIndex: Record<string, string> = {
 // }
 
 const postcssThemeCss = () => {
-    return (root: Root) => {
-        // Walk through all the CSS rules in the stylesheet.
-        root.walkRules((rule: Rule) => {
-            // Walk through all the declarations (properties and values) within each rule.
-            rule.walkDecls((decl: Declaration) => {
-                // Iterate over the color map.
-                for (const [originalColor, replacementColor] of Object.entries(colorIndex)) {
-                    // Construct a regular expression that matches the full color value only,
-                    // accounting for possible trailing characters like semicolons, commas, or spaces.
-                    const colorRegex = new RegExp(`\\b${originalColor}(?=[\\s;,)])?\\b`, 'gi');
-    
-                    // Replace all occurrences of the original color with the replacement color.
-                    decl.value = decl.value.replace(colorRegex, replacementColor);
-                }
-            });
+    return (root: Root) 
+        // Create a regular expression that matches any of the keys in the replacement map.
+        const colorRegex: RegExp = new RegExp(Object.keys(replacementMap).join('|'), 'gi');
+
+        /**
+         * Function to recursively process the value of a CSS declaration.  Handles nested functions.
+         * @param value The CSS value to process
+         * @returns The processed CSS value with colors replaced
+         */
+        const processValue = (value: string): string => {
+            // If the value contains a CSS function (e.g., rgb(), rgba(), linear-gradient()), process it recursively
+            if (value.includes('(')) {
+                const newValue: string = value.replace(/(\w+\()(.+?)(\))/g, (match: string, funcName: string, content: string, closingParen: string): string => {
+                    // Split the content of the function by commas (assuming comma-separated arguments)
+                    const parts: string[] = content.split(',').map((p: string) => p.trim());
+                    // Process each part (argument) of the function
+                    const processedParts: string[] = parts.map((part: string) => processValue(part));
+                    // Reassemble the function with the processed arguments
+                    return `${funcName}${processedParts.join(', ')}${closingParen}`;
+                });
+                return newValue;
+
+            } else {
+                // Otherwise, perform a simple string replacement using the colorRegex
+                return value.replace(colorRegex, (match: string): string => {
+                    return replacementMap[match.toLowerCase()] || match; // toLowerCase() for case-insensitivity
+                });
+            }
+        };
+
+        // Walk through all declarations in the CSS AST.
+        root.walkDecls((decl: Declaration) => {
+            // Process the value of the declaration using the processValue function.
+            decl.value = processValue(decl.value);
         });
     };
 };
