@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.peF8mKjYjvg.L.B1.O/am=p9sMWK8PgJHAgH_pb3ALAAQ/d=1/ed=1/rs=AB1caFXnmUnf47IuuZs_QHrx3-2n72gXYw/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.c6VtqR_Gh30.L.B1.O/am=p9sMWK8PgJHAgH_pb3ALAAQ/d=1/ed=1/rs=AB1caFVrZbTKwC2G27JalWTvgTPFyQK5fQ/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -1594,47 +1594,47 @@ screen and (forced-colors:active) {
 }
 .DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G,
 .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo {
-  stroke: #4285f4
+  stroke: rgb(66,133,244)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G,
   .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #4285f4
+  stroke: rgb(66,133,244)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #ea4335
+  stroke: rgb(234,67,53)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #fbbc04
+  stroke: rgb(251,188,4)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #34a853
+  stroke: rgb(52,168,83)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
@@ -8631,7 +8631,7 @@ Data-Href: N/A */
   93% {
     stroke: #0f9d58
   }
-  to {
+  100% {
     stroke: #4285f4
   }
 }

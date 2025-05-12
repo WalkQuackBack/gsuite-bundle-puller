@@ -37,10 +37,10 @@
 - rgb(218,220,224)
 - rgb(25,103,210)
 - rgb(24,90,188)
-- #4285f4
-- #ea4335
-- #fbbc04
-- #34a853
+- rgb(66,133,244)
+- rgb(234,67,53)
+- rgb(251,188,4)
+- rgb(52,168,83)
 - #68e
 - #e6e6e6
 - #eee
@@ -50,6 +50,7 @@
 - #d6d6d6
 - rgba(0,0,0,.32)
 - rgba(32,33,36,.6)
+- #4285f4
 - #dfdfdf
 - rgba(255,255,255,.3)
 - rgba(0,0,0,0.122)
@@ -238,10 +239,10 @@
 | rgb(218,220,224) | rgb(218,220,224) | `.Rj2Mlf:not(:disabled), , .Rj2Mlf:not(:disabled):hover, .Rj2Mlf:not(:disabled):active,.Rj2Mlf:not(:disabled):focus:active, .Usd1Ac, .ymHpFd:not(:disabled), .P9KVBf .GD4dWd:not(:disabled):hover, .P9KVBf .GD4dWd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.P9KVBf .GD4dWd:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, .P9KVBf .GD4dWd:not(:disabled):not(:disabled):active, .P9KVBf .GD4dWd:not(:disabled):hover .VfPpkd-kBDsod, .P9KVBf .GD4dWd:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe .VfPpkd-kBDsod,.P9KVBf .GD4dWd:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus .VfPpkd-kBDsod, .P9KVBf .GD4dWd:not(:disabled):not(:disabled):active .VfPpkd-kBDsod, .P9KVBf .GD4dWd:not(:disabled):active,.P9KVBf .GD4dWd:not(:disabled):focus:active, .P9KVBf .FRmsO:not(:disabled):hover, .P9KVBf .FRmsO:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.P9KVBf .FRmsO:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, .P9KVBf .FRmsO:not(:disabled):not(:disabled):active, .P9KVBf .FRmsO:not(:disabled):hover .VfPpkd-kBDsod, .P9KVBf .FRmsO:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe .VfPpkd-kBDsod,.P9KVBf .FRmsO:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus .VfPpkd-kBDsod, .P9KVBf .FRmsO:not(:disabled):not(:disabled):active .VfPpkd-kBDsod, .P9KVBf .FRmsO:not(:disabled):active,.P9KVBf .FRmsO:not(:disabled):focus:active, .P9KVBf .gjTLxf:not(:disabled):hover, .P9KVBf .gjTLxf:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.P9KVBf .gjTLxf:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, .P9KVBf .gjTLxf:not(:disabled):not(:disabled):active, .P9KVBf .gjTLxf:not(:disabled):hover .VfPpkd-kBDsod, .P9KVBf .gjTLxf:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe .VfPpkd-kBDsod,.P9KVBf .gjTLxf:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus .VfPpkd-kBDsod, .P9KVBf .gjTLxf:not(:disabled):not(:disabled):active .VfPpkd-kBDsod, .P9KVBf .gjTLxf:not(:disabled):active,.P9KVBf .gjTLxf:not(:disabled):focus:active, .BYi1pe, .P7NFWb, .hQnXo.sMVRZe .ePyrDc, .hQnXo.sMVRZe .ePyrDc:not(:disabled), .D3Qfie, .P9KVBf .D3Qfie::before,.P9KVBf .D3Qfie::after, .P9KVBf .D3Qfie .Gggmbb, .yWsWgd:not(:disabled), .ipRz4, .ipRz4:not(:disabled), .UMrnmb-XPtOyb-OWXEXe-aSvl1d .VfPpkd-rOvkhd-jPmIDe-OWXEXe-ssJRIf:before, .KeeR3b, .KeeR3b:not(:disabled), .vNo0Zd` |
 | rgb(25,103,210) | rgb(25,103,210) | `.Kjnxrf:not(:disabled), , .Kjnxrf .VfPpkd-Jh9lGc::before,.Kjnxrf .VfPpkd-Jh9lGc::after, .Kjnxrf .VfPpkd-UdE5de-uDEFge .VfPpkd-JGcpL-uI4vCe-LkdAo,.Kjnxrf .VfPpkd-UdE5de-uDEFge .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .UMrnmb-XPtOyb-OWXEXe-yOOK0.VfPpkd-rOvkhd-XPtOyb-OWXEXe-gk6SMd .VfPpkd-rOvkhd-TfeOUb-V67aGc, .UMrnmb-XPtOyb-OWXEXe-yOOK0 .VfPpkd-rOvkhd-PvL5qd, .UMrnmb-XPtOyb-OWXEXe-yOOK0.VfPpkd-rOvkhd-XPtOyb-OWXEXe-gk6SMd .VfPpkd-rOvkhd-jPmIDe-OWXEXe-ssJRIf .VfPpkd-rOvkhd-v1cqY::before,.UMrnmb-XPtOyb-OWXEXe-yOOK0.VfPpkd-rOvkhd-XPtOyb-OWXEXe-gk6SMd .VfPpkd-rOvkhd-jPmIDe-OWXEXe-ssJRIf .VfPpkd-rOvkhd-v1cqY::after` |
 | rgb(24,90,188) | rgb(24,90,188) | `.LQeN7 .VfPpkd-J1Ukfc-LhBDec, , .mN1ivc .VfPpkd-Bz112c-J1Ukfc-LhBDec` |
-| #4285f4 | #4285f4 | `.DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo,.DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, , .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .SaBhMc:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.SaBhMc:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, .bgpk6e:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.bgpk6e:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .Cq5pMb .SQxu9c, .rOhAxb, 0%, 18%, to, .uWlRce, .OabDMe` |
-| #ea4335 | #ea4335 | `.DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
-| #fbbc04 | #fbbc04 | `.DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
-| #34a853 | #34a853 | `.DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
+| rgb(66,133,244) | rgb(66,133,244) | `.DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo,.DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, , .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G` |
+| rgb(234,67,53) | rgb(234,67,53) | `.DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
+| rgb(251,188,4) | rgb(251,188,4) | `.DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
+| rgb(52,168,83) | rgb(52,168,83) | `.DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
 | #68e | #68e | `.TRHLAc, ` |
 | #e6e6e6 | #e6e6e6 | `.w2zcLc, ` |
 | #eee | #eee | `body, , .z80M1.FwR7Pc, .sIIDsc, .TAviAb, .yb6DRb .WpDbMd, :root` |
@@ -251,6 +252,7 @@
 | #d6d6d6 | #d6d6d6 | `.rymPhb-oKdM2c:first-child, , .rymPhb-oKdM2c, .LkLjZd:active,.Ak314d, .JvjCjf, .LNKfBf, .YcEAid, .qZxJ9` |
 | rgba(0,0,0,.32) | rgba(0,0,0,.32) | `.VfPpkd-Sx9Kwc .VfPpkd-IE5DDf,.VfPpkd-Sx9Kwc .VfPpkd-P5QLlc-GGAcbc, ` |
 | rgba(32,33,36,.6) | rgba(32,33,36,.6) | `.cC1eCc .VfPpkd-IE5DDf,.cC1eCc .VfPpkd-P5QLlc-GGAcbc, ` |
+| #4285f4 | #4285f4 | `.SaBhMc:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.SaBhMc:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, , .bgpk6e:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.bgpk6e:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .Cq5pMb .SQxu9c, .rOhAxb, 0%, 18%, 100%, .uWlRce, .OabDMe` |
 | #dfdfdf | #dfdfdf | `.zZhnYe, ` |
 | rgba(255,255,255,.3) | rgba(255,255,255,.3) | `.UxubU.u3bW4e .ZFr60d, , .UxubU .Vwe4Vb, .TNczib .kHssdc>.Vwe4Vb,.TNczib .Wtw8H>.VTBa7b` |
 | rgba(0,0,0,0.122) | rgba(0,0,0,0.122) | `.e3Duub.u3bW4e .ZFr60d, ` |

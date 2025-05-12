@@ -287,8 +287,13 @@
 - rgba(227,227,227,.38)
 - #1867dc
 - #8bb8f8
+- #00758c
+- #75b8b1
 - #592fd0
 - #a596cf
+- #00234b
+- #087c08
+- #ffcf44
 
 ## Colour table
 
@@ -579,5 +584,10 @@
 | rgba(227,227,227,.38) | rgba(227,227,227,.38) | `.dm7YTc:not(.NmLpGb) .Q06vF:disabled, , .dm7YTc .Jkpske .hvBc5b:disabled, .dm7YTc .Jkpske .c0uh4c:disabled` |
 | #1867dc | #1867DC | `#i11, ` |
 | #8bb8f8 | #8BB8F8 | `.dm7YTc #i11, ` |
+| #00758c | #00758C | `#c31, ` |
+| #75b8b1 | #75B8B1 | `.dm7YTc #c31, ` |
 | #592fd0 | #592FD0 | `#i31, , #i32` |
 | #a596cf | #A596CF | `.dm7YTc #i31, , .dm7YTc #i32` |
+| #00234b | #00234B | `#ucc-3 .DaYgZ::after, #ucc-3 .pLZE8d::after, , #ucc-3 .pLZE8d::before, #ucc-3 .jzzMj, #ucc-3 .QeY9wc:not(.kafKN), #ucc-3 .MyQDIb, body:not(.dm7YTc) #ucc-3 .vP0hTc::before, body:not(.dm7YTc) #ucc-3 .vP0hTc` |
+| #087c08 | #087C08 | `#ucc-5 .DaYgZ::after, #ucc-5 .pLZE8d::after, , #ucc-5 .pLZE8d::before, #ucc-5 .jzzMj, #ucc-5 .QeY9wc:not(.kafKN), #ucc-5 .MyQDIb, body:not(.dm7YTc) #ucc-5 .vP0hTc::before, body:not(.dm7YTc) #ucc-5 .vP0hTc` |
+| #ffcf44 | #FFCF44 | `#ucc-7 .DaYgZ::after, #ucc-7 .pLZE8d::after, , #ucc-7 .pLZE8d::before, #ucc-7 .jzzMj, #ucc-7 .QeY9wc:not(.kafKN), #ucc-7 .MyQDIb, .dm7YTc #ucc-7 .vP0hTc::before, .dm7YTc #ucc-7 .vP0hTc` |
