@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/2332218874-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/1959934670-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -226px -566px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2519,7 +2519,7 @@ a:active {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -820px -500px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -492px -1078px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3474,7 +3474,7 @@ a:active {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -226px -566px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -6225,7 +6225,8 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
   border: 1px solid #747775;
   color: #0b57d0;
   box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
-  background: rgba(11,87,208,.08)
+  background: rgba(11,87,208,.08);
+  box-shadow: none
 }
 .docos-calltoactionview-overflowmenubutton.docs-suggestion-button.docs-material-menu-button-flat-default-hover {
   background: 0 0;
@@ -7556,6 +7557,13 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 .proactiveSummaryViewCloseButton:active,
 .proactiveSummaryViewCloseButton:focus {
   background-color: rgba(68,71,70,.1)
+}
+.proactiveSummaryViewShowMoreLessButtonContainer {
+  outline: 0
+}
+.proactiveSummaryViewShowLessButton,
+.proactiveSummaryViewShowMoreButton {
+  color: #0b57d0
 }
 .docs-live-region-log.docs-palette {
   background-color: #fff;
@@ -9540,6 +9548,10 @@ a.docs-revisions-sidebar-revisions-empty-learn-more {
 .docs-ai-text-generator-bubble-usecase-menu-refine-ux-v2-enabled.docs-ai-text-generator-bubble-usecase-menu.goog-menu {
   box-shadow: 0 1px 3px rgba(0,0,0,.3),0 4px 8px 3px rgba(0,0,0,.15)
 }
+.docs-ai-text-generator-bubble-usecase-menu-refine-ux-v2-enabled.docs-ai-text-generator-bubble-usecase-menu.goog-menu .generativeAiQuotaUpsellMessageLowQuotaBackground,
+.docs-ai-text-generator-bubble-usecase-menu-refine-ux-v2-enabled.docs-ai-text-generator-bubble-usecase-menu.goog-menu .generativeAiQuotaUpsellMessageNoQuotaBackground {
+  background: unset
+}
 .docs-ai-text-generator-bubble-usecase-menu-refine-ux-v2-enabled.docs-ai-text-generator-bubble-usecase-menu.goog-menu .docs-ai-text-generator-bubble-free-form-input-textarea {
   background: #f0f4f9
 }
@@ -10371,7 +10383,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -226px -566px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10432,7 +10444,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -226px -566px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -13163,7 +13175,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -226px -566px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13225,7 +13237,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite809_gm3_grey_medium.svg) -1598px -820px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite811_gm3_grey_medium.svg) -226px -566px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -14911,253 +14923,6 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 }
 .aiContextualTextRefineOnPasteBubbleGenericRefineButton:focus {
   background-color: rgba(68,71,70,.1)
-}
-.kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
-  background: rgba(31,31,31,.12)
-}
-.kixAiTextGeneratorBubbleContainer-button {
-  border: 1px solid transparent;
-  background: #0b57d0;
-  box-shadow: unset;
-  color: #fff
-}
-.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-disabled,
-.kixAiTextGeneratorBubbleContainer-button.jfk-button-disabled {
-  background: #0b57d0;
-  color: #fff;
-  background: rgba(31,31,31,.12);
-  color: rgba(31,31,31,.38);
-  box-shadow: unset
-}
-.kixAiTextGeneratorBubbleContainer-button:focus {
-  background: #0b57d0;
-  color: #fff;
-  background: #286bd6;
-  box-shadow: unset
-}
-.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-hover,
-.kixAiTextGeneratorBubbleContainer-button.jfk-button-hover {
-  background: #0b57d0;
-  color: #fff;
-  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
-  background: #1f64d4;
-  box-shadow: unset
-}
-.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-active,
-.kixAiTextGeneratorBubbleContainer-button.jfk-button.jfk-button-active,
-.kixAiTextGeneratorBubbleContainer-button.jfk-button.jfk-button-checked {
-  background: #0b57d0;
-  color: #fff;
-  background: #286bd6;
-  box-shadow: unset
-}
-.kixAiTextGeneratorBubbleContainer-button-outline {
-  border: 1px solid transparent;
-  border: 1px solid #747775;
-  background: unset;
-  color: #0b57d0
-}
-.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button-disabled {
-  border: 1px solid #747775;
-  color: #0b57d0;
-  border: 1px solid rgba(31,31,31,.12);
-  color: rgba(31,31,31,.38);
-  box-shadow: unset;
-  background: unset
-}
-.goog-menu-button-open .kixAiTextGeneratorBubbleContainer-button-outline,
-.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button-hover,
-.kixAiTextGeneratorBubbleContainer-button-outline:focus {
-  border: 1px solid #747775;
-  color: #0b57d0;
-  background: rgba(11,87,208,.12);
-  border: 1px solid #0b57d0;
-  box-shadow: unset
-}
-:not(.goog-menu-button-focused.goog-menu-button-open) > .kixAiTextGeneratorBubbleContainer-button-outline:not(.jfk-button-disabled).jfk-button-hover {
-  border: 1px solid #747775;
-  color: #0b57d0;
-  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
-  background: rgba(11,87,208,.08);
-  box-shadow: unset
-}
-.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button.jfk-button-active,
-.kixAiTextGeneratorBubbleContainer-button-outline.jfk-button.jfk-button-checked {
-  border: 1px solid #747775;
-  color: #0b57d0;
-  background: rgba(11,87,208,.12);
-  box-shadow: unset
-}
-@media screen and (forced-colors:active) {
-  .kixAiTextGeneratorBubbleContainer-button-outline.goog-menu-button-focused,
-  .kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-focused,
-  .kixAiTextGeneratorBubbleContainer-button.goog-menu-button-focused,
-  .kixAiTextGeneratorBubbleContainer-button.jfk-button-focused {
-    outline: auto
-  }
-}
-.kixAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default .docs-material-menu-button-flat-default-dropdown-icon {
-  fill: #fff
-}
-.kixAiTextGeneratorBubbleContainer {
-  background: 0 0;
-  border: unset;
-  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15)
-}
-.kixAiTextGeneratorBubbleContainer-error {
-  color: #b3261e
-}
-.kixAiTextGeneratorBubbleContainer-body.docs-bubble-material-body {
-  background: linear-gradient(0deg,rgba(105,145,214,.08),rgba(105,145,214,.08)),#fff
-}
-.kixAiTextGeneratorBubbleContainer-button-first-open .kixAiTextGeneratorBubbleContainer-body {
-  background: linear-gradient(90.22deg,#d3e3fd,#84c4ff)
-}
-.kixAiTextGeneratorBubbleContainer-show-preview .kixAiTextGeneratorBubbleContainer-body {
-  background: #fff
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
-  background: rgba(31,31,31,.12)
-}
-.kixAiTextGeneratorBubbleContainer-button-first-open .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
-  color: #1f1f1f
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-input {
-  background: unset;
-  border: none;
-  outline: unset
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-input .appsElementsChipRoot,
-.kixAiTextGeneratorBubbleContainer .kixAiTextGeneratorBubbleTitleTextInput .appsElementsChipRoot {
-  color: #444746!important
-}
-.kixAiTextGeneratorBubbleContainer-refine-button-text {
-  color: #0b57d0
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-body-container {
-  border-top: 1px solid transparent
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-body-container.body-container-scrolled {
-  border-color: #c4c7c5
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text {
-  border: unset
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table {
-  border: 1px solid #c4c7c5
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table th {
-  background-color: #f2f2f2
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table td {
-  border-top: 1px solid #c4c7c5
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text pre > code {
-  border: 1px solid #c4c7c5;
-  color: #444746
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-disclaimer-text {
-  color: #747775
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-disclaimer-text a {
-  color: #747775!important
-}
-.kixAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-secondary-action-menu.goog-menu {
-  border: 0
-}
-@media screen and (forced-colors:active) {
-}
-.kixAiTextGeneratorBubbleContainer-bullet {
-  border: 1px solid;
-  border-color: #3c4043
-}
-.kixAiTextGeneratorBubbleContainer-bullet-active {
-  background: #1a73e8;
-  border-color: #1a73e8
-}
-@media screen and (forced-colors:active) {
-  .kixAiTextGeneratorBubbleContainer-bullet {
-    background: Highlight;
-    border-color: Highlight
-  }
-}
-.kixAiTextGeneratorBubbleContainer-animation-fade-in:empty:before,
-.kixAiTextGeneratorBubbleContainer-animation-fade-in:placeholder-shown {
-  color: #686868
-}
-.kixAiTextGeneratorBubbleContainer-quota-upsell-message-container {
-  border-top: 1px solid #bdc1c6
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-button-first-open .kix-ai-text-generator-prompt-view-input {
-  color: #444746
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled:not(.kixAiTextGeneratorBubbleContainer-button-first-open) .docs-bubble-material-body.kixAiTextGeneratorBubbleContainer-body {
-  background: #fff
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled:not(.kixAiTextGeneratorBubbleContainer-button-first-open) .kix-ai-text-generator-prompt-view-input {
-  color: #1f1f1f
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled .kixAiTextGeneratorBubbleContainer-title:not(.kixAiTextGeneratorBubbleTitleEditable) .kixAiTextGeneratorBubbleTitleTextInput {
-  color: #1f1f1f
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview {
-  border: 2px solid #217bfe
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-secondary-action-menu-button {
-  border-left: 1px solid rgba(0,0,0,.38)
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container {
-  border-bottom: 1px solid #c4c7c5
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-scrolled:before {
-  background: linear-gradient(0deg,hsla(0,0%,100%,0),#fff)
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-down-scrollable:after {
-  background: linear-gradient(180deg,hsla(0,0%,100%,0),#fff)
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea {
-  background: #f0f4f9
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea:focus {
-  background: #fff;
-  border: 1px solid #747775
-}
-.kixAiTextGeneratorBubbleContainer.kixAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.kixAiTextGeneratorBubbleContainer-show-loading .kixAiTextGeneratorBubbleContainer-body {
-  background: #fff
-}
-@keyframes kixAiTextGeneratorBubbleAnimationFadeInKeyframe {
-}
-@keyframes kixAiTextGeneratorBubbleAnimationFadeOutKeyframe {
-}
-@keyframes kixAiTextGeneratorBubbleShimmerPlaceholderGradient {
-}
-@keyframes kixAiTextGeneratorBubbleShimmerPlaceholderEnter {
-}
-@keyframes kixAiTextGeneratorBubbleShimmerPlaceholderStretchIn {
-}
-.kixAiTextGeneratorBubbleTitleEditing .kixAiTextGeneratorBubbleTitleText {
-  background-color: #edf2fa
-}
-.kix-ai-text-generator-bubble-show-preview .kixAiTextGeneratorBubbleTitleEditing .kixAiTextGeneratorBubbleTitleTextInput {
-  color: #444746
-}
-.kix-ai-text-generator-bubble-show-preview .kixAiTextGeneratorBubbleTitleTextInput {
-  color: #0b57d0
-}
-.kixAiTextGeneratorBubbleTitleContainer:not(.kixAiTextGeneratorBubbleTitleEditable) .kixAiTextGeneratorBubbleTitleTextInput {
-  color: #444746
-}
-.kixAiTextGeneratorBubbleTitleEditable .kixAiTextGeneratorBubbleTitleText:hover {
-  background-color: #edf2fa
-}
-.kixAiTextGeneratorBubbleTitleTextInput {
-  background: 0 0;
-  border: unset;
-  color: #444746;
-  outline: unset
-}
-.kix-ai-text-generator-bubble-show-preview .kixAiTextGeneratorBubbleTitleEnableRefineUxV2 .kixAiTextGeneratorBubbleTitleTextInput {
-  color: #1f1f1f
 }
 .kix-ai-text-generator-onboarding-dialog-title {
   color: #1f1f1f
@@ -17890,9 +17655,7 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   color: #fff
 }
 .docs-bubble.appsElementsLinkPreview {
-  box-shadow: none;
-  border: none;
-  background-color: transparent
+  border: none
 }
 .docs-bubble.appsElementsLinkPreview a[data-broken-link=true] {
   color: #5f6368!important
@@ -18586,6 +18349,12 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 }
 .docsRecommendationBanner-banner-container {
   background: #d3e3fd;
+  color: #202124;
+  border: 1px solid transparent
+}
+.docsRecommendationBannerWarningTheme-banner-container {
+  background: #c5221f;
+  color: #fff;
   border: 1px solid transparent
 }
 .docs-ruler {
@@ -19002,6 +18771,250 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   color: #fff;
   background: #63a0ef;
   box-shadow: 0 2px 6px 2px rgba(66,133,244,.15)
+}
+.docsAiTextGeneratorBubbleContainer {
+  background: 0 0;
+  border: unset;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15)
+}
+.docsAiTextGeneratorBubbleContainer-error {
+  color: #b3261e
+}
+.docsAiTextGeneratorBubbleContainer-body.docs-bubble-material-body {
+  background: linear-gradient(0deg,rgba(105,145,214,.08),rgba(105,145,214,.08)),#fff
+}
+.docsAiTextGeneratorBubbleContainer-button-first-open .docsAiTextGeneratorBubbleContainer-body {
+  background: linear-gradient(90.22deg,#d3e3fd,#84c4ff)
+}
+.docsAiTextGeneratorBubbleContainer-show-preview .docsAiTextGeneratorBubbleContainer-body {
+  background: #fff
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
+  background: rgba(31,31,31,.12)
+}
+.docsAiTextGeneratorBubbleContainer-button-first-open .kix-ai-text-generator-prompt-view-create-button.jfk-button-disabled {
+  color: #1f1f1f
+}
+.docsAiTextGeneratorBubbleContainer-button {
+  border: 1px solid transparent;
+  background: #0b57d0;
+  box-shadow: unset;
+  color: #fff
+}
+.docsAiTextGeneratorBubbleContainer-button:focus {
+  background: #0b57d0;
+  color: #fff;
+  background: #286bd6;
+  box-shadow: unset
+}
+.docsAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-disabled,
+.docsAiTextGeneratorBubbleContainer-button.jfk-button-disabled {
+  background: #0b57d0;
+  color: #fff;
+  background: rgba(31,31,31,.12);
+  color: rgba(31,31,31,.38);
+  box-shadow: unset
+}
+.docsAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-hover,
+.docsAiTextGeneratorBubbleContainer-button.jfk-button-hover {
+  background: #0b57d0;
+  color: #fff;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
+  background: #1f64d4;
+  box-shadow: unset
+}
+.docsAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-active,
+.docsAiTextGeneratorBubbleContainer-button.jfk-button.jfk-button-active,
+.docsAiTextGeneratorBubbleContainer-button.jfk-button.jfk-button-checked {
+  background: #0b57d0;
+  color: #fff;
+  background: #286bd6;
+  box-shadow: unset
+}
+.docsAiTextGeneratorBubbleContainer-button-outline {
+  border: 1px solid transparent;
+  border: 1px solid #747775;
+  background: unset;
+  color: #0b57d0
+}
+.docsAiTextGeneratorBubbleContainer-button-outline.jfk-button-disabled {
+  border: 1px solid #747775;
+  color: #0b57d0;
+  border: 1px solid rgba(31,31,31,.12);
+  color: rgba(31,31,31,.38);
+  box-shadow: unset;
+  background: unset
+}
+.docsAiTextGeneratorBubbleContainer-button-outline.jfk-button-hover,
+.docsAiTextGeneratorBubbleContainer-button-outline:focus,
+.goog-menu-button-open .docsAiTextGeneratorBubbleContainer-button-outline {
+  border: 1px solid #747775;
+  color: #0b57d0;
+  background: rgba(11,87,208,.12);
+  border: 1px solid #0b57d0;
+  box-shadow: unset
+}
+:not(.goog-menu-button-focused.goog-menu-button-open) > .docsAiTextGeneratorBubbleContainer-button-outline:not(.jfk-button-disabled).jfk-button-hover {
+  border: 1px solid #747775;
+  color: #0b57d0;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15);
+  background: rgba(11,87,208,.08);
+  box-shadow: unset
+}
+.docsAiTextGeneratorBubbleContainer-button-outline.jfk-button.jfk-button-active,
+.docsAiTextGeneratorBubbleContainer-button-outline.jfk-button.jfk-button-checked {
+  border: 1px solid #747775;
+  color: #0b57d0;
+  background: rgba(11,87,208,.12);
+  box-shadow: unset
+}
+@media screen and (forced-colors:active) {
+  .docsAiTextGeneratorBubbleContainer-button-outline.goog-menu-button-focused,
+  .docsAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default-focused,
+  .docsAiTextGeneratorBubbleContainer-button.goog-menu-button-focused,
+  .docsAiTextGeneratorBubbleContainer-button.jfk-button-focused {
+    outline: auto
+  }
+}
+.docsAiTextGeneratorBubbleContainer-button.docs-material-menu-button-flat-default .docs-material-menu-button-flat-default-dropdown-icon {
+  fill: #fff
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-input {
+  background: unset;
+  border: none;
+  outline: unset
+}
+.docsAiTextGeneratorBubbleContainer .docsAiTextGeneratorBubbleTitleTextInput .appsElementsChipRoot,
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-prompt-view-input .appsElementsChipRoot {
+  color: #444746!important
+}
+.docsAiTextGeneratorBubbleContainer-refine-button-text {
+  color: #0b57d0
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-body-container {
+  border-top: 1px solid transparent
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-body-container.body-container-scrolled {
+  border-color: #c4c7c5
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text {
+  border: unset
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table {
+  border: 1px solid #c4c7c5
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table th {
+  background-color: #f2f2f2
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text table td {
+  border-top: 1px solid #c4c7c5
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-generated-text pre > code {
+  border: 1px solid #c4c7c5;
+  color: #444746
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-disclaimer-text {
+  color: #747775
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-disclaimer-text a {
+  color: #747775!important
+}
+.docsAiTextGeneratorBubbleContainer .kix-ai-text-generator-preview-view-secondary-action-menu.goog-menu {
+  border: 0
+}
+@media screen and (forced-colors:active) {
+}
+.docsAiTextGeneratorBubbleContainer-bullet {
+  border: 1px solid;
+  border-color: #3c4043
+}
+.docsAiTextGeneratorBubbleContainer-bullet-active {
+  background: #1a73e8;
+  border-color: #1a73e8
+}
+@media screen and (forced-colors:active) {
+  .docsAiTextGeneratorBubbleContainer-bullet {
+    background: Highlight;
+    border-color: Highlight
+  }
+}
+.docsAiTextGeneratorBubbleContainer-animation-fade-in:empty:before,
+.docsAiTextGeneratorBubbleContainer-animation-fade-in:placeholder-shown {
+  color: #686868
+}
+.docsAiTextGeneratorBubbleContainer-quota-upsell-message-container {
+  border-top: 1px solid #bdc1c6
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-button-first-open .kix-ai-text-generator-prompt-view-input {
+  color: #444746
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled:not(.docsAiTextGeneratorBubbleContainer-button-first-open) .docs-bubble-material-body.docsAiTextGeneratorBubbleContainer-body {
+  background: #fff
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled:not(.docsAiTextGeneratorBubbleContainer-button-first-open) .kix-ai-text-generator-prompt-view-input {
+  color: #1f1f1f
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled .docsAiTextGeneratorBubbleContainer-title:not(.docsAiTextGeneratorBubbleTitleEditable) .docsAiTextGeneratorBubbleTitleTextInput {
+  color: #1f1f1f
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview {
+  border: 2px solid #217bfe
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-secondary-action-menu-button {
+  border-left: 1px solid rgba(0,0,0,.38)
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container {
+  border-bottom: 1px solid #c4c7c5
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-scrolled:before {
+  background: linear-gradient(0deg,hsla(0,0%,100%,0),#fff)
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview .kix-ai-text-generator-preview-view-body-container.body-container-down-scrollable:after {
+  background: linear-gradient(180deg,hsla(0,0%,100%,0),#fff)
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea {
+  background: #f0f4f9
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-preview .docs-ai-text-generator-bubble-free-form-input-textarea:focus {
+  background: #fff;
+  border: 1px solid #747775
+}
+.docsAiTextGeneratorBubbleContainer.docsAiTextGeneratorBubbleContainer-refine-ux-v2-enabled.docsAiTextGeneratorBubbleContainer-show-loading .docsAiTextGeneratorBubbleContainer-body {
+  background: #fff
+}
+@keyframes docsAiTextGeneratorBubbleAnimationFadeInKeyframe {
+}
+@keyframes docsAiTextGeneratorBubbleAnimationFadeOutKeyframe {
+}
+@keyframes docsAiTextGeneratorBubbleShimmerPlaceholderGradient {
+}
+@keyframes docsAiTextGeneratorBubbleShimmerPlaceholderEnter {
+}
+@keyframes docsAiTextGeneratorBubbleShimmerPlaceholderStretchIn {
+}
+.docsAiTextGeneratorBubbleTitleEditing .docsAiTextGeneratorBubbleTitleText {
+  background-color: #edf2fa
+}
+.kix-ai-text-generator-bubble-show-preview .docsAiTextGeneratorBubbleTitleEditing .docsAiTextGeneratorBubbleTitleTextInput {
+  color: #444746
+}
+.kix-ai-text-generator-bubble-show-preview .docsAiTextGeneratorBubbleTitleTextInput {
+  color: #0b57d0
+}
+.docsAiTextGeneratorBubbleTitleContainer:not(.docsAiTextGeneratorBubbleTitleEditable) .docsAiTextGeneratorBubbleTitleTextInput {
+  color: #444746
+}
+.docsAiTextGeneratorBubbleTitleEditable .docsAiTextGeneratorBubbleTitleText:hover {
+  background-color: #edf2fa
+}
+.docsAiTextGeneratorBubbleTitleTextInput {
+  background: 0 0;
+  border: unset;
+  color: #444746;
+  outline: unset
+}
+.kix-ai-text-generator-bubble-show-preview .docsAiTextGeneratorBubbleTitleEnableRefineUxV2 .docsAiTextGeneratorBubbleTitleTextInput {
+  color: #1f1f1f
 }
 @media print {
 }
@@ -23077,50 +23090,42 @@ screen and (forced-colors:active) {
     background-color: ButtonText
   }
 }
-.javascriptMaterialdesignGm3WizSwitch-switch--selected .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-.javascriptMaterialdesignGm3WizSwitch-switch--selected .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+.javascriptMaterialdesignGm3WizSwitch-switch--selected .javascriptMaterialdesignGm3WizSwitch-switch__icon {
   fill: var(--gm3-switch-selected-icon-color,var(--gm3-sys-color-on-primary-container,#041e49));
   color: var(--gm3-switch-selected-icon-color,var(--gm3-sys-color-on-primary-container,#041e49))
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizSwitch-switch--selected .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-  .javascriptMaterialdesignGm3WizSwitch-switch--selected .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+  .javascriptMaterialdesignGm3WizSwitch-switch--selected .javascriptMaterialdesignGm3WizSwitch-switch__icon {
     fill: ButtonText;
     color: ButtonText
   }
 }
-.javascriptMaterialdesignGm3WizSwitch-switch--unselected .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-.javascriptMaterialdesignGm3WizSwitch-switch--unselected .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+.javascriptMaterialdesignGm3WizSwitch-switch--unselected .javascriptMaterialdesignGm3WizSwitch-switch__icon {
   fill: var(--gm3-switch-unselected-icon-color,var(--gm3-sys-color-surface-container-highest,#dde3ea));
   color: var(--gm3-switch-unselected-icon-color,var(--gm3-sys-color-surface-container-highest,#dde3ea))
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizSwitch-switch--unselected .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-  .javascriptMaterialdesignGm3WizSwitch-switch--unselected .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+  .javascriptMaterialdesignGm3WizSwitch-switch--unselected .javascriptMaterialdesignGm3WizSwitch-switch__icon {
     fill: Canvas;
     color: Canvas
   }
 }
-.javascriptMaterialdesignGm3WizSwitch-switch--selected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-.javascriptMaterialdesignGm3WizSwitch-switch--selected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+.javascriptMaterialdesignGm3WizSwitch-switch--selected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon {
   fill: var(--gm3-switch-disabled-selected-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38));
   color: var(--gm3-switch-disabled-selected-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizSwitch-switch--selected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-  .javascriptMaterialdesignGm3WizSwitch-switch--selected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+  .javascriptMaterialdesignGm3WizSwitch-switch--selected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon {
     fill: GrayText;
     color: GrayText
   }
 }
-.javascriptMaterialdesignGm3WizSwitch-switch--unselected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-.javascriptMaterialdesignGm3WizSwitch-switch--unselected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+.javascriptMaterialdesignGm3WizSwitch-switch--unselected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon {
   fill: var(--gm3-switch-disabled-unselected-icon-color,rgba(var(--gm3-sys-color-surface-container-highest-rgb,221,227,234),.38));
   color: var(--gm3-switch-disabled-unselected-icon-color,rgba(var(--gm3-sys-color-surface-container-highest-rgb,221,227,234),.38))
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizSwitch-switch--unselected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon,
-  .javascriptMaterialdesignGm3WizSwitch-switch--unselected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon svg {
+  .javascriptMaterialdesignGm3WizSwitch-switch--unselected:disabled .javascriptMaterialdesignGm3WizSwitch-switch__icon {
     fill: Canvas;
     color: Canvas
   }
@@ -24306,6 +24311,53 @@ screen and (forced-colors:active) {
 .bordersShadingDialogSection {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
+.javascriptMaterialdesignGm3WizButtonElevated-button {
+  border: none;
+  outline: 0;
+  background: 0 0}
+.javascriptMaterialdesignGm3WizButtonElevated-button__link:focus-visible {
+  outline: 0
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button__label {
+  color: var(--gm3-button-elevated-label-text-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:hover .javascriptMaterialdesignGm3WizButtonElevated-button__label {
+  color: var(--gm3-button-elevated-hover-label-text-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:focus-visible .javascriptMaterialdesignGm3WizButtonElevated-button__label {
+  color: var(--gm3-button-elevated-focus-label-text-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:active .javascriptMaterialdesignGm3WizButtonElevated-button__label {
+  color: var(--gm3-button-elevated-pressed-label-text-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:disabled .javascriptMaterialdesignGm3WizButtonElevated-button__label {
+  color: var(--gm3-button-elevated-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot {
+  color: var(--gm3-button-elevated-with-icon-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot i,
+.javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot img,
+.javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot svg {
+  color: inherit
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:hover .javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot {
+  color: var(--gm3-button-elevated-with-icon-hover-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:focus-visible .javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot {
+  color: var(--gm3-button-elevated-with-icon-focus-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:active .javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot {
+  color: var(--gm3-button-elevated-with-icon-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button:disabled .javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot {
+  color: var(--gm3-button-elevated-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+.javascriptMaterialdesignGm3WizButtonElevated-button {
+  outline: 1px solid transparent;
+  background-color: var(--gm3-button-elevated-container-color,var(--gm3-sys-color-surface-container-low,#f8fafd))}
+.javascriptMaterialdesignGm3WizButtonElevated-button:disabled {
+  background-color: var(--gm3-button-elevated-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .documentMetricsDialogRow {
   border-bottom: solid 2px var(--gm3-sys-color-outline,#747775)
 }
@@ -25013,15 +25065,15 @@ screen and (forced-colors:active) {
     border-color: CanvasText
   }
 }
-.appsElementsCalloutArrowSurfaceBottom {
+.appsElementsCalloutArrowArrowSurfaceBottom {
   outline: 1px solid transparent
 }
-.appsElementsCalloutArrowSurfaceBottom,
-.appsElementsCalloutArrowSurfaceTop {
+.appsElementsCalloutArrowArrowSurfaceBottom,
+.appsElementsCalloutArrowArrowSurfaceTop {
   background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
 }
-.appsElementsCalloutArrowTopElevation:after,
-.appsElementsCalloutArrowTopElevation:before {
+.appsElementsCalloutArrowArrowTopElevation:after,
+.appsElementsCalloutArrowArrowTopElevation:before {
   box-shadow: none
 }
 .appsElementsCalloutCommonCloseButton {
@@ -25632,6 +25684,10 @@ screen and (forced-colors:active) {
   color: var(--gm3-sys-color-on-error,#fff)
 }
 @media not (prefers-reduced-motion) {
+  @supports (interpolate-size:allow-keywords) {
+  }
+  @supports not (interpolate-size:allow-keywords) {
+  }
 }
 .appsElementsLinkPreviewBaseTitle {
   color: var(--gm3-sys-color-primary,#0b57d0)
@@ -25664,15 +25720,15 @@ screen and (forced-colors:active) {
 .appsElementsLinkPreviewBaseMapsDescriptionSectionText {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
+@supports (interpolate-size:allow-keywords) {
+}
+@supports not (interpolate-size:allow-keywords) {
+}
 @keyframes appsElementsLinkPreviewBase-fade-0-100 {
 }
 @media not (prefers-reduced-motion) {
 }
 @keyframes appsElementsLinkPreviewBase-fade-50-100 {
-}
-@media not (prefers-reduced-motion) {
-}
-@keyframes appsElementsLinkPreviewBase-fade-100-0 {
 }
 @media not (prefers-reduced-motion) {
 }
@@ -25811,67 +25867,8 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationValuePropGroupValuePropIcon {
   color: var(--gm3-sys-color-primary,#0b57d0)
 }
-@keyframes rotate-spark {
-}
-.appsElementsSidekickAgentMessageBubbleContent table {
-  background-color: var(--gm3-sys-color-surface,#fff);
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickAgentMessageBubbleContent table td,
-.appsElementsSidekickAgentMessageBubbleContent table th {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickAgentMessageBubbleContent mark:not([class]) {
-  background-color: unset;
-  color: unset
-}
-.appsElementsSidekickAgentMessageBubbleContent a:any-link:not([class]) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsSidekickAgentMessageBubbleContent a:active:not([class]),
-.appsElementsSidekickAgentMessageBubbleContent a:hover:not([class]),
-.appsElementsSidekickAgentMessageBubbleContent a:visited:not([class]) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsSidekickAgentMessageSystemBubble {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickAgentMessageSystemBubble:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsSidekickAgentMessageSystemBubble:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsSidekickAgentMessageSpark {
-  color: #217bfe
-}
-@media not (prefers-reduced-motion) {
-}
-.appsElementsSidekickAgentMessageStatusMessage {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-.appsElementsSidekickAgentMessageMultiModalButtonContainer {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsSidekickAvatarAvatarContainer:after {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsSidekickCalendarEventTitle {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsSidekickCalendarEventSubtitle {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsSidekickCalendarRowWithIcon {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsSidekickCommonCardListHeader {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsSidekickCommonCardListFooter {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+.appsElementsSidekickAbuseWarningWarning:link {
+  color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
 }
 @supports (transition-timing-function:linear(0,0.002,0.01 3.6%,0.034,0.074 9.1%,0.128 11.4%,0.194 13.4%,0.271 15%,0.344 16.1%,0.544,0.66 20.6%,0.717 22.4%,0.765 24.6%,0.808 27.3%,0.845 30.4%,0.883 35.1%,0.916 40.6%,0.942 47.2%,0.963 55%,0.979 64%,0.991 74.4%,0.998 86.4%,1)) {
 }
@@ -25992,6 +25989,68 @@ screen and (forced-colors:active) {
 }
 .appsElementsSidekickPromptInputDisabled {
   background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
+}
+@keyframes rotate-spark {
+}
+.appsElementsSidekickAgentMessageBubbleContent table {
+  background-color: var(--gm3-sys-color-surface,#fff);
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickAgentMessageBubbleContent table td,
+.appsElementsSidekickAgentMessageBubbleContent table th {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickAgentMessageBubbleContent mark:not([class]) {
+  background-color: unset;
+  color: unset
+}
+.appsElementsSidekickAgentMessageBubbleContent a:any-link:not([class]) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsSidekickAgentMessageBubbleContent a:active:not([class]),
+.appsElementsSidekickAgentMessageBubbleContent a:hover:not([class]),
+.appsElementsSidekickAgentMessageBubbleContent a:visited:not([class]) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsSidekickAgentMessageSystemBubble {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickAgentMessageSystemBubble:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsSidekickAgentMessageSystemBubble:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsSidekickAgentMessageSpark {
+  color: #217bfe
+}
+@media not (prefers-reduced-motion) {
+}
+.appsElementsSidekickAgentMessageStatusMessage {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+.appsElementsSidekickAgentMessageMultiModalButtonContainer {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsSidekickAvatarAvatarContainer:after {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsSidekickCalendarEventTitle {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsSidekickCalendarEventSubtitle {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsSidekickCalendarRowWithIcon {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsSidekickCommonCardListHeader {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsSidekickCommonCardListFooter {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
 .appsElementsSidekickGemLogoLight {
   color: var(--ae-gem-icon-color-light,var(--gm3-sys-color-on-surface-variant,#444746));
@@ -26131,7 +26190,13 @@ screen and (forced-colors:active) {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
   border: unset
 }
-.appsElementsSidekickUiKitScrim[data-loading=true] {
+@media (forced-colors:active) {
+}
+.appsElementsSidekickUiKitRoot[data-card-name~=SPREADSHEET_ITEM] .gm3-chip {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
+  border: unset
+}
+.appsElementsSidekickUiKitScrim:not([data-scrim=hidden]) {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
 .appsElementsSidekickUiKitSpinnerLabel {
