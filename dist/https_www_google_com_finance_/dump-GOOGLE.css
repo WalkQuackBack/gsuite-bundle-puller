@@ -1,4 +1,4 @@
-/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.kh2ijRv0MlA.L.W.O/m=q_sf,qmd,qcwid/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTtnuxIkMiC5WsBVsg4Kr_L_CPAqfg" */
+/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.yeaJaMsOWhU.L.W.O/m=q_sf,qmd,qcwid/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTsrW9RjvXXXwuCabDkppBAFz1GXlw" */
 .gb_Ka {
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
@@ -23,7 +23,8 @@
 }
 .gb_Ac {
   background: rgba(60,64,67,.9);
-  color: #fff
+  color: #fff;
+  outline: 1px solid transparent
 }
 .gb_Bc > * {
   color: #bdc1c6
@@ -92,67 +93,67 @@
 }
 @media only screen and (max-width:452px) {
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-corner {
+.gb_Xc .gb_Sc::-webkit-scrollbar-corner {
   background-color: transparent
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-track {
+.gb_Xc .gb_Sc::-webkit-scrollbar-track {
   border: 0 solid transparent;
   background-color: transparent
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-track:hover {
+.gb_Xc .gb_Sc::-webkit-scrollbar-track:hover {
   box-shadow: none;
   background-color: transparent
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-track:horizontal:hover {
+.gb_Xc .gb_Sc::-webkit-scrollbar-track:horizontal:hover {
   box-shadow: none
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-track:vertical {
+.gb_Xc .gb_Sc::-webkit-scrollbar-track:vertical {
   border-left: 5px solid transparent
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-track:horizontal {
+.gb_Xc .gb_Sc::-webkit-scrollbar-track:horizontal {
   border-top: 5px solid transparent
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-thumb {
+.gb_Xc .gb_Sc::-webkit-scrollbar-thumb {
   background-color: transparent;
   border: 0 solid transparent;
   box-shadow: none
 }
-.gb_Wc .gb_Rc:hover::-webkit-scrollbar-thumb {
+.gb_Xc .gb_Sc:hover::-webkit-scrollbar-thumb {
   background-color: rgba(0,0,0,.2);
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.2*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.2*.333))
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-thumb:hover {
+.gb_Xc .gb_Sc::-webkit-scrollbar-thumb:hover {
   background-color: rgba(0,0,0,.4);
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.4*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.4*.333))
 }
-.gb_Wc .gb_Rc::-webkit-scrollbar-thumb:active {
+.gb_Xc .gb_Sc::-webkit-scrollbar-thumb:active {
   background-color: rgba(0,0,0,.5);
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.5*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.5*.333))
 }
-.gb_id.gb_jd {
+.gb_jd.gb_kd {
   background: #fff;
   border: 1px solid transparent;
   box-shadow: 0 1px 1px 0 rgba(65,69,73,.3),0 1px 3px 1px rgba(65,69,73,.15)
 }
-.gb_id.gb_jd .gb_pe {
+.gb_jd.gb_kd .gb_qe {
   color: #000
 }
-.gb_id.gb_jd input::-webkit-input-placeholder {
+.gb_jd.gb_kd input::-webkit-input-placeholder {
   color: rgba(0,0,0,.54)
 }
-.gb_id.gb_jd button svg {
+.gb_jd.gb_kd button svg {
   color: #5f6368
 }
-.gb_re {
+.gb_se {
   background: #fff;
   border: 1px solid transparent;
   border-top: 0;
   box-shadow: 0 1px 1px 0 rgba(65,69,73,.3),0 1px 3px 1px rgba(65,69,73,.15)
 }
-.gb_7e {
+.gb_8e {
   color: #999
 }
-.gb_8e {
+.gb_9e {
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
@@ -4486,15 +4487,15 @@ a.gb_Ra:active {
 a.gb_B {
   color: #000
 }
-.gb_dd {
+.gb_ed {
   border-color: transparent;
   border-bottom-color: #fff
 }
-.gb_ed {
+.gb_fd {
   border-color: transparent;
   border-bottom-color: rgba(0,0,0,.2)
 }
-div.gb_ed,
+div.gb_fd,
 x:-o-prefocus {
   border-bottom-color: #ccc
 }
@@ -4506,7 +4507,7 @@ x:-o-prefocus {
   box-shadow: 0 2px 10px rgba(0,0,0,.2);
   outline: 0
 }
-.gb_Fa .gb_hd:not(.gb_Qa):focus img {
+.gb_Fa .gb_id:not(.gb_Qa):focus img {
   background-color: rgba(0,0,0,.2);
   outline: 0
 }
@@ -4514,43 +4515,43 @@ x:-o-prefocus {
 .gb_B:focus:not(:focus-visible),
 .gb_B:hover,
 .gb_B[aria-expanded=true],
-.gb_id button:active svg,
-.gb_id button:focus:not(:focus-visible) svg,
-.gb_id button:hover svg {
+.gb_jd button:active svg,
+.gb_jd button:focus:not(:focus-visible) svg,
+.gb_jd button:hover svg {
   outline: 0
 }
 .gb_B:focus-visible,
-.gb_Lc .gb_id.gb_jd button:focus-visible svg,
-.gb_id button:focus-visible svg {
+.gb_Mc .gb_jd.gb_kd button:focus-visible svg,
+.gb_jd button:focus-visible svg {
   outline: 1px solid #202124
 }
-.gb_Lc .gb_B:focus-visible,
-.gb_Lc .gb_id button:focus-visible svg {
+.gb_Mc .gb_B:focus-visible,
+.gb_Mc .gb_jd button:focus-visible svg {
   outline: 1px solid #f1f3f4
 }
 @media (forced-colors:active) {
-  .gb_Lc .gb_id button:focus-visible svg,
-  .gb_Lc .gb_id.gb_jd button:focus-visible svg,
-  .gb_id button:focus-visible svg {
+  .gb_Mc .gb_jd button:focus-visible svg,
+  .gb_Mc .gb_jd.gb_kd button:focus-visible svg,
+  .gb_jd button:focus-visible svg {
     outline: 1px solid currentcolor
   }
 }
 .gb_B:focus,
 .gb_B:focus:hover,
-.gb_Lc .gb_id.gb_jd button:focus svg,
-.gb_Lc .gb_id.gb_jd button:focus:hover svg,
-.gb_id button:focus svg,
-.gb_id button:focus:hover svg {
+.gb_Mc .gb_jd.gb_kd button:focus svg,
+.gb_Mc .gb_jd.gb_kd button:focus:hover svg,
+.gb_jd button:focus svg,
+.gb_jd button:focus:hover svg {
   background-color: rgba(60,64,67,.1)
 }
 .gb_B:active,
-.gb_Lc .gb_id.gb_jd button:active svg,
-.gb_id button:active svg {
+.gb_Mc .gb_jd.gb_kd button:active svg,
+.gb_jd button:active svg {
   background-color: rgba(60,64,67,.12)
 }
 .gb_B:hover,
-.gb_Lc .gb_id.gb_jd button:hover svg,
-.gb_id button:hover svg {
+.gb_Mc .gb_jd.gb_kd button:hover svg,
+.gb_jd button:hover svg {
   background-color: rgba(60,64,67,.08)
 }
 .gb_Wa .gb_B.gb_Za:hover {
@@ -4563,32 +4564,32 @@ x:-o-prefocus {
 .gb_B[aria-expanded=true] .gb_F {
   fill: #5f6368
 }
-.gb_Lc .gb_B:hover,
-.gb_Lc .gb_id button:hover svg {
+.gb_Mc .gb_B:hover,
+.gb_Mc .gb_jd button:hover svg {
   background-color: rgba(232,234,237,.08)
 }
-.gb_Lc .gb_B:focus,
-.gb_Lc .gb_B:focus:hover,
-.gb_Lc .gb_id button:focus svg,
-.gb_Lc .gb_id button:focus:hover svg {
+.gb_Mc .gb_B:focus,
+.gb_Mc .gb_B:focus:hover,
+.gb_Mc .gb_jd button:focus svg,
+.gb_Mc .gb_jd button:focus:hover svg {
   background-color: rgba(232,234,237,.1)
 }
-.gb_Lc .gb_B:active,
-.gb_Lc .gb_id button:active svg {
+.gb_Mc .gb_B:active,
+.gb_Mc .gb_jd button:active svg {
   background-color: rgba(232,234,237,.12)
 }
-.gb_Lc .gb_B:hover[aria-expanded=true],
-.gb_Lc .gb_B[aria-expanded=true] {
+.gb_Mc .gb_B:hover[aria-expanded=true],
+.gb_Mc .gb_B[aria-expanded=true] {
   background-color: rgba(255,255,255,.12)
 }
-.gb_Lc .gb_B[aria-expanded=true] .gb_F {
+.gb_Mc .gb_B[aria-expanded=true] .gb_F {
   fill: #fff
 }
 @media (max-width:350px) {
 }
 @media screen and (max-width:319px) {
 }
-.gb_9c.gb_ad {
+.gb_ad.gb_bd {
   color: #3c4043
 }
 .gb_Fa {
@@ -4597,105 +4598,105 @@ x:-o-prefocus {
 .gb_Fa svg {
   fill: currentColor
 }
-.gb_yd {
+.gb_zd {
   box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
 }
-.gb_Nd {
+.gb_Od {
   color: #000
 }
-.gb_Lc {
+.gb_Mc {
   color: #fff
 }
 .gb_Fa a,
-.gb_Pc a {
+.gb_Qc a {
   color: inherit
 }
 .gb_ba {
   color: rgba(0,0,0,.87)
 }
-.gb_2c .gb_td,
+.gb_3c .gb_ud,
 .gb_Fa svg,
-.gb_Pc svg,
-.gb_sd .gb_td {
+.gb_Qc svg,
+.gb_td .gb_ud {
   color: #5f6368
 }
-.gb_Lc .gb_sd .gb_Kc,
-.gb_Lc .gb_sd .gb_td,
-.gb_Lc .gb_sd .gb_vd,
-.gb_Lc svg,
-.gb_Pc.gb_Uc .gb_td,
-.gb_Pc.gb_Uc svg {
+.gb_Mc .gb_td .gb_Lc,
+.gb_Mc .gb_td .gb_ud,
+.gb_Mc .gb_td .gb_wd,
+.gb_Mc svg,
+.gb_Qc.gb_Vc .gb_ud,
+.gb_Qc.gb_Vc svg {
   color: rgba(255,255,255,.87)
 }
-.gb_ad {
+.gb_bd {
   color: inherit
 }
 a.gb_X,
 span.gb_X {
   color: rgba(0,0,0,.87)
 }
-.gb_Lc a.gb_X,
-.gb_Lc span.gb_X {
+.gb_Mc a.gb_X,
+.gb_Mc span.gb_X {
   color: #fff
 }
-.gb_Ua.gb_qd:hover {
+.gb_Ua.gb_rd:hover {
   background: #1b66c9;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_Ua.gb_qd:focus,
-.gb_Ua.gb_qd:hover:focus {
+.gb_Ua.gb_rd:focus,
+.gb_Ua.gb_rd:hover:focus {
   background: #1c5fba;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_Ua.gb_qd:active {
+.gb_Ua.gb_rd:active {
   background: #1b63c1;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_qd {
+.gb_rd {
   background: #1a73e8;
   border: 1px solid transparent
 }
-#gb .gb_Lc a.gb_qd:not(.gb_H),
-#gb.gb_Lc a.gb_qd {
+#gb .gb_Mc a.gb_rd:not(.gb_H),
+#gb.gb_Mc a.gb_rd {
   background: #fff;
   border-color: #dadce0;
   box-shadow: none;
   color: #1a73e8
 }
-#gb a.gb_Ua.gb_H.gb_qd {
+#gb a.gb_Ua.gb_H.gb_rd {
   background: #8ab4f8;
   border: 1px solid transparent;
   box-shadow: none;
   color: #202124
 }
-#gb .gb_Lc a.gb_qd:hover:not(.gb_H),
-#gb.gb_Lc a.gb_qd:hover {
+#gb .gb_Mc a.gb_rd:hover:not(.gb_H),
+#gb.gb_Mc a.gb_rd:hover {
   background: #f8fbff;
   border-color: #cce0fc
 }
-#gb a.gb_Ua.gb_H.gb_qd:hover {
+#gb a.gb_Ua.gb_H.gb_rd:hover {
   background: #93baf9;
   border-color: transparent;
   box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.3)
 }
-#gb .gb_Lc a.gb_qd:focus:hover:not(.gb_H),
-#gb .gb_Lc a.gb_qd:focus:not(.gb_H),
-#gb.gb_Lc a.gb_qd:focus:hover:not(.gb_H),
-#gb.gb_Lc a.gb_qd:focus:not(.gb_H) {
+#gb .gb_Mc a.gb_rd:focus:hover:not(.gb_H),
+#gb .gb_Mc a.gb_rd:focus:not(.gb_H),
+#gb.gb_Mc a.gb_rd:focus:hover:not(.gb_H),
+#gb.gb_Mc a.gb_rd:focus:not(.gb_H) {
   background: #f4f8ff;
   outline: 1px solid #c9ddfc
 }
-#gb a.gb_Ua.gb_H.gb_qd:focus,
-#gb a.gb_Ua.gb_H.gb_qd:focus:hover {
+#gb a.gb_Ua.gb_H.gb_rd:focus,
+#gb a.gb_Ua.gb_H.gb_rd:focus:hover {
   background: #a6c6fa;
   border-color: transparent;
   box-shadow: none
 }
-#gb .gb_Lc a.gb_qd:active:not(.gb_H),
-#gb.gb_Lc a.gb_qd:active {
+#gb .gb_Mc a.gb_rd:active:not(.gb_H),
+#gb.gb_Mc a.gb_rd:active {
   background: #ecf3fe
 }
-#gb a.gb_Ua.gb_H.gb_qd:active {
+#gb a.gb_Ua.gb_H.gb_rd:active {
   background: #a1c3f9;
   box-shadow: 0 1px 2px rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15)
 }
@@ -4734,7 +4735,7 @@ span.gb_X {
   box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px 0 rgba(0,0,0,.3)
 }
 .gb_Wa.gb_H:active,
-.gb_Wa.gb_Tc.gb_H:focus {
+.gb_Wa.gb_Uc.gb_H:focus {
   background-color: rgba(241,243,244,.1);
   border: 1px solid #5f6368
 }
@@ -4779,7 +4780,7 @@ span.gb_X {
   border-left: 4px dashed transparent;
   border-right: 4px dashed transparent
 }
-.gb_Vd.gb_nd {
+.gb_Wd.gb_od {
   color: #fff
 }
 #gb#gb .gb_1.gb_1 a.gb_hb,
@@ -4795,161 +4796,161 @@ span.gb_X {
 .gb_ka .gb_P:hover {
   box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2)
 }
-.gb_Ec {
+.gb_Fc {
   outline: 0
 }
-.gb_Ec .gb_6d {
+.gb_Fc .gb_7d {
   outline: 0
 }
-.gb_Ec.gb_7d:focus-visible {
+.gb_Fc.gb_8d:focus-visible {
   outline: 1px solid #202124
 }
-.gb_Lc .gb_Ec.gb_7d:focus-visible {
+.gb_Mc .gb_Fc.gb_8d:focus-visible {
   outline-color: #f1f3f4
 }
-.gb_Jc {
+.gb_Kc {
   border: none
 }
-img.gb_Od {
+img.gb_Pd {
   border: 0
 }
 @media screen and (-ms-high-contrast:black-on-white) {
 }
 @media screen and (-ms-high-contrast:white-on-black) {
 }
-.gb_Kc:focus:not(:focus-visible) {
+.gb_Lc:focus:not(:focus-visible) {
   outline: 0
 }
-.gb_Kc:focus-visible {
+.gb_Lc:focus-visible {
   outline: 1px solid #202124
 }
-.gb_Lc .gb_Kc:focus-visible {
+.gb_Mc .gb_Lc:focus-visible {
   outline: 1px solid #f1f3f4
 }
-.gb_Kc:focus,
-.gb_Kc:focus-visible,
-.gb_Kc:focus:focus-visible,
-.gb_Kc:focus:hover {
+.gb_Lc:focus,
+.gb_Lc:focus-visible,
+.gb_Lc:focus:focus-visible,
+.gb_Lc:focus:hover {
   background-color: rgba(60,64,67,.1)
 }
-.gb_Kc:active {
+.gb_Lc:active {
   background-color: rgba(60,64,67,.12);
   outline: 0
 }
-.gb_Kc:hover {
+.gb_Lc:hover {
   background-color: rgba(60,64,67,.08);
   outline: 0
 }
-.gb_Lc .gb_Kc:hover {
+.gb_Mc .gb_Lc:hover {
   background-color: rgba(232,234,237,.08)
 }
-.gb_Lc .gb_Kc:focus,
-.gb_Lc .gb_Kc:focus:hover {
+.gb_Mc .gb_Lc:focus,
+.gb_Mc .gb_Lc:focus:hover {
   background-color: rgba(232,234,237,.1)
 }
-.gb_Lc .gb_Kc:active {
+.gb_Mc .gb_Lc:active {
   background-color: rgba(232,234,237,.12)
 }
-.gb_Pc {
+.gb_Qc {
   background-color: #fff;
   color: #000
 }
-.gb_Pc.gb_Tc {
+.gb_Qc.gb_Uc {
   box-shadow: 0 0 16px rgba(0,0,0,.28)
 }
-.gb_Pc.gb_Uc {
+.gb_Qc.gb_Vc {
   background-color: #202124;
   color: #e8eaed
 }
-.gb_Vc.gb_Wc {
+.gb_Wc.gb_Xc {
   background-color: transparent;
   box-shadow: 0 0
 }
-.gb_1c:not(:last-child) {
+.gb_2c:not(:last-child) {
   border-bottom: 1px solid #ddd
 }
-.gb_Uc .gb_1c:not(:last-child) {
+.gb_Vc .gb_2c:not(:last-child) {
   border-bottom: 1px solid #5f6368
 }
-.gb_Uc .gb_2c .gb_3c {
+.gb_Vc .gb_3c .gb_4c {
   background-color: #202124;
   border-bottom: 1px solid #5f6368
 }
-.gb_4c,
-.gb_5c {
+.gb_5c,
+.gb_6c {
   color: rgba(0,0,0,.87)
 }
-.gb_Uc .gb_4c {
+.gb_Vc .gb_5c {
   color: #e8eaed
 }
-.gb_Uc .gb_5c {
+.gb_Vc .gb_6c {
   color: #9aa0a6
 }
-.gb_4c:hover {
+.gb_5c:hover {
   background: rgba(0,0,0,.12)
 }
-.gb_Uc .gb_4c:hover {
+.gb_Vc .gb_5c:hover {
   background: rgba(232,234,237,.08)
 }
-.gb_4c.gb_cb {
+.gb_5c.gb_cb {
   background: rgba(0,0,0,.12);
   color: rgba(0,0,0,.87)
 }
-.gb_Uc .gb_4c.gb_cb {
+.gb_Vc .gb_5c.gb_cb {
   background: rgba(232,234,237,.12);
   color: rgba(255,255,255,.87)
 }
-.gb_4c .gb_6c:focus {
+.gb_5c .gb_7c:focus {
   outline: 0
 }
-.gb_2c .gb_3c {
+.gb_3c .gb_4c {
   background-color: #f5f5f5
 }
-.gb_fe {
+.gb_ge {
   background-color: rgba(0,0,0,.1);
   box-shadow: inset 1px 1px 3px rgba(0,0,0,.24)
 }
-.gb_ee[aria-pressed=true] .gb_fe {
+.gb_fe[aria-pressed=true] .gb_ge {
   background-color: rgba(255,255,255,.1)
 }
-.gb_ge {
+.gb_he {
   box-shadow: 0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
   background-color: #fff
 }
-.gb_ne {
+.gb_oe {
   color: #000
 }
-.gb_oe {
+.gb_pe {
   background: #fff;
   box-shadow: 0 5px 5px -3px rgba(0,0,0,.2),0 8px 10px 1px rgba(0,0,0,.14),0 3px 14px 2px rgba(0,0,0,.12)
 }
-.gb_id {
+.gb_jd {
   background: #f1f3f4;
   border: 1px solid transparent
 }
-.gb_Lc .gb_id {
+.gb_Mc .gb_jd {
   background: rgba(241,243,244,.24)
 }
-.gb_id button {
+.gb_jd button {
   background: 0 0;
   border: none;
   outline: 0
 }
-.gb_pe {
+.gb_qe {
   background: 0 0;
   border: none;
   outline: 0
 }
-.gb_Lc .gb_pe {
+.gb_Mc .gb_qe {
   color: rgba(255,255,255,.87)
 }
-.gb_id:not(.gb_jd) input::-webkit-input-placeholder {
+.gb_jd:not(.gb_kd) input::-webkit-input-placeholder {
   color: rgba(0,0,0,.54)
 }
-.gb_Lc .gb_id:not(.gb_jd) input::-webkit-input-placeholder {
+.gb_Mc .gb_jd:not(.gb_kd) input::-webkit-input-placeholder {
   color: rgba(255,255,255,.87)
 }
-.gb_id.gb_Ae:not(.gb_sa) {
+.gb_jd.gb_Be:not(.gb_sa) {
   background: 0 0;
   box-shadow: none
 }
