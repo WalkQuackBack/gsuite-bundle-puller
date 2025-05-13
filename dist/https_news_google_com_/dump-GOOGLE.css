@@ -1249,7 +1249,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.j-lthOUvGSg.L.B1.O/am=GAiECAAMuAUGYAAB/d=1/ed=1/rs=ALs0n2MouEsGBrxsvn6gVdPUadHRPwKNvg/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.j-lthOUvGSg.L.B1.O/am=GAgECAAMuAUGYAAB/d=1/ed=1/rs=ALs0n2N_XBpZTAUfpGakuVlzRguFLGO8dQ/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14265,4 +14265,45 @@ Data-Href: N/A */
 }
 .dm7YTc #i32 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #c62928
+}
+#ucc-9 .pLZE8d::before {
+  background: #c62928
+}
+#ucc-9 .jzzMj {
+  background: #c62928
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #c62928
+}
+#ucc-9 .MyQDIb {
+  background: #c62928
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #c62928
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #c62928
 }
