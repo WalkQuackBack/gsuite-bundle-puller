@@ -14276,64 +14276,66 @@ Data-Href: N/A */
   src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-1 .DaYgZ::after,
-#ucc-1 .pLZE8d::after {
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
   color: #e8ab47
 }
-#ucc-1 .pLZE8d::before {
+#ucc-3 .pLZE8d::before {
   background: #e8ab47
 }
-#ucc-1 .jzzMj {
+#ucc-3 .jzzMj {
   background: #e8ab47
 }
-#ucc-1 .QeY9wc:not(.kafKN) {
+#ucc-3 .QeY9wc:not(.kafKN) {
   border-top-color: #e8ab47
 }
-#ucc-1 .MyQDIb {
+#ucc-3 .MyQDIb {
   background: #e8ab47
 }
-.dm7YTc #ucc-1 .vP0hTc::before {
+.dm7YTc #ucc-3 .vP0hTc::before {
   background: #e8ab47
 }
-.dm7YTc #ucc-1 .vP0hTc {
+.dm7YTc #ucc-3 .vP0hTc {
   color: #e8ab47
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: pink
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #6d0077
 }
-#ucc-5 .pLZE8d::before {
-  background: pink
+#ucc-7 .pLZE8d::before {
+  background: #6d0077
 }
-#ucc-5 .jzzMj {
-  background: pink
+#ucc-7 .jzzMj {
+  background: #6d0077
 }
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: pink
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #6d0077
 }
-#ucc-5 .MyQDIb {
-  background: pink
+#ucc-7 .MyQDIb {
+  background: #6d0077
 }
-.dm7YTc #ucc-5 .vP0hTc::before {
-  background: pink
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #6d0077
 }
-.dm7YTc #ucc-5 .vP0hTc {
-  color: pink
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #6d0077
 }
