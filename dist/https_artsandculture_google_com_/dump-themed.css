@@ -510,7 +510,7 @@ span.gb_X {
   box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2)
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/artsandculture/_/ss/k=artsandculture.stella.ib2K0JlTPoY.L.W.O/am=ADAIsoEAAAAE/d=1/rs=AIxt-LpZfN03wNNYsrgRqXtq83G6qekigQ/m=bDA3e */
+Data-Href: https://www.gstatic.com/_/artsandculture/_/ss/k=artsandculture.stella.j4_nWm1mEmE.L.W.O/am=ADAIsoEAAAAE/d=1/rs=AIxt-Lpo0uY6UZQCQk7tseWIygGU5uxDkg/m=bDA3e */
 .wsvqid .MiwKYe,
 .wsvqid .ZM7pef {
   fill: rgb(66,133,244)
@@ -790,6 +790,9 @@ body.CcsDpe .g3VIld {
 }
 .roI1Nb:not(.W8vpwe) .IGpTjd {
   color: var(--color-white)
+}
+.roI1Nb:not(.W8vpwe) .DIKDod {
+  fill: var(--color-white)
 }
 .CcsDpe .roI1Nb:not(.W8vpwe) .G99eF,
 .CcsDpe .roI1Nb:not(.W8vpwe) .UwyOtb,
@@ -1608,47 +1611,47 @@ screen and (forced-colors:active) {
 }
 .DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G,
 .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo {
-  stroke: #4285f4
+  stroke: rgb(66,133,244)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G,
   .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #4285f4
+  stroke: rgb(66,133,244)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #ea4335
+  stroke: rgb(234,67,53)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #fbbc04
+  stroke: rgb(251,188,4)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }
 }
 .DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
-  stroke: #34a853
+  stroke: rgb(52,168,83)
 }
-@media screen and (forced-colors:active),
-(-ms-high-contrast:active) {
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
   .DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G {
     stroke: CanvasText
   }

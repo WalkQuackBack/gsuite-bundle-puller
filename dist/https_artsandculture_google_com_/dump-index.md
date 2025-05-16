@@ -230,9 +230,6 @@
 - rgba(0,0,0,.38)
 - rgba(60,64,67,.38)
 - rgb(23,78,166)
-- #ea4335
-- #fbbc04
-- #34a853
 - rgba(255,255,255,.7)
 - #a1c2fa
 - #d50000
@@ -349,7 +346,7 @@
 | rgba(60,64,67,.3) | rgba(60,64,67,.3) | `.gb_Ia, , .gb_Ua.gb_rd:hover, .gb_Ua.gb_rd:focus,.gb_Ua.gb_rd:hover:focus, .gb_Ua.gb_rd:active, #gb a.gb_Ua.gb_H.gb_rd:active, .gb_Wa:focus-visible,.gb_Wa:focus, .nCP5yc:hover, .nCP5yc:active, .b9hyVd, .b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus, .b9hyVd:hover, .b9hyVd:not(:disabled):active, .Kjnxrf:hover, .Kjnxrf:not(:disabled):active` |
 | rgba(0,0,0,.15) | rgba(0,0,0,.15) | `.gb_Ja.gb_Ia, , .gb_Ua:hover, .gb_Ua:active, #gb a.gb_Ua.gb_H.gb_rd:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .gb_P:hover,.gb_P:focus, .gb_P:active, .gb_ka .gb_P:hover,.gb_1 .gb_P:hover,.gb_ka .gb_P:focus,.gb_1 .gb_P:focus` |
 | rgba(0,0,0,.3) | rgba(0,0,0,.3) | `.gb_Ja.gb_Ia, , #gb a.gb_Ua.gb_H.gb_rd:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .eGFS9c, .lTv8zc::before, .QqVQEe .cCNe0, .OBamUe::before, .ryaUXc, .oz4Ese .AugH6d::before, .GBRFk, .jheX3e .R2Vmi::before` |
-| #4285f4 | #4285f4 | `a.gb_Qa, , a.gb_Ra, .gb_Ua, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo,.DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .OabDMe, .uWlRce, .KYZn9b` |
+| #4285f4 | #4285f4 | `a.gb_Qa, , a.gb_Ra, .gb_Ua, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .OabDMe, .uWlRce, .KYZn9b` |
 | rgba(0,0,0,.12) | rgba(0,0,0,.12) | `a.gb_Qa:hover::after,a.gb_Qa:focus::after, , .gb_zd, .zZhnYe, .zZhnYe.qs41qe, .O0WRkf.u3bW4e .ZFr60d, .oG5Srb .Vwe4Vb,.zZhnYe .Vwe4Vb, .fKz7Od.u3bW4e, .fKz7Od .VTBa7b, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-INsAgc:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-INsAgc:disabled, .i9lrp, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .kCtYwe, .B2l7lc, .vOSR6b, .N2WjGc, .Mh0NNb` |
 | rgba(153,153,153,.4) | rgba(153,153,153,.4) | `a.gb_Qa:active, , .WzwrXb.u3bW4e, .WzwrXb.iWO5td>.NWlf3e` |
 | #0043b2 | #0043b2 | `a.gb_Ra:active, ` |
@@ -408,7 +405,7 @@
 | rgba(32,33,36,.08) | rgba(32,33,36,.08) | `.gb_eb, ` |
 | #1f71e7 | #1f71e7 | `.gb_wc, ` |
 | rgba(0,0,0,.1) | rgba(0,0,0,.1) | `.gb_P:active::after, ` |
-| rgb(66,133,244) | rgb(66,133,244) | `.wsvqid .ZM7pef,.wsvqid .MiwKYe, , :root,.lXkFp, .CcsDpe` |
+| rgb(66,133,244) | rgb(66,133,244) | `.wsvqid .ZM7pef,.wsvqid .MiwKYe, , :root,.lXkFp, .CcsDpe, .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo,.DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G` |
 | rgb(154,160,166) | rgb(154,160,166) | `.nRz5Be, , :root,.lXkFp, .CcsDpe` |
 | rgb(60,64,67) | rgb(60,64,67) | `.GKmLC .zzySAd, , :root,.lXkFp, .CcsDpe` |
 | rgb(232,234,237) | rgb(232,234,237) | `.GKmLC .yYzcx, , :root,.lXkFp, .CcsDpe` |
@@ -498,11 +495,11 @@
 | rgb(206,234,214) | rgb(206,234,214) | `:root,.lXkFp, ` |
 | rgb(168,218,181) | rgb(168,218,181) | `:root,.lXkFp, ` |
 | rgb(91,185,116) | rgb(91,185,116) | `:root,.lXkFp, ` |
-| rgb(52,168,83) | rgb(52,168,83) | `:root,.lXkFp, , .CcsDpe` |
+| rgb(52,168,83) | rgb(52,168,83) | `:root,.lXkFp, , .CcsDpe, .DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G` |
 | rgb(246,174,169) | rgb(246,174,169) | `:root,.lXkFp, ` |
 | rgb(238,103,92) | rgb(238,103,92) | `:root,.lXkFp, ` |
-| rgb(234,67,53) | rgb(234,67,53) | `:root,.lXkFp, , .CcsDpe` |
-| rgb(251,188,4) | rgb(251,188,4) | `:root,.lXkFp, , .CcsDpe` |
+| rgb(234,67,53) | rgb(234,67,53) | `:root,.lXkFp, , .CcsDpe, .DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G` |
+| rgb(251,188,4) | rgb(251,188,4) | `:root,.lXkFp, , .CcsDpe, .DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G` |
 | rgb(249,171,0) | rgb(249,171,0) | `:root,.lXkFp, ` |
 | rgb(250,123,23) | rgb(250,123,23) | `:root,.lXkFp, , .CcsDpe` |
 | rgb(248,249,250) | rgb(248,249,250) | `:root,.lXkFp, ` |
@@ -554,9 +551,6 @@
 | rgba(0,0,0,.38) | rgba(0,0,0,.38) | `.VfPpkd-Bz112c-LgbsSe:disabled, , .VfPpkd-LgbsSe:disabled, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .VfPpkd-LgbsSe-OWXEXe-INsAgc:disabled, .whsOnd[disabled], .whsOnd[disabled]~.i9lrp, .AxOyFc, .ndJi5d` |
 | rgba(60,64,67,.38) | rgba(60,64,67,.38) | `.nCP5yc:disabled, , .Rj2Mlf:disabled, .b9hyVd:disabled, .Kjnxrf:disabled, .ksBjEc:disabled, .LjDxcd:disabled, .yHy1rc:disabled, .fzRBVc:disabled` |
 | rgb(23,78,166) | rgb(23,78,166) | `.Rj2Mlf:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.Rj2Mlf:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus, , .Rj2Mlf:hover:not(:disabled),.Rj2Mlf.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled),.Rj2Mlf:not(.VfPpkd-ksKsZd-mWPk3d):focus:not(:disabled),.Rj2Mlf:active:not(:disabled), .b9hyVd:hover:not(:disabled),.b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled),.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus:not(:disabled),.b9hyVd:active:not(:disabled), .Kjnxrf:hover:not(:disabled),.Kjnxrf.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled),.Kjnxrf:not(.VfPpkd-ksKsZd-mWPk3d):focus:not(:disabled),.Kjnxrf:active:not(:disabled), .ksBjEc:hover:not(:disabled),.ksBjEc.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe:not(:disabled),.ksBjEc:not(.VfPpkd-ksKsZd-mWPk3d):focus:not(:disabled),.ksBjEc:active:not(:disabled)` |
-| #ea4335 | #ea4335 | `.DU29of .VfPpkd-JGcpL-Ydhldb-ibL1re .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
-| #fbbc04 | #fbbc04 | `.DU29of .VfPpkd-JGcpL-Ydhldb-c5RTEf .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
-| #34a853 | #34a853 | `.DU29of .VfPpkd-JGcpL-Ydhldb-II5mzb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, ` |
 | rgba(255,255,255,.7) | rgba(255,255,255,.7) | `.rFrNMe.dm7YTc .i9lrp, , .rFrNMe.dm7YTc .AxOyFc,.rFrNMe.dm7YTc .K0Y8Se,.rFrNMe.dm7YTc .ndJi5d, .rFrNMe.dm7YTc .ovnfwe` |
 | #a1c2fa | #a1c2fa | `.rFrNMe.dm7YTc .OabDMe, , .rFrNMe.dm7YTc .whsOnd:not([disabled]):focus~.AxOyFc` |
 | #d50000 | #d50000 | `.rFrNMe.k0tWj .i9lrp,.rFrNMe.k0tWj .OabDMe, , .rFrNMe.k0tWj .whsOnd:not([disabled]):focus~.AxOyFc, .dEOOab` |
