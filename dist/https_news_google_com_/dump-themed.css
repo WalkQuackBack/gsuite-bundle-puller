@@ -14305,56 +14305,25 @@ body:not(.dm7YTc) #ucc-1 .vP0hTc {
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-@font-face {
-  font-family: 'The Washington Post-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
   color: #836d3c
 }
-#ucc-5 .pLZE8d::before {
+#ucc-3 .pLZE8d::before {
   background: #836d3c
 }
-#ucc-5 .jzzMj {
+#ucc-3 .jzzMj {
   background: #836d3c
 }
-#ucc-5 .QeY9wc:not(.kafKN) {
+#ucc-3 .QeY9wc:not(.kafKN) {
   border-top-color: #836d3c
 }
-#ucc-5 .MyQDIb {
+#ucc-3 .MyQDIb {
   background: #836d3c
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
   background: #836d3c
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
   color: #836d3c
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #e4021d
-}
-#ucc-7 .pLZE8d::before {
-  background: #e4021d
-}
-#ucc-7 .jzzMj {
-  background: #e4021d
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #e4021d
-}
-#ucc-7 .MyQDIb {
-  background: #e4021d
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #e4021d
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #e4021d
 }
