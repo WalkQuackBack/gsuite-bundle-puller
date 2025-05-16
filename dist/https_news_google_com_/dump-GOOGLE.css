@@ -14264,3 +14264,81 @@ Data-Href: N/A */
 .dm7YTc #i32 {
   background-color: #a596cf
 }
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-1 .DaYgZ::after,
+#ucc-1 .pLZE8d::after {
+  color: #07508a
+}
+#ucc-1 .pLZE8d::before {
+  background: #07508a
+}
+#ucc-1 .jzzMj {
+  background: #07508a
+}
+#ucc-1 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
+}
+#ucc-1 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: pink
+}
+#ucc-3 .pLZE8d::before {
+  background: pink
+}
+#ucc-3 .jzzMj {
+  background: pink
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: pink
+}
+#ucc-3 .MyQDIb {
+  background: pink
+}
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: pink
+}
+.dm7YTc #ucc-3 .vP0hTc {
+  color: pink
+}
