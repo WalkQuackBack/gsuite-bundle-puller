@@ -14266,64 +14266,127 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-@font-face {
-  font-family: 'The New York Times-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The New York Times-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The New York Times-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
 #ucc-1 .DaYgZ::after,
 #ucc-1 .pLZE8d::after {
-  color: #121212
+  color: #836d3c
 }
 #ucc-1 .pLZE8d::before {
-  background: #121212
+  background: #836d3c
 }
 #ucc-1 .jzzMj {
-  background: #121212
+  background: #836d3c
 }
 #ucc-1 .QeY9wc:not(.kafKN) {
-  border-top-color: #121212
+  border-top-color: #836d3c
 }
 #ucc-1 .MyQDIb {
-  background: #121212
+  background: #836d3c
 }
 body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
-  background: #121212
+  background: #836d3c
 }
 body:not(.dm7YTc) #ucc-1 .vP0hTc {
-  color: #121212
+  color: #836d3c
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: 'Alexandria Echo Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCn0qYLMI_dvgMw9qLjrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Alexandria Echo Press-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjCn0qYLMI_dvgMwnPCj_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Alexandria Echo Press-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjCn0qYLMI_dvgMwnPCj_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #836d3c
+  color: #007db3
 }
 #ucc-3 .pLZE8d::before {
-  background: #836d3c
+  background: #007db3
 }
 #ucc-3 .jzzMj {
-  background: #836d3c
+  background: #007db3
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #007db3
 }
 #ucc-3 .MyQDIb {
-  background: #836d3c
+  background: #007db3
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
+  background: #007db3
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
+  color: #007db3
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #6d0077
+}
+#ucc-5 .pLZE8d::before {
+  background: #6d0077
+}
+#ucc-5 .jzzMj {
+  background: #6d0077
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #6d0077
+}
+#ucc-5 .MyQDIb {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #6d0077
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'West Central Tribune-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMwmKvirUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'West Central Tribune-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMw5P6drUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'West Central Tribune-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMw5P6drUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #053062
+}
+#ucc-7 .pLZE8d::before {
+  background: #053062
+}
+#ucc-7 .jzzMj {
+  background: #053062
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #053062
+}
+#ucc-7 .MyQDIb {
+  background: #053062
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #053062
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #053062
 }
