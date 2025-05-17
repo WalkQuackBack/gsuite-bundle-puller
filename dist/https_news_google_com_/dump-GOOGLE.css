@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.7DNP4TQd2Qc.L.B1.O/am=GAiEAQAG3AIDMIA/d=1/ed=1/rs=ALs0n2O396qR68LnQuwBPbcdvX__VUNbEA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.7DNP4TQd2Qc.L.B1.O/am=GAgEAAAG3AIDMIA/d=1/ed=1/rs=ALs0n2OGfhdvTH8ajEbuGqHGzsxRTrTuNA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14263,21 +14263,4 @@ Data-Href: N/A */
 }
 .dm7YTc #i32 {
   background-color: #a596cf
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
 }
