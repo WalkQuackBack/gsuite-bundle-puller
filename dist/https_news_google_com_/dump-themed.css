@@ -14889,3 +14889,83 @@ Data-Href: N/A */
 .dm7YTc #i34 {
   background-color: #a596cf
 }
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Salt Lake Tribune-headline-font';
+  src: url(/attachments/CAUqKggAIhD659IuqQkd7xO_5cnUJvb7KhQICiIQ-ufSLqkJHe8Tv-XJ1Cb2-zDhuK7yPmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Salt Lake Tribune-panel-title-font';
+  src: url(/attachments/CAUqKggAIhD659IuqQkd7xO_5cnUJvb7KhQICiIQ-ufSLqkJHe8Tv-XJ1Cb2-zDhuK7yPmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Salt Lake Tribune-body-font';
+  src: url(/attachments/CAUqKggAIhD659IuqQkd7xO_5cnUJvb7KhQICiIQ-ufSLqkJHe8Tv-XJ1Cb2-zDhuK7yPmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-3 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-3 .jzzMj {
+  background: #ed8e21
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-3 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-3 .vP0hTc {
+  color: #ed8e21
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Daily Memphian-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Daily Memphian-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #e8ab47
+}
+#ucc-5 .pLZE8d::before {
+  background: #e8ab47
+}
+#ucc-5 .jzzMj {
+  background: #e8ab47
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #e8ab47
+}
+#ucc-5 .MyQDIb {
+  background: #e8ab47
+}
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: #e8ab47
+}
+.dm7YTc #ucc-5 .vP0hTc {
+  color: #e8ab47
+}
