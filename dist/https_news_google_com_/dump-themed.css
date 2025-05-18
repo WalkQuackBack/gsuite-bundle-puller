@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.7DNP4TQd2Qc.L.B1.O/am=GAiEAAAG3AIDMIA/d=1/ed=1/rs=ALs0n2MEB_E-eIKoEMSHMHApgsFlWVFGYA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.7DNP4TQd2Qc.L.B1.O/am=GAgEAAAG3AIDMIA/d=1/ed=1/rs=ALs0n2OGfhdvTH8ajEbuGqHGzsxRTrTuNA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14892,72 +14892,99 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Washington Post-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Washington Times-headline-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
+}
+@font-face {
+  font-family: 'Washington Times-body-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-1 .DaYgZ::after,
+#ucc-1 .pLZE8d::after {
+  color: #a9091f
+}
+#ucc-1 .pLZE8d::before {
+  background: #a9091f
+}
+#ucc-1 .jzzMj {
+  background: #a9091f
+}
+#ucc-1 .QeY9wc:not(.kafKN) {
+  border-top-color: #a9091f
+}
+#ucc-1 .MyQDIb {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc {
+  color: #a9091f
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Investor\27 s Business Daily-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The San Francisco Standard-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMw4vm-xVdqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Investor\27 s Business Daily-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The San Francisco Standard-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMwgrve9khqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Investor\27 s Business Daily-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The San Francisco Standard-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMwx-vT9khqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #07508a
+  color: #ffeb2d
 }
 #ucc-3 .pLZE8d::before {
-  background: #07508a
+  background: #ffeb2d
 }
 #ucc-3 .jzzMj {
-  background: #07508a
+  background: #ffeb2d
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
+  border-top-color: #ffeb2d
 }
 #ucc-3 .MyQDIb {
-  background: #07508a
+  background: #ffeb2d
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #07508a
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: #ffeb2d
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #07508a
+.dm7YTc #ucc-3 .vP0hTc {
+  color: #ffeb2d
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #836d3c
+  color: #074150
 }
 #ucc-5 .pLZE8d::before {
-  background: #836d3c
+  background: #074150
 }
 #ucc-5 .jzzMj {
-  background: #836d3c
+  background: #074150
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #074150
 }
 #ucc-5 .MyQDIb {
-  background: #836d3c
+  background: #074150
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #836d3c
+  background: #074150
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #836d3c
+  color: #074150
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14987,4 +15014,21 @@ Data-Href: N/A */
 }
 .dm7YTc #ucc-7 .vP0hTc {
   color: #ed8e21
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
