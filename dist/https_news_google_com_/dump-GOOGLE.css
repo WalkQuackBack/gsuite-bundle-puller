@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.7DNP4TQd2Qc.L.B1.O/am=GAgEAAAG3AIDMIA/d=1/ed=1/rs=ALs0n2OGfhdvTH8ajEbuGqHGzsxRTrTuNA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.7DNP4TQd2Qc.L.B1.O/am=GAiEAAAG3AIDMIA/d=1/ed=1/rs=ALs0n2MEB_E-eIKoEMSHMHApgsFlWVFGYA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14263,4 +14263,67 @@ Data-Href: N/A */
 }
 .dm7YTc #i32 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Lookout Santa Cruz-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCr96ALMMOBuQMw_5rZx0pqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Lookout Santa Cruz-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjCr96ALMMOBuQMwi9OAx0pqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Lookout Santa Cruz-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjCr96ALMMOBuQMwi9OAx0pqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #59c1c1
+}
+#ucc-3 .pLZE8d::before {
+  background: #59c1c1
+}
+#ucc-3 .jzzMj {
+  background: #59c1c1
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #59c1c1
+}
+#ucc-3 .MyQDIb {
+  background: #59c1c1
+}
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: #59c1c1
+}
+.dm7YTc #ucc-3 .vP0hTc {
+  color: #59c1c1
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #1b66b1
+}
+#ucc-5 .pLZE8d::before {
+  background: #1b66b1
+}
+#ucc-5 .jzzMj {
+  background: #1b66b1
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #1b66b1
+}
+#ucc-5 .MyQDIb {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #1b66b1
 }
