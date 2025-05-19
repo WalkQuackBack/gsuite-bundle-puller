@@ -14275,121 +14275,156 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The San Francisco Standard-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMw4vm-xVdqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The San Francisco Standard-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMwgrve9khqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The San Francisco Standard-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMwx-vT9khqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-1 .DaYgZ::after,
+#ucc-1 .pLZE8d::after {
+  color: #121212
+}
+#ucc-1 .pLZE8d::before {
+  background: #121212
+}
+#ucc-1 .jzzMj {
+  background: #121212
+}
+#ucc-1 .QeY9wc:not(.kafKN) {
+  border-top-color: #121212
+}
+#ucc-1 .MyQDIb {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc {
+  color: #121212
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'West Central Tribune-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMwmKvirUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'West Central Tribune-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMw5P6drUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'West Central Tribune-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMw5P6drUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #053062
+}
+#ucc-3 .pLZE8d::before {
+  background: #053062
+}
+#ucc-3 .jzzMj {
+  background: #053062
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #053062
+}
+#ucc-3 .MyQDIb {
+  background: #053062
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #053062
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #053062
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Brainerd Dispatch-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDJ0qYLMLHdvgMwhfuyrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Brainerd Dispatch-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDJ0qYLMLHdvgMw3-KYq0xqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Brainerd Dispatch-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDJ0qYLMLHdvgMw3-KYq0xqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #ffeb2d
+  color: #053062
 }
 #ucc-7 .pLZE8d::before {
-  background: #ffeb2d
+  background: #053062
 }
 #ucc-7 .jzzMj {
-  background: #ffeb2d
+  background: #053062
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffeb2d
+  border-top-color: #053062
 }
 #ucc-7 .MyQDIb {
-  background: #ffeb2d
+  background: #053062
 }
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: #ffeb2d
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #053062
 }
-.dm7YTc #ucc-7 .vP0hTc {
-  color: #ffeb2d
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #053062
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Alexandria Echo Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCn0qYLMI_dvgMw9qLjrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Alexandria Echo Press-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjCn0qYLMI_dvgMwnPCj_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Alexandria Echo Press-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjCn0qYLMI_dvgMwnPCj_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-9 .DaYgZ::after,
 #ucc-9 .pLZE8d::after {
-  color: #a9091f
+  color: #007db3
 }
 #ucc-9 .pLZE8d::before {
-  background: #a9091f
+  background: #007db3
 }
 #ucc-9 .jzzMj {
-  background: #a9091f
+  background: #007db3
 }
 #ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
+  border-top-color: #007db3
 }
 #ucc-9 .MyQDIb {
-  background: #a9091f
+  background: #007db3
 }
 body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
-  background: #a9091f
+  background: #007db3
 }
 body:not(.dm7YTc) #ucc-9 .vP0hTc {
-  color: #a9091f
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-11 .DaYgZ::after,
-#ucc-11 .pLZE8d::after {
-  color: #836d3c
-}
-#ucc-11 .pLZE8d::before {
-  background: #836d3c
-}
-#ucc-11 .jzzMj {
-  background: #836d3c
-}
-#ucc-11 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
-}
-#ucc-11 .MyQDIb {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc {
-  color: #836d3c
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-13 .DaYgZ::after,
-#ucc-13 .pLZE8d::after {
-  color: #6d0077
-}
-#ucc-13 .pLZE8d::before {
-  background: #6d0077
-}
-#ucc-13 .jzzMj {
-  background: #6d0077
-}
-#ucc-13 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
-}
-#ucc-13 .MyQDIb {
-  background: #6d0077
-}
-body:not(.dm7YTc) #ucc-13 .vP0hTc::before {
-  background: #6d0077
-}
-body:not(.dm7YTc) #ucc-13 .vP0hTc {
-  color: #6d0077
+  color: #007db3
 }
