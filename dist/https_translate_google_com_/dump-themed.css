@@ -314,7 +314,7 @@
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.5*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.5*.333))
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.XH8749-Usi0.L.B1.O/am=AgAMAAwhAJmChYAABA/d=1/ed=1/rs=ANkVxDlVfJqsixxC9NDqqrN5i_IfXWHZmg/m=mainview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.VlU3tkPMNTA.L.B1.O/am=AgAYAAwhAJmChYAABA/d=1/ed=1/rs=ANkVxDmBuwm6V65b5h9Evk_TtPBsHRRR7A/m=mainview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -4372,6 +4372,10 @@ screen and (forced-colors:active) {
 }
 .GAyS9e {
   background: linear-gradient(to right,rgba(245,245,245,0),#f5f5f5)
+}
+.tiFV4c {
+  background: #fff;
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 @supports (container-name:foo) {
   @container view-body (min-width:0) and (max-width:719px) {
