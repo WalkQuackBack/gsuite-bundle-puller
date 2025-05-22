@@ -200,7 +200,7 @@
 @media only screen and (max-width:452px) {
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.pucSJH1ptW8.L.B1.O/am=eFQAYMAWAAQ/d=1/ed=1/rs=AEP720ImjXyYRCWG4AjFsb1tTfe7bsr8dg/m=discoverview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.iw_PXWE0YqA.L.B1.O/am=eFwAYMAWAAQ/d=1/ed=1/rs=AEP720I_5B1u0xzHQeMOs-sv2lja_AN_hQ/m=discoverview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -1616,26 +1616,14 @@ screen and (forced-colors:active) {
     color: LinkText
   }
 }
-.AeBiU-LgbsSe-OWXEXe-ornU0b {
-  border-color: var(--gm3-button-outlined-expressive-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
 .AeBiU-LgbsSe:hover {
   border-color: var(--gm3-button-outlined-hover-outline-color,var(--gm3-sys-color-outline,#747775))
-}
-.AeBiU-LgbsSe-OWXEXe-ornU0b:hover {
-  border-color: var(--gm3-button-outlined-expressive-unselected-hovered-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .AeBiU-LgbsSe:focus-visible {
   border-color: var(--gm3-button-outlined-focus-outline-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.AeBiU-LgbsSe-OWXEXe-ornU0b:focus-visible {
-  border-color: var(--gm3-button-outlined-expressive-unselected-focused-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
 .AeBiU-LgbsSe:active {
   border-color: var(--gm3-button-outlined-pressed-outline-color,var(--gm3-sys-color-outline,#747775))
-}
-.AeBiU-LgbsSe-OWXEXe-ornU0b:active {
-  border-color: var(--gm3-button-outlined-expressive-unselected-pressed-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .AeBiU-LgbsSe:disabled {
   border-color: var(--gm3-button-outlined-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -1644,15 +1632,6 @@ screen and (forced-colors:active) {
   .AeBiU-LgbsSe:disabled {
     border-color: GrayText
   }
-}
-.AeBiU-LgbsSe-OWXEXe-ornU0b:disabled {
-  border-color: var(--gm3-button-outlined-expressive-unselected-disabled-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
-.AeBiU-LgbsSe:disabled.AeBiU-LgbsSe-OWXEXe-gk6SMd {
-  background-color: var(--gm3-button-outlined-expressive-selected-disabled-container-color,var(--gm3-sys-color-on-surface,#1f1f1f))
-}
-.AeBiU-LgbsSe.AeBiU-LgbsSe-OWXEXe-gk6SMd {
-  background-color: var(--gm3-button-outlined-expressive-selected-container-color,var(--gm3-sys-color-inverse-surface,#303030))
 }
 .B1UG8d {
   color: var(--gm3-sys-color-on-surface)
@@ -2030,12 +2009,6 @@ screen and (forced-colors:active) {
 }
 .UywwFc-LgbsSe {
   background-color: var(--gm3-button-filled-container-color,var(--gm3-sys-color-primary,#0b57d0))}
-.UywwFc-LgbsSe-OWXEXe-ornU0b {
-  background-color: var(--gm3-button-filled-expressive-unselected-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))
-}
-.UywwFc-LgbsSe-OWXEXe-gk6SMd {
-  background-color: var(--gm3-button-filled-expressive-selected-container-color,var(--gm3-sys-color-primary,#0b57d0))
-}
 .UywwFc-LgbsSe:disabled {
   background-color: var(--gm3-button-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .UywwFc-LgbsSe::before {
