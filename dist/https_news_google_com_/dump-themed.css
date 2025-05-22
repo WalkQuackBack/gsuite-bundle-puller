@@ -13854,68 +13854,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.dm7YTc .p1eHnf[aria-selected=true] {
-  background-color: #3c4043
-}
-.GkU1of {
-  color: #80868b
-}
-.dm7YTc .GkU1of {
-  color: #bdc1c6
-}
-.p1eHnf.UtVwcd:focus,
-.p1eHnf.UtVwcd:focus-within,
-.p1eHnf.UtVwcd:hover,
-.p1eHnf.UtVwcd[aria-selected=true] {
-  background-color: #e8eaed
-}
-.dm7YTc .p1eHnf.UtVwcd:focus,
-.dm7YTc .p1eHnf.UtVwcd:focus-within,
-.dm7YTc .p1eHnf.UtVwcd:hover,
-.dm7YTc .p1eHnf.UtVwcd[aria-selected=true] {
-  background-color: #3c4043
-}
-.dm7YTc .KfXsid {
-  color: #fff
-}
-.p1eHnf.Au3bp .KfXsid {
-  color: #1f1f1f
-}
-.dm7YTc .p1eHnf.Au3bp .KfXsid {
-  color: #e3e3e3
-}
-.Sz6s4e.Au3bp {
-  color: #444746
-}
-.dm7YTc .Sz6s4e.Au3bp {
-  color: #c4c7c5
-}
-.p1eHnf.Au3bp .jNjBJf {
-  color: #1f1f1f
-}
-.dm7YTc .p1eHnf.Au3bp .jNjBJf {
-  color: #c4c7c5
-}
-.hYchye .jNjBJf {
-  color: #5f6368
-}
-.dm7YTc .hYchye .jNjBJf {
-  color: #bdc1c6
-}
-.bmkrS {
-  color: #5f6368
-}
-.dm7YTc .bmkrS {
-  color: #bdc1c6
-}
-.Sz6s4e {
-  color: #5f6368
-}
-.dm7YTc .Sz6s4e {
-  color: #bdc1c6
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 .tB5Jxf-xl07Ob-XxIAqe {
   background-color: var(--gm3-menu-surface-container-color,var(--gm3-sys-color-surface-container,#f0f4f9));
   color: #000}
@@ -14501,6 +14439,68 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+.dm7YTc .p1eHnf[aria-selected=true] {
+  background-color: #3c4043
+}
+.GkU1of {
+  color: #80868b
+}
+.dm7YTc .GkU1of {
+  color: #bdc1c6
+}
+.p1eHnf.UtVwcd:focus,
+.p1eHnf.UtVwcd:focus-within,
+.p1eHnf.UtVwcd:hover,
+.p1eHnf.UtVwcd[aria-selected=true] {
+  background-color: #e8eaed
+}
+.dm7YTc .p1eHnf.UtVwcd:focus,
+.dm7YTc .p1eHnf.UtVwcd:focus-within,
+.dm7YTc .p1eHnf.UtVwcd:hover,
+.dm7YTc .p1eHnf.UtVwcd[aria-selected=true] {
+  background-color: #3c4043
+}
+.dm7YTc .KfXsid {
+  color: #fff
+}
+.p1eHnf.Au3bp .KfXsid {
+  color: #1f1f1f
+}
+.dm7YTc .p1eHnf.Au3bp .KfXsid {
+  color: #e3e3e3
+}
+.Sz6s4e.Au3bp {
+  color: #444746
+}
+.dm7YTc .Sz6s4e.Au3bp {
+  color: #c4c7c5
+}
+.p1eHnf.Au3bp .jNjBJf {
+  color: #1f1f1f
+}
+.dm7YTc .p1eHnf.Au3bp .jNjBJf {
+  color: #c4c7c5
+}
+.hYchye .jNjBJf {
+  color: #5f6368
+}
+.dm7YTc .hYchye .jNjBJf {
+  color: #bdc1c6
+}
+.bmkrS {
+  color: #5f6368
+}
+.dm7YTc .bmkrS {
+  color: #bdc1c6
+}
+.Sz6s4e {
+  color: #5f6368
+}
+.dm7YTc .Sz6s4e {
+  color: #bdc1c6
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 @media (max-width:800px) {
 }
 @media (min-width:800px) {
@@ -14843,19 +14843,97 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i30 {
+#i33 {
   color: #592fd0
 }
-.dm7YTc #i30 {
+.dm7YTc #i33 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i31 {
+#i34 {
   background-color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i34 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-1 .DaYgZ::after,
+#ucc-1 .pLZE8d::after {
+  color: #121212
+}
+#ucc-1 .pLZE8d::before {
+  background: #121212
+}
+#ucc-1 .jzzMj {
+  background: #121212
+}
+#ucc-1 .QeY9wc:not(.kafKN) {
+  border-top-color: #121212
+}
+#ucc-1 .MyQDIb {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-1 .vP0hTc {
+  color: #121212
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Wall Street Journal-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Wall Street Journal-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Wall Street Journal-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #ffcf44
+}
+#ucc-3 .pLZE8d::before {
+  background: #ffcf44
+}
+#ucc-3 .jzzMj {
+  background: #ffcf44
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #ffcf44
+}
+#ucc-3 .MyQDIb {
+  background: #ffcf44
+}
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: #ffcf44
+}
+.dm7YTc #ucc-3 .vP0hTc {
+  color: #ffcf44
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14869,26 +14947,26 @@ Data-Href: N/A */
   src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
   color: #e8ab47
 }
-#ucc-3 .pLZE8d::before {
+#ucc-7 .pLZE8d::before {
   background: #e8ab47
 }
-#ucc-3 .jzzMj {
+#ucc-7 .jzzMj {
   background: #e8ab47
 }
-#ucc-3 .QeY9wc:not(.kafKN) {
+#ucc-7 .QeY9wc:not(.kafKN) {
   border-top-color: #e8ab47
 }
-#ucc-3 .MyQDIb {
+#ucc-7 .MyQDIb {
   background: #e8ab47
 }
-.dm7YTc #ucc-3 .vP0hTc::before {
+.dm7YTc #ucc-7 .vP0hTc::before {
   background: #e8ab47
 }
-.dm7YTc #ucc-3 .vP0hTc {
+.dm7YTc #ucc-7 .vP0hTc {
   color: #e8ab47
 }
 /*! Inline stylesheet
@@ -14903,25 +14981,25 @@ Data-Href: N/A */
   src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
+#ucc-11 .DaYgZ::after,
+#ucc-11 .pLZE8d::after {
   color: #a9091f
 }
-#ucc-7 .pLZE8d::before {
+#ucc-11 .pLZE8d::before {
   background: #a9091f
 }
-#ucc-7 .jzzMj {
+#ucc-11 .jzzMj {
   background: #a9091f
 }
-#ucc-7 .QeY9wc:not(.kafKN) {
+#ucc-11 .QeY9wc:not(.kafKN) {
   border-top-color: #a9091f
 }
-#ucc-7 .MyQDIb {
+#ucc-11 .MyQDIb {
   background: #a9091f
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
   background: #a9091f
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
+body:not(.dm7YTc) #ucc-11 .vP0hTc {
   color: #a9091f
 }
