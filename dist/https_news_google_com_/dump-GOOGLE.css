@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.yqpBOr-FAj4.L.B1.O/am=GAiEAQBgwBYYgAEE/d=1/ed=1/rs=ALs0n2OKMnzK0NgxeHN8Q7woRz1iLBM_0Q/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.yqpBOr-FAj4.L.B1.O/am=GAgEAABgwBYYgAEE/d=1/ed=1/rs=ALs0n2MKneU6ZHFhGWnsmQ5wWEdfWJJ1tQ/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14274,76 +14274,69 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-1 .DaYgZ::after,
 #ucc-1 .pLZE8d::after {
-  color: #836d3c
+  color: #07508a
 }
 #ucc-1 .pLZE8d::before {
-  background: #836d3c
+  background: #07508a
 }
 #ucc-1 .jzzMj {
-  background: #836d3c
+  background: #07508a
 }
 #ucc-1 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #07508a
 }
 #ucc-1 .MyQDIb {
-  background: #836d3c
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
-  background: #836d3c
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-1 .vP0hTc {
-  color: #836d3c
+  color: #07508a
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Daily Memphian-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Daily Memphian-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #e8ab47
+  color: #ed8e21
 }
 #ucc-3 .pLZE8d::before {
-  background: #e8ab47
+  background: #ed8e21
 }
 #ucc-3 .jzzMj {
-  background: #e8ab47
+  background: #ed8e21
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #e8ab47
+  border-top-color: #ed8e21
 }
 #ucc-3 .MyQDIb {
-  background: #e8ab47
+  background: #ed8e21
 }
 .dm7YTc #ucc-3 .vP0hTc::before {
-  background: #e8ab47
+  background: #ed8e21
 }
 .dm7YTc #ucc-3 .vP0hTc {
-  color: #e8ab47
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: BizWest-headline-font;
-  src: url(/attachments/CAUqEAgAKgcICjCc3pYLMN-ErgMwj_OOsUFqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: BizWest-panel-title-font;
-  src: url(/attachments/CAUqEAgAKgcICjCc3pYLMN-ErgMwh4-c_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: BizWest-body-font;
-  src: url(/attachments/CAUqEAgAKgcICjCc3pYLMN-ErgMwh4-c_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+  color: #ed8e21
 }
