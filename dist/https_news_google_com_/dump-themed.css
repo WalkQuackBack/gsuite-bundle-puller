@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.owthFGhNTDY.L.B1.O/am=GAgEAADAgC0wAAMI/d=1/ed=1/rs=ALs0n2N6wC3w6RhX4RXo9gNduVN1gWcAKA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.owthFGhNTDY.L.B1.O/am=GAiEAQDAgC0wAAMI/d=1/ed=1/rs=ALs0n2OcfS7ktTql87SGaUXlLdVIdqSRDg/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14859,103 +14859,40 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: MarketWatch-headline-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-panel-title-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-body-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-1 .DaYgZ::after,
 #ucc-1 .pLZE8d::after {
-  color: #6d0077
+  color: #087c08
 }
 #ucc-1 .pLZE8d::before {
-  background: #6d0077
+  background: #087c08
 }
 #ucc-1 .jzzMj {
-  background: #6d0077
+  background: #087c08
 }
 #ucc-1 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
+  border-top-color: #087c08
 }
 #ucc-1 .MyQDIb {
-  background: #6d0077
+  background: #087c08
 }
 body:not(.dm7YTc) #ucc-1 .vP0hTc::before {
-  background: #6d0077
+  background: #087c08
 }
 body:not(.dm7YTc) #ucc-1 .vP0hTc {
-  color: #6d0077
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: ' The Atlanta Journal Constitution-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjCYlKoLMJifwgMwh8Te01xqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: ' The Atlanta Journal Constitution-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjCYlKoLMJifwgMwh8Te01xqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: ' The Atlanta Journal Constitution-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjCYlKoLMJifwgMwwu_e01xqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #004fff
-}
-#ucc-3 .pLZE8d::before {
-  background: #004fff
-}
-#ucc-3 .jzzMj {
-  background: #004fff
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #004fff
-}
-#ucc-3 .MyQDIb {
-  background: #004fff
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #004fff
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #004fff
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: pink
-}
-#ucc-7 .pLZE8d::before {
-  background: pink
-}
-#ucc-7 .jzzMj {
-  background: pink
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: pink
-}
-#ucc-7 .MyQDIb {
-  background: pink
-}
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: pink
-}
-.dm7YTc #ucc-7 .vP0hTc {
-  color: pink
+  color: #087c08
 }
