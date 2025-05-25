@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.owthFGhNTDY.L.B1.O/am=GAiEAADAgC0wAAMI/d=1/ed=1/rs=ALs0n2No839g28gJ-F_oqQd2APGfQApNjA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.owthFGhNTDY.L.B1.O/am=GAgEAADAgC0wAAMI/d=1/ed=1/rs=ALs0n2N6wC3w6RhX4RXo9gNduVN1gWcAKA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -13854,68 +13854,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.dm7YTc .p1eHnf[aria-selected=true] {
-  background-color: #3c4043
-}
-.GkU1of {
-  color: #80868b
-}
-.dm7YTc .GkU1of {
-  color: #bdc1c6
-}
-.p1eHnf.UtVwcd:focus,
-.p1eHnf.UtVwcd:focus-within,
-.p1eHnf.UtVwcd:hover,
-.p1eHnf.UtVwcd[aria-selected=true] {
-  background-color: #e8eaed
-}
-.dm7YTc .p1eHnf.UtVwcd:focus,
-.dm7YTc .p1eHnf.UtVwcd:focus-within,
-.dm7YTc .p1eHnf.UtVwcd:hover,
-.dm7YTc .p1eHnf.UtVwcd[aria-selected=true] {
-  background-color: #3c4043
-}
-.dm7YTc .KfXsid {
-  color: #fff
-}
-.p1eHnf.Au3bp .KfXsid {
-  color: #1f1f1f
-}
-.dm7YTc .p1eHnf.Au3bp .KfXsid {
-  color: #e3e3e3
-}
-.Sz6s4e.Au3bp {
-  color: #444746
-}
-.dm7YTc .Sz6s4e.Au3bp {
-  color: #c4c7c5
-}
-.p1eHnf.Au3bp .jNjBJf {
-  color: #1f1f1f
-}
-.dm7YTc .p1eHnf.Au3bp .jNjBJf {
-  color: #c4c7c5
-}
-.hYchye .jNjBJf {
-  color: #5f6368
-}
-.dm7YTc .hYchye .jNjBJf {
-  color: #bdc1c6
-}
-.bmkrS {
-  color: #5f6368
-}
-.dm7YTc .bmkrS {
-  color: #bdc1c6
-}
-.Sz6s4e {
-  color: #5f6368
-}
-.dm7YTc .Sz6s4e {
-  color: #bdc1c6
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 .tB5Jxf-xl07Ob-XxIAqe {
   background-color: var(--gm3-menu-surface-container-color,var(--gm3-sys-color-surface-container,#f0f4f9));
   color: #000}
@@ -14501,6 +14439,68 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+.dm7YTc .p1eHnf[aria-selected=true] {
+  background-color: #3c4043
+}
+.GkU1of {
+  color: #80868b
+}
+.dm7YTc .GkU1of {
+  color: #bdc1c6
+}
+.p1eHnf.UtVwcd:focus,
+.p1eHnf.UtVwcd:focus-within,
+.p1eHnf.UtVwcd:hover,
+.p1eHnf.UtVwcd[aria-selected=true] {
+  background-color: #e8eaed
+}
+.dm7YTc .p1eHnf.UtVwcd:focus,
+.dm7YTc .p1eHnf.UtVwcd:focus-within,
+.dm7YTc .p1eHnf.UtVwcd:hover,
+.dm7YTc .p1eHnf.UtVwcd[aria-selected=true] {
+  background-color: #3c4043
+}
+.dm7YTc .KfXsid {
+  color: #fff
+}
+.p1eHnf.Au3bp .KfXsid {
+  color: #1f1f1f
+}
+.dm7YTc .p1eHnf.Au3bp .KfXsid {
+  color: #e3e3e3
+}
+.Sz6s4e.Au3bp {
+  color: #444746
+}
+.dm7YTc .Sz6s4e.Au3bp {
+  color: #c4c7c5
+}
+.p1eHnf.Au3bp .jNjBJf {
+  color: #1f1f1f
+}
+.dm7YTc .p1eHnf.Au3bp .jNjBJf {
+  color: #c4c7c5
+}
+.hYchye .jNjBJf {
+  color: #5f6368
+}
+.dm7YTc .hYchye .jNjBJf {
+  color: #bdc1c6
+}
+.bmkrS {
+  color: #5f6368
+}
+.dm7YTc .bmkrS {
+  color: #bdc1c6
+}
+.Sz6s4e {
+  color: #5f6368
+}
+.dm7YTc .Sz6s4e {
+  color: #bdc1c6
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 @media (max-width:800px) {
 }
 @media (min-width:800px) {
@@ -14843,50 +14843,18 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#c32 {
-  color: #00758c
-}
-.dm7YTc #c32 {
-  color: #75b8b1
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#c33 {
-  background-color: #daf1f6
-}
-.dm7YTc #c33 {
-  background-color: #293d3b
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#c33 {
-  color: #00758c
-}
-.dm7YTc #c33 {
-  color: #bdddda
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#c33 {
-  fill: #00758C
-}
-.dm7YTc #c33 {
-  fill: #BDDDDA
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#i31 {
+#i33 {
   color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i33 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i32 {
+#i34 {
   background-color: #592fd0
 }
-.dm7YTc #i32 {
+.dm7YTc #i34 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
@@ -14930,59 +14898,40 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #836d3c
-}
-#ucc-3 .pLZE8d::before {
-  background: #836d3c
-}
-#ucc-3 .jzzMj {
-  background: #836d3c
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
-}
-#ucc-3 .MyQDIb {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 @font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #a9091f
+  color: pink
 }
 #ucc-5 .pLZE8d::before {
-  background: #a9091f
+  background: pink
 }
 #ucc-5 .jzzMj {
-  background: #a9091f
+  background: pink
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
+  border-top-color: pink
 }
 #ucc-5 .MyQDIb {
-  background: #a9091f
+  background: pink
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #a9091f
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: pink
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #a9091f
+.dm7YTc #ucc-5 .vP0hTc {
+  color: pink
 }
