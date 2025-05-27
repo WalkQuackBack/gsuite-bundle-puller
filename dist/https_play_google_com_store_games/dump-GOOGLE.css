@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.G4p13L4TXAM.L.B1.O/am=p9sMWK8PAIwEBvyL3-AWAAg/d=1/ed=1/rs=AB1caFXHGZBjOmdphV3ApkcJWO-7oDx0hg/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.Bp2FpwDqofc.L.B1.O/am=p9sMWK8PAIwEBvyL3-AWAAg/d=1/ed=1/rs=AB1caFWs8eyu7WoYNvm4rwmiiwr5FmC62Q/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -5088,7 +5088,7 @@ textarea {
 .P9KVBf .HWAcU:not(:disabled) {
   color: #e8eaed
 }
-.wirelessAndroidFinskyBoqWebChromeMaterialchromewebHeaderSearchbarSearchBarSearchInput::-webkit-input-placeholder {
+.HWAcU::-webkit-input-placeholder {
   color: #5f6368;
   fill: rgb(95,99,104);
   stop-color: rgb(95,99,104)
@@ -5098,13 +5098,13 @@ textarea {
   fill: rgb(95,99,104);
   stop-color: rgb(95,99,104)
 }
-.wirelessAndroidFinskyBoqWebChromeMaterialchromewebHeaderSearchbarSearchBarSearchInput::-webkit-input-placeholder:not(:disabled) {
+.HWAcU::-webkit-input-placeholder:not(:disabled) {
   color: #5f6368
 }
 .HWAcU::placeholder:not(:disabled) {
   color: #5f6368
 }
-.modeDarkTheme .wirelessAndroidFinskyBoqWebChromeMaterialchromewebHeaderSearchbarSearchBarSearchInput::-webkit-input-placeholder {
+.P9KVBf .HWAcU::-webkit-input-placeholder {
   color: #9aa0a6;
   fill: rgb(154,160,166);
   stop-color: rgb(154,160,166)
@@ -5114,7 +5114,7 @@ textarea {
   fill: rgb(154,160,166);
   stop-color: rgb(154,160,166)
 }
-.modeDarkTheme .wirelessAndroidFinskyBoqWebChromeMaterialchromewebHeaderSearchbarSearchBarSearchInput::-webkit-input-placeholder:not(:disabled) {
+.P9KVBf .HWAcU::-webkit-input-placeholder:not(:disabled) {
   color: #9aa0a6
 }
 .P9KVBf .HWAcU::placeholder:not(:disabled) {
