@@ -14212,25 +14212,54 @@ Data-Href: N/A */
 Data-Href: N/A */
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #836d3c
+  color: #068068
 }
 #ucc-5 .pLZE8d::before {
-  background: #836d3c
+  background: #068068
 }
 #ucc-5 .jzzMj {
-  background: #836d3c
+  background: #068068
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #068068
 }
 #ucc-5 .MyQDIb {
-  background: #836d3c
+  background: #068068
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #836d3c
+  background: #068068
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #836d3c
+  color: #068068
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-9 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-9 .jzzMj {
+  background: #ed8e21
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-9 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-9 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-9 .vP0hTc {
+  color: #ed8e21
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14244,25 +14273,25 @@ Data-Href: N/A */
   src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
+#ucc-11 .DaYgZ::after,
+#ucc-11 .pLZE8d::after {
   color: #a9091f
 }
-#ucc-9 .pLZE8d::before {
+#ucc-11 .pLZE8d::before {
   background: #a9091f
 }
-#ucc-9 .jzzMj {
+#ucc-11 .jzzMj {
   background: #a9091f
 }
-#ucc-9 .QeY9wc:not(.kafKN) {
+#ucc-11 .QeY9wc:not(.kafKN) {
   border-top-color: #a9091f
 }
-#ucc-9 .MyQDIb {
+#ucc-11 .MyQDIb {
   background: #a9091f
 }
-body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
   background: #a9091f
 }
-body:not(.dm7YTc) #ucc-9 .vP0hTc {
+body:not(.dm7YTc) #ucc-11 .vP0hTc {
   color: #a9091f
 }
