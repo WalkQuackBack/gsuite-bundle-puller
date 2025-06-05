@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.08dVBd2yscI.L.B1.O/am=GAgEAACAgS0wAAMI/d=1/ed=1/rs=ALs0n2NRXMv6FH086dVKtUGJNUQxagPYHA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.6qAWMY_Qo4g.L.B1.O/am=GAgEAACAgS0wAAMI/d=1/ed=1/rs=ALs0n2NXFY82jMZOtfOzVMuMA1GkW4GJJg/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -8276,6 +8276,30 @@ screen and (forced-colors:active) {
 }
 @media screen and (max-width:400px) {
 }
+.fJ0Wtf {
+  fill: rgb(26,115,232)
+}
+.dm7YTc .fJ0Wtf {
+  fill: rgb(138,180,248)
+}
+.uCrup {
+  fill: #ffffff
+}
+.dm7YTc .uCrup {
+  fill: rgb(32,33,36)
+}
+.ZeMEA {
+  stroke: rgb(26,115,232)
+}
+.dm7YTc .ZeMEA {
+  stroke: rgb(138,180,248)
+}
+.W0cpId {
+  stroke: #ffffff
+}
+.dm7YTc .W0cpId {
+  stroke: rgb(32,33,36)
+}
 .cDgn2c {
   color: #202124;
   border: 1px solid #c7c7c7
@@ -8300,6 +8324,12 @@ screen and (forced-colors:active) {
 .dm7YTc .cDgn2c.Y3EHde.svpSBe {
   background: #004a77;
   color: #c2e7ff
+}
+.XieVZe.ZVVVwf {
+  fill: #00639b
+}
+.dm7YTc .XieVZe.ZVVVwf {
+  fill: #7fcfff
 }
 .Mfg7Tb.HyaTXd {
   border: 3px solid #fff
@@ -8419,17 +8449,34 @@ screen and (forced-colors:active) {
 .dm7YTc .Sksgp {
   color: inherit
 }
-.MQsxIb.Ob0zbc .uQIVzc {
-  color: #5f6368
-}
-.dm7YTc .MQsxIb.Ob0zbc .SnqYCb {
-  color: #bdc1c6
-}
 .fmkQje .L8PZAb.R71ogd.KKjvXb {
   color: #1a73e8
 }
 .dm7YTc .fmkQje .L8PZAb.R71ogd.KKjvXb {
   color: #8ab4f8
+}
+.fmkQje .zdxZbf.aOWjQ .ztUP4e.kTeh9 {
+  border: none;
+  background: #f2f2f2;
+  color: #444746
+}
+.dm7YTc .fmkQje .zdxZbf.aOWjQ .ztUP4e.kTeh9 {
+  background: #303030;
+  color: #c4c7c5
+}
+.fmkQje .zdxZbf.aOWjQ.z6aWUe .ztUP4e {
+  background: #c2e7ff;
+  color: #004a77
+}
+.dm7YTc .fmkQje .zdxZbf.aOWjQ.z6aWUe .ztUP4e {
+  background: #004a77;
+  color: #c2e7ff
+}
+.fmkQje .zdxZbf.aOWjQ .PBbDjb {
+  fill: #00639b
+}
+.dm7YTc .fmkQje .zdxZbf.aOWjQ .PBbDjb {
+  fill: #7fcfff
 }
 .fmkQje .zdxZbf.BswQt .ztUP4e {
   color: #444746;
@@ -9200,30 +9247,6 @@ screen and (forced-colors:active) {
 .dm7YTc:not(.FuHVqe) .JjSnK:not(:disabled) {
   background-color: #004a77
 }
-.fJ0Wtf {
-  fill: rgb(26,115,232)
-}
-.dm7YTc .fJ0Wtf {
-  fill: rgb(138,180,248)
-}
-.uCrup {
-  fill: #ffffff
-}
-.dm7YTc .uCrup {
-  fill: rgb(32,33,36)
-}
-.ZeMEA {
-  stroke: rgb(26,115,232)
-}
-.dm7YTc .ZeMEA {
-  stroke: rgb(138,180,248)
-}
-.W0cpId {
-  stroke: #ffffff
-}
-.dm7YTc .W0cpId {
-  stroke: rgb(32,33,36)
-}
 .FKlJgd:not(:disabled) {
   color: #444746
 }
@@ -9625,6 +9648,15 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
   outline: 5px auto Highlight;
   outline: 5px auto -webkit-focus-ring-color
 }
+.UOVeFe.aOWjQ .bwOy4d {
+  border: none;
+  background: var(--gn-c-inverse-on-surface);
+  color: var(--gn-c-on-surface-variant)
+}
+.UOVeFe.aOWjQ .bwOy4d.z6aWUe {
+  background: var(--gn-c-secondary-container);
+  color: var(--gn-c-on-secondary-container)
+}
 .UOVeFe.stiNJd .hvbAAd {
   color: #747775
 }
@@ -9646,6 +9678,9 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
 .dm7YTc .bwOy4d.BswQt {
   background: #303030;
   color: #c4c7c5
+}
+.jK4DKf.ZVVVwf {
+  fill: var(--gn-c-secondary)
 }
 .JbTTm {
   color: #3c4043
@@ -11404,6 +11439,9 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
 .dm7YTc .jKHa4e {
   background: #303030;
   color: #c4c7c5
+}
+.h4oplb.ZVVVwf {
+  fill: var(--gn-c-secondary)
 }
 .jKHa4e.svpSBe {
   background: var(--gn-c-secondary-container);
@@ -14228,45 +14266,6 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: MarketWatch-headline-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: MarketWatch-panel-title-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: MarketWatch-body-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #087c08
-}
-#ucc-3 .pLZE8d::before {
-  background: #087c08
-}
-#ucc-3 .jzzMj {
-  background: #087c08
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #087c08
-}
-#ucc-3 .MyQDIb {
-  background: #087c08
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #087c08
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #087c08
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
   font-family: 'Rough Draft Atlanta-headline-font';
   src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
@@ -14284,34 +14283,29 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Daily Memphian-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Daily Memphian-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #e8ab47
+  color: #ed8e21
 }
 #ucc-7 .pLZE8d::before {
-  background: #e8ab47
+  background: #ed8e21
 }
 #ucc-7 .jzzMj {
-  background: #e8ab47
+  background: #ed8e21
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #e8ab47
+  border-top-color: #ed8e21
 }
 #ucc-7 .MyQDIb {
-  background: #e8ab47
+  background: #ed8e21
 }
 .dm7YTc #ucc-7 .vP0hTc::before {
-  background: #e8ab47
+  background: #ed8e21
 }
 .dm7YTc #ucc-7 .vP0hTc {
-  color: #e8ab47
+  color: #ed8e21
 }
