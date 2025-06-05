@@ -14228,6 +14228,45 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #121212
+}
+#ucc-3 .pLZE8d::before {
+  background: #121212
+}
+#ucc-3 .jzzMj {
+  background: #121212
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #121212
+}
+#ucc-3 .MyQDIb {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #121212
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
   font-family: 'Barron\27 s-headline-font';
   src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
@@ -14266,54 +14305,81 @@ body:not(.dm7YTc) #ucc-5 .vP0hTc {
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #836d3c
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .pLZE8d::before {
-  background: #836d3c
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .jzzMj {
-  background: #836d3c
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
-}
-#ucc-7 .MyQDIb {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #836d3c
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Santa Monica Daily Press-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #ed8e21
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-9 .pLZE8d::before {
-  background: #ed8e21
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-9 .jzzMj {
-  background: #ed8e21
+#ucc-13 .DaYgZ::after,
+#ucc-13 .pLZE8d::after {
+  color: pink
 }
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #ed8e21
+#ucc-13 .pLZE8d::before {
+  background: pink
 }
-#ucc-9 .MyQDIb {
-  background: #ed8e21
+#ucc-13 .jzzMj {
+  background: pink
 }
-.dm7YTc #ucc-9 .vP0hTc::before {
-  background: #ed8e21
+#ucc-13 .QeY9wc:not(.kafKN) {
+  border-top-color: pink
 }
-.dm7YTc #ucc-9 .vP0hTc {
-  color: #ed8e21
+#ucc-13 .MyQDIb {
+  background: pink
+}
+.dm7YTc #ucc-13 .vP0hTc::before {
+  background: pink
+}
+.dm7YTc #ucc-13 .vP0hTc {
+  color: pink
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-15 .DaYgZ::after,
+#ucc-15 .pLZE8d::after {
+  color: #6d0077
+}
+#ucc-15 .pLZE8d::before {
+  background: #6d0077
+}
+#ucc-15 .jzzMj {
+  background: #6d0077
+}
+#ucc-15 .QeY9wc:not(.kafKN) {
+  border-top-color: #6d0077
+}
+#ucc-15 .MyQDIb {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-15 .vP0hTc::before {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-15 .vP0hTc {
+  color: #6d0077
 }
