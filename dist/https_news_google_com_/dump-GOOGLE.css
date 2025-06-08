@@ -14249,56 +14249,155 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i31 {
+#i28 {
   color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i28 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i32 {
+#i29 {
   background-color: #592fd0
 }
-.dm7YTc #i32 {
+.dm7YTc #i29 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #121212
+}
+#ucc-3 .pLZE8d::before {
+  background: #121212
+}
+#ucc-3 .jzzMj {
+  background: #121212
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #121212
+}
+#ucc-3 .MyQDIb {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #121212
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rochester Post Bulletin-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw9O2vrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rochester Post Bulletin-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rochester Post Bulletin-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-11 .DaYgZ::after,
 #ucc-11 .pLZE8d::after {
-  color: pink
+  color: #007db3
 }
 #ucc-11 .pLZE8d::before {
-  background: pink
+  background: #007db3
 }
 #ucc-11 .jzzMj {
-  background: pink
+  background: #007db3
 }
 #ucc-11 .QeY9wc:not(.kafKN) {
-  border-top-color: pink
+  border-top-color: #007db3
 }
 #ucc-11 .MyQDIb {
-  background: pink
+  background: #007db3
 }
-.dm7YTc #ucc-11 .vP0hTc::before {
-  background: pink
+body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
+  background: #007db3
 }
-.dm7YTc #ucc-11 .vP0hTc {
-  color: pink
+body:not(.dm7YTc) #ucc-11 .vP0hTc {
+  color: #007db3
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-13 .DaYgZ::after,
+#ucc-13 .pLZE8d::after {
+  color: #836d3c
+}
+#ucc-13 .pLZE8d::before {
+  background: #836d3c
+}
+#ucc-13 .jzzMj {
+  background: #836d3c
+}
+#ucc-13 .QeY9wc:not(.kafKN) {
+  border-top-color: #836d3c
+}
+#ucc-13 .MyQDIb {
+  background: #836d3c
+}
+body:not(.dm7YTc) #ucc-13 .vP0hTc::before {
+  background: #836d3c
+}
+body:not(.dm7YTc) #ucc-13 .vP0hTc {
+  color: #836d3c
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-15 .DaYgZ::after,
+#ucc-15 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-15 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-15 .jzzMj {
+  background: #ed8e21
+}
+#ucc-15 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-15 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-15 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-15 .vP0hTc {
+  color: #ed8e21
 }
