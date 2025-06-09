@@ -14249,6 +14249,14 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+#c29 {
+  color: #00758c
+}
+.dm7YTc #c29 {
+  color: #75b8b1
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 #i31 {
   color: #592fd0
 }
@@ -14266,102 +14274,141 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #ffcf44
+  color: #121212
 }
 #ucc-3 .pLZE8d::before {
-  background: #ffcf44
+  background: #121212
 }
 #ucc-3 .jzzMj {
-  background: #ffcf44
+  background: #121212
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
+  border-top-color: #121212
 }
 #ucc-3 .MyQDIb {
-  background: #ffcf44
+  background: #121212
 }
-.dm7YTc #ucc-3 .vP0hTc::before {
-  background: #ffcf44
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #121212
 }
-.dm7YTc #ucc-3 .vP0hTc {
-  color: #ffcf44
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #121212
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Barron\27 s-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Barron\27 s-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Barron\27 s-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDu1qnJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #a9091f
+  color: #00234b
 }
 #ucc-5 .pLZE8d::before {
-  background: #a9091f
+  background: #00234b
 }
 #ucc-5 .jzzMj {
-  background: #a9091f
+  background: #00234b
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
+  border-top-color: #00234b
 }
 #ucc-5 .MyQDIb {
-  background: #a9091f
+  background: #00234b
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #a9091f
+  background: #00234b
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #a9091f
+  color: #00234b
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Santa Monica Daily Press-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #ed8e21
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .pLZE8d::before {
-  background: #ed8e21
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .jzzMj {
-  background: #ed8e21
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #07508a
 }
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #ed8e21
+#ucc-9 .pLZE8d::before {
+  background: #07508a
 }
-#ucc-7 .MyQDIb {
-  background: #ed8e21
+#ucc-9 .jzzMj {
+  background: #07508a
 }
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: #ed8e21
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
 }
-.dm7YTc #ucc-7 .vP0hTc {
-  color: #ed8e21
+#ucc-9 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-11 .DaYgZ::after,
+#ucc-11 .pLZE8d::after {
+  color: #1b66b1
+}
+#ucc-11 .pLZE8d::before {
+  background: #1b66b1
+}
+#ucc-11 .jzzMj {
+  background: #1b66b1
+}
+#ucc-11 .QeY9wc:not(.kafKN) {
+  border-top-color: #1b66b1
+}
+#ucc-11 .MyQDIb {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-11 .vP0hTc {
+  color: #1b66b1
 }
