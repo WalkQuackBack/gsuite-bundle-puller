@@ -13845,6 +13845,68 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+.dm7YTc .p1eHnf[aria-selected=true] {
+  background-color: #3c4043
+}
+.GkU1of {
+  color: #80868b
+}
+.dm7YTc .GkU1of {
+  color: #bdc1c6
+}
+.p1eHnf.UtVwcd:focus,
+.p1eHnf.UtVwcd:focus-within,
+.p1eHnf.UtVwcd:hover,
+.p1eHnf.UtVwcd[aria-selected=true] {
+  background-color: #e8eaed
+}
+.dm7YTc .p1eHnf.UtVwcd:focus,
+.dm7YTc .p1eHnf.UtVwcd:focus-within,
+.dm7YTc .p1eHnf.UtVwcd:hover,
+.dm7YTc .p1eHnf.UtVwcd[aria-selected=true] {
+  background-color: #3c4043
+}
+.dm7YTc .KfXsid {
+  color: #fff
+}
+.p1eHnf.Au3bp .KfXsid {
+  color: #1f1f1f
+}
+.dm7YTc .p1eHnf.Au3bp .KfXsid {
+  color: #e3e3e3
+}
+.Sz6s4e.Au3bp {
+  color: #444746
+}
+.dm7YTc .Sz6s4e.Au3bp {
+  color: #c4c7c5
+}
+.p1eHnf.Au3bp .jNjBJf {
+  color: #1f1f1f
+}
+.dm7YTc .p1eHnf.Au3bp .jNjBJf {
+  color: #c4c7c5
+}
+.hYchye .jNjBJf {
+  color: #5f6368
+}
+.dm7YTc .hYchye .jNjBJf {
+  color: #bdc1c6
+}
+.bmkrS {
+  color: #5f6368
+}
+.dm7YTc .bmkrS {
+  color: #bdc1c6
+}
+.Sz6s4e {
+  color: #5f6368
+}
+.dm7YTc .Sz6s4e {
+  color: #bdc1c6
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 .BGKIec.Au3bp,
 .Y9bbfb.Au3bp .EE2L0d {
   background: rgb(243,246.2,251.72)
@@ -14011,68 +14073,6 @@ Data-Href: N/A */
 }
 .dm7YTc .ukytlb.ixisub .Zgjpyb .ztUP4e {
   background: #3c3d40
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-.dm7YTc .p1eHnf[aria-selected=true] {
-  background-color: #3c4043
-}
-.GkU1of {
-  color: #80868b
-}
-.dm7YTc .GkU1of {
-  color: #bdc1c6
-}
-.p1eHnf.UtVwcd:focus,
-.p1eHnf.UtVwcd:focus-within,
-.p1eHnf.UtVwcd:hover,
-.p1eHnf.UtVwcd[aria-selected=true] {
-  background-color: #e8eaed
-}
-.dm7YTc .p1eHnf.UtVwcd:focus,
-.dm7YTc .p1eHnf.UtVwcd:focus-within,
-.dm7YTc .p1eHnf.UtVwcd:hover,
-.dm7YTc .p1eHnf.UtVwcd[aria-selected=true] {
-  background-color: #3c4043
-}
-.dm7YTc .KfXsid {
-  color: #fff
-}
-.p1eHnf.Au3bp .KfXsid {
-  color: #1f1f1f
-}
-.dm7YTc .p1eHnf.Au3bp .KfXsid {
-  color: #e3e3e3
-}
-.Sz6s4e.Au3bp {
-  color: #444746
-}
-.dm7YTc .Sz6s4e.Au3bp {
-  color: #c4c7c5
-}
-.p1eHnf.Au3bp .jNjBJf {
-  color: #1f1f1f
-}
-.dm7YTc .p1eHnf.Au3bp .jNjBJf {
-  color: #c4c7c5
-}
-.hYchye .jNjBJf {
-  color: #5f6368
-}
-.dm7YTc .hYchye .jNjBJf {
-  color: #bdc1c6
-}
-.bmkrS {
-  color: #5f6368
-}
-.dm7YTc .bmkrS {
-  color: #bdc1c6
-}
-.Sz6s4e {
-  color: #5f6368
-}
-.dm7YTc .Sz6s4e {
-  color: #bdc1c6
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14434,49 +14434,40 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #6d0077
+@font-face {
+  font-family: 'The Wall Street Journal-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-9 .pLZE8d::before {
-  background: #6d0077
+@font-face {
+  font-family: 'The Wall Street Journal-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-9 .jzzMj {
-  background: #6d0077
+@font-face {
+  font-family: 'The Wall Street Journal-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #ffcf44
 }
-#ucc-9 .MyQDIb {
-  background: #6d0077
+#ucc-3 .pLZE8d::before {
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
-  background: #6d0077
+#ucc-3 .jzzMj {
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-9 .vP0hTc {
-  color: #6d0077
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #ffcf44
 }
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-11 .DaYgZ::after,
-#ucc-11 .pLZE8d::after {
-  color: #c62928
+#ucc-3 .MyQDIb {
+  background: #ffcf44
 }
-#ucc-11 .pLZE8d::before {
-  background: #c62928
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: #ffcf44
 }
-#ucc-11 .jzzMj {
-  background: #c62928
-}
-#ucc-11 .QeY9wc:not(.kafKN) {
-  border-top-color: #c62928
-}
-#ucc-11 .MyQDIb {
-  background: #c62928
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
-  background: #c62928
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc {
-  color: #c62928
+.dm7YTc #ucc-3 .vP0hTc {
+  color: #ffcf44
 }
