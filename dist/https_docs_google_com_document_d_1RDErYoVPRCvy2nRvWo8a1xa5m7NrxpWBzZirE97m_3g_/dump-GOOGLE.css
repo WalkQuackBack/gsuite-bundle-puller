@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/2956523696-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/293510003-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -582px -378px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -1808px -604px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2349,6 +2349,9 @@ a:active {
 .jfk-slideToggle.jfk-slideToggle-clearOutline {
   border: 1px solid #ccc
 }
+.share-client-dialog:focus {
+  outline: 0
+}
 .share-client-content-iframe {
   border: none
 }
@@ -2360,6 +2363,9 @@ a:active {
 }
 .inline-share-ui-overlay {
   background-color: #fff
+}
+.share-client-loading-dialog:focus {
+  outline: 0
 }
 .modeElementsDark .share-client-loading-dialog .modal-dialog-title {
   color: #e3e3e3
@@ -2520,7 +2526,7 @@ a:active {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -1186px -1186px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -204px -1252px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3475,7 +3481,7 @@ a:active {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -582px -378px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -1808px -604px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -4303,18 +4309,100 @@ a:active {
 .embedded-file-projector-download-button {
   background: 0 0
 }
+.appsFlixPluginsVoiceoversDialogVoicecardCard {
+  background: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsFlixPluginsVoiceoversDialogVoicecardCard:hover {
+  background: var(--gm3-sys-color-surface-container-high,#e9eef6)
+}
+.appsFlixPluginsVoiceoversDialogVoicecardCard:focus {
+  outline: 3px solid var(--gm3-sys-color-secondary,#00639b)
+}
+.appsFlixPluginsVoiceoversDialogVoicecardSelected {
+  outline: 2px solid var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsFlixPluginsVoiceoversPreviewPresetVoicesDialogSubTitle {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsFlixPluginsVoiceoversVoicecardCard {
+  background: var(--gm3-sys-color-surface-container-low,#f8fafd)
+}
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-flat-dark,
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-flat-default,
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-flat-primary,
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-text-default {
+  background-color: transparent
+}
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-flat-dark:hover,
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-flat-default:hover,
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-flat-primary:hover,
+.appsFlixPluginsVoiceoversVoicecardChooseVoiceButtonContainer .docs-material-button-text-default:hover {
+  background-color: #dce1e8
+}
+.appsFlixPluginsVoiceoversVoicecardVoiceLabel {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsFlixPluginsVoiceoversVoicecardVoiceName {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsFlixPluginsVoiceoversVoicecardVoiceDescription {
+  color: #444746
+}
+.appsFlixPluginsVoiceoversVoicecardSvgIcon {
+  fill: var(--gm3-sys-color-on-secondary-container,#001d35)
+}
+@media screen and (forced-colors:active) {
+  .appsFlixPluginsVoiceoversVoicecardSvgIcon {
+    fill: #fff
+  }
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerContainer .docs-material-button-flat-default {
+  background-color: #c2e7ff
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerContainer .docs-material-button-flat-default:hover {
+  background-color: #b2d7ef
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerContainer .docs-material-button-flat-default:focus {
+  background-color: #abcfe7
+}
+@media screen and (forced-colors:active) {
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerIsPlaying {
+  background-color: var(--gm3-sys-color-tertiary-container,#c4eed0);
+  fill: #c2e7ff
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerIconEnabled {
+  fill: #c2e7ff
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerPlayIconDisabled {
+  fill: rgba(31,31,31,.38)
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerPlayIconDisabled > .docs-material-button-flat-default.docs-material-button {
+  background-color: rgba(31,31,31,.12)
+}
+.appsFlixPluginsVoiceoversPreviewAudioPlayerLoader {
+  background: var(--gm3-sys-color-primary,#0b57d0)
+}
+@keyframes rotateTurn {
+}
 .magicBarActionButtonContainer .docs-gm3-filled-button {
   background: #f0f4f9;
   color: #444746
 }
-.magicBarActionButtonContainer .docs-gm3-filled-button:active,
-.magicBarActionButtonContainer .docs-gm3-filled-button:focus,
 .magicBarActionButtonContainer .docs-gm3-filled-button:hover {
   background: #dce1e8;
   color: #444746
 }
+.magicBarActionButtonContainer .docs-gm3-filled-button:active,
+.magicBarActionButtonContainer .docs-gm3-filled-button:focus {
+  background: #d5dae1;
+  color: #444746
+}
 .magicBarActionButtonContainer .docs-gm3-filled-button.docs-gm3-button-focused:focus-visible {
   outline: 0
+}
+.magicBarActionButtonContainer .docs-gm3-filled-button.docs-gm3-button-hover {
+  box-shadow: none
 }
 .magicbarPromptInputViewTitle {
   background: linear-gradient(135deg,#217bfe,#078efb 33%,#ac87eb)
@@ -4341,6 +4429,9 @@ a:active {
   .magicbarPromptInputViewCreateButton .docs-gm3-filled-button.docs-gm3-button-disabled {
     color: GrayText
   }
+}
+.magicbarPromptInputViewErrorMessageContainer {
+  color: #b3261e
 }
 .miniChapterSwitcherContainerView.breadcrumbSwitcherUiVariant .miniChapterSwitcherNavigationEntryPointIcon {
   background: #e9eef6
@@ -7665,9 +7756,6 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 .docs-contributorview-message {
   color: #202124
 }
-.docs-promo-title-prefix {
-  color: #d25342
-}
 .docs-promo-title {
   color: #333
 }
@@ -7859,6 +7947,7 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
   background-color: rgba(11,87,208,.12)
 }
 .superfab-aicontentrefinements-button.superfab-airefinements-loading-highlight .instant-button,
+.superfab-aiformattingrefinements-button.superfab-airefinements-loading-highlight .instant-button,
 .superfab-aiwritingrefinements-button.superfab-airefinements-loading-highlight .instant-button {
   background-color: #edf2fc
 }
@@ -9281,9 +9370,6 @@ a.docs-revisions-sidebar-revisions-empty-learn-more {
   background-color: #f1f3f4;
   border-color: #dadce0
 }
-.insertabletemplates-dialog .docs-thumbnailcontrol-title {
-  color: #444746
-}
 .sl-root {
   background-color: #edf2fa;
   border: 1px solid #e8eaed
@@ -9354,6 +9440,9 @@ a.docs-revisions-sidebar-revisions-empty-learn-more {
   border: 1px solid #00639b
 }
 @media screen and (min-width:850px) {
+}
+.insertabletemplates-content-container .docs-thumbnailcontrol-title {
+  color: #444746
 }
 .insertabletemplates-action-buttons-container {
   border-top: 1px solid #dadce0
@@ -10407,7 +10496,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -582px -378px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -1808px -604px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10468,7 +10557,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -582px -378px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -1808px -604px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -12512,9 +12601,6 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
 .docs-image-synthesis-sidebar .image-generation-error-message {
   color: #b3261e
 }
-.image-generation-error-message.image-generation-permission-denied {
-  color: #444746
-}
 .docs-image-synthesis-sidebar .image-synthesis-creation-button {
   border: 1px solid transparent;
   background: #0b57d0;
@@ -13193,7 +13279,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -582px -378px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -1808px -604px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13255,7 +13341,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite821_gm3_grey_medium.svg) -582px -378px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite826_gm3_grey_medium.svg) -1808px -604px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -14747,6 +14833,11 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 .kixAudioPlayerPalette.docs-palette {
   background-color: #fff
 }
+@media screen and (forced-colors:active) {
+  .kixAudioPlayerPalette.docs-palette {
+    border: 1px solid transparent
+  }
+}
 .kixAudioPlayerPalette.docs-palette .docs-palette-body {
   border: none;
   background-color: #fff
@@ -14756,6 +14847,13 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 }
 .kixAudioPlayerOverflowMenuDisclaimer {
   color: #747775
+}
+@media screen and (forced-colors:active) {
+  .kixAudioFeedbackWidgetThumbsDownButton.docs-gm3-button-hover,
+  .kixAudioFeedbackWidgetThumbsUpButton.docs-gm3-button-hover {
+    background-color: Highlight;
+    color: HighlightText
+  }
 }
 .aiBlockMenuBarBubbleContainer {
   background: 0 0;
@@ -15039,6 +15137,9 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 .docs-generativeai-onboarding-dialog-text {
   color: #747775
 }
+.docs-imagen-4-juno-promo-container .docs-generativeai-onboarding-dialog-text {
+  color: #444746
+}
 .docs-generativeai-onboarding-dialog-subtext {
   border: 1px solid #c4c7c5;
   color: #747775
@@ -15173,6 +15274,9 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 .kix-esignature-request-result-dialog-content {
   color: #3c4043
 }
+.kix-esignature-request-result-dialog-learn-more {
+  border-top: 1px solid #c5c7c5
+}
 .docs-material-gm-dialog .docs-material-gm-dialog-call-to-action-button.docs-material-button-active.kix-esignature-revision-mismatch-dialog-action-button,
 .docs-material-gm-dialog .docs-material-gm-dialog-call-to-action-button.docs-material-button-focused.kix-esignature-revision-mismatch-dialog-action-button,
 .docs-material-gm-dialog .docs-material-gm-dialog-call-to-action-button.docs-material-button-hover.kix-esignature-revision-mismatch-dialog-action-button,
@@ -15285,6 +15389,21 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 }
 .kixTemplateDetailsViewDocumentPreviewContainer {
   border-bottom: 1px #c4c7c5
+}
+.kixGlobalFabContainer {
+  background-color: #2e64de
+}
+.kixGlobalFabContainer:active,
+.kixGlobalFabContainer:focus,
+.kixGlobalFabContainer:hover {
+  background-color: #f2f2f2
+}
+.kixGlobalFabMenu.goog-menu.goog-menu-vertical {
+  box-shadow: unset
+}
+.kixGlobalFabMenuItem.goog-menuitem {
+  background-color: #e7f2ff;
+  color: #0b57d0
 }
 .kix-linenumbers-sidebar {
   background-color: #fff;
@@ -16150,18 +16269,24 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .kix-smart-controls-button-sidebar-insert-table-row-action-edit-view-input-label,
 .kix-smart-controls-button-sidebar-open-chat-group-action-edit-view-input-label,
 .kix-smart-controls-button-sidebar-open-url-action-edit-view-input-label {
-  color: #444746
+  color: #1f1f1f
+}
+.kix-smart-controls-button-sidebar-edit-view-formatting-controls-font-size-combo-box-container .goog-combo-button-open .goog-combo-button-input {
+  background-color: #fff
 }
 .kix-smart-controls-button-sidebar-edit-view-button-label-text-input-container .goog-control,
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-function-name-text-input-container .goog-control,
 .kix-smart-controls-button-sidebar-open-url-action-edit-view-url-text-input-container .goog-control {
   border: 1px solid #dadce0;
-  color: #3c4043
+  color: #3c4043;
+  background-color: inherit;
+  border-color: #747775;
+  color: #444746
 }
 .kix-smart-controls-button-sidebar-edit-view-editing-disabled .kix-smart-controls-button-sidebar-edit-view-button-label-text-input-container .goog-control,
 .kix-smart-controls-button-sidebar-edit-view-editing-disabled .kix-smart-controls-button-sidebar-open-url-action-edit-view-url-text-input-container .goog-control,
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-editing-disabled .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-function-name-text-input-container .goog-control {
-  background: #fff;
+  background-color: inherit;
   color: #747775
 }
 .kix-smart-controls-button-sidebar-edit-view-button-label-text-input-container .goog-control.goog-control-focused,
@@ -16170,6 +16295,7 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-function-name-text-input-container .goog-control.goog-control-focused,
 .kix-smart-controls-button-sidebar-open-chat-group-action-edit-view-email-input-container:focus-within,
 .kix-smart-controls-button-sidebar-open-url-action-edit-view-url-text-input-container .goog-control.goog-control-focused {
+  background-color: #fff;
   outline: 2px solid #015fcc
 }
 .kix-smart-controls-button-sidebar-edit-view-button-label-text-input-container-error.goog-control,
@@ -16186,7 +16312,8 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls-color-menu-button.docs-flatcolormenubutton.goog-flat-menu-button,
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls-icon-menu-button.goog-flat-menu-button {
-  background: #fff
+  background: inherit;
+  border-color: #747775
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls-color-menu-button.docs-flatcolormenubutton.goog-flat-menu-button.goog-flat-menu-button-focused,
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls-icon-menu-button.goog-flat-menu-button.goog-flat-menu-button-focused {
@@ -16213,7 +16340,8 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   border-color: transparent
 }
 .kix-smart-controls-button-sidebar-edit-view-formatting-controls-font-size-combo-box-container .jfk-textinput {
-  border-top: 1px solid #d9d9d9
+  background-color: inherit;
+  border-color: #747775
 }
 .kix-smart-controls-button-sidebar-edit-view-formatting-controls-font-size-combo-box-container .goog-combo-button {
   outline: 0
@@ -16288,9 +16416,26 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
     color: GrayText
   }
 }
-.kix-smart-controls-button-sidebar-audio-overview-action-edit-view,
-.kix-smart-controls-button-sidebar-audio-summary-action-edit-view,
-.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view {
+.kix-smart-controls-button-sidebar-audio-overview-action-edit-view .kix-smart-controls-button-sidebar-audio-overview-action-edit-view-title,
+.kix-smart-controls-button-sidebar-audio-overview-action-edit-view .kix-smart-controls-button-sidebar-audio-summary-action-edit-view-title,
+.kix-smart-controls-button-sidebar-audio-overview-action-edit-view .kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-title,
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view .kix-smart-controls-button-sidebar-audio-overview-action-edit-view-title,
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view .kix-smart-controls-button-sidebar-audio-summary-action-edit-view-title,
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view .kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-title,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view .kix-smart-controls-button-sidebar-audio-overview-action-edit-view-title,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view .kix-smart-controls-button-sidebar-audio-summary-action-edit-view-title,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view .kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-title {
+  color: #1f1f1f
+}
+.kix-smart-controls-button-sidebar-audio-overview-action-edit-view .kix-smart-controls-button-sidebar-audio-overview-action-edit-view-details,
+.kix-smart-controls-button-sidebar-audio-overview-action-edit-view .kix-smart-controls-button-sidebar-audio-summary-action-edit-view-details,
+.kix-smart-controls-button-sidebar-audio-overview-action-edit-view .kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-details,
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view .kix-smart-controls-button-sidebar-audio-overview-action-edit-view-details,
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view .kix-smart-controls-button-sidebar-audio-summary-action-edit-view-details,
+.kix-smart-controls-button-sidebar-audio-summary-action-edit-view .kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-details,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view .kix-smart-controls-button-sidebar-audio-overview-action-edit-view-details,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view .kix-smart-controls-button-sidebar-audio-summary-action-edit-view-details,
+.kix-smart-controls-button-sidebar-text-to-speech-action-edit-view .kix-smart-controls-button-sidebar-text-to-speech-action-edit-view-details {
   color: #444746
 }
 .smartControlsButtonDetailsBubbleContainer.docs-bubble-material .smartControlsButtonDetailsBubbleOpenSidebarButton .docs-material-button.docs-material-button-hover {
@@ -17668,6 +17813,15 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .hard-exceeded .docs-freemium-banner-primary-button {
   border-color: #fff
 }
+.UserPrefsUnavailableBanner-banner-container {
+  background: #fce8e6
+}
+.UserPrefsUnavailableBanner-banner-title {
+  color: #202124
+}
+.UserPrefsUnavailableBanner-banner-message {
+  color: #202124
+}
 .docs-hats-survey-followup-card {
   background-color: #fafafa;
   border: none;
@@ -17684,7 +17838,8 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   color: #fff
 }
 .docs-bubble.appsElementsLinkPreview {
-  border: none
+  border: none;
+  box-shadow: none
 }
 .docs-bubble.appsElementsLinkPreview a[data-broken-link=true] {
   color: #5f6368!important
@@ -20306,12 +20461,42 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .appsElementsMediaPlaybackAudioSliderDurationContainer {
   color: var(--gm3-sys-color-outline,#747775)
 }
+@media screen and (forced-colors:active) {
+}
+@media screen and (forced-colors:active) {
+  .appsElementsMediaPlaybackAudioSliderDurationContainerPendingAudio .appsElementsMediaPlaybackAudioSliderCurrentTime,
+  .appsElementsMediaPlaybackAudioSliderDurationContainerPendingAudio .appsElementsMediaPlaybackAudioSliderMaxTime,
+  .appsElementsMediaPlaybackAudioSliderDurationContainerPendingAudio .appsElementsMediaPlaybackAudioSliderTimeSeparator {
+    color: GrayText
+  }
+}
 .appsElementsMediaPlaybackAudioSliderCurrentTime {
   color: var(--gm3-sys-color-primary,#0b57d0)
 }
 .appsElementsMediaPlaybackAudioSliderMaxTime,
 .appsElementsMediaPlaybackAudioSliderTimeSeparator {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+@media screen and (forced-colors:active) {
+  .appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderLine {
+    border: 1px solid Highlight
+  }
+}
+.appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderAnimated {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderAnimated {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
+@media (not (prefers-reduced-motion)) and (not (prefers-reduced-motion)) {
+  @keyframes generation-shimmer {
+  }
+}
+@keyframes appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderEnter {
+}
+@keyframes appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderStretchIn {
 }
 .javascriptMaterialdesignGm3WizElevation-elevation__overlay {
   background-color: var(--gm3-elevation-surface-tint-layer-color,transparent)
@@ -20807,6 +20992,9 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   outline: 0;
   color: inherit
 }
+.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-shared-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
 @keyframes gm3-chip-enter {
 }
 @keyframes gm3-chip-exit {
@@ -20835,11 +21023,8 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .javascriptMaterialdesignGm3WizChipInputWithoutAvatarEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
   color: var(--gm3-chip-input-without-avatar-with-icon-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.javascriptMaterialdesignGm3WizChipInputWithoutAvatarEl .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+.javascriptMaterialdesignGm3WizChipInputWithoutAvatarEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
   color: var(--gm3-chip-input-without-avatar-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.javascriptMaterialdesignGm3WizChipInputWithoutAvatarEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-input-without-avatar-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
 }
 .javascriptMaterialdesignGm3WizChipInputWithoutAvatarEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
   color: var(--gm3-chip-input-without-avatar-hover-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
@@ -21403,6 +21588,11 @@ screen and (forced-colors:active) {
 @media (-ms-high-contrast:active),
 (-ms-high-contrast:none) {
 }
+.boqAddonscardsrendererCardButtonShimmerTonalButton:before {
+  background: linear-gradient(100deg,hsla(0,0%,100%,0),hsla(0,0%,100%,.4) 50%,hsla(0,0%,100%,0))
+}
+@keyframes shimmer-animation {
+}
 .boqAddonscardsrendererCardFormattedtextFormattedTextSpan {
   color: var(--light-color)
 }
@@ -21454,11 +21644,8 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizChipAssistFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
   color: var(--gm3-chip-assist-flat-with-icon-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.javascriptMaterialdesignGm3WizChipAssistFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+.javascriptMaterialdesignGm3WizChipAssistFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
   color: var(--gm3-chip-assist-flat-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
-}
-.javascriptMaterialdesignGm3WizChipAssistFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-assist-flat-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
 }
 .javascriptMaterialdesignGm3WizChipAssistFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
   color: var(--gm3-chip-assist-flat-hover-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
@@ -21531,25 +21718,19 @@ screen and (forced-colors:active) {
 }
 .javascriptMaterialdesignGm3WizButtonFilled-button {
   background-color: var(--gm3-button-filled-container-color,var(--gm3-sys-color-primary,#0b57d0))}
-.javascriptMaterialdesignGm3WizButtonFilled-button--toggle {
-  background-color: var(--gm3-button-filled-expressive-unselected-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))
-}
-.javascriptMaterialdesignGm3WizButtonFilled-button--selected {
-  background-color: var(--gm3-button-filled-expressive-selected-container-color,var(--gm3-sys-color-primary,#0b57d0))
-}
 .javascriptMaterialdesignGm3WizButtonFilled-button:disabled {
   background-color: var(--gm3-button-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .javascriptMaterialdesignGm3WizButtonFilled-button:before {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonFilled-button:where(.javascriptMaterialdesignGm3WizButtonFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonFilled-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonFilled-button:has(.javascriptMaterialdesignGm3WizButtonFilled-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonFilled-button:where(.javascriptMaterialdesignGm3WizButtonFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonFilled-button__link) .javascriptMaterialdesignGm3WizButtonFilled-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonFilled-button:where(.javascriptMaterialdesignGm3WizButtonFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonFilled-button__link) .javascriptMaterialdesignGm3WizButtonFilled-button__label {
+  .javascriptMaterialdesignGm3WizButtonFilled-button:has(.javascriptMaterialdesignGm3WizButtonFilled-button__link) .javascriptMaterialdesignGm3WizButtonFilled-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonFilled-button:has(.javascriptMaterialdesignGm3WizButtonFilled-button__link) .javascriptMaterialdesignGm3WizButtonFilled-button__label {
     color: LinkText
   }
 }
@@ -21608,36 +21789,24 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizButtonOutlined-button {
   border-color: var(--gm3-button-outlined-outline-color,var(--gm3-sys-color-outline,#747775))}
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonOutlined-button:where(.javascriptMaterialdesignGm3WizButtonOutlined-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonOutlined-button__link) {
+  .javascriptMaterialdesignGm3WizButtonOutlined-button:has(.javascriptMaterialdesignGm3WizButtonOutlined-button__link) {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonOutlined-button:where(.javascriptMaterialdesignGm3WizButtonOutlined-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonOutlined-button__link) .javascriptMaterialdesignGm3WizButtonOutlined-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonOutlined-button:where(.javascriptMaterialdesignGm3WizButtonOutlined-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonOutlined-button__link) .javascriptMaterialdesignGm3WizButtonOutlined-button__label {
+  .javascriptMaterialdesignGm3WizButtonOutlined-button:has(.javascriptMaterialdesignGm3WizButtonOutlined-button__link) .javascriptMaterialdesignGm3WizButtonOutlined-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonOutlined-button:has(.javascriptMaterialdesignGm3WizButtonOutlined-button__link) .javascriptMaterialdesignGm3WizButtonOutlined-button__label {
     color: LinkText
   }
-}
-.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle {
-  border-color: var(--gm3-button-outlined-expressive-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonOutlined-button:hover {
   border-color: var(--gm3-button-outlined-hover-outline-color,var(--gm3-sys-color-outline,#747775))
 }
-.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle:hover {
-  border-color: var(--gm3-button-outlined-expressive-unselected-hovered-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
 .javascriptMaterialdesignGm3WizButtonOutlined-button:focus-visible {
   border-color: var(--gm3-button-outlined-focus-outline-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle:focus-visible {
-  border-color: var(--gm3-button-outlined-expressive-unselected-focused-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
 .javascriptMaterialdesignGm3WizButtonOutlined-button:active {
   border-color: var(--gm3-button-outlined-pressed-outline-color,var(--gm3-sys-color-outline,#747775))
-}
-.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle:active {
-  border-color: var(--gm3-button-outlined-expressive-unselected-pressed-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonOutlined-button:disabled {
   border-color: var(--gm3-button-outlined-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -21646,15 +21815,6 @@ screen and (forced-colors:active) {
   .javascriptMaterialdesignGm3WizButtonOutlined-button:disabled {
     border-color: GrayText
   }
-}
-.javascriptMaterialdesignGm3WizButtonOutlined-button--toggle:disabled {
-  border-color: var(--gm3-button-outlined-expressive-unselected-disabled-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
-.javascriptMaterialdesignGm3WizButtonOutlined-button:disabled.javascriptMaterialdesignGm3WizButtonOutlined-button--selected {
-  background-color: var(--gm3-button-outlined-expressive-selected-disabled-container-color,var(--gm3-sys-color-on-surface,#1f1f1f))
-}
-.javascriptMaterialdesignGm3WizButtonOutlined-button.javascriptMaterialdesignGm3WizButtonOutlined-button--selected {
-  background-color: var(--gm3-button-outlined-expressive-selected-container-color,var(--gm3-sys-color-inverse-surface,#303030))
 }
 .javascriptMaterialdesignGm3WizButtonText-button {
   border: none;
@@ -21702,13 +21862,13 @@ screen and (forced-colors:active) {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonText-button:where(.javascriptMaterialdesignGm3WizButtonText-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonText-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonText-button:has(.javascriptMaterialdesignGm3WizButtonText-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonText-button:where(.javascriptMaterialdesignGm3WizButtonText-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonText-button__link) .javascriptMaterialdesignGm3WizButtonText-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonText-button:where(.javascriptMaterialdesignGm3WizButtonText-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonText-button__link) .javascriptMaterialdesignGm3WizButtonText-button__label {
+  .javascriptMaterialdesignGm3WizButtonText-button:has(.javascriptMaterialdesignGm3WizButtonText-button__link) .javascriptMaterialdesignGm3WizButtonText-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonText-button:has(.javascriptMaterialdesignGm3WizButtonText-button__link) .javascriptMaterialdesignGm3WizButtonText-button__label {
     color: LinkText
   }
 }
@@ -21766,25 +21926,19 @@ screen and (forced-colors:active) {
 }
 .javascriptMaterialdesignGm3WizButtonFilledTonal-button {
   background-color: var(--gm3-button-filled-tonal-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))}
-.javascriptMaterialdesignGm3WizButtonFilledTonal-button--toggle {
-  background-color: var(--gm3-button-filled-tonal-expressive-unselected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
-}
-.javascriptMaterialdesignGm3WizButtonFilledTonal-button--selected {
-  background-color: var(--gm3-button-filled-tonal-expressive-selected-container-color,var(--gm3-sys-color-secondary,#00639b))
-}
 .javascriptMaterialdesignGm3WizButtonFilledTonal-button:disabled {
   background-color: var(--gm3-button-filled-tonal-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .javascriptMaterialdesignGm3WizButtonFilledTonal-button:before {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonFilledTonal-button:where(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonFilledTonal-button:has(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonFilledTonal-button:where(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonFilledTonal-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonFilledTonal-button:where(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonFilledTonal-button__label {
+  .javascriptMaterialdesignGm3WizButtonFilledTonal-button:has(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonFilledTonal-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonFilledTonal-button:has(.javascriptMaterialdesignGm3WizButtonFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonFilledTonal-button__label {
     color: LinkText
   }
 }
@@ -21842,25 +21996,19 @@ screen and (forced-colors:active) {
 }
 .javascriptMaterialdesignGm3WizButtonDropdownFilled-button {
   background-color: var(--gm3-dropdown-button-filled-container-color,var(--gm3-sys-color-primary,#0b57d0))}
-.javascriptMaterialdesignGm3WizButtonDropdownFilled-button--toggle {
-  background-color: var(--gm3-dropdown-button-filled-expressive-unselected-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))
-}
-.javascriptMaterialdesignGm3WizButtonDropdownFilled-button--selected {
-  background-color: var(--gm3-dropdown-button-filled-expressive-selected-container-color,var(--gm3-sys-color-primary,#0b57d0))
-}
 .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:disabled {
   background-color: var(--gm3-dropdown-button-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:before {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:where(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:has(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:where(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilled-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:where(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilled-button__label {
+  .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:has(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilled-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonDropdownFilled-button:has(.javascriptMaterialdesignGm3WizButtonDropdownFilled-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilled-button__label {
     color: LinkText
   }
 }
@@ -21922,36 +22070,24 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button {
   border-color: var(--gm3-dropdown-button-outlined-outline-color,var(--gm3-sys-color-outline,#747775))}
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:where(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__link) {
+  .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:has(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__link) {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:where(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__link) .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:where(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__link) .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__label {
+  .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:has(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__link) .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:has(.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__link) .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__label {
     color: LinkText
   }
-}
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle {
-  border-color: var(--gm3-dropdown-button-outlined-expressive-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:hover {
   border-color: var(--gm3-dropdown-button-outlined-hover-outline-color,var(--gm3-sys-color-outline,#747775))
 }
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle:hover {
-  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-hovered-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:focus-visible {
   border-color: var(--gm3-dropdown-button-outlined-focus-outline-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle:focus-visible {
-  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-focused-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:active {
   border-color: var(--gm3-dropdown-button-outlined-pressed-outline-color,var(--gm3-sys-color-outline,#747775))
-}
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle:active {
-  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-pressed-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
 }
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled {
   border-color: var(--gm3-dropdown-button-outlined-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -21960,15 +22096,6 @@ screen and (forced-colors:active) {
   .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled {
     border-color: GrayText
   }
-}
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--toggle:disabled {
-  border-color: var(--gm3-dropdown-button-outlined-expressive-unselected-disabled-outline-color,var(--gm3-sys-color-outline-variant,#c4c7c5))
-}
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button:disabled.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--selected {
-  background-color: var(--gm3-dropdown-button-outlined-expressive-selected-disabled-container-color,var(--gm3-sys-color-on-surface,#1f1f1f))
-}
-.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button.javascriptMaterialdesignGm3WizButtonDropdownOutlined-button--selected {
-  background-color: var(--gm3-dropdown-button-outlined-expressive-selected-container-color,var(--gm3-sys-color-inverse-surface,#303030))
 }
 .javascriptMaterialdesignGm3WizButtonDropdownOutlined-button__icon-slot--dropdown .javascriptMaterialdesignGm3WizButtonDropdownOutlined-icon-dropdown {
   fill: currentColor
@@ -22019,13 +22146,13 @@ screen and (forced-colors:active) {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownText-button:where(.javascriptMaterialdesignGm3WizButtonDropdownText-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownText-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonDropdownText-button:has(.javascriptMaterialdesignGm3WizButtonDropdownText-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownText-button:where(.javascriptMaterialdesignGm3WizButtonDropdownText-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownText-button__link) .javascriptMaterialdesignGm3WizButtonDropdownText-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonDropdownText-button:where(.javascriptMaterialdesignGm3WizButtonDropdownText-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownText-button__link) .javascriptMaterialdesignGm3WizButtonDropdownText-button__label {
+  .javascriptMaterialdesignGm3WizButtonDropdownText-button:has(.javascriptMaterialdesignGm3WizButtonDropdownText-button__link) .javascriptMaterialdesignGm3WizButtonDropdownText-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonDropdownText-button:has(.javascriptMaterialdesignGm3WizButtonDropdownText-button__link) .javascriptMaterialdesignGm3WizButtonDropdownText-button__label {
     color: LinkText
   }
 }
@@ -22086,25 +22213,19 @@ screen and (forced-colors:active) {
 }
 .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button {
   background-color: var(--gm3-dropdown-button-filled-tonal-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))}
-.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button--toggle {
-  background-color: var(--gm3-dropdown-button-filled-tonal-expressive-unselected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
-}
-.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button--selected {
-  background-color: var(--gm3-dropdown-button-filled-tonal-expressive-selected-container-color,var(--gm3-sys-color-secondary,#00639b))
-}
 .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:disabled {
   background-color: var(--gm3-dropdown-button-filled-tonal-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:before {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:where(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:has(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:where(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:where(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__label {
+  .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:has(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button:has(.javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__link) .javascriptMaterialdesignGm3WizButtonDropdownFilledTonal-button__label {
     color: LinkText
   }
 }
@@ -22354,6 +22475,40 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizIconButtonStandard-icon-button:disabled {
   color: var(--gm3-icon-button-standard-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
 }
+.boqAddonscardsrendererCardCard {
+  background-color: var(--uikit-background-color,var(--gm3-sys-color-surface,#fff));
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.boqAddonscardsrendererCardCard.NoBorder {
+  border: none
+}
+.boqAddonscardsrendererCardErrorText {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.boqAddonscardsrendererCardDividerDivider {
+  border-top: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.boqAddonscardsrendererCardDividerSpace {
+  border-top: 4px solid transparent
+}
+.boqAddonscardsrendererCardCardheaderTitleText {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.boqAddonscardsrendererCardCardheaderSubtitleText {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.boqAddonscardsrendererCardCardsectionCardSection {
+  background: var(--section-background-color-light-theme)
+}
+.boqAddonscardsrendererCardCardsectionCardSection.defaultBackgroundColor {
+  background-color: var(--section-background-color-light-theme,var(--gm3-sys-color-surface-container,#f0f4f9))
+}
+.boqAddonscardsrendererCardCardsectionSectionHeader {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.boqAddonscardsrendererCardCardsectionIconBackgroundAsset {
+  background: var(--section-icon-background-color-light-theme)
+}
 .mdc-circular-progress__determinate-circle,
 .mdc-circular-progress__indeterminate-circle-graphic {
   stroke: #6200ee;
@@ -22517,40 +22672,6 @@ screen and (forced-colors:active) {
 .GmRichTooltip.mdc-tooltip--rich .mdc-tooltip__caret-surface-top,
 .GmRichTooltip.mdc-tooltip--rich .mdc-tooltip__surface {
   background-color: #fff
-}
-.boqAddonscardsrendererCardCard {
-  background-color: var(--uikit-background-color,var(--gm3-sys-color-surface,#fff));
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.boqAddonscardsrendererCardCard.NoBorder {
-  border: none
-}
-.boqAddonscardsrendererCardErrorText {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.boqAddonscardsrendererCardDividerDivider {
-  border-top: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.boqAddonscardsrendererCardDividerSpace {
-  border-top: 4px solid transparent
-}
-.boqAddonscardsrendererCardCardheaderTitleText {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.boqAddonscardsrendererCardCardheaderSubtitleText {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.boqAddonscardsrendererCardCardsectionCardSection {
-  background: var(--section-background-color-light-theme)
-}
-.boqAddonscardsrendererCardCardsectionCardSection.defaultBackgroundColor {
-  background-color: var(--section-background-color-light-theme,var(--gm3-sys-color-surface-container,#f0f4f9))
-}
-.boqAddonscardsrendererCardCardsectionSectionHeader {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.boqAddonscardsrendererCardCardsectionIconBackgroundAsset {
-  background: var(--section-icon-background-color-light-theme)
 }
 .boqAddonscardsrendererCardCarouselTitleText {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
@@ -22766,6 +22887,111 @@ screen and (forced-colors:active) {
 }
 .boqAddonscardsrendererCardSelectioncontrolSelectionItemLabel {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+  border-color: var(--gm3-chip-filter-flat-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:focus:before {
+  border-color: var(--gm3-chip-filter-flat-focus-outline-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+  border-color: var(--gm3-chip-filter-flat-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
+  color: var(--gm3-chip-filter-flat-with-icon-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
+  color: var(--gm3-chip-filter-flat-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
+  color: var(--gm3-chip-filter-flat-with-icon-hover-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:focus .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
+  color: var(--gm3-chip-filter-flat-with-icon-focus-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
+  color: var(--gm3-chip-filter-flat-with-icon-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-hover-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:focus .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-focus-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-pressed-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+@media (forced-colors:active) {
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled {
+    background-color: Canvas
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary,
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+    color: GrayText
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+    border-color: CanvasText
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action-link-wrapper .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+    border-color: LinkText
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+    border-color: GrayText
+  }
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) {
+  background-color: var(--gm3-chip-filter-flat-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled {
+  background-color: var(--gm3-chip-filter-flat-disabled-selected-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:focus .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:active .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+  color: var(--gm3-chip-filter-flat-selected-pressed-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
+  color: var(--gm3-chip-filter-flat-with-icon-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
+  color: var(--gm3-chip-filter-flat-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:hover .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
+  color: var(--gm3-chip-filter-flat-with-icon-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:focus .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
+  color: var(--gm3-chip-filter-flat-with-icon-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:active .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
+  color: var(--gm3-chip-filter-flat-with-icon-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__checkmark-path {
+  stroke: currentColor
+}
+@media (forced-colors:active) {
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled {
+    background-color: Canvas
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__checkmark,
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+    color: GrayText
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+    border-color: CanvasText
+  }
+  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
+    border-color: GrayText
+  }
 }
 .javascriptMaterialdesignGm3WizSelectShared-select__anchor {
   outline: 0
@@ -23583,25 +23809,19 @@ screen and (forced-colors:active) {
 }
 .javascriptMaterialdesignGm3WizButtonProgressFilled-button {
   background-color: var(--gm3-progress-button-filled-container-color,var(--gm3-sys-color-primary,#0b57d0))}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button--toggle {
-  background-color: var(--gm3-progress-button-filled-expressive-unselected-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button--selected {
-  background-color: var(--gm3-progress-button-filled-expressive-selected-container-color,var(--gm3-sys-color-primary,#0b57d0))
-}
 .javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled {
   background-color: var(--gm3-progress-button-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))}
 .javascriptMaterialdesignGm3WizButtonProgressFilled-button:before {
   border: 1px solid transparent
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonProgressFilled-button:where(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__link):before {
+  .javascriptMaterialdesignGm3WizButtonProgressFilled-button:has(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__link):before {
     border-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonProgressFilled-button:where(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__link) .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonProgressFilled-button:where(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__link) .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
+  .javascriptMaterialdesignGm3WizButtonProgressFilled-button:has(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__link) .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonProgressFilled-button:has(.javascriptMaterialdesignGm3WizButtonProgressFilled-button__link) .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
     color: LinkText
   }
 }
@@ -24010,11 +24230,8 @@ screen and (forced-colors:active) {
 .javascriptMaterialdesignGm3WizChipInputWithAvatarEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
   color: var(--gm3-chip-input-with-avatar-with-icon-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.javascriptMaterialdesignGm3WizChipInputWithAvatarEl .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
+.javascriptMaterialdesignGm3WizChipInputWithAvatarEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
   color: var(--gm3-chip-input-with-avatar-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.javascriptMaterialdesignGm3WizChipInputWithAvatarEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-input-with-avatar-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
 }
 .javascriptMaterialdesignGm3WizChipInputWithAvatarEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
   color: var(--gm3-chip-input-with-avatar-hover-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
@@ -24275,13 +24492,13 @@ screen and (forced-colors:active) {
   outline: 1px solid transparent;
   background-color: var(--gm3-button-elevated-container-color,var(--gm3-sys-color-surface-container-low,#f8fafd))}
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonElevated-button:where(.javascriptMaterialdesignGm3WizButtonElevated-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonElevated-button__link) {
+  .javascriptMaterialdesignGm3WizButtonElevated-button:has(.javascriptMaterialdesignGm3WizButtonElevated-button__link) {
     outline-color: LinkText
   }
 }
 @media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizButtonElevated-button:where(.javascriptMaterialdesignGm3WizButtonElevated-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonElevated-button__link) .javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot,
-  .javascriptMaterialdesignGm3WizButtonElevated-button:where(.javascriptMaterialdesignGm3WizButtonElevated-button__use-updated-hcm):has(.javascriptMaterialdesignGm3WizButtonElevated-button__link) .javascriptMaterialdesignGm3WizButtonElevated-button__label {
+  .javascriptMaterialdesignGm3WizButtonElevated-button:has(.javascriptMaterialdesignGm3WizButtonElevated-button__link) .javascriptMaterialdesignGm3WizButtonElevated-button__icon-slot,
+  .javascriptMaterialdesignGm3WizButtonElevated-button:has(.javascriptMaterialdesignGm3WizButtonElevated-button__link) .javascriptMaterialdesignGm3WizButtonElevated-button__label {
     color: LinkText
   }
 }
@@ -24337,21 +24554,203 @@ screen and (forced-colors:active) {
 @media (-ms-high-contrast:active) and (prefers-color-scheme:dark),
 screen and (forced-colors:active) and (prefers-color-scheme:dark) {
 }
-.appsElementsGenerativeaiReportAbuseCommonReportHorizontalDivider {
-  border-top: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+.appsElementsGenerativeAiCitationsSkittle:before {
+  border: 1px solid transparent
 }
-.appsElementsGenerativeaiReportAbuseCommonReportFooterContent {
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeAiCitationsSkittle:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeAiCitationsChip {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+}
+.appsElementsGenerativeAiCitationsChip :is(a:any-link,a:visited,a:hover,a:active) {
+  color: currentColor
+}
+.appsElementsGenerativeAiCitationsAttributionMarker {
+  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea);
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
-.appsElementsGenerativeaiFeedbackDataDonationContainer {
-  background-color: var(--gm3-sys-color-surface,#fff);
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+.appsElementsGenerativeAiCitationsAttributionMarker:before {
+  border: 1px solid transparent
 }
-.appsElementsGenerativeaiFeedbackMessagesLink:is(:any-link,:visited,:hover,:active) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeAiCitationsAttributionMarker:before {
+    border-color: CanvasText
+  }
 }
-.appsElementsGenerativeaiFeedbackMessagesDeEmphasis {
+.appsElementsGenerativeAiCitationsAnchorAttributionMarker {
+  background-color: var(--gm3-sys-color-surface-container-high,#e9eef6);
   color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeaiAstInlineSource:hover {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstInlineSource:hover {
+    color: HighlightText;
+    text-decoration-color: HighlightText;
+    background-color: Highlight
+  }
+}
+.appsElementsGenerativeaiAstInlineSourceLink:is(:any-link,:visited,:hover,:active) {
+  color: inherit
+}
+.appsElementsGenerativeaiAstTableContainer {
+  background-color: inherit
+}
+.appsElementsGenerativeaiAstTableContainer .appsElementsGenerativeaiAstTable {
+  background-color: inherit
+}
+.appsElementsGenerativeaiAstInlineCode {
+  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea);
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsGenerativeaiAstInlineCode:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstInlineCode:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeaiAstChartImageContainer:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstChartImageContainer:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeaiAstChartImageTooltip:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstChartImageTooltip:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeaiAstCodeContent {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsGenerativeaiAstCodeContent:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstCodeContent:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-comment {
+  color: #5f6368
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-tag {
+  color: var(--gm3-sys-color-surface-variant,#e1e3e1)
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-operator,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-punctuation,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-subst {
+  color: var(--gm3-sys-color-surface-container-high,#e9eef6)
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-bullet,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-deletion,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-name,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-tag,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-template-variable,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-variable {
+  color: #d93025
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-attr,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-link,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-literal,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-number,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-symbol {
+  color: #b55908
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-class,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-title {
+  color: #996900
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-addition,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-code,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-string {
+  color: #188038
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-built_in,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-doctag,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-quote,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-regexp {
+  color: #1967d2
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-keyword,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-attr,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-class,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-id,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-pseudo,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-template-tag,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-type {
+  color: #8430ce
+}
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-meta,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-meta-keyword,
+.appsElementsGenerativeaiAstCodeBlockContainer .hljs-meta-string {
+  color: #1967d2
+}
+.appsElementsGenerativeaiAstCodeBlockTitle {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsGenerativeaiAstCodeBlockButton:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstCodeBlockButton:before {
+    border-color: CanvasText
+  }
+}
+@media (min-height:850px) {
+}
+@media (min-height:1150px) {
+}
+.appsElementsGenerativeaiAstMultiModalContentContainer {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsGenerativeaiAstMultiModalContentContainer:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstMultiModalContentContainer:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsGenerativeaiAstMultiModalContentContainer .appsElementsGenerativeaiAstMultiModalContent .appsElementsGenerativeaiAstTableTransparent {
+  background-color: transparent
+}
+.appsElementsGenerativeaiAstMultiModalCitationsDisclosureChip {
+  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea)
+}
+.appsElementsGenerativeaiAstAnchorTextHighlight {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsGenerativeaiAstAnchorTextHighlight {
+    color: HighlightText;
+    text-decoration-color: HighlightText;
+    background-color: Highlight
+  }
 }
 .appsElementsLinkIconsBrandPurpleWrapper {
   color: #303f9f
@@ -24379,6 +24778,192 @@ screen and (forced-colors:active) and (prefers-color-scheme:dark) {
 }
 .appsElementsLinkIconsBrandBlueFill {
   fill: #4285f4
+}
+.appsElementsChipRoot {
+  background-color: var(--ae-chip-container-color,var(--gm3-sys-color-surface-container,#f0f4f9));
+  outline: 0
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsChipRoot {
+    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+  }
+}
+.appsElementsChipRoot:any-link,
+.appsElementsChipRoot:hover {
+  color: currentColor
+}
+.appsElementsChipRoot:hover {
+  background-color: var(--ae-chip-hover-state-layer-color,var(--gm3-sys-color-surface-container-highest,#dde3ea))
+}
+.appsElementsChipLabelText {
+  color: var(--ae-chip-label-text-color,inherit)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsMultiSectionListContainer {
+    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+  }
+}
+.appsElementsMultiSectionListNoMoreResults {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+.appsElementsMultiSectionListTwoLine > :last-child:not(:empty) {
+  background-color: #fcbd00;
+  color: #444746
+}
+.appsElementsBadgeNotification {
+  color: var(--ae-badge-text-color,#fff)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsBadgeNotification:empty {
+    background-color: Highlight
+  }
+}
+.appsElementsBadgeFeature {
+  background-color: var(--ae-badge-container-color,#1967d2)
+}
+.appsElementsBadgeFeatureLabel {
+  color: #fff
+}
+.appsElementsBadgeFeatureMain {
+  background-color: #1967d2
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsBadgeFeatureMain {
+    background-color: Highlight;
+    color: HighlightText
+  }
+}
+.appsElementsBadgeMain {
+  background-color: var(--ae-badge-container-color,#e8f0fe);
+  color: var(--ae-badge-text-color,#174ea6)
+}
+.appsElementsBadgeBorder,
+.appsElementsBadgeContainer .appsElementsBadgeBorder {
+  border: 1px solid var(--ae-badge-outline-color,none)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsBadgeBorder,
+  .appsElementsBadgeContainer .appsElementsBadgeBorder {
+    border: 1px solid CanvasText
+  }
+}
+.appsElementsBadgeInformativeContainer {
+  color: var(--ae-badge-text-color,#174ea6);
+  background-color: var(--ae-badge-container-color,#e8f0fe)
+}
+.appsElementsMultiSectionListSectionListHeader {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+@keyframes ghostTip {
+}
+.appsElementsRichTextInputContentEditableContainer table {
+  background-color: var(--gm3-sys-color-surface,#fff);
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsRichTextInputContentEditableContainer table td,
+.appsElementsRichTextInputContentEditableContainer table th {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsRichTextInputContentEditableContainer mark:not([class]) {
+  background-color: unset;
+  color: unset
+}
+.appsElementsRichTextInputContentEditableContainer a:any-link:not([class]) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsRichTextInputContentEditableContainer a:active:not([class]),
+.appsElementsRichTextInputContentEditableContainer a:hover:not([class]),
+.appsElementsRichTextInputContentEditableContainer a:visited:not([class]) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsRichTextInputContentEditableContainer {
+    border: 1px solid var(--gm3-sys-color-outline,#747775)
+  }
+}
+.appsElementsRichTextInputContentEditable {
+  outline: 0
+}
+.appsElementsRichTextInputFileListQueryPlaceholder:after {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsRichTextInputFileListQueryPlaceholder:after {
+    color: SelectedItemText
+  }
+}
+.appsElementsRichTextInputRoot:focus-within .appsElementsRichTextInputPlaceholder,
+.appsElementsRichTextInputRoot:hover:focus-within .appsElementsRichTextInputPlaceholder {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsRichTextInputRoot:hover:focus-within .appsElementsRichTextInputPlaceholder:hover {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
+}
+.appsElementsRichTextInputDisabled {
+  color: var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsRichTextInputDisabled {
+    border-color: GrayText
+  }
+}
+.appsElementsRichTextInputDisabled:before {
+  color: var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsRichTextInputDisabled:before {
+    color: GrayText
+  }
+}
+.appsElementsRichTextInputPlaceholder {
+  color: var(--gm3-sys-color-primary,#0b57d0);
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
+  outline: 0
+}
+.appsElementsRichTextInputGreyPlaceholderText {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsRichTextInputGreyPlaceholderText {
+    color: SelectedItemText
+  }
+}
+.appsElementsRichTextInputGreyPlaceholderBackground {
+  background-color: var(--gm3-sys-color-surface-container-low,#f8fafd);
+  outline: 0
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsRichTextInputGreyPlaceholderBackground {
+    background-color: SelectedItem;
+    color: SelectedItemText
+  }
+}
+.appsElementsRichTextInputRevertPlaceholder {
+  background-color: transparent;
+  color: unset;
+  outline: 0
+}
+.appsElementsRichTextScoperScoperMenu {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsRichTextScoperScoperMenu:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsRichTextScoperScoperMenu:before {
+    border-color: CanvasText
+  }
 }
 .appsElementsSidekickResponseOptionsOptionsTextButton:before {
   border: 1px solid transparent
@@ -24470,50 +25055,6 @@ screen and (forced-colors:active) {
 }
 .baseCopyDocDialogTitleText {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsBadgeNotification {
-  color: var(--ae-badge-text-color,#fff)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsBadgeNotification:empty {
-    background-color: Highlight
-  }
-}
-.appsElementsBadgeFeature {
-  background-color: var(--ae-badge-container-color,#1967d2)
-}
-.appsElementsBadgeFeatureLabel {
-  color: #fff
-}
-.appsElementsBadgeFeatureMain {
-  background-color: #1967d2
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsBadgeFeatureMain {
-    background-color: Highlight;
-    color: HighlightText
-  }
-}
-.appsElementsBadgeMain {
-  background-color: var(--ae-badge-container-color,#e8f0fe);
-  color: var(--ae-badge-text-color,#174ea6)
-}
-.appsElementsBadgeBorder,
-.appsElementsBadgeContainer .appsElementsBadgeBorder {
-  border: 1px solid var(--ae-badge-outline-color,none)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsBadgeBorder,
-  .appsElementsBadgeContainer .appsElementsBadgeBorder {
-    border: 1px solid CanvasText
-  }
-}
-.appsElementsBadgeInformativeContainer {
-  color: var(--ae-badge-text-color,#174ea6);
-  background-color: var(--ae-badge-container-color,#e8f0fe)
 }
 .fatalErrorDialogTextAreaContainer .fatalErrorDialogTextAreaContainer .fatalErrorDialogTextArea {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
@@ -25037,342 +25578,6 @@ screen and (forced-colors:active) {
 .appsElementsCalloutTooltipRichBannerContainer {
   background-color: var(--ae-callout-banner-bg-color)
 }
-.appsElementsChipRoot {
-  background-color: var(--ae-chip-container-color,var(--gm3-sys-color-surface-container,#f0f4f9));
-  outline: 0
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsChipRoot {
-    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-  }
-}
-.appsElementsChipRoot:any-link,
-.appsElementsChipRoot:hover {
-  color: currentColor
-}
-.appsElementsChipRoot:hover {
-  background-color: var(--ae-chip-hover-state-layer-color,var(--gm3-sys-color-surface-container-highest,#dde3ea))
-}
-.appsElementsChipLabelText {
-  color: var(--ae-chip-label-text-color,inherit)
-}
-.appsElementsGenerativeAiCitationsSkittle:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeAiCitationsSkittle:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeAiCitationsChip {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-}
-.appsElementsGenerativeAiCitationsChip :is(a:any-link,a:visited,a:hover,a:active) {
-  color: currentColor
-}
-.appsElementsGenerativeAiCitationsAttributionMarker {
-  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea);
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsGenerativeAiCitationsAttributionMarker:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeAiCitationsAttributionMarker:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeAiCitationsAnchorAttributionMarker {
-  background-color: var(--gm3-sys-color-surface-container-high,#e9eef6);
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeAiCitationsAnchorAttributionMarker:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstInlineSource:hover {
-  background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstInlineSource:hover {
-    color: HighlightText;
-    text-decoration-color: HighlightText;
-    background-color: Highlight
-  }
-}
-.appsElementsGenerativeaiAstInlineSourceLink:is(:any-link,:visited,:hover,:active) {
-  color: inherit
-}
-.appsElementsGenerativeaiAstTableContainer {
-  background-color: inherit
-}
-.appsElementsGenerativeaiAstTableContainer .appsElementsGenerativeaiAstTable {
-  background-color: inherit
-}
-.appsElementsGenerativeaiAstInlineCode {
-  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
-  color: var(--gm3-sys-color-on-primary-container,#0842a0)
-}
-.appsElementsGenerativeaiAstInlineCode:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstInlineCode:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstChartImageContainer:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstChartImageContainer:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstChartImageTooltip:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstChartImageTooltip:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstCodeContent {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsGenerativeaiAstCodeContent:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstCodeContent:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-comment {
-  color: #5f6368
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-tag {
-  color: var(--gm3-sys-color-surface-variant,#e1e3e1)
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-operator,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-punctuation,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-subst {
-  color: var(--gm3-sys-color-surface-container-high,#e9eef6)
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-bullet,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-deletion,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-name,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-tag,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-template-variable,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-variable {
-  color: #d93025
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-attr,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-link,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-literal,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-number,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-symbol {
-  color: #b55908
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-class,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-title {
-  color: #996900
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-addition,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-code,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-string {
-  color: #188038
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-built_in,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-doctag,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-quote,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-regexp {
-  color: #1967d2
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-keyword,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-attr,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-class,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-id,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-selector-pseudo,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-template-tag,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-type {
-  color: #8430ce
-}
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-meta,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-meta-keyword,
-.appsElementsGenerativeaiAstCodeBlockContainer .hljs-meta-string {
-  color: #1967d2
-}
-.appsElementsGenerativeaiAstCodeBlockTitle {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsGenerativeaiAstCodeBlockButton:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstCodeBlockButton:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstMultiModalContentContainer {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsGenerativeaiAstMultiModalContentContainer:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstMultiModalContentContainer:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsGenerativeaiAstMultiModalContentContainer .appsElementsGenerativeaiAstMultiModalContent .appsElementsGenerativeaiAstTableTransparent {
-  background-color: transparent
-}
-.appsElementsGenerativeaiAstMultiModalCitationsDisclosureChip {
-  background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea)
-}
-.appsElementsGenerativeaiAstAnchorTextHighlight {
-  background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsGenerativeaiAstAnchorTextHighlight {
-    color: HighlightText;
-    text-decoration-color: HighlightText;
-    background-color: Highlight
-  }
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsMultiSectionListContainer {
-    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-  }
-}
-.appsElementsMultiSectionListNoMoreResults {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-.appsElementsMultiSectionListTwoLine > :last-child:not(:empty) {
-  background-color: #fcbd00;
-  color: #444746
-}
-.appsElementsMultiSectionListSectionListHeader {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-@keyframes ghostTip {
-}
-.appsElementsRichTextInputContentEditableContainer table {
-  background-color: var(--gm3-sys-color-surface,#fff);
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsRichTextInputContentEditableContainer table td,
-.appsElementsRichTextInputContentEditableContainer table th {
-  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsRichTextInputContentEditableContainer mark:not([class]) {
-  background-color: unset;
-  color: unset
-}
-.appsElementsRichTextInputContentEditableContainer a:any-link:not([class]) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsRichTextInputContentEditableContainer a:active:not([class]),
-.appsElementsRichTextInputContentEditableContainer a:hover:not([class]),
-.appsElementsRichTextInputContentEditableContainer a:visited:not([class]) {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsRichTextInputContentEditableContainer {
-    border: 1px solid var(--gm3-sys-color-outline,#747775)
-  }
-}
-.appsElementsRichTextInputContentEditable {
-  outline: 0
-}
-.appsElementsRichTextInputFileListQueryPlaceholder:after {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsRichTextInputFileListQueryPlaceholder:after {
-    color: SelectedItemText
-  }
-}
-.appsElementsRichTextInputRoot:focus-within .appsElementsRichTextInputPlaceholder,
-.appsElementsRichTextInputRoot:hover:focus-within .appsElementsRichTextInputPlaceholder {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
-}
-.appsElementsRichTextInputRoot:hover:focus-within .appsElementsRichTextInputPlaceholder:hover {
-  background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
-}
-.appsElementsRichTextInputDisabled {
-  color: var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsRichTextInputDisabled {
-    border-color: GrayText
-  }
-}
-.appsElementsRichTextInputDisabled:before {
-  color: var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsRichTextInputDisabled:before {
-    color: GrayText
-  }
-}
-.appsElementsRichTextInputPlaceholder {
-  color: var(--gm3-sys-color-primary,#0b57d0);
-  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
-  outline: 0
-}
-.appsElementsRichTextInputGreyPlaceholderText {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsRichTextInputGreyPlaceholderText {
-    color: SelectedItemText
-  }
-}
-.appsElementsRichTextInputGreyPlaceholderBackground {
-  background-color: var(--gm3-sys-color-surface-container-low,#f8fafd);
-  outline: 0
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsRichTextInputGreyPlaceholderBackground {
-    background-color: SelectedItem;
-    color: SelectedItemText
-  }
-}
-.appsElementsRichTextInputRevertPlaceholder {
-  background-color: transparent;
-  color: unset;
-  outline: 0
-}
-.appsElementsRichTextScoperScoperMenu {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsRichTextScoperScoperMenu:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsRichTextScoperScoperMenu:before {
-    border-color: CanvasText
-  }
-}
 .appsElementsGenerativeaiAstCardCardContainer {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
@@ -25397,117 +25602,6 @@ screen and (forced-colors:active) {
 }
 @media not (prefers-reduced-motion) {
 }
-.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-  border-color: var(--gm3-chip-filter-flat-outline-color,var(--gm3-sys-color-outline,#747775))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:focus:before {
-  border-color: var(--gm3-chip-filter-flat-focus-outline-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-  border-color: var(--gm3-chip-filter-flat-disabled-outline-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
-  color: var(--gm3-chip-filter-flat-with-icon-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
-  color: var(--gm3-chip-filter-flat-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
-  color: var(--gm3-chip-filter-flat-with-icon-hover-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:focus .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
-  color: var(--gm3-chip-filter-flat-with-icon-focus-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
-  color: var(--gm3-chip-filter-flat-with-icon-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-hover-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:focus .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-focus-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary-interactive:active .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-pressed-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-@media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled {
-    background-color: Canvas
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary,
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-    color: GrayText
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-    border-color: CanvasText
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__action-link-wrapper .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-    border-color: LinkText
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-    border-color: GrayText
-  }
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) {
-  background-color: var(--gm3-chip-filter-flat-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled {
-  background-color: var(--gm3-chip-filter-flat-disabled-selected-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:hover .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:focus .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:active .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-  color: var(--gm3-chip-filter-flat-selected-pressed-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
-  color: var(--gm3-chip-filter-flat-with-icon-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
-  color: var(--gm3-chip-filter-flat-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:hover .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
-  color: var(--gm3-chip-filter-flat-with-icon-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:focus .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
-  color: var(--gm3-chip-filter-flat-with-icon-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected:not(.javascriptMaterialdesignGm3WizChipShared-chip--disabled) .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:active .javascriptMaterialdesignGm3WizChipShared-chip__checkmark {
-  color: var(--gm3-chip-filter-flat-with-icon-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
-}
-.javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__checkmark-path {
-  stroke: currentColor
-}
-@media (forced-colors:active) {
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled {
-    background-color: Canvas
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__checkmark,
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__text-label {
-    color: GrayText
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-    border-color: CanvasText
-  }
-  .javascriptMaterialdesignGm3WizChipFilterFlatEl.javascriptMaterialdesignGm3WizChipShared-chip--selected.javascriptMaterialdesignGm3WizChipShared-chip--disabled .javascriptMaterialdesignGm3WizChipShared-chip__action--primary:before {
-    border-color: GrayText
-  }
-}
 .appsElementsGenerativeaiCommonFeedbackSmallTitle {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
@@ -25522,6 +25616,16 @@ screen and (forced-colors:active) {
 }
 .appsElementsGenerativeaiCommonFeedbackDivider {
   border: .5px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsGenerativeaiFeedbackDataDonationContainer {
+  background-color: var(--gm3-sys-color-surface,#fff);
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsGenerativeaiFeedbackMessagesLink:is(:any-link,:visited,:hover,:active) {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsGenerativeaiFeedbackMessagesDeEmphasis {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 @media (max-width:640px) {
 }
@@ -25729,6 +25833,27 @@ screen and (forced-colors:active) {
 }
 @media only screen and (max-width:33.6875rem) {
 }
+.appsElementsWorkspaceRecommendationBannerContentContentWrapperV2:link {
+  color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.appsElementsWorkspaceRecommendationBannerContentBackground {
+  background: var(--gm3-sys-color-surface,#fff)
+}
+.appsElementsWorkspaceRecommendationBannerContentBackgroundAlertEscalation {
+  background: var(--gm3-sys-color-error-container,#f9dedc)
+}
+.appsElementsWorkspaceRecommendationBannerContentOverlineV2 {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsWorkspaceRecommendationBannerContentOverlineV2Warning {
+  color: var(--gm3-sys-color-error,#b3261e)
+}
+.appsElementsWorkspaceRecommendationBannerContentTitleV2 {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsWorkspaceRecommendationBannerContentDescriptionV2 {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
 @container (max-width:90px) {
 }
 .appsElementsWorkspaceRecommendationContentDialogContainerFilledCloseButton [data-dialog-close-button] {
@@ -25882,6 +26007,13 @@ screen and (forced-colors:active) {
 }
 .appsElementsSidekickCodeBlockShow [data-ice-generated-code=true] {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsSidekickInteractiveContentHighlightable .appsElementsGenerativeaiAstInlineCode {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
+  color: var(--gm3-sys-color-on-primary-container,#0842a0)
+}
+.appsElementsSidekickInteractiveContentHighlightable .appsElementsGenerativeaiAstInlineCode:hover {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-primary-container,#d3e3fd),var(--gm3-sys-color-on-primary-container,#0842a0) 8%)
 }
 .appsElementsSidekickResponseSourcesList .appsElementsSidekickResponseSource {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
@@ -26140,8 +26272,6 @@ screen and (forced-colors:active) {
 }
 @keyframes morph {
 }
-@keyframes breathe {
-}
 .appsElementsSidekickEntryPointButton:before {
   border: 1px solid transparent
 }
@@ -26392,6 +26522,9 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
   color: var(--ae-sidekick-prompt-input-text-color,#000);
   caret-color: var(--gm3-sys-color-primary,#0b57d0)
 }
+.fontsListCssNoFontsFoundContainer {
+  background-color: #fff
+}
 @media (max-width:1328px) {
 }
 @media (min-width:1328px) {
@@ -26413,6 +26546,9 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
 .appsElementsGm3WizSnackbar-snackbar__label {
   color: var(--gm3-snackbar-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
 }
+.veSelected {
+  border-color: #7fffd4
+}
 .appsElementsPasteToChipContent {
   box-shadow: 0 1px 3px 0 rgba(60,64,67,.3),0 4px 8px 3px rgba(60,64,67,.15);
   background: var(--gm3-sys-color-surface-container-lowest,#fff);
@@ -26422,519 +26558,114 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
   background: var(--gm3-sys-color-surface-container-low,#f8fafd);
   border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
-.veSelected {
-  border-color: #7fffd4
+.appsElementsGenerativeaiReportAbuseCommonReportHorizontalDivider {
+  border-top: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
-/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.K7gpRrjKp1k.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/ct=zgms/rs=AA2YrTt815y9f8XtESwQu3wfD5qOfj6new" */
-.gb_Ka {
-  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
+.appsElementsGenerativeaiReportAbuseCommonReportFooterContent {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
-.gb_La {
-  fill: #f9ab00
-}
-.gb_H .gb_La {
-  fill: #fdd663
-}
-.gb_Ma > .gb_La {
-  fill: #d93025
-}
-.gb_H .gb_Ma > .gb_La {
-  fill: #f28b82
-}
-.gb_Ma > .gb_Na {
-  fill: white
-}
-.gb_H .gb_Ma > .gb_Na,
-.gb_Na {
-  fill: #202124
-}
-.gb_Ac {
-  background: rgba(60,64,67,.9);
-  color: #fff;
-  outline: 1px solid transparent
-}
-.gb_Bc > * {
-  color: #bdc1c6
-}
-.gb_Bc div:first-child {
-  color: #fff
-}
-.gb_Ea {
-  background: 0 0;
-  border: 1px solid transparent;
-  outline: 0
-}
-.gb_Ea:hover {
-  background-color: rgba(68,71,70,.08)
-}
-.gb_Ea:active,
-.gb_Ea:focus {
-  background-color: rgba(68,71,70,.12)
-}
-.gb_Ea:focus-visible {
-  border-color: #0b57d0;
-  outline: 1px solid transparent
-}
-.gb_H .gb_Ea:active,
-.gb_H .gb_Ea:focus,
-.gb_H .gb_Ea:hover {
-  background-color: rgba(227,227,227,.08)
-}
-.gb_H .gb_Ea:focus-visible {
-  border-color: #a8c7fa
-}
-.gb_Fa .gb_Ha {
-  border: 1px solid transparent;
-  color: #0b57d0
-}
-.gb_Ha:hover {
-  color: #0842a0
-}
-.gb_Ha:active,
-.gb_Ha:focus {
-  color: #062e6f
-}
-.gb_Ha:focus-visible {
-  border-color: #0b57d0
-}
-.gb_H .gb_Ha {
-  color: #a8c7fa
-}
-.gb_H .gb_Ha:hover {
-  color: #d3e3fd
-}
-.gb_H .gb_Ha:active,
-.gb_H .gb_Ha:focus {
-  color: #ecf3fe
-}
-.gb_H .gb_Ha:focus-visible {
-  border-color: #a8c7fa;
-  color: #a8c7fa;
-  outline: 0
-}
-.gb_Ia {
-  box-shadow: 0 -1px 2px 0 rgba(60,64,67,.3),0 -2px 6px 2px rgba(60,64,67,.15)
-}
-.gb_Ja.gb_Ia {
-  box-shadow: 0 2px 6px 2px rgba(0,0,0,.15),0 1px 2px 0 rgba(0,0,0,.3)
-}
-@media only screen and (max-width:452px) {
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@-webkit-keyframes gb__a {
-}
-@keyframes gb__a {
-}
-a.gb_Qa {
-  border: none;
-  color: #4285f4;
-  outline: 0
-}
-a.gb_Qa:focus::after,
-a.gb_Qa:hover::after {
-  background-color: rgba(0,0,0,.12)
-}
-a.gb_Qa:active {
-  background-color: rgba(153,153,153,.4)
-}
-a.gb_Ra {
-  background-color: #4285f4;
-  color: #fff
-}
-a.gb_Ra:active {
-  background-color: #0043b2
-}
-.gb_Sa {
-  box-shadow: 0 1px 1px rgba(0,0,0,.16)
-}
-.gb_Ta {
-  background: #f8f8f8;
-  border: 1px solid #c6c6c6
-}
-.gb_Ua {
-  background: #f8f8f8
-}
-#gb a.gb_Ta.gb_Ta,
-.gb_Ta,
-.gb_Ua {
-  color: #666
-}
-.gb_Ua {
-  border: 1px solid #4285f4;
-  outline: 0;
-  background: #4285f4;
-  background: -webkit-gradient(linear,left top,left bottom,from(top),color-stop(#4387fd),to(#4683ea));
-  background: -webkit-linear-gradient(top,#4387fd,#4683ea);
-  background: linear-gradient(top,#4387fd,#4683ea)
-}
-#gb a.gb_Ua {
-  color: #fff
-}
-.gb_Ua:hover {
-  box-shadow: 0 1px 0 rgba(0,0,0,.15)
-}
-.gb_Ua:active {
-  box-shadow: inset 0 2px 0 rgba(0,0,0,.15);
-  background: #3c78dc;
-  background: -webkit-gradient(linear,left top,left bottom,from(top),color-stop(#3c7ae4),to(#3f76d3));
-  background: -webkit-linear-gradient(top,#3c7ae4,#3f76d3);
-  background: linear-gradient(top,#3c7ae4,#3f76d3)
-}
-#gb .gb_Va {
-  background: #fff;
-  border: 1px solid #dadce0;
-  color: #1a73e8
-}
-#gb .gb_Va:hover {
-  background: #f8fbff;
-  border-color: #dadce0;
-  color: #174ea6
-}
-#gb .gb_Va:focus {
-  background: #f4f8ff;
-  color: #174ea6;
-  outline: 1px solid #174ea6
-}
-#gb .gb_Va:active,
-#gb .gb_Va:focus:active {
-  background: #ecf3fe;
-  color: #174ea6
-}
-#gb .gb_Va.gb_H {
-  background: 0 0;
-  border: 1px solid #5f6368;
-  color: #8ab4f8
-}
-#gb .gb_Va.gb_H:hover {
-  background: rgba(255,255,255,.04);
-  color: #e8eaed
-}
-#gb .gb_Va.gb_H:focus {
-  background: rgba(232,234,237,.12);
-  color: #e8eaed;
-  outline: 1px solid #e8eaed
-}
-#gb .gb_Va.gb_H:active,
-#gb .gb_Va.gb_H:focus:active {
-  background: rgba(232,234,237,.1);
-  color: #e8eaed
-}
-.gb_B {
-  outline: 0
-}
-.gb_B,
-a.gb_B {
-  color: #000
-}
-.gb_ed {
-  border-color: transparent;
-  border-bottom-color: #fff
-}
-.gb_fd {
-  border-color: transparent;
-  border-bottom-color: rgba(0,0,0,.2)
-}
-div.gb_fd,
-x:-o-prefocus {
-  border-bottom-color: #ccc
-}
-.gb_la {
-  background: #fff;
-  border: 1px solid #ccc;
-  border-color: rgba(0,0,0,.2);
-  color: #000;
-  box-shadow: 0 2px 10px rgba(0,0,0,.2);
-  outline: 0
-}
-.gb_Fa .gb_id:not(.gb_Qa):focus img {
-  background-color: rgba(0,0,0,.2);
-  outline: 0
-}
-.gb_B:active,
-.gb_B:focus:not(:focus-visible),
-.gb_B:hover,
-.gb_B[aria-expanded=true],
-.gb_jd button:active svg,
-.gb_jd button:focus:not(:focus-visible) svg,
-.gb_jd button:hover svg {
-  outline: 0
-}
-.gb_B:focus-visible,
-.gb_Mc .gb_jd.gb_kd button:focus-visible svg,
-.gb_jd button:focus-visible svg {
-  outline: 1px solid #202124
-}
-.gb_Mc .gb_B:focus-visible,
-.gb_Mc .gb_jd button:focus-visible svg {
-  outline: 1px solid #f1f3f4
-}
-@media (forced-colors:active) {
-  .gb_Mc .gb_jd button:focus-visible svg,
-  .gb_Mc .gb_jd.gb_kd button:focus-visible svg,
-  .gb_jd button:focus-visible svg {
-    outline: 1px solid currentcolor
-  }
-}
-.gb_B:focus,
-.gb_B:focus:hover,
-.gb_Mc .gb_jd.gb_kd button:focus svg,
-.gb_Mc .gb_jd.gb_kd button:focus:hover svg,
-.gb_jd button:focus svg,
-.gb_jd button:focus:hover svg {
-  background-color: rgba(60,64,67,.1)
-}
-.gb_B:active,
-.gb_Mc .gb_jd.gb_kd button:active svg,
-.gb_jd button:active svg {
-  background-color: rgba(60,64,67,.12)
-}
-.gb_B:hover,
-.gb_Mc .gb_jd.gb_kd button:hover svg,
-.gb_jd button:hover svg {
+.gb_B:hover {
   background-color: rgba(60,64,67,.08)
 }
-.gb_Wa .gb_B.gb_Za:hover {
-  background-color: transparent
+.gb_B:focus,
+.gb_N[aria-expanded=true] {
+  background-color: rgba(60,64,67,.1)
 }
-.gb_B:hover[aria-expanded=true],
-.gb_B[aria-expanded=true] {
-  background-color: rgba(95,99,104,.24)
+.gb_B:active {
+  background-color: rgba(60,64,67,.12)
 }
-.gb_B[aria-expanded=true] .gb_F {
-  fill: #5f6368
+.gb_B:focus-visible {
+  outline: 1px solid #202124
 }
-.gb_Mc .gb_B:hover,
-.gb_Mc .gb_jd button:hover svg {
+.gb_H .gb_B:hover {
   background-color: rgba(232,234,237,.08)
 }
-.gb_Mc .gb_B:focus,
-.gb_Mc .gb_B:focus:hover,
-.gb_Mc .gb_jd button:focus svg,
-.gb_Mc .gb_jd button:focus:hover svg {
+.gb_H .gb_B:focus,
+.gb_H .gb_N[aria-expanded=true] {
   background-color: rgba(232,234,237,.1)
 }
-.gb_Mc .gb_B:active,
-.gb_Mc .gb_jd button:active svg {
+.gb_H .gb_B:active {
   background-color: rgba(232,234,237,.12)
 }
-.gb_Mc .gb_B:hover[aria-expanded=true],
-.gb_Mc .gb_B[aria-expanded=true] {
-  background-color: rgba(255,255,255,.12)
+.gb_H .gb_B:focus-visible {
+  outline-color: #f1f3f4
 }
-.gb_Mc .gb_B[aria-expanded=true] .gb_F {
-  fill: #fff
-}
-@media (max-width:350px) {
-}
-@media screen and (max-width:319px) {
-}
-.gb_ad.gb_bd {
-  color: #3c4043
-}
-.gb_Fa {
-  color: #000
-}
-.gb_Fa svg {
-  fill: currentColor
-}
-.gb_zd {
-  box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
-}
-.gb_Od {
-  color: #000
-}
-.gb_Mc {
-  color: #fff
-}
-.gb_Fa a,
-.gb_Qc a {
-  color: inherit
-}
-.gb_ba {
-  color: rgba(0,0,0,.87)
-}
-.gb_3c .gb_ud,
-.gb_Fa svg,
-.gb_Qc svg,
-.gb_td .gb_ud {
-  color: #5f6368
-}
-.gb_Mc .gb_td .gb_Lc,
-.gb_Mc .gb_td .gb_ud,
-.gb_Mc .gb_td .gb_wd,
-.gb_Mc svg,
-.gb_Qc.gb_Vc .gb_ud,
-.gb_Qc.gb_Vc svg {
-  color: rgba(255,255,255,.87)
-}
-.gb_bd {
-  color: inherit
-}
-a.gb_X,
-span.gb_X {
-  color: rgba(0,0,0,.87)
-}
-.gb_Mc a.gb_X,
-.gb_Mc span.gb_X {
-  color: #fff
-}
-.gb_Ua.gb_rd:hover {
+.gb_A:hover {
   background: #1b66c9;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_Ua.gb_rd:focus,
-.gb_Ua.gb_rd:hover:focus {
+.gb_A:focus {
   background: #1c5fba;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_Ua.gb_rd:active {
+.gb_A:active {
   background: #1b63c1;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_rd {
-  background: #1a73e8;
-  border: 1px solid transparent
-}
-#gb .gb_Mc a.gb_rd:not(.gb_H),
-#gb.gb_Mc a.gb_rd {
-  background: #fff;
-  border-color: #dadce0;
-  box-shadow: none;
-  color: #1a73e8
-}
-#gb a.gb_Ua.gb_H.gb_rd {
-  background: #8ab4f8;
-  border: 1px solid transparent;
-  box-shadow: none;
-  color: #202124
-}
-#gb .gb_Mc a.gb_rd:hover:not(.gb_H),
-#gb.gb_Mc a.gb_rd:hover {
-  background: #f8fbff;
-  border-color: #cce0fc
-}
-#gb a.gb_Ua.gb_H.gb_rd:hover {
+.gb_H .gb_A:hover {
   background: #93baf9;
-  border-color: transparent;
-  box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.3)
+  box-shadow: 0 1px 2px 0 rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15)
 }
-#gb .gb_Mc a.gb_rd:focus:hover:not(.gb_H),
-#gb .gb_Mc a.gb_rd:focus:not(.gb_H),
-#gb.gb_Mc a.gb_rd:focus:hover:not(.gb_H),
-#gb.gb_Mc a.gb_rd:focus:not(.gb_H) {
-  background: #f4f8ff;
-  outline: 1px solid #c9ddfc
-}
-#gb a.gb_Ua.gb_H.gb_rd:focus,
-#gb a.gb_Ua.gb_H.gb_rd:focus:hover {
+.gb_H .gb_A:focus {
   background: #a6c6fa;
-  border-color: transparent;
   box-shadow: none
 }
-#gb .gb_Mc a.gb_rd:active:not(.gb_H),
-#gb.gb_Mc a.gb_rd:active {
-  background: #ecf3fe
-}
-#gb a.gb_Ua.gb_H.gb_rd:active {
+.gb_H .gb_A:active {
   background: #a1c3f9;
   box-shadow: 0 1px 2px rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15)
 }
-@media screen and (max-width:319px) {
+.gb_C:hover .gb_O {
+  background: rgba(68,71,70,.08)
 }
-.gb_Wa {
-  background-color: rgba(255,255,255,.88);
-  border: 1px solid #dadce0;
+.gb_C:active .gb_O,
+.gb_C:focus .gb_O {
+  background: rgba(68,71,70,.12)
+}
+.gb_C:focus-visible .gb_O {
+  outline: 1px solid #0b57d0
+}
+.gb_H .gb_C:hover .gb_O {
+  background: rgba(196,199,197,.08)
+}
+.gb_H .gb_C:active .gb_O,
+.gb_H .gb_C:focus .gb_O {
+  background: rgba(196,199,197,.12)
+}
+.gb_H .gb_C:focus-visible .gb_O {
+  outline: 1px solid #a8c7fa
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+.gb_A,
+.gb_B,
+.gb_C {
   outline: 0
 }
-.gb_Wa.gb_H {
-  background-color: transparent;
-  border: 1px solid #5f6368
+.gb_D {
+  outline: 0
 }
-.gb_Wa.gb_H .gb_3a {
-  background: #fff
+.gb_E,
+.gb_F {
+  fill: #5f6368
 }
-.gb_Wa:hover {
-  border: 1px solid #d2e3fc;
-  background-color: rgba(248,250,255,.88)
+.gb_H .gb_E,
+.gb_H .gb_F {
+  fill: rgba(255,255,255,.87)
 }
-.gb_Wa.gb_H:hover {
-  background-color: rgba(241,243,244,.04);
-  border: 1px solid #5f6368
-}
-.gb_Wa:focus,
-.gb_Wa:focus-visible {
-  background-color: #fff;
-  outline: 1px solid #202124;
-  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
-}
-.gb_Wa.gb_H:focus,
-.gb_Wa.gb_H:focus-visible {
-  background-color: rgba(241,243,244,.12);
-  outline: 1px solid #f1f3f4;
-  box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px 0 rgba(0,0,0,.3)
-}
-.gb_Wa.gb_H:active,
-.gb_Wa.gb_Uc.gb_H:focus {
-  background-color: rgba(241,243,244,.1);
-  border: 1px solid #5f6368
-}
-.gb_4a.gb_5a {
-  background-color: #f1f3f4
-}
-.gb_P {
-  border: 0
-}
-.gb_eb {
-  background-color: #e8f0fe;
-  border: 1px solid rgba(32,33,36,.08)
-}
-.gb_eb.gb_P:active,
-.gb_eb.gb_P:hover {
-  box-shadow: none
-}
-.gb_fb {
-  background: #fff;
-  border: none;
-  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
-}
-.gb_wc {
-  color: #1f71e7
-}
-@media (-webkit-min-device-pixel-ratio:1.25),
-(min-resolution:1.25dppx),
-(min-device-pixel-ratio:1.25) {
-}
-.gb_P:focus,
-.gb_P:hover {
-  box-shadow: 0 1px 0 rgba(0,0,0,.15)
-}
-.gb_P:active {
-  box-shadow: inset 0 2px 0 rgba(0,0,0,.15)
-}
-.gb_P:active::after {
-  background: rgba(0,0,0,.1)
-}
-.gb_ib {
-  border-top: 4px solid #000;
-  border-left: 4px dashed transparent;
-  border-right: 4px dashed transparent
-}
-.gb_Wd.gb_od {
+a.gb_A {
+  background: #1a73e8;
+  border: 1px solid transparent;
   color: #fff
 }
-#gb#gb .gb_1.gb_1 a.gb_hb,
-#gb#gb.gb_1.gb_1 a.gb_hb {
-  color: #fff
+.gb_H .gb_A {
+  background: #8ab4f8;
+  color: #202124
 }
-.gb_1.gb_1 .gb_ib {
-  border-top-color: #fff
+.gb_O {
+  fill: #1a73e8
 }
-.gb_1 .gb_P:focus,
-.gb_1 .gb_P:hover,
-.gb_ka .gb_P:focus,
-.gb_ka .gb_P:hover {
-  box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2)
+.gb_H .gb_O {
+  fill: #8ab4f8
 }
 /*! Inline stylesheet
 Data-Href: N/A */
