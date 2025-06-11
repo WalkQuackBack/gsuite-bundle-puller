@@ -14263,52 +14263,6 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #ffcf44
-}
-#ucc-3 .pLZE8d::before {
-  background: #ffcf44
-}
-#ucc-3 .jzzMj {
-  background: #ffcf44
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
-}
-#ucc-3 .MyQDIb {
-  background: #ffcf44
-}
-.dm7YTc #ucc-3 .vP0hTc::before {
-  background: #ffcf44
-}
-.dm7YTc #ucc-3 .vP0hTc {
-  color: #ffcf44
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'The Washington Post-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
   font-family: 'Investor\27 s Business Daily-headline-font';
   src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
@@ -14323,25 +14277,95 @@ Data-Href: N/A */
   src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
   color: #07508a
 }
-#ucc-7 .pLZE8d::before {
+#ucc-3 .pLZE8d::before {
   background: #07508a
 }
-#ucc-7 .jzzMj {
+#ucc-3 .jzzMj {
   background: #07508a
 }
-#ucc-7 .QeY9wc:not(.kafKN) {
+#ucc-3 .QeY9wc:not(.kafKN) {
   border-top-color: #07508a
 }
-#ucc-7 .MyQDIb {
+#ucc-3 .MyQDIb {
   background: #07508a
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
   background: #07508a
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
   color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #6d0077
+}
+#ucc-5 .pLZE8d::before {
+  background: #6d0077
+}
+#ucc-5 .jzzMj {
+  background: #6d0077
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #6d0077
+}
+#ucc-5 .MyQDIb {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #6d0077
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #6d0077
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-7 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-7 .jzzMj {
+  background: #ed8e21
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-7 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ed8e21
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
