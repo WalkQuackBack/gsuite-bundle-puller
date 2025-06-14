@@ -1,7 +1,6 @@
 import postcss, { AtRule, Declaration, Root, Rule } from "postcss";
 import CleanCSS from "clean-css";
 import chalk from "chalk";
-import lessCalcWorkaround from "./lib/less_calc_workaround.ts";
 
 const vendorPrefixRegex = /^-\w+-|::-\w+/;
 
@@ -40,7 +39,6 @@ const cCssInstance = new CleanCSS({
 export const trimCss = async (css: string): Promise<string> => {
     try {
         const processed = await postcss()
-            .use(lessCalcWorkaround())
             .use(postcssTrimCss())
             .process(css, { from: undefined });
         const filteredCSS = processed.css;
