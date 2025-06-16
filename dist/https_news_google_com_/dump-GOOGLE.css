@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.VpceEJ1Avk8.L.B1.O/am=GAgEAAAAA1tgAAYQ/d=1/ed=1/rs=ALs0n2MUS9EzYS88TCSDIuH8WOmGr9dwDg/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.e6XBv50hXq8.L.B1.O/am=GAgEAAAAA1tgAAYQ/d=1/ed=1/rs=ALs0n2NrMUd6OHaov2vsE7WRsecx3g4FEA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -8891,6 +8891,15 @@ screen and (forced-colors:active) {
     background-color: transparent
   }
 }
+.frX3lc-vlkzWd {
+  border-color: var(--gm3-focus-ring-inward-color,var(--gm3-sys-color-secondary,#00639b))
+}
+@keyframes gm3-focus-ring-inward-grows {
+}
+@keyframes gm3-focus-ring-inward-shrinks {
+}
+@media (prefers-reduced-motion) {
+}
 .GhEnC-gBXA9-bMcfAe:enabled:not(:checked) + .GhEnC-RsCWK .GhEnC-wVo5xe-LkdAo {
   border-color: var(--gm3-radio-unselected-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
@@ -8959,14 +8968,12 @@ screen and (forced-colors:active) {
     background-color: CanvasText
   }
 }
-.frX3lc-vlkzWd {
-  border-color: var(--gm3-focus-ring-inward-color,var(--gm3-sys-color-secondary,#00639b))
+.ne2Ple-z59Tgd::before {
+  border: 1px solid transparent
 }
-@keyframes gm3-focus-ring-inward-grows {
-}
-@keyframes gm3-focus-ring-inward-shrinks {
-}
-@media (prefers-reduced-motion) {
+.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd {
+  background-color: var(--gm3-tooltip-plain-container-color,var(--gm3-sys-color-inverse-surface,#303030));
+  color: var(--gm3-tooltip-plain-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
 }
 .W7g1Rb-clz4Ic {
   background-color: var(--gm3-list-divider-color,var(--gm3-sys-color-surface-variant,#e1e3e1))
@@ -9125,13 +9132,6 @@ screen and (forced-colors:active) {
   .W7g1Rb-rymPhb-ibnC6b-OWXEXe-OWB6Me.W7g1Rb-rymPhb-ibnC6b-OWXEXe-SfQLQb-UbuQg-r4m2rf .W7g1Rb-rymPhb-JMEf7e {
     color: GrayText
   }
-}
-.ne2Ple-z59Tgd::before {
-  border: 1px solid transparent
-}
-.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd {
-  background-color: var(--gm3-tooltip-plain-container-color,var(--gm3-sys-color-inverse-surface,#303030));
-  color: var(--gm3-tooltip-plain-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
 }
 .wsOKbe {
   color: #444746;
@@ -10744,7 +10744,7 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
   color: #bdc1c6
 }
 .jOOm8 .o3Gig {
-  color: #80868b
+  color: #5f6368
 }
 .dm7YTc .jOOm8 .o3Gig {
   color: #bdc1c6
@@ -11381,6 +11381,9 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
   background: rgba(140,29,24,.4)
 }
 .taS2Yb .erXZqd {
+  color: #737373
+}
+.dm7YTc .taS2Yb .erXZqd {
   color: #8f8f8f
 }
 .GZSHf .c5OBV {
@@ -13631,6 +13634,47 @@ screen and (forced-colors:active) {
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+.BzLGdd {
+  color: var(--gn-c-on-surface)
+}
+.SGRCcb {
+  fill: currentColor
+}
+.RigKDf {
+  color: var(--gn-c-on-surface-variant)
+}
+.wo7yDd {
+  fill: currentColor
+}
+.U2kNge {
+  background: var(--gn-pubdi-card-bg)
+}
+.jY4Xs {
+  color: var(--gn-c-on-surface-variant)
+}
+.BzLGdd .bZM5xf {
+  background: repeating-linear-gradient(45deg,var(--gn-c-ai-analog),var(--gn-c-ai-complement),var(--gn-c-ai-analog),var(--gn-c-ai-complement),var(--gn-c-ai-analog))
+}
+@keyframes boqDotssplashGenaipubdigest-sparkle-rotate {
+}
+.BzLGdd.JpY6Fd .aJg1rf {
+  background: repeating-linear-gradient(45deg,var(--gn-pubdi-card-shimmer-color-start),var(--gn-pubdi-card-shimmer-color-end),var(--gn-pubdi-card-shimmer-color-start),var(--gn-pubdi-card-shimmer-color-end),var(--gn-pubdi-card-shimmer-color-start))
+}
+.BzLGdd.JpY6Fd .U2kNge:first-of-type {
+  background: var(--gn-pubdi-card-1-bg)
+}
+.BzLGdd.JpY6Fd .U2kNge:nth-of-type(2) {
+  background: var(--gn-pubdi-card-2-bg)
+}
+.BzLGdd.JpY6Fd .U2kNge:nth-of-type(3) {
+  background: var(--gn-pubdi-card-3-bg)
+}
+.BzLGdd.JpY6Fd .U2kNge:nth-of-type(4) {
+  background: var(--gn-pubdi-card-4-bg)
+}
+.BzLGdd.JpY6Fd .U2kNge:nth-of-type(5) {
+  background: var(--gn-pubdi-card-5-bg)
+}
 .BLJgTb-JZnCve-gmhCAd {
   color: var(--gm3-text-field-character-counter-supporting-text-color,unset)
 }
@@ -14341,68 +14385,39 @@ body:not(.dm7YTc) #ucc-5 .vP0hTc {
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Barron\27 s-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Barron\27 s-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Barron\27 s-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDu1qnJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #a9091f
+  color: #00234b
 }
 #ucc-7 .pLZE8d::before {
-  background: #a9091f
+  background: #00234b
 }
 #ucc-7 .jzzMj {
-  background: #a9091f
+  background: #00234b
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
+  border-top-color: #00234b
 }
 #ucc-7 .MyQDIb {
-  background: #a9091f
+  background: #00234b
 }
 body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #a9091f
+  background: #00234b
 }
 body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #a9091f
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Daily Memphian-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Daily Memphian-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #e8ab47
-}
-#ucc-9 .pLZE8d::before {
-  background: #e8ab47
-}
-#ucc-9 .jzzMj {
-  background: #e8ab47
-}
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #e8ab47
-}
-#ucc-9 .MyQDIb {
-  background: #e8ab47
-}
-.dm7YTc #ucc-9 .vP0hTc::before {
-  background: #e8ab47
-}
-.dm7YTc #ucc-9 .vP0hTc {
-  color: #e8ab47
+  color: #00234b
 }
