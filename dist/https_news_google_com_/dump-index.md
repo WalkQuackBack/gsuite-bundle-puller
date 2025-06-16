@@ -285,7 +285,6 @@
 - #8bb8f8
 - #592fd0
 - #a596cf
-- #ed8e21
 
 ## Colour table
 
@@ -574,4 +573,3 @@
 | #8bb8f8 | #8BB8F8 | `.dm7YTc #i11, ` |
 | #592fd0 | #592FD0 | `#i31, , #i32` |
 | #a596cf | #A596CF | `.dm7YTc #i31, , .dm7YTc #i32` |
-| #ed8e21 | #ed8e21 | `#ucc-5 .DaYgZ::after, #ucc-5 .pLZE8d::after, , #ucc-5 .pLZE8d::before, #ucc-5 .jzzMj, #ucc-5 .QeY9wc:not(.kafKN), #ucc-5 .MyQDIb, .dm7YTc #ucc-5 .vP0hTc::before, .dm7YTc #ucc-5 .vP0hTc` |
