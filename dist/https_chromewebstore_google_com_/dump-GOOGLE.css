@@ -200,7 +200,7 @@
 @media only screen and (max-width:452px) {
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.4wThI8xUtow.L.B1.O/am=OKQAgIEtAAg/d=1/ed=1/rs=AEP720JSe7yqxXF0Ocs3fZjKe3wt9-UX1Q/m=discoverview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.l6d_PsIz7bc.L.B1.O/am=OKQAgIEtAAg/d=1/ed=1/rs=AEP720KprxG-9JnjvatnyfCshXhlWm6hNg/m=discoverview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -2802,6 +2802,12 @@ Data-Href: N/A */
   font-weight: 700;
   src: url(https://fonts.gstatic.com/s/googlesans/v58/4UaRrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iq2vgCI.woff2) format('woff2');
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/icon/font?kit=HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAweYkj80rS3CWi1_MwlDDfWp0ubOQ0i&skey=f8ec4d50247dc1c1&v=v334) format('woff2')
 }
 /*! Inline stylesheet
 Data-Href: N/A */
