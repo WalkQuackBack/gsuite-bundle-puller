@@ -14306,49 +14306,86 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #836d3c
+  color: #07508a
 }
 #ucc-3 .pLZE8d::before {
-  background: #836d3c
+  background: #07508a
 }
 #ucc-3 .jzzMj {
-  background: #836d3c
+  background: #07508a
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #07508a
 }
 #ucc-3 .MyQDIb {
-  background: #836d3c
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
+  color: #07508a
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #1b66b1
+  color: #ed8e21
 }
 #ucc-7 .pLZE8d::before {
-  background: #1b66b1
+  background: #ed8e21
 }
 #ucc-7 .jzzMj {
-  background: #1b66b1
+  background: #ed8e21
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #1b66b1
+  border-top-color: #ed8e21
 }
 #ucc-7 .MyQDIb {
-  background: #1b66b1
+  background: #ed8e21
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #1b66b1
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ed8e21
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #1b66b1
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ed8e21
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
