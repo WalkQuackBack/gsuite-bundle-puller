@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.XT9zBhCmUwQ.L.B1.O/am=GAgECAAAA1tgAAYQ/d=1/ed=1/rs=ALs0n2ODNyNJ_4APuavMGF5T-Kfzana8eA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.XT9zBhCmUwQ.L.B1.O/am=GAgEAAAAA1tgAAYQ/d=1/ed=1/rs=ALs0n2PmwWZy_cJ4BVH3QHiFvbT3J9JICg/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14459,85 +14459,95 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i35 {
+#i33 {
   color: #592fd0
 }
-.dm7YTc #i35 {
+.dm7YTc #i33 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i36 {
+#i34 {
   background-color: #592fd0
 }
-.dm7YTc #i36 {
+.dm7YTc #i34 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Barron\27 s-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Wall Street Journal-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Barron\27 s-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Wall Street Journal-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Barron\27 s-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDu1qnJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Wall Street Journal-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #00234b
+  color: #ffcf44
 }
 #ucc-3 .pLZE8d::before {
-  background: #00234b
+  background: #ffcf44
 }
 #ucc-3 .jzzMj {
-  background: #00234b
+  background: #ffcf44
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #00234b
+  border-top-color: #ffcf44
 }
 #ucc-3 .MyQDIb {
-  background: #00234b
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #00234b
+.dm7YTc #ucc-3 .vP0hTc::before {
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #00234b
+.dm7YTc #ucc-3 .vP0hTc {
+  color: #ffcf44
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Santa Monica Daily Press-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: MarketWatch-headline-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-panel-title-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-body-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #ed8e21
+  color: #087c08
 }
 #ucc-7 .pLZE8d::before {
-  background: #ed8e21
+  background: #087c08
 }
 #ucc-7 .jzzMj {
-  background: #ed8e21
+  background: #087c08
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #ed8e21
+  border-top-color: #087c08
 }
 #ucc-7 .MyQDIb {
-  background: #ed8e21
+  background: #087c08
 }
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: #ed8e21
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #087c08
 }
-.dm7YTc #ucc-7 .vP0hTc {
-  color: #ed8e21
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #087c08
 }
