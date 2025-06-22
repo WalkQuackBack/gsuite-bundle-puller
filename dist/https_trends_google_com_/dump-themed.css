@@ -340,7 +340,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-trends/_/ss/k=boq-trends.TrendsUi.uHSY3c5iw9M.L.B1.O/am=AAAGzgKA/d=1/ed=1/rs=APgalu4N33xGDLOXn29Jo-FlVk-4HRH2RQ/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-trends/_/ss/k=boq-trends.TrendsUi.iGhYpUfltFY.L.B1.O/am=AAADZwFA/d=1/ed=1/rs=APgalu4XRj2Je33YtWiYHDshf5M1eKD7zw/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -2404,6 +2404,24 @@ screen and (forced-colors:active) {
   color: #000}
 .tB5Jxf-xl07Ob-XxIAqe:focus {
   outline: 0
+}
+.JIsjjd-Btuy5e {
+  background-color: var(--gm3-badge-color,var(--gm3-sys-color-error,#b3261e))
+}
+.JIsjjd-Btuy5e-OWXEXe-hJDwNd {
+  background-color: var(--gm3-badge-large-color,var(--gm3-sys-color-error,#b3261e))
+}
+.JIsjjd-Isrln {
+  color: var(--gm3-badge-large-label-text-color,var(--gm3-sys-color-on-error,#fff))
+}
+@media (forced-colors:active) {
+  .JIsjjd-Btuy5e {
+    background-color: ButtonText
+  }
+  .JIsjjd-Btuy5e-OWXEXe-hJDwNd {
+    background-color: ButtonFace;
+    border: 1px solid ButtonText
+  }
 }
 .NMm5M {
   fill: currentColor
@@ -4607,7 +4625,7 @@ Data-Href: N/A */
   font-family: 'Google Symbols';
   font-style: normal;
   font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/googlesymbols/v334/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAw.woff2) format('woff2')
+  src: url(https://fonts.gstatic.com/s/googlesymbols/v341/HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAw.woff2) format('woff2')
 }
 /*! Inline stylesheet
 Data-Href: N/A */
