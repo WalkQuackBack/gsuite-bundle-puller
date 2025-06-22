@@ -14476,6 +14476,40 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
+  font-family: 'Washington Times-headline-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Washington Times-body-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #a9091f
+}
+#ucc-3 .pLZE8d::before {
+  background: #a9091f
+}
+#ucc-3 .jzzMj {
+  background: #a9091f
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #a9091f
+}
+#ucc-3 .MyQDIb {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #a9091f
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
   font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
   src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
@@ -14490,42 +14524,25 @@ Data-Href: N/A */
   src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
   color: pink
 }
-#ucc-9 .pLZE8d::before {
+#ucc-7 .pLZE8d::before {
   background: pink
 }
-#ucc-9 .jzzMj {
+#ucc-7 .jzzMj {
   background: pink
 }
-#ucc-9 .QeY9wc:not(.kafKN) {
+#ucc-7 .QeY9wc:not(.kafKN) {
   border-top-color: pink
 }
-#ucc-9 .MyQDIb {
+#ucc-7 .MyQDIb {
   background: pink
 }
-.dm7YTc #ucc-9 .vP0hTc::before {
+.dm7YTc #ucc-7 .vP0hTc::before {
   background: pink
 }
-.dm7YTc #ucc-9 .vP0hTc {
+.dm7YTc #ucc-7 .vP0hTc {
   color: pink
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
 }
