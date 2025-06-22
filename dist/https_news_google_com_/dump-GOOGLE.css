@@ -14290,17 +14290,46 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i31 {
+#i28 {
   color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i28 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i32 {
+#i29 {
   background-color: #592fd0
 }
-.dm7YTc #i32 {
+.dm7YTc #i29 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-5 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-5 .jzzMj {
+  background: #ed8e21
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-5 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-5 .vP0hTc {
+  color: #ed8e21
 }
