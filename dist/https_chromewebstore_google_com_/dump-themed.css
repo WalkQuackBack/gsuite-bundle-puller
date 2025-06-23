@@ -200,7 +200,7 @@
 @media only screen and (max-width:452px) {
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.l6d_PsIz7bc.L.B1.O/am=OKQAgIEtAAg/d=1/ed=1/rs=AEP720KprxG-9JnjvatnyfCshXhlWm6hNg/m=discoverview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.7HIBdjB0TVU.L.B1.O/am=OKQAwMAWAAQ/d=1/ed=1/rs=AEP720JZ3DHrGwsW9bP-OrpVAEznub3upw/m=discoverview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -717,6 +717,24 @@ body {
 }
 .o50S1d-NSFCdd-i5vt6e-OWXEXe-NSFCdd .o50S1d-NSFCdd-Ra9xwd {
   border-top: none
+}
+.JIsjjd-Btuy5e {
+  background-color: var(--gm3-badge-color,var(--gm3-sys-color-error,#b3261e))
+}
+.JIsjjd-Btuy5e-OWXEXe-hJDwNd {
+  background-color: var(--gm3-badge-large-color,var(--gm3-sys-color-error,#b3261e))
+}
+.JIsjjd-Isrln {
+  color: var(--gm3-badge-large-label-text-color,var(--gm3-sys-color-on-error,#fff))
+}
+@media (forced-colors:active) {
+  .JIsjjd-Btuy5e {
+    background-color: ButtonText
+  }
+  .JIsjjd-Btuy5e-OWXEXe-hJDwNd {
+    background-color: ButtonFace;
+    border: 1px solid ButtonText
+  }
 }
 .O68mGe-xl07Ob {
   background-color: var(--gm3-menu-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))}
@@ -2807,7 +2825,7 @@ Data-Href: N/A */
   font-family: 'Google Symbols';
   font-style: normal;
   font-weight: 400;
-  src: url(https://fonts.gstatic.com/icon/font?kit=HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAweYkj80rS3CWi1_MwlDDfWp0ubOQ0i&skey=f8ec4d50247dc1c1&v=v334) format('woff2')
+  src: url(https://fonts.gstatic.com/icon/font?kit=HhzMU5Ak9u-oMExPeInvcuEmPosC9zyteYEFU68cPrjdKM1XLPTxlGmzczpgWvF1d8Yp7AudBnt3CPar1JFWjoLAUv3G-tSNljixIIGUsC62cYrKiAweYkj80rS3CWi1_MwlDDfWp0ubOQ0i&skey=f8ec4d50247dc1c1&v=v341) format('woff2')
 }
 /*! Inline stylesheet
 Data-Href: N/A */
