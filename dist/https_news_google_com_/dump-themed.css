@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.XT9zBhCmUwQ.L.B1.O/am=GAgEAAAAA1tgAAYQ/d=1/ed=1/rs=ALs0n2PmwWZy_cJ4BVH3QHiFvbT3J9JICg/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.XT9zBhCmUwQ.L.B1.O/am=GAgECAAAA1tgAAYQ/d=1/ed=1/rs=ALs0n2ODNyNJ_4APuavMGF5T-Kfzana8eA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14459,17 +14459,46 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i33 {
+#i35 {
   color: #592fd0
 }
-.dm7YTc #i33 {
+.dm7YTc #i35 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i34 {
+#i36 {
   background-color: #592fd0
 }
-.dm7YTc #i34 {
+.dm7YTc #i36 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-9 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-9 .jzzMj {
+  background: #ed8e21
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-9 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-9 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-9 .vP0hTc {
+  color: #ed8e21
 }
