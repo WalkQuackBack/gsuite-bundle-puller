@@ -12410,6 +12410,13 @@ Data-Href: N/A */
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
 }
 @font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/stats/Product+Sans/normal/400?inline=true) format('woff2');
+  unicode-range: U+20
+}
+@font-face {
   font-family: 'Google Sans';
   font-style: normal;
   font-weight: 400;
@@ -14307,41 +14314,9 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
-}
-@font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #ffcf44
-}
-#ucc-3 .pLZE8d::before {
-  background: #ffcf44
-}
-#ucc-3 .jzzMj {
-  background: #ffcf44
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
-}
-#ucc-3 .MyQDIb {
-  background: #ffcf44
-}
-.dm7YTc #ucc-3 .vP0hTc::before {
-  background: #ffcf44
-}
-.dm7YTc #ucc-3 .vP0hTc {
-  color: #ffcf44
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14381,28 +14356,4 @@ body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
   color: #07508a
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #836d3c
-}
-#ucc-9 .pLZE8d::before {
-  background: #836d3c
-}
-#ucc-9 .jzzMj {
-  background: #836d3c
-}
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
-}
-#ucc-9 .MyQDIb {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-9 .vP0hTc {
-  color: #836d3c
 }
