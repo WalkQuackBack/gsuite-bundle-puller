@@ -314,7 +314,7 @@
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.5*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.5*.333))
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.Ig68koleCPA.L.B1.O/am=AgAwAAAMggBkChYCAhA/d=1/ed=1/rs=ANkVxDm14isYjhwaj_HUm35X7TdQhUFNxw/m=mainview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi._wkqZUR_AHg.L.B1.O/am=AgAYAAAMggBkChYCAhA/d=1/ed=1/rs=ANkVxDk6QTyAuxzqYAqaKgF_nfVu8lnvOQ/m=mainview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -6192,21 +6192,69 @@ screen and (forced-colors:active) {
 .LodOnb:not(:disabled) {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
+.LodOnb:not(:disabled):hover {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.LodOnb:not(:disabled).VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,
+.LodOnb:not(:disabled):not(.VfPpkd-ksKsZd-mWPk3d):focus {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.LodOnb .VfPpkd-Jh9lGc::before {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.H275pd .VfPpkd-Bz112c-Jh9lGc::after,
+.H275pd .VfPpkd-Bz112c-Jh9lGc::before {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.H275pd .VfPpkd-Bz112c-Jh9lGc::before {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.GsJZNc .VfPpkd-Bz112c-Jh9lGc::after,
+.GsJZNc .VfPpkd-Bz112c-Jh9lGc::before {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.GsJZNc .VfPpkd-Bz112c-Jh9lGc::before {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
 .EILo8d {
   background-color: var(--gm3-sys-color-surface,#fff);
   box-shadow: 0 1px 4px 0 rgba(0,0,0,.37)
+}
+.EILo8d:hover {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.EILo8d:has(:focus-visible) {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 10%,#fff)
 }
 .XmpW9e {
   background-color: var(--gm3-sys-color-surface,#fff);
   box-shadow: 0 1px 4px 0 rgba(0,0,0,.37)
 }
+.XmpW9e:hover {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.XmpW9e:has(:focus-visible) {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 10%,#fff)
+}
 .rOtHJ {
   background-color: var(--gm3-sys-color-surface,#fff);
   box-shadow: 0 1px 4px 0 rgba(0,0,0,.37)
 }
+.rOtHJ:hover {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.rOtHJ:has(:focus-visible) {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 10%,#fff)
+}
 .cphEx {
   background-color: var(--gm3-sys-color-surface,#fff);
   box-shadow: 0 1px 4px 0 rgba(0,0,0,.37)
+}
+.cphEx:hover {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 8%,#fff)
+}
+.cphEx:has(:focus-visible) {
+  background-color: color-mix(in srgb,var(--gm3-sys-color-on-surface-variant,#444746) 10%,#fff)
 }
 /*! Inline stylesheet
 Data-Href: N/A */
