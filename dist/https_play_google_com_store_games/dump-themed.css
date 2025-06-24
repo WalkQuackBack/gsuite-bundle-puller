@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.9HpHg83keWA.L.B1.O/am=p9sMWK8PAEwCA_6F36AtABA/d=1/ed=1/rs=AB1caFUG0khX78GpnE3820a4C6Z8vs_5lQ/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.SgLw6z_6w-c.L.B1.O/am=p9sMWK8PAJgEBvwLv0FbACA/d=1/ed=1/rs=AB1caFUovoCQ9MWxFco7V3bwFOYDB-DvoQ/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -3426,24 +3426,6 @@ textarea {
 .fny74c .JHTxhe a:visited {
   color: #00838f
 }
-.JIsjjd-Btuy5e {
-  background-color: var(--gm3-badge-color,var(--gm3-sys-color-error,#b3261e))
-}
-.JIsjjd-Btuy5e-OWXEXe-hJDwNd {
-  background-color: var(--gm3-badge-large-color,var(--gm3-sys-color-error,#b3261e))
-}
-.JIsjjd-Isrln {
-  color: var(--gm3-badge-large-label-text-color,var(--gm3-sys-color-on-error,#fff))
-}
-@media (forced-colors:active) {
-  .JIsjjd-Btuy5e {
-    background-color: ButtonText
-  }
-  .JIsjjd-Btuy5e-OWXEXe-hJDwNd {
-    background-color: ButtonFace;
-    border: 1px solid ButtonText
-  }
-}
 .t5eBue {
   box-shadow: 0 1px 0 rgba(0,0,0,.05);
   background: #fff
@@ -4998,6 +4980,24 @@ textarea {
 (any-pointer:none) {
 }
 @media screen and (min-width:840px) {
+}
+.JIsjjd-Btuy5e {
+  background-color: var(--gm3-badge-color,var(--gm3-sys-color-error,#b3261e))
+}
+.JIsjjd-Btuy5e-OWXEXe-hJDwNd {
+  background-color: var(--gm3-badge-large-color,var(--gm3-sys-color-error,#b3261e))
+}
+.JIsjjd-Isrln {
+  color: var(--gm3-badge-large-label-text-color,var(--gm3-sys-color-on-error,#fff))
+}
+@media (forced-colors:active) {
+  .JIsjjd-Btuy5e {
+    background-color: ButtonText
+  }
+  .JIsjjd-Btuy5e-OWXEXe-hJDwNd {
+    background-color: ButtonFace;
+    border: 1px solid ButtonText
+  }
 }
 .hQnXo {
   background-color: #fff
