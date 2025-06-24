@@ -14307,78 +14307,58 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The New York Times-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Washington Times-headline-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The New York Times-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The New York Times-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #121212
-}
-#ucc-3 .pLZE8d::before {
-  background: #121212
-}
-#ucc-3 .jzzMj {
-  background: #121212
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #121212
-}
-#ucc-3 .MyQDIb {
-  background: #121212
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #121212
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #121212
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Investor\27 s Business Daily-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Washington Times-body-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #07508a
+  color: #a9091f
 }
 #ucc-5 .pLZE8d::before {
-  background: #07508a
+  background: #a9091f
 }
 #ucc-5 .jzzMj {
-  background: #07508a
+  background: #a9091f
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
+  border-top-color: #a9091f
 }
 #ucc-5 .MyQDIb {
-  background: #07508a
+  background: #a9091f
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #07508a
+  background: #a9091f
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #07508a
+  color: #a9091f
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #836d3c
+}
+#ucc-7 .pLZE8d::before {
+  background: #836d3c
+}
+#ucc-7 .jzzMj {
+  background: #836d3c
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #836d3c
+}
+#ucc-7 .MyQDIb {
+  background: #836d3c
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #836d3c
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #836d3c
 }
