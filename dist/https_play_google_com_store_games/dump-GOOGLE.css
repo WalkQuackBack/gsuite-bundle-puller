@@ -8877,6 +8877,27 @@ Data-Href: N/A */
   box-shadow: 0 0 0;
   background-color: transparent
 }
+.Gq7XXc {
+  box-shadow: 0 2px 40px rgba(0,0,0,.4);
+  background-color: #fe8;
+  border: 1px solid #ba5
+}
+@media screen and (max-width:600px) {
+  .qlYO9b {
+    box-shadow: 0 2px 40px rgba(0,0,0,.4);
+    background-color: #fe8
+  }
+  .Gq7XXc {
+    box-shadow: none;
+    border: 0
+  }
+}
+@media screen and (max-width:480px) {
+}
+.rYrxJf,
+.rYrxJf:visited {
+  color: #00838f
+}
 @media (max-height:732px) {
 }
 @media (min-height:732px) {

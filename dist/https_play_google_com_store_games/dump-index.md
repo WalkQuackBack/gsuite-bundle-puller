@@ -196,6 +196,8 @@
 - rgba(0,0,0,.75)
 - rgba(0,0,0,.9)
 - rgba(60,64,67,.5)
+- #fe8
+- #ba5
 - #e9f0fe
 
 ## Colour table
@@ -311,14 +313,14 @@
 | #555 | #555 | `.mgVrBf:active, , .sIIDsc, .mzRh0d .pvVVcb, .iZhiic .pvVVcb, .k8Lt0 .fle8Af .gm1qLe, .WhMnYc,.WtH9qd, .shke5e, .bPAkEd, .HTh71e` |
 | #0097a7 | #0097a7 | `.AOhnBb,.AOhnBb:visited,.n12wA,.n12wA:visited, ` |
 | #00acc1 | #00acc1 | `.AOhnBb:hover,.n12wA:hover, ` |
-| #00838f | #00838f | `.AOhnBb:active,.n12wA:active, , .XNBNjd, .fny74c .hrTbp,.fny74c .hrTbp:visited, .fny74c .JHTxhe a,.fny74c .JHTxhe a:visited` |
+| #00838f | #00838f | `.AOhnBb:active,.n12wA:active, , .XNBNjd, .fny74c .hrTbp,.fny74c .hrTbp:visited, .fny74c .JHTxhe a,.fny74c .JHTxhe a:visited, .rYrxJf,.rYrxJf:visited` |
 | rgba(0,131,143,.122) | rgba(0,131,143,.122) | `.XNBNjd:hover,.XNBNjd:active, ` |
 | #c7dcfc | #c7dcfc | `.LkLjZd:focus, , .Bovvxc.u3bW4e, .Bovvxc.MHh0ke.u3bW4e, .Q4vdJd:focus, .miOZxe.u3bW4e, .miOZxe.UP5Cfc.u3bW4e,.miOZxe.KAqnfc.u3bW4e` |
 | rgb(232,234,237) | rgb(232,234,237) | `.VTG6db, , .VTG6db:not(:disabled), .P9KVBf .GmeDHf::before, .P9KVBf .xzVNx, .P9KVBf .xzVNx:not(:disabled), .srvBL, .srvBL:not(:disabled), .P9KVBf .dUghbc:nth-child(n):nth-child(n).VfPpkd-AznF2e-OWXEXe-auswjd .VfPpkd-jY41G-V67aGc, .P9KVBf .dUghbc:nth-child(n):nth-child(n) .VfPpkd-AznF2e-wEcVzc-OWXEXe-NowJzb, .P9KVBf .xCoTHe, .P9KVBf .xCoTHe:not(:disabled), .P9KVBf .HWAcU, .P9KVBf .HWAcU:not(:disabled), .P9KVBf .FfLSic, .P9KVBf .FfLSic:not(:disabled), .P9KVBf .wVqUob .ClM7O, .P9KVBf .wVqUob .ClM7O:not(:disabled), .wVqUob:not(:first-child)::before, .P9KVBf .XjKdFd, .P9KVBf .XjKdFd:not(:disabled), .P9KVBf .m46uhe, .P9KVBf .m46uhe:not(:disabled), .KnEF3e.FwR7Pc, .KnEF3e.FwR7Pc:not(:disabled), .KnEF3e.N2RpBe::before, .KnEF3e.N2RpBe::before:not(:disabled), .P9KVBf .be0Qw, .P9KVBf .be0Qw:not(:disabled), .P9KVBf .oS3zXb, .P9KVBf .oS3zXb:not(:disabled), .P9KVBf .wMUdtb, .P9KVBf .wMUdtb:not(:disabled), .P9KVBf .DdYX5, .P9KVBf .DdYX5:not(:disabled), .P9KVBf .kcen6d, .P9KVBf .kcen6d:not(:disabled), .P9KVBf .lYzcx, .P9KVBf .lYzcx:not(:disabled), .P9KVBf .lYzcx .eT1oJ .VfPpkd-Bz112c-Jh9lGc::before,.P9KVBf .lYzcx .eT1oJ .VfPpkd-Bz112c-Jh9lGc::after, .P9KVBf .vWM94c, .P9KVBf .vWM94c:not(:disabled), .P9KVBf .omXQ6c, .P9KVBf .omXQ6c:not(:disabled), .P9KVBf .Epkrse, .P9KVBf .Epkrse:not(:disabled), .XOYVFc, .P9KVBf .Hs29hd, .P9KVBf .Hs29hd:not(:disabled), .P9KVBf .v6DsQb, .P9KVBf .v6DsQb:not(:disabled), .P9KVBf .YBYqhd, .P9KVBf .YBYqhd:not(:disabled), .P9KVBf .qZNaRe, .P9KVBf .qZNaRe:not(:disabled)` |
 | #558b2f | #558b2f | `.drrice .hrTbp.TCobc,.drrice .hrTbp.TCobc:visited, , .drrice .oMtcG` |
 | #b3261e | #b3261e | `.JIsjjd-Btuy5e, , .JIsjjd-Btuy5e-OWXEXe-hJDwNd` |
 | rgba(0,0,0,.1) | rgba(0,0,0,.1) | `.NnzYY .t5eBue, , .k8Lt0 .Knqxbd, .yb6DRb .Knqxbd, .k8Lt0 .CoKTif, .DbRMwe, .POfIAc` |
-| rgba(0,0,0,.4) | rgba(0,0,0,.4) | `.LNKfBf, , .wXUyZd:hover` |
+| rgba(0,0,0,.4) | rgba(0,0,0,.4) | `.LNKfBf, , .wXUyZd:hover, .Gq7XXc, .qlYO9b` |
 | #8d9d29 | #8d9d29 | `.t5eBue.ovVTif .hAJqZ.KKjvXb,.t5eBue.ovVTif .r2Osbf.KKjvXb, , .qKjvAb .gWazle,.qKjvAb .gWazle .gm1qLe` |
 | #a84137 | #a84137 | `.t5eBue.wWRLCd .hAJqZ.KKjvXb,.t5eBue.wWRLCd .r2Osbf.KKjvXb, , .N41Tic .gWazle,.N41Tic .gWazle .gm1qLe` |
 | #1380b5 | #1380b5 | `.t5eBue.LW9aSc .hAJqZ.KKjvXb,.t5eBue.LW9aSc .r2Osbf.KKjvXb, , .WEMC7e .gWazle,.WEMC7e .gWazle .gm1qLe` |
@@ -396,4 +398,6 @@
 | rgba(0,0,0,.75) | rgba(0,0,0,.75) | `.bYEzqc.LAhoGb, ` |
 | rgba(0,0,0,.9) | rgba(0,0,0,.9) | `.bYEzqc.ZCaYnd, ` |
 | rgba(60,64,67,.5) | rgba(60,64,67,.5) | `.lKf3F:hover, ` |
+| #fe8 | #fe8 | `.Gq7XXc, , .qlYO9b` |
+| #ba5 | #ba5 | `.Gq7XXc, ` |
 | #e9f0fe | #e9f0fe | `.Ud1OW, ` |
