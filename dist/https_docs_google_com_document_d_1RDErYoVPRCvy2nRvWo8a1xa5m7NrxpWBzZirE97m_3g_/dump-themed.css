@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/2928458812-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/832657641-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -132px -94px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1818px -506px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2526,7 +2526,7 @@ a:active {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -558px -686px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1958px -238px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3481,7 +3481,7 @@ a:active {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -132px -94px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1818px -506px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -4251,8 +4251,27 @@ a:active {
   background-color: #e8eaed;
   outline: 0
 }
+@keyframes shimmer-wipe-in {
+}
+@keyframes shimmer-wipe-out {
+}
+@keyframes generation-shimmer {
+}
+.docs-gm .kix-spell-bubble-text-refinement.stop-shimmer-animation:before {
+  background: var(--gm3-sys-color-surface,#fff)
+}
+.docs-gm .kix-spell-bubble-text-refinement:before {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
 .docs-gm .kix-spell-bubble-text-refinement:hover {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .docs-gm .kix-spell-bubble-text-refinement:hover {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
+@media (not (prefers-reduced-motion)) and (not (prefers-reduced-motion)) {
 }
 .docs-gm .kix-spell-bubble-text-refinement:focus:before {
   background-color: var(--gm3-sys-color-on-surface,#1f1f1f)
@@ -4260,6 +4279,13 @@ a:active {
 .docs-gm .kix-spell-bubble-text-refinement:focus {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff));
   outline: 0
+}
+@media not (prefers-reduced-motion) {
+  .docs-gm .kix-spell-bubble-text-refinement:focus {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
+@media (not (prefers-reduced-motion)) and (not (prefers-reduced-motion)) {
 }
 .docs-spellcheck-bubble-popout.docs-gm-promo.jfk-bubble.jfk-bubble-promo.docs-promo-bubble .jfk-bubble-arrowdown .jfk-bubble-arrowimplafter,
 .docs-spellcheck-bubble-popout.docs-gm-promo.jfk-bubble.jfk-bubble-promo.docs-promo-bubble .jfk-bubble-arrowdown .jfk-bubble-arrowimplbefore,
@@ -7565,9 +7591,6 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 .proactiveSummaryViewFilledCard {
   background: #eaeef5
 }
-.proactiveSummaryViewProactiveSummarySubtitle {
-  color: #444746
-}
 .proactiveSummaryViewProactiveSummaryText {
   color: #444746
 }
@@ -10403,7 +10426,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -132px -94px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1818px -506px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10464,7 +10487,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -132px -94px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1818px -506px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -12508,6 +12531,10 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
 .docs-image-synthesis-sidebar .image-generation-error-message {
   color: #b3261e
 }
+.image-generation-error-message a,
+.image-generation-error-message a:visited {
+  color: currentColor
+}
 .docs-image-synthesis-sidebar .image-synthesis-creation-button {
   border: 1px solid transparent;
   background: #0b57d0;
@@ -13187,7 +13214,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -132px -94px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1818px -506px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13249,7 +13276,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite827_gm3_grey_medium.svg) -132px -94px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite830_gm3_grey_medium.svg) -1818px -506px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -15300,6 +15327,8 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 }
 .kixGlobalFabRoot .docs-gm3-tonal-button {
   background-color: #e7f2ff;
+  border: 2px solid;
+  border-color: #fff;
   box-shadow: none;
   color: #0b57d0
 }
@@ -15313,13 +15342,8 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
   background-color: #217bfe;
   box-shadow: 0 2px 3px rgba(46,100,222,.2)
 }
-.kixGlobalFabButtonContainer:active,
-.kixGlobalFabButtonContainer:focus,
-.kixGlobalFabButtonContainer:hover {
+.kixGlobalFabRoot:hover:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer {
   background: linear-gradient(-266deg,#076eff,#4fabff)
-}
-.kixGlobalFabOption {
-  background-color: transparent
 }
 .kix-linenumbers-sidebar {
   background-color: #fff;
@@ -16304,22 +16328,49 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
   border: 1px solid transparent;
   color: #0b57d0
 }
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech {
+  border: 1px solid transparent;
+  color: #0b57d0;
+  background-color: #0b57d0
+}
+.kix-smart-controls-button-sidebar-empty-view-insert-button-label {
+  color: #fff
+}
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-open-macros-editor-button {
   outline: 1px solid #747775
 }
 .kix-smart-controls-button-sidebar-footer-insert-button {
   outline: 0
 }
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview:hover,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech:hover,
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-open-macros-editor-button:hover,
 .kix-smart-controls-button-sidebar-footer-insert-button:hover {
   color: #0b57d0;
   background-color: rgba(11,87,208,.08)
 }
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview:hover,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech:hover {
+  background-color: #1f64d4
+}
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview:focus,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech:focus,
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-open-macros-editor-button:focus,
 .kix-smart-controls-button-sidebar-footer-insert-button:focus {
   color: #0b57d0;
   background-color: rgba(11,87,208,.12)
 }
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview.goog-flat-button-disabled,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech.goog-flat-button-disabled {
+  background-color: #c6cbd2
+}
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview.goog-flat-button-disabled .kix-smart-controls-button-sidebar-empty-view-insert-button-label,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech.goog-flat-button-disabled .kix-smart-controls-button-sidebar-empty-view-insert-button-label {
+  color: #868a8e
+}
+.kix-smart-controls-button-sidebar-empty-view-insert-button-audio-overview:focus,
+.kix-smart-controls-button-sidebar-empty-view-insert-button-text-to-speech:focus,
 .kix-smart-controls-button-sidebar-footer-insert-button:focus {
   outline: 1px solid transparent
 }
@@ -16392,10 +16443,23 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-button-focused {
   outline: 0
 }
+@media (forced-colors:active) {
+  .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-button-active,
+  .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-button-focused,
+  .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-button-hover,
+  .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-tonal-button.docs-gm3-button-active,
+  .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-tonal-button.docs-gm3-button-focused,
+  .inlineFabBubbleContainer.aiFabEnabled .docs-gm3-tonal-button.docs-gm3-button-hover {
+    outline: 3px solid Highlight
+  }
+}
 .inlineFabBubbleContainer:not(.aiFabEnabled):active,
 .inlineFabBubbleContainer:not(.aiFabEnabled):focus,
 .inlineFabBubbleContainer:not(.aiFabEnabled):hover {
   background-color: #f2f2f2
+}
+.inlineFabBubbleContainer.aiFabEnabled:focus {
+  outline: auto
 }
 @keyframes fadeIn {
 }
@@ -22596,6 +22660,9 @@ screen and (forced-colors:active) {
 .boqAddonscardsrendererCardCarouselSlides::-webkit-scrollbar-track {
   background: var(--gm3-sys-color-surface-variant,#e1e3e1)
 }
+.boqAddonscardsrendererCardCarouselAnnouncer {
+  border: 0
+}
 .javascriptMaterialdesignGm3WizCardOutlined-card {
   background-color: var(--gm3-card-outlined-container-color,var(--gm3-sys-color-surface,#fff))}
 .javascriptMaterialdesignGm3WizCardOutlined-card {
@@ -24656,6 +24723,9 @@ screen and (forced-colors:active) {
 .appsElementsLinkIconsVidsPurpleWrapper {
   color: #a142f4
 }
+.appsElementsLinkIconsBrandRedFill {
+  fill: #ea4335
+}
 .appsElementsLinkIconsBrandGreenFill {
   fill: #34a853
 }
@@ -24863,6 +24933,11 @@ screen and (forced-colors:active) {
   background: rgba(31,31,31,.12);
   color: rgba(31,31,31,.38)
 }
+@media screen and (forced-colors:active) {
+  .suggestionNudgeViewAcceptSuggestionButton.AriaDisabled {
+    color: GrayText
+  }
+}
 .suggestionNudgeViewAcceptSuggestionButton.HighlightedButton {
   background-color: #c2e7ff
 }
@@ -25042,6 +25117,13 @@ screen and (forced-colors:active) {
 .docsLinkedObjectsSidebarLinkedObjectViewText {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
+.javascriptMaterialdesignGm3WizToolbarFloating-toolbar {
+  background-color: var(--gm3-toolbar-floating-standard-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))}
+.javascriptMaterialdesignGm3WizToolbarFloating-toolbar:before {
+  border: 1px solid transparent
+}
+.javascriptMaterialdesignGm3WizToolbarFloating-toolbar--vibrant {
+  background-color: var(--gm3-toolbar-floating-vibrant-container-color,var(--gm3-sys-color-primary-container,#d3e3fd))}
 .testChooserDialogTestOptionsList {
   border: 1px solid #000}
 .testChooserDialogTestSelectionList {
@@ -25448,6 +25530,10 @@ screen and (forced-colors:active) {
 .altTextSectionTextExplanation {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
+.javascriptMaterialdesignGm3WizSnackbar-snackbar[popover] {
+  background: 0 0;
+  border: none
+}
 .javascriptMaterialdesignGm3WizSnackbar-snackbar__surface {
   background-color: var(--gm3-snackbar-container-color,var(--gm3-sys-color-inverse-surface,#303030))}
 @media (max-width:344px),
@@ -25486,6 +25572,18 @@ screen and (forced-colors:active) {
 .appsElementsCalloutArrowArrowSurfaceTop {
   background-color: var(--ae-callout-container-color)
 }
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+}
 .appsElementsCalloutArrowArrowTopElevation:after,
 .appsElementsCalloutArrowArrowTopElevation:before {
   box-shadow: none
@@ -25497,6 +25595,13 @@ screen and (forced-colors:active) {
 }
 .appsElementsCalloutBannerContainer {
   background-color: var(--ae-callout-banner-bg-color)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsCalloutBannerContainer {
+    border: 1px solid var(--gm3-sys-color-outline,#747775);
+    border-top: none
+  }
 }
 .appsElementsCalloutIsRichTooltip .appsElementsCalloutTitle {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
@@ -25674,6 +25779,26 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
     border-color: CanvasText
   }
 }
+.appsElementsWorkspaceRecommendationValuePropIconCloudGreySegment {
+  fill: #80868b
+}
+@media (prefers-color-scheme:dark) {
+  .appsElementsWorkspaceRecommendationValuePropIconCloudGreySegment {
+    fill: #9aa0a6
+  }
+}
+.appsElementsWorkspaceRecommendationValuePropIconCloudBlueSegment {
+  fill: #4285f4
+}
+.appsElementsWorkspaceRecommendationValuePropIconCloudRedSegment {
+  fill: #ea4335
+}
+.appsElementsWorkspaceRecommendationValuePropIconCloudYellowSegment {
+  fill: #fbbc04
+}
+.appsElementsWorkspaceRecommendationValuePropIconCloudGreenSegment {
+  fill: #34a853
+}
 .appsElementsGenerativeAiTitleRoot {
   color: var(--gm3-sys-color-outline,#747775)
 }
@@ -25828,9 +25953,17 @@ screen and (forced-colors:active) {
 .appsElementsMultiSectionListNoMoreResults {
   color: var(--gm3-sys-color-outline,#747775)
 }
-.appsElementsMultiSectionListTwoLine > :last-child:not(:empty) {
+.appsElementsMultiSectionListExternal > :last-child:not(:empty) {
   background-color: #fcbd00;
   color: #444746
+}
+.appsElementsMultiSectionListGuestPassUser > :last-child:not(:empty) {
+  background-color: #acedff;
+  color: #00687c
+}
+[data-theme=dark] .appsElementsMultiSectionListGuestPassUser > :last-child:not(:empty) {
+  background-color: #004e5d;
+  color: #acedff
 }
 @media only screen and (min-width:33.75rem) and (max-width:63.9375rem) {
 }
@@ -25882,17 +26015,23 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationBannerContentBackground {
   background: var(--gm3-sys-color-primary-container,#d3e3fd)
 }
-.appsElementsWorkspaceRecommendationBannerContentG1Background {
-  background: var(--gm3-sys-color-surface,#fff)
+.appsElementsWorkspaceRecommendationBannerContentG1BackgroundWarning {
+  background: var(--gm3-sys-color-surface,#fff);
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
 .appsElementsWorkspaceRecommendationBannerContentBackgroundAlertEscalation {
   background: var(--gm3-sys-color-error-container,#f9dedc)
 }
-.appsElementsWorkspaceRecommendationBannerContentOverlineV2 {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+@media (prefers-color-scheme:dark) {
+  .appsElementsWorkspaceRecommendationBannerContentBackgroundAlertEscalation {
+    background: var(--gm3-sys-color-on-error,#fff)
+  }
 }
-.appsElementsWorkspaceRecommendationBannerContentOverlineV2Warning {
-  color: var(--gm3-sys-color-error,#b3261e)
+.appsElementsWorkspaceRecommendationBannerContentOverlineV2 {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsWorkspaceRecommendationBannerContentOverlineV2AlertEscalation {
+  color: var(--gm3-sys-color-on-error-container,#8c1d18)
 }
 .appsElementsWorkspaceRecommendationBannerContentTitleV2 {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
@@ -25953,11 +26092,20 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationMeterContentInnerBarAlert {
   background-color: var(--gm3-sys-color-error,#b3261e)
 }
+.appsElementsWorkspaceRecommendationMeterContentInnerBarAlertEscalation {
+  background-color: var(--gm3-sys-color-on-error-container,#8c1d18)
+}
 .appsElementsWorkspaceRecommendationMeterContentInnerBarWarning {
   background-color: #fcbd00
 }
+.appsElementsWorkspaceRecommendationMeterContentDescription {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
 .appsElementsWorkspaceRecommendationMeterContentDescriptionAlert {
   color: var(--gm3-sys-color-error,#b3261e)
+}
+.appsElementsWorkspaceRecommendationMeterContentDescriptionAlertEscalation {
+  color: var(--gm3-sys-color-on-error-container,#8c1d18)
 }
 @media (forced-colors:active) {
   .appsElementsWorkspaceRecommendationMeterContentOuterBar {
@@ -26336,7 +26484,7 @@ screen and (forced-colors:active) {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
   border: unset
 }
-.appsElementsSidekickUiKitRoot[data-card-name=drive-action-card] .gm3-chip.boqAddonscardsrendererCardFormattedtextChip {
+.appsElementsSidekickUiKitRoot[data-card-name*=drive-action] .javascriptMaterialdesignGm3WizChipShared-chip.boqAddonscardsrendererCardFormattedtextChip {
   border: none
 }
 .appsElementsSidekickUiKitScrim:not([data-scrim=hidden]) {
@@ -26533,6 +26681,9 @@ screen and (forced-colors:active) {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9);
   color: var(--ae-sidekick-prompt-input-text-color,#000);
   caret-color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.fontsListCssSelectedFontsListItem {
+  background-color: #fff
 }
 .fontsListCssNoFontsFoundContainer {
   background-color: #fff
