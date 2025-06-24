@@ -14306,40 +14306,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #a9091f
-}
-#ucc-5 .pLZE8d::before {
-  background: #a9091f
-}
-#ucc-5 .jzzMj {
-  background: #a9091f
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
-}
-#ucc-5 .MyQDIb {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #a9091f
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
   color: #836d3c
@@ -14361,4 +14327,43 @@ body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
 }
 body:not(.dm7YTc) #ucc-7 .vP0hTc {
   color: #836d3c
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rochester Post Bulletin-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw9O2vrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rochester Post Bulletin-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rochester Post Bulletin-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #007db3
+}
+#ucc-9 .pLZE8d::before {
+  background: #007db3
+}
+#ucc-9 .jzzMj {
+  background: #007db3
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #007db3
+}
+#ucc-9 .MyQDIb {
+  background: #007db3
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #007db3
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #007db3
 }
