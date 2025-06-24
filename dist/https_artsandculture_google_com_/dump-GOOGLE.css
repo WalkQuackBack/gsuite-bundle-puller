@@ -510,7 +510,7 @@ span.gb_X {
   box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2)
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/artsandculture/_/ss/k=artsandculture.stella.gAwoIiNXjc8.L.W.O/am=AABDkA0EAAAg/d=1/rs=AIxt-Lq-peJ9mkvDxw6oNTeqhsH1E-gV-g/m=bDA3e */
+Data-Href: https://www.gstatic.com/_/artsandculture/_/ss/k=artsandculture.stella.sbrUcAPeYZk.L.W.O/am=AIAhyAYCAAAQ/d=1/rs=AIxt-Lp-xVaAJODnykeyALFZghaeTUSQkg/m=bDA3e */
 .wsvqid .MiwKYe,
 .wsvqid .ZM7pef {
   fill: rgb(66,133,244)
@@ -4738,6 +4738,13 @@ Data-Href: N/A */
   font-style: normal;
   font-weight: 400;
   src: url(//fonts.gstatic.com/s/googlesansdisplay/v13/ea8FacM9Wef3EJPWRrHjgE4B6CnlZxHVDv79oQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+}
+@font-face {
+  font-family: 'Google Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/s/googlesansmono/v15/P5sUzYWFYtnZ_Cg-t0Uq_rfivrdYH4RE8-pZ5gQ1abT53wVQGrk.woff2) format('woff2');
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
 }
 @font-face {
