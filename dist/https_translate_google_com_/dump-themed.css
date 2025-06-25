@@ -314,7 +314,7 @@
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.5*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.5*.333))
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi._wkqZUR_AHg.L.B1.O/am=AgAYIAIMggBkChYCAhA/d=1/ed=1/rs=ANkVxDnw2YS4CFL3BYSQHnWfECjiddDS8w/m=mainview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.iykN2T-ljUs.L.B1.O/am=AgAwQAQMggBkChYCAhA/d=1/ed=1/rs=ANkVxDnK9ddJR-2pZd8PBTlug6R784ufGg/m=mainview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -4956,13 +4956,13 @@ Data-Href: N/A */
   font-family: 'Google Material Icons';
   font-style: normal;
   font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/googlematerialicons/v143/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2) format('woff2')
+  src: url(https://fonts.gstatic.com/s/googlematerialicons/v144/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3Q.woff2) format('woff2')
 }
 @font-face {
   font-family: 'Google Material Icons Filled';
   font-style: normal;
   font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/googlematerialiconsfilled/v117/WWXFlimHYg6HKI3TavMkbKdhBmDvgach8TVpeGsuueSZJH0.woff2) format('woff2')
+  src: url(https://fonts.gstatic.com/s/googlematerialiconsfilled/v118/WWXFlimHYg6HKI3TavMkbKdhBmDvgach8TVpeGsuueSZJH0.woff2) format('woff2')
 }
 @font-face {
   font-family: 'Product Sans';
@@ -5271,6 +5271,12 @@ Data-Href: N/A */
   font-weight: 500;
   src: url(https://fonts.gstatic.com/s/googlesans/v58/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvQ.woff2) format('woff2');
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+}
+@font-face {
+  font-family: 'Google Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/icon/font?kit=HhyAU5Ak9u-oMExPeInvcuEmPosC9wTlQYgGU68c9vvHJveB8Vwp9BnVG1EMDZQSwyjnCnv_bGgeguuBkeqpXljuZemEdrQ2HBHN&skey=f8ec4d50247dc1c1&v=v342) format('woff2')
 }
 /*! Inline stylesheet
 Data-Href: N/A */
