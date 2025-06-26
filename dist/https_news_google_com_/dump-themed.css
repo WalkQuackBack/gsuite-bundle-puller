@@ -14335,27 +14335,42 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: MarketWatch-headline-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-panel-title-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-body-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #836d3c
+  color: #087c08
 }
 #ucc-3 .pLZE8d::before {
-  background: #836d3c
+  background: #087c08
 }
 #ucc-3 .jzzMj {
-  background: #836d3c
+  background: #087c08
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #087c08
 }
 #ucc-3 .MyQDIb {
-  background: #836d3c
+  background: #087c08
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
+  background: #087c08
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
+  color: #087c08
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14390,6 +14405,30 @@ body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
   color: #a9091f
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #3078c0
+}
+#ucc-7 .pLZE8d::before {
+  background: #3078c0
+}
+#ucc-7 .jzzMj {
+  background: #3078c0
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #3078c0
+}
+#ucc-7 .MyQDIb {
+  background: #3078c0
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #3078c0
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #3078c0
 }
 /*! Inline stylesheet
 Data-Href: N/A */
