@@ -200,7 +200,7 @@
 @media only screen and (max-width:452px) {
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.N3-odhVZgDs.L.B1.O/am=OKQAgIEtAAg/d=1/ed=1/rs=AEP720LzVJc4GIYEZ6a7Pcg6FKaOrfSNEg/m=discoverview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.OaHJ2hns2DY.L.B1.O/am=OKQAwMAWAAQ/d=1/ed=1/rs=AEP720K_7LrPCqv3myVcek7bJs9OUnUiXQ/m=discoverview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -784,21 +784,27 @@ body {
 .eo4ZE {
   color: var(--gm3-sys-color-on-surface)
 }
-.eo4ZE:hover,
-.eo4ZE[aria-selected=true] {
-  background: var(--gm3-sys-color-surface-container)
+.eo4ZE:hover::before {
+  background-color: var(--gm3-sys-color-on-surface-variant)
+}
+.eo4ZE:focus::before,
+.eo4ZE[aria-selected=true]::before {
+  background-color: var(--gm3-sys-color-on-surface-variant)
+}
+.eo4ZE:active::before {
+  background-color: var(--gm3-sys-color-on-surface-variant)
 }
 .sxPVDb {
-  background: var(--gm3-sys-color-surface-container-low)
+  background: var(--cws-autocomplete-suggestion-icon-container)
 }
 .DpcOrc {
   color: var(--gm3-sys-color-on-surface-variant)
 }
 .vHhHPc {
-  background-color: var(--gm3-sys-color-surface-container)
+  background-color: var(--cws-autocomplete-container-rest)
 }
 .vHhHPc:focus-within {
-  background-color: initial;
+  background-color: var(--cws-autocomplete-container-active);
   box-shadow: rgba(var(--gm3-sys-color-shadow-rgb),.2) 0 1px 1px 0,rgba(var(--gm3-sys-color-shadow-rgb),.1) 0 1px 3px 1px
 }
 @media screen and (max-width:1439px) {
