@@ -181,7 +181,7 @@
   src: url(https://fonts.gstatic.com/s/googlesanstext/v23/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2iw.woff2) format('woff2');
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
 }
-/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.c1UTH7hDRUQ.L.W.O/m=qmd,qcwid/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTu8riNQ1VT_7n4xK_uCUhsPtsfKaQ" */
+/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.s_dlZ5UpxbM.L.W.O/m=qmd,qcwid/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTtbmt94jBJE4wiLQx8WTidTulKPQw" */
 .gb_Ka {
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
@@ -314,7 +314,7 @@
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.5*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.5*.333))
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.gDzazBW-D20.L.B1.O/am=AgAYIACDYAAyBQsBAQg/d=1/ed=1/rs=ANkVxDnwvDkXThGYl8alxDfy0BAdYpuuWw/m=mainview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.gDzazBW-D20.L.B1.O/am=AgAYIACDIAAyBQsBAQg/d=1/ed=1/rs=ANkVxDm-CfChcE8BwH45tnELdMeRrqh_XA/m=mainview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -5678,7 +5678,7 @@ span.gb_X {
   border-left: 4px dashed transparent;
   border-right: 4px dashed transparent
 }
-.gb_Wd.gb_od {
+.gb_Xd.gb_od {
   color: #fff
 }
 #gb#gb .gb_1.gb_1 a.gb_hb,
@@ -5697,13 +5697,13 @@ span.gb_X {
 .gb_Fc {
   outline: 0
 }
-.gb_Fc .gb_7d {
+.gb_Fc .gb_8d {
   outline: 0
 }
-.gb_Fc.gb_8d:focus-visible {
+.gb_Fc.gb_9d:focus-visible {
   outline: 1px solid #202124
 }
-.gb_Mc .gb_Fc.gb_8d:focus-visible {
+.gb_Mc .gb_Fc.gb_9d:focus-visible {
   outline-color: #f1f3f4
 }
 .gb_Kc {
@@ -5804,21 +5804,21 @@ img.gb_Pd {
 .gb_3c .gb_4c {
   background-color: #f5f5f5
 }
-.gb_ge {
+.gb_ie {
   background-color: rgba(0,0,0,.1);
   box-shadow: inset 1px 1px 3px rgba(0,0,0,.24)
 }
-.gb_fe[aria-pressed=true] .gb_ge {
+.gb_he[aria-pressed=true] .gb_ie {
   background-color: rgba(255,255,255,.1)
 }
-.gb_he {
+.gb_je {
   box-shadow: 0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
   background-color: #fff
 }
-.gb_oe {
+.gb_qe {
   color: #000
 }
-.gb_pe {
+.gb_re {
   background: #fff;
   box-shadow: 0 5px 5px -3px rgba(0,0,0,.2),0 8px 10px 1px rgba(0,0,0,.14),0 3px 14px 2px rgba(0,0,0,.12)
 }
@@ -5834,12 +5834,12 @@ img.gb_Pd {
   border: none;
   outline: 0
 }
-.gb_qe {
+.gb_se {
   background: 0 0;
   border: none;
   outline: 0
 }
-.gb_Mc .gb_qe {
+.gb_Mc .gb_se {
   color: rgba(255,255,255,.87)
 }
 .gb_jd:not(.gb_kd) input::-webkit-input-placeholder {
@@ -5848,7 +5848,7 @@ img.gb_Pd {
 .gb_Mc .gb_jd:not(.gb_kd) input::-webkit-input-placeholder {
   color: rgba(255,255,255,.87)
 }
-.gb_jd.gb_Be:not(.gb_sa) {
+.gb_jd.gb_De:not(.gb_sa) {
   background: 0 0;
   box-shadow: none
 }

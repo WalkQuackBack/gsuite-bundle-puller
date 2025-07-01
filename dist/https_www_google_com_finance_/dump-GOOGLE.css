@@ -1,4 +1,4 @@
-/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.c1UTH7hDRUQ.L.W.O/m=q_sf,qmd,qcwid/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTu8riNQ1VT_7n4xK_uCUhsPtsfKaQ" */
+/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.s_dlZ5UpxbM.L.W.O/m=q_sf,qmd,qcwid/excm=qaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhawgm3,qhba,qhbr,qhbrgm3,qhch,qhchgm3,qhga,qhid,qhidgm3,qhin,qhlo,qhlogm3,qhmn,qhpc,qhsf,qhsfgm3,qhtt/d=1/ed=1/ct=zgms/rs=AA2YrTtbmt94jBJE4wiLQx8WTidTulKPQw" */
 .gb_Ka {
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
@@ -135,7 +135,7 @@
   border: 1px solid transparent;
   box-shadow: 0 1px 1px 0 rgba(65,69,73,.3),0 1px 3px 1px rgba(65,69,73,.15)
 }
-.gb_jd.gb_kd .gb_qe {
+.gb_jd.gb_kd .gb_se {
   color: #000
 }
 .gb_jd.gb_kd input::-webkit-input-placeholder {
@@ -144,20 +144,20 @@
 .gb_jd.gb_kd button svg {
   color: #5f6368
 }
-.gb_se {
+.gb_ue {
   background: #fff;
   border: 1px solid transparent;
   border-top: 0;
   box-shadow: 0 1px 1px 0 rgba(65,69,73,.3),0 1px 3px 1px rgba(65,69,73,.15)
 }
-.gb_8e {
+.gb_af {
   color: #999
 }
-.gb_9e {
+.gb_bf {
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.zqavIYJsu4g.L.B1.O/am=AAAgBAEAAAAAAAAAAAAAAAAAAAAAFQgEABAAggEAAwAAAAAABBgEewAGIgQLODkCAJ5AAAEAABARAEAgAAAAAHDaAwYBAAAAAAAAAAAAAAAAAEEKAQAAAAAAAAAAAAAAAAAACGgSAAE/d=1/ed=1/rs=AC0raVJ0ZqeQkxQrCYf5jkPfw6Hl2tmNVQ/m=landingpageview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.zqavIYJsu4g.L.B1.O/am=AAAgBAEAAAAAAAAAAAAAAAAAAAAAFQAEABAAggEAAwAAAAAABBgEewAGIgQLODkCAJ5AAAEAABARAEAgAAAAAHDaAwYBAAAAAAAAAAAAAAAAgEEKAQAAAAAAAAAAAAAAAAAACGgSAAE/d=1/ed=1/rs=AC0raVLP9_SLPv-PdYGtRDwWcEJ-OL2bUw/m=landingpageview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -4802,7 +4802,7 @@ span.gb_X {
   border-left: 4px dashed transparent;
   border-right: 4px dashed transparent
 }
-.gb_Wd.gb_od {
+.gb_Xd.gb_od {
   color: #fff
 }
 #gb#gb .gb_1.gb_1 a.gb_hb,
@@ -4821,13 +4821,13 @@ span.gb_X {
 .gb_Fc {
   outline: 0
 }
-.gb_Fc .gb_7d {
+.gb_Fc .gb_8d {
   outline: 0
 }
-.gb_Fc.gb_8d:focus-visible {
+.gb_Fc.gb_9d:focus-visible {
   outline: 1px solid #202124
 }
-.gb_Mc .gb_Fc.gb_8d:focus-visible {
+.gb_Mc .gb_Fc.gb_9d:focus-visible {
   outline-color: #f1f3f4
 }
 .gb_Kc {
@@ -4928,21 +4928,21 @@ img.gb_Pd {
 .gb_3c .gb_4c {
   background-color: #f5f5f5
 }
-.gb_ge {
+.gb_ie {
   background-color: rgba(0,0,0,.1);
   box-shadow: inset 1px 1px 3px rgba(0,0,0,.24)
 }
-.gb_fe[aria-pressed=true] .gb_ge {
+.gb_he[aria-pressed=true] .gb_ie {
   background-color: rgba(255,255,255,.1)
 }
-.gb_he {
+.gb_je {
   box-shadow: 0 0 2px rgba(0,0,0,.12),0 2px 4px rgba(0,0,0,.24);
   background-color: #fff
 }
-.gb_oe {
+.gb_qe {
   color: #000
 }
-.gb_pe {
+.gb_re {
   background: #fff;
   box-shadow: 0 5px 5px -3px rgba(0,0,0,.2),0 8px 10px 1px rgba(0,0,0,.14),0 3px 14px 2px rgba(0,0,0,.12)
 }
@@ -4958,12 +4958,12 @@ img.gb_Pd {
   border: none;
   outline: 0
 }
-.gb_qe {
+.gb_se {
   background: 0 0;
   border: none;
   outline: 0
 }
-.gb_Mc .gb_qe {
+.gb_Mc .gb_se {
   color: rgba(255,255,255,.87)
 }
 .gb_jd:not(.gb_kd) input::-webkit-input-placeholder {
@@ -4972,7 +4972,7 @@ img.gb_Pd {
 .gb_Mc .gb_jd:not(.gb_kd) input::-webkit-input-placeholder {
   color: rgba(255,255,255,.87)
 }
-.gb_jd.gb_Be:not(.gb_sa) {
+.gb_jd.gb_De:not(.gb_sa) {
   background: 0 0;
   box-shadow: none
 }
