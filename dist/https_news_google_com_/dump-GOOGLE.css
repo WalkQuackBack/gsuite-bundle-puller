@@ -13696,6 +13696,8 @@ Data-Href: N/A */
 .BzLGdd.JpY6Fd .U2kNge:nth-of-type(5) {
   background: var(--gn-pubdi-card-5-bg)
 }
+/*! Inline stylesheet
+Data-Href: N/A */
 .BLJgTb-JZnCve-gmhCAd {
   color: var(--gm3-text-field-character-counter-supporting-text-color,unset)
 }
@@ -14319,56 +14321,167 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i30 {
+#i31 {
   color: #592fd0
 }
-.dm7YTc #i30 {
+.dm7YTc #i31 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i31 {
+#i32 {
   background-color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i32 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The New York Times-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The New York Times-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The New York Times-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #121212
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #07508a
 }
-#ucc-3 .pLZE8d::before {
-  background: #121212
+#ucc-5 .pLZE8d::before {
+  background: #07508a
 }
-#ucc-3 .jzzMj {
-  background: #121212
+#ucc-5 .jzzMj {
+  background: #07508a
 }
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #121212
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
 }
-#ucc-3 .MyQDIb {
-  background: #121212
+#ucc-5 .MyQDIb {
+  background: #07508a
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #121212
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #07508a
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #121212
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #074150
+}
+#ucc-7 .pLZE8d::before {
+  background: #074150
+}
+#ucc-7 .jzzMj {
+  background: #074150
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #074150
+}
+#ucc-7 .MyQDIb {
+  background: #074150
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #074150
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #074150
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #068068
+}
+#ucc-9 .pLZE8d::before {
+  background: #068068
+}
+#ucc-9 .jzzMj {
+  background: #068068
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #068068
+}
+#ucc-9 .MyQDIb {
+  background: #068068
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #068068
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #068068
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The San Francisco Standard-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMw4vm-xVdqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The San Francisco Standard-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMwgrve9khqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The San Francisco Standard-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDWi6sLMNOWwwMwx-vT9khqM2FwcGxpY2F0aW9uL3ZuZC5vYXNpcy5vcGVuZG9jdW1lbnQuZm9ybXVsYS10ZW1wbGF0ZQ?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-13 .DaYgZ::after,
+#ucc-13 .pLZE8d::after {
+  color: #ffeb2d
+}
+#ucc-13 .pLZE8d::before {
+  background: #ffeb2d
+}
+#ucc-13 .jzzMj {
+  background: #ffeb2d
+}
+#ucc-13 .QeY9wc:not(.kafKN) {
+  border-top-color: #ffeb2d
+}
+#ucc-13 .MyQDIb {
+  background: #ffeb2d
+}
+.dm7YTc #ucc-13 .vP0hTc::before {
+  background: #ffeb2d
+}
+.dm7YTc #ucc-13 .vP0hTc {
+  color: #ffeb2d
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-15 .DaYgZ::after,
+#ucc-15 .pLZE8d::after {
+  color: #1b66b1
+}
+#ucc-15 .pLZE8d::before {
+  background: #1b66b1
+}
+#ucc-15 .jzzMj {
+  background: #1b66b1
+}
+#ucc-15 .QeY9wc:not(.kafKN) {
+  border-top-color: #1b66b1
+}
+#ucc-15 .MyQDIb {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-15 .vP0hTc::before {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-15 .vP0hTc {
+  color: #1b66b1
 }
