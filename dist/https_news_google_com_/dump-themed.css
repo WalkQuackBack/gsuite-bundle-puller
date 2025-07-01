@@ -13696,8 +13696,6 @@ Data-Href: N/A */
 .BzLGdd.JpY6Fd .U2kNge:nth-of-type(5) {
   background: var(--gn-pubdi-card-5-bg)
 }
-/*! Inline stylesheet
-Data-Href: N/A */
 .BLJgTb-JZnCve-gmhCAd {
   color: var(--gm3-text-field-character-counter-supporting-text-color,unset)
 }
@@ -14334,62 +14332,4 @@ Data-Href: N/A */
 }
 .dm7YTc #i32 {
   background-color: #a596cf
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Daily Memphian-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Daily Memphian-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #e8ab47
-}
-#ucc-3 .pLZE8d::before {
-  background: #e8ab47
-}
-#ucc-3 .jzzMj {
-  background: #e8ab47
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #e8ab47
-}
-#ucc-3 .MyQDIb {
-  background: #e8ab47
-}
-.dm7YTc #ucc-3 .vP0hTc::before {
-  background: #e8ab47
-}
-.dm7YTc #ucc-3 .vP0hTc {
-  color: #e8ab47
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #6d0077
-}
-#ucc-5 .pLZE8d::before {
-  background: #6d0077
-}
-#ucc-5 .jzzMj {
-  background: #6d0077
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
-}
-#ucc-5 .MyQDIb {
-  background: #6d0077
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #6d0077
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #6d0077
 }
