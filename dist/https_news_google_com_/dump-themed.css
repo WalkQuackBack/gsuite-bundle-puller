@@ -14333,3 +14333,71 @@ Data-Href: N/A */
 .dm7YTc #i32 {
   background-color: #a596cf
 }
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #07508a
+}
+#ucc-5 .pLZE8d::before {
+  background: #07508a
+}
+#ucc-5 .jzzMj {
+  background: #07508a
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
+}
+#ucc-5 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-11 .DaYgZ::after,
+#ucc-11 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-11 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-11 .jzzMj {
+  background: #ed8e21
+}
+#ucc-11 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-11 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-11 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-11 .vP0hTc {
+  color: #ed8e21
+}
