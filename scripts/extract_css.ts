@@ -200,8 +200,8 @@ async function buildSiteFromUrl(targetUrl: string, linkedStyles?: string[]) {
         return;
     }
 
-    for (const linkedStyles of templateTo) {
-        await buildUserstyle(buildThemed, linkedStyles, suffix);
+    for (const linkedStyle of linkedStyles) {
+        await buildUserstyle(buildThemed, linkedStyle, suffix);
     }
 }
 
