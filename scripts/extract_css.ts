@@ -137,7 +137,7 @@ async function buildUserstyle(cssContent: string, linkedStyle: string, suffix: s
         path.join(
             "styles",
             "templates",
-            `${linkedStyle}.user.less`,
+            `${linkedStyle}`,
         ),
         "utf8",
     );
