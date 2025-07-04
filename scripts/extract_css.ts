@@ -175,7 +175,7 @@ async function buildUserstyle(cssContent: string, linkedStyle: string, suffix: s
     );
 }
 
-async function buildSiteFromUrl(targetUrl: string, templateTo?: string[]) {
+async function buildSiteFromUrl(targetUrl: string, linkedStyles?: string[]) {
     const siteName = new URL(targetUrl).href;
     const suffix = chalk.bold(`${siteName} `);
 
@@ -196,12 +196,12 @@ async function buildSiteFromUrl(targetUrl: string, templateTo?: string[]) {
         siteName,
     );
 
-    if (!linkedStyle) {
+    if (!linkedStyles) {
         return;
     }
 
-    for (const linkedStyle of templateTo) {
-        await buildUserstyle(buildThemed, linkedStyle, suffix);
+    for (const linkedStyles of templateTo) {
+        await buildUserstyle(buildThemed, linkedStyles, suffix);
     }
 }
 
