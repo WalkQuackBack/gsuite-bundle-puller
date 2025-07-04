@@ -165,7 +165,7 @@ async function buildUserstyle(cssContent: string, linkedStyle: string, suffix: s
     );
 
     await fs.writeFile(
-        path.join(userstyleBuildOutput, `${linkedStyle}.user.less`),
+        path.join(userstyleBuildOutput, `${linkedStyle}`),
         userstyle,
     );
 
@@ -175,7 +175,7 @@ async function buildUserstyle(cssContent: string, linkedStyle: string, suffix: s
     );
 }
 
-async function buildSiteFromUrl(targetUrl: string, linkedStyle?: string) {
+async function buildSiteFromUrl(targetUrl: string, templateTo?: string[]) {
     const siteName = new URL(targetUrl).href;
     const suffix = chalk.bold(`${siteName} `);
 
@@ -200,7 +200,9 @@ async function buildSiteFromUrl(targetUrl: string, linkedStyle?: string) {
         return;
     }
 
-    buildUserstyle(buildThemed, linkedStyle, suffix)
+    for (const linkedStyle of templateTo) {
+        await buildUserstyle(buildThemed, linkedStyle, suffix);
+    }
 }
 
 async function buildSiteFromFile(targetFile: string, linkedStyle?: string) {
@@ -235,12 +237,12 @@ async function buildSiteFromFile(targetFile: string, linkedStyle?: string) {
 
 buildSiteFromUrl(
     "https://docs.google.com/document/d/1RDErYoVPRCvy2nRvWo8a1xa5m7NrxpWBzZirE97m_3g/",
-    "docseditor",
+    ["docseditor.user.less", "docseditor.user.css"],
 );
 
 buildSiteFromFile(
     "google-vids",
-    "vidseditor",
+    ["vidseditor.user.less"],
 );
 
 buildSiteFromUrl(
@@ -261,7 +263,7 @@ buildSiteFromUrl(
 
 buildSiteFromUrl(
     "https://translate.google.com/",
-    "googletranslate",
+    ["googletranslate.user.less"],
 );
 
 buildSiteFromUrl(
