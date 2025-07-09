@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.7ZSpIPZLXH4.L.B1.O/am=T9cGrNcHAJPAgH_hN2gLAAQ/d=1/ed=1/rs=AB1caFXpZcfvq-USu1slpVfT6I5WUL7cew/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.MwdzI6XIscI.L.B1.O/am=T9cGrNcHAJPAgH_hN2gLAAQ/d=1/ed=1/rs=AB1caFVesLEzUxI2agM5nGVGW1IyKOvZ1A/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -5293,6 +5293,12 @@ textarea {
   background-color: #fff
 }
 .P9KVBf .S3WLMd {
+  background-color: #202124
+}
+.IMVFz {
+  background-color: #fff
+}
+.P9KVBf .IMVFz {
   background-color: #202124
 }
 @media (any-pointer:coarse),
