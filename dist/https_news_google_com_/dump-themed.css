@@ -14352,30 +14352,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #836d3c
-}
-#ucc-3 .pLZE8d::before {
-  background: #836d3c
-}
-#ucc-3 .jzzMj {
-  background: #836d3c
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
-}
-#ucc-3 .MyQDIb {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 @font-face {
   font-family: MarketWatch-headline-font;
   src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
@@ -14391,49 +14367,64 @@ Data-Href: N/A */
   src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
   color: #087c08
 }
-#ucc-5 .pLZE8d::before {
+#ucc-3 .pLZE8d::before {
   background: #087c08
 }
-#ucc-5 .jzzMj {
+#ucc-3 .jzzMj {
   background: #087c08
 }
-#ucc-5 .QeY9wc:not(.kafKN) {
+#ucc-3 .QeY9wc:not(.kafKN) {
   border-top-color: #087c08
 }
-#ucc-5 .MyQDIb {
+#ucc-3 .MyQDIb {
   background: #087c08
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
   background: #087c08
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
   color: #087c08
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #6d0077
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .pLZE8d::before {
-  background: #6d0077
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .jzzMj {
-  background: #6d0077
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #07508a
 }
-#ucc-7 .MyQDIb {
-  background: #6d0077
+#ucc-5 .pLZE8d::before {
+  background: #07508a
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #6d0077
+#ucc-5 .jzzMj {
+  background: #07508a
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #6d0077
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
+}
+#ucc-5 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #07508a
 }
