@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.dIO_Ltjvc5k.L.B1.O/am=GAgEAADAwBYYwAAC/d=1/ed=1/rs=ALs0n2NfKRn8AlUFEizWbazsW6WgRr3QtA/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.zMqQz-OSymE.L.B1.O/am=GAgEAACAgS0wgAEE/d=1/ed=1/rs=ALs0n2Oyd3NnTE1HoVTp74JRPCK8bDQ5wQ/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -12165,6 +12165,7 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
   color: #444746
 }
 .dm7YTc .ICsaqd,
+.dm7YTc .PysvYb .hGhvff,
 .dm7YTc .SFllF:hover,
 .dm7YTc .SFllF:hover .hGhvff {
   color: #c4c7c5
@@ -14349,50 +14350,4 @@ Data-Href: N/A */
 }
 .dm7YTc #i34 {
   background-color: #a596cf
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'The Washington Post-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: pink
-}
-#ucc-9 .pLZE8d::before {
-  background: pink
-}
-#ucc-9 .jzzMj {
-  background: pink
-}
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: pink
-}
-#ucc-9 .MyQDIb {
-  background: pink
-}
-.dm7YTc #ucc-9 .vP0hTc::before {
-  background: pink
-}
-.dm7YTc #ucc-9 .vP0hTc {
-  color: pink
 }
