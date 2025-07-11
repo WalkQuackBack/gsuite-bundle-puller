@@ -579,5 +579,5 @@
 | #321d1c | #321d1c | `.dm7YTc .BzLGdd, ` |
 | #1867dc | #1867DC | `#i11, ` |
 | #8bb8f8 | #8BB8F8 | `.dm7YTc #i11, ` |
-| #592fd0 | #592FD0 | `#i31, , #i32` |
-| #a596cf | #A596CF | `.dm7YTc #i31, , .dm7YTc #i32` |
+| #592fd0 | #592FD0 | `#i33, , #i34` |
+| #a596cf | #A596CF | `.dm7YTc #i33, , .dm7YTc #i34` |
