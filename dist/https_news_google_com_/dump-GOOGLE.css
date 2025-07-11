@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.zMqQz-OSymE.L.B1.O/am=GAgkBQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2OMwxiDffwYi0HW8-s6GgSCxOGMsw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.zMqQz-OSymE.L.B1.O/am=GAgkAQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2M11TdL5nfuHeI59pp5DTWIS2Qqfw/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14353,40 +14353,49 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-@font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #836d3c
 }
-@font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-7 .pLZE8d::before {
+  background: #836d3c
 }
-@font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-7 .jzzMj {
+  background: #836d3c
 }
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #ffcf44
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #836d3c
 }
-#ucc-3 .pLZE8d::before {
-  background: #ffcf44
+#ucc-7 .MyQDIb {
+  background: #836d3c
 }
-#ucc-3 .jzzMj {
-  background: #ffcf44
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #836d3c
 }
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #836d3c
 }
-#ucc-3 .MyQDIb {
-  background: #ffcf44
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #04a8ae
 }
-.dm7YTc #ucc-3 .vP0hTc::before {
-  background: #ffcf44
+#ucc-9 .pLZE8d::before {
+  background: #04a8ae
 }
-.dm7YTc #ucc-3 .vP0hTc {
-  color: #ffcf44
+#ucc-9 .jzzMj {
+  background: #04a8ae
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #04a8ae
+}
+#ucc-9 .MyQDIb {
+  background: #04a8ae
+}
+.dm7YTc #ucc-9 .vP0hTc::before {
+  background: #04a8ae
+}
+.dm7YTc #ucc-9 .vP0hTc {
+  color: #04a8ae
 }
