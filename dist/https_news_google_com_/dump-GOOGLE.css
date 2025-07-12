@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.zMqQz-OSymE.L.B1.O/am=GAgkAQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2M11TdL5nfuHeI59pp5DTWIS2Qqfw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.zMqQz-OSymE.L.B1.O/am=GAgkBQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2OMwxiDffwYi0HW8-s6GgSCxOGMsw/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14353,64 +14353,132 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #04a8ae
-}
-#ucc-7 .pLZE8d::before {
-  background: #04a8ae
-}
-#ucc-7 .jzzMj {
-  background: #04a8ae
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #04a8ae
-}
-#ucc-7 .MyQDIb {
-  background: #04a8ae
-}
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: #04a8ae
-}
-.dm7YTc #ucc-7 .vP0hTc {
-  color: #04a8ae
+@font-face {
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: MarketWatch-headline-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: MarketWatch-panel-title-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
-  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: MarketWatch-body-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-11 .DaYgZ::after,
-#ucc-11 .pLZE8d::after {
-  color: pink
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #087c08
 }
-#ucc-11 .pLZE8d::before {
-  background: pink
+#ucc-7 .pLZE8d::before {
+  background: #087c08
 }
-#ucc-11 .jzzMj {
-  background: pink
+#ucc-7 .jzzMj {
+  background: #087c08
 }
-#ucc-11 .QeY9wc:not(.kafKN) {
-  border-top-color: pink
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #087c08
 }
-#ucc-11 .MyQDIb {
-  background: pink
+#ucc-7 .MyQDIb {
+  background: #087c08
 }
-.dm7YTc #ucc-11 .vP0hTc::before {
-  background: pink
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #087c08
 }
-.dm7YTc #ucc-11 .vP0hTc {
-  color: pink
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #087c08
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #07508a
+}
+#ucc-9 .pLZE8d::before {
+  background: #07508a
+}
+#ucc-9 .jzzMj {
+  background: #07508a
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
+}
+#ucc-9 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Associated Press-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Associated Press-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Associated Press-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDDsgdeKMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-15 .DaYgZ::after,
+#ucc-15 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-15 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-15 .jzzMj {
+  background: #ed8e21
+}
+#ucc-15 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-15 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-15 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-15 .vP0hTc {
+  color: #ed8e21
 }
