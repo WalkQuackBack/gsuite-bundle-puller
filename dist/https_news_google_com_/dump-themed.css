@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.xN4hBXJ0rkQ.L.B1.O/am=GAgkBQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2PY_KPeZmz1QRqYMMLmBR0OqGuMlQ/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.xN4hBXJ0rkQ.L.B1.O/am=GAgkAQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2M7OtBbTAeUkHHdTLofskqjdHws-A/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14367,75 +14367,39 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: pink
 }
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-9 .pLZE8d::before {
+  background: pink
 }
-#ucc-13 .DaYgZ::after,
-#ucc-13 .pLZE8d::after {
-  color: #a9091f
+#ucc-9 .jzzMj {
+  background: pink
 }
-#ucc-13 .pLZE8d::before {
-  background: #a9091f
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: pink
 }
-#ucc-13 .jzzMj {
-  background: #a9091f
+#ucc-9 .MyQDIb {
+  background: pink
 }
-#ucc-13 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
+.dm7YTc #ucc-9 .vP0hTc::before {
+  background: pink
 }
-#ucc-13 .MyQDIb {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-13 .vP0hTc::before {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-13 .vP0hTc {
-  color: #a9091f
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-15 .DaYgZ::after,
-#ucc-15 .pLZE8d::after {
-  color: #6d0077
-}
-#ucc-15 .pLZE8d::before {
-  background: #6d0077
-}
-#ucc-15 .jzzMj {
-  background: #6d0077
-}
-#ucc-15 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
-}
-#ucc-15 .MyQDIb {
-  background: #6d0077
-}
-body:not(.dm7YTc) #ucc-15 .vP0hTc::before {
-  background: #6d0077
-}
-body:not(.dm7YTc) #ucc-15 .vP0hTc {
-  color: #6d0077
+.dm7YTc #ucc-9 .vP0hTc {
+  color: pink
 }
