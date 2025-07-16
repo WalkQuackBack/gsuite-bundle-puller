@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.hmSTX1lKbUg.L.B1.O/am=GAgkEQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2O4WPG0HA2JFVMl26iEEnD6Bp3bKw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.hmSTX1lKbUg.L.B1.O/am=GAgkBQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2NJ5okqYgt-Lfr5N2J0tHJxMLQtXQ/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14359,25 +14359,132 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-3 .DaYgZ::after,
 #ucc-3 .pLZE8d::after {
-  color: #836d3c
+  color: #07508a
 }
 #ucc-3 .pLZE8d::before {
-  background: #836d3c
+  background: #07508a
 }
 #ucc-3 .jzzMj {
-  background: #836d3c
+  background: #07508a
 }
 #ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+  border-top-color: #07508a
 }
 #ucc-3 .MyQDIb {
-  background: #836d3c
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-7 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-7 .jzzMj {
+  background: #ed8e21
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-7 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ed8e21
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-11 .DaYgZ::after,
+#ucc-11 .pLZE8d::after {
+  color: #1b66b1
+}
+#ucc-11 .pLZE8d::before {
+  background: #1b66b1
+}
+#ucc-11 .jzzMj {
+  background: #1b66b1
+}
+#ucc-11 .QeY9wc:not(.kafKN) {
+  border-top-color: #1b66b1
+}
+#ucc-11 .MyQDIb {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
+  background: #1b66b1
+}
+body:not(.dm7YTc) #ucc-11 .vP0hTc {
+  color: #1b66b1
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-headline-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-panel-title-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjD93vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bay Area Reporter, America\27 s highest circulation LGBT newspaper-body-font';
+  src: url(/attachments/CAUqKggAIhAfv4neG1gqHwNNDBWv6jxSKhQICiIQH7-J3htYKh8DTQwVr-o8UjCI3vSzVGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-13 .DaYgZ::after,
+#ucc-13 .pLZE8d::after {
+  color: pink
+}
+#ucc-13 .pLZE8d::before {
+  background: pink
+}
+#ucc-13 .jzzMj {
+  background: pink
+}
+#ucc-13 .QeY9wc:not(.kafKN) {
+  border-top-color: pink
+}
+#ucc-13 .MyQDIb {
+  background: pink
+}
+.dm7YTc #ucc-13 .vP0hTc::before {
+  background: pink
+}
+.dm7YTc #ucc-13 .vP0hTc {
+  color: pink
 }
