@@ -289,6 +289,11 @@
 - #919191
 - #1867dc
 - #8bb8f8
+- #00758c
+- #75b8b1
+- #daf1f6
+- #293d3b
+- #bdddda
 - #592fd0
 - #a596cf
 
@@ -583,5 +588,10 @@
 | #919191 | #919191 | `.dm7YTc .BGKIec .FyNGWb::-webkit-input-placeholder, , .dm7YTc .BGKIec .FyNGWb::placeholder` |
 | #1867dc | #1867DC | `#i11, ` |
 | #8bb8f8 | #8BB8F8 | `.dm7YTc #i11, ` |
-| #592fd0 | #592FD0 | `#i33, , #i34` |
-| #a596cf | #A596CF | `.dm7YTc #i33, , .dm7YTc #i34` |
+| #00758c | #00758C | `#i32, , #i34` |
+| #75b8b1 | #75B8B1 | `.dm7YTc #i32, ` |
+| #daf1f6 | #DAF1F6 | `#i34, ` |
+| #293d3b | #293D3B | `.dm7YTc #i34, ` |
+| #bdddda | #BDDDDA | `.dm7YTc #i34, ` |
+| #592fd0 | #592FD0 | `#i35, , #i36` |
+| #a596cf | #A596CF | `.dm7YTc #i35, , .dm7YTc #i36` |
