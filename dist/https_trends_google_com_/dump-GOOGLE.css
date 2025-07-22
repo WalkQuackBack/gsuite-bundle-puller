@@ -340,7 +340,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-trends/_/ss/k=boq-trends.TrendsUi.QivSbVt7cjw.L.B1.O/am=AAADZwFA/d=1/ed=1/rs=APgalu7gYOn8IUHvNOcWhSNbiOWY2rNycw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-trends/_/ss/k=boq-trends.TrendsUi.iyxRVoMnr1U.L.B1.O/am=AAADZwFA/d=1/ed=1/rs=APgalu5NSZ7AapzhkRYJUVsaapXrFES1AA/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -4307,6 +4307,13 @@ Data-Href: N/A */
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/productsans/v9/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2) format('woff2');
   unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+}
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/stats/Product+Sans/normal/400?inline=true) format('woff2');
+  unicode-range: U+20
 }
 @font-face {
   font-family: 'Google Sans';
