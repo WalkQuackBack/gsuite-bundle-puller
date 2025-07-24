@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.5hOK0k1fWXE.L.B1.O/am=GAgkEQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2NyBmOCQoc72XZglETAfJjza3Qdxw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.5hOK0k1fWXE.L.B1.O/am=GAgkAQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2MB7QAfHvUAxkWn4B5bEQXfc1Yp-g/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14325,80 +14325,141 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Investor\27 s Business Daily-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Investor\27 s Business Daily-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Investor\27 s Business Daily-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #121212
+}
+#ucc-3 .pLZE8d::before {
+  background: #121212
+}
+#ucc-3 .jzzMj {
+  background: #121212
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #121212
+}
+#ucc-3 .MyQDIb {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #121212
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #121212
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Wall Street Journal-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Wall Street Journal-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Wall Street Journal-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #07508a
+  color: #ffcf44
 }
 #ucc-5 .pLZE8d::before {
-  background: #07508a
+  background: #ffcf44
 }
 #ucc-5 .jzzMj {
-  background: #07508a
+  background: #ffcf44
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
+  border-top-color: #ffcf44
 }
 #ucc-5 .MyQDIb {
-  background: #07508a
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #07508a
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #07508a
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+.dm7YTc #ucc-5 .vP0hTc {
+  color: #ffcf44
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-13 .DaYgZ::after,
-#ucc-13 .pLZE8d::after {
+@font-face {
+  font-family: 'The Dallas Morning News-headline-font';
+  src: url(/attachments/CAUqKggAIhC7ZhUhrlorFmpSXTUTR_jCKhQICiIQu2YVIa5aKxZqUl01E0f4wjDUqrHXXGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Dallas Morning News-panel-title-font';
+  src: url(/attachments/CAUqKggAIhC7ZhUhrlorFmpSXTUTR_jCKhQICiIQu2YVIa5aKxZqUl01E0f4wjC1ou_ZXGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Dallas Morning News-body-font';
+  src: url(/attachments/CAUqKggAIhC7ZhUhrlorFmpSXTUTR_jCKhQICiIQu2YVIa5aKxZqUl01E0f4wjC1ou_ZXGoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #197bc1
+}
+#ucc-7 .pLZE8d::before {
+  background: #197bc1
+}
+#ucc-7 .jzzMj {
+  background: #197bc1
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #197bc1
+}
+#ucc-7 .MyQDIb {
+  background: #197bc1
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #197bc1
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #197bc1
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
   color: #6d0077
 }
-#ucc-13 .pLZE8d::before {
+#ucc-9 .pLZE8d::before {
   background: #6d0077
 }
-#ucc-13 .jzzMj {
+#ucc-9 .jzzMj {
   background: #6d0077
 }
-#ucc-13 .QeY9wc:not(.kafKN) {
+#ucc-9 .QeY9wc:not(.kafKN) {
   border-top-color: #6d0077
 }
-#ucc-13 .MyQDIb {
+#ucc-9 .MyQDIb {
   background: #6d0077
 }
-body:not(.dm7YTc) #ucc-13 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
   background: #6d0077
 }
-body:not(.dm7YTc) #ucc-13 .vP0hTc {
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
   color: #6d0077
 }

@@ -157,7 +157,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.sp8WFxL_eYY.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAVCAQAIAAEAwAGACAAIPAARiIECzg5BgAeAMBAQAAkAgAIBAAAAAAOO0BgwAAAAAAAAAAAAAAAAAgSCEAAAAAAAAAAAAAAAAAAAAENAmA/d=1/ed=1/rs=AC0raVJebx-2HzF6celnh5QKhxbSRNJ4Yg/m=landingpageview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.6fHkpRh6QoU.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAVCAQAIAAEAYADABAgEHgABiIECzg5BgAeAIBAQAAkAgAIBAAAAAATnvAIAAAAAAAAAAAAAAAAAAIUggAAAAAAAAAAAAAAAAAAAABTQIg/d=1/ed=1/rs=AC0raVIU468bVR3Ob1GXQzopMucpxj-G5w/m=landingpageview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -2150,6 +2150,43 @@ screen and (forced-colors:active) {
 .SmXtye {
   border-top: 1px solid #dadada
 }
+.RBHQF-ksKsZd {
+  outline: 0
+}
+.RBHQF-ksKsZd::before {
+  background-color: var(--gm3-ripple-hover-color,transparent)
+}
+.RBHQF-ksKsZd::after {
+  background: radial-gradient(closest-side,var(--gm3-ripple-pressed-color,transparent) max(100% - 70px,65%),transparent 100%)
+}
+@media (forced-colors:active) {
+}
+.ne2Ple-z59Tgd::before {
+  border: 1px solid transparent
+}
+.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd {
+  background-color: var(--gm3-tooltip-plain-container-color,var(--gm3-sys-color-inverse-surface,#303030));
+  color: var(--gm3-tooltip-plain-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
+}
+.OiePBf-zPjgPe {
+  box-shadow: 0 0 0 var(--gm3-focus-ring-outward-track-width,3px) var(--gm3-focus-ring-outward-color,var(--gm3-sys-color-secondary,#00639b));
+  outline: var(--gm3-focus-ring-outward-track-width,3px) solid transparent
+}
+@keyframes gm3-focus-ring-outward-grows {
+  from {
+    box-shadow: 0 0 0 0 var(--gm3-focus-ring-outward-color,var(--gm3-sys-color-secondary,#00639b))
+  }
+  to {
+    box-shadow: 0 0 0 8px var(--gm3-focus-ring-outward-color,var(--gm3-sys-color-secondary,#00639b))
+  }
+}
+@keyframes gm3-focus-ring-outward-shrinks {
+  from {
+    box-shadow: 0 0 0 8px var(--gm3-focus-ring-outward-color,var(--gm3-sys-color-secondary,#00639b))
+  }
+}
+@media (prefers-reduced-motion) {
+}
 .TRHLAc {
   background: #68e
 }
@@ -3737,6 +3774,175 @@ screen and (min-width:769px) and (max-width:1023px) {
   color: #1967d2
 }
 @media screen and (max-width:768px) {
+}
+.oWQJxf {
+  stroke: var(--gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.NFefP:disabled .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-disabled-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.NFefP:disabled .oWQJxf {
+  stroke: var(--gm3-connected-button-group-tonal-disabled-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.ynPIhe .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:hover .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:hover .oWQJxf {
+  stroke: var(--gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:focus-visible .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:focus-visible .oWQJxf {
+  stroke: var(--gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:enabled:active .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:enabled:active .oWQJxf {
+  stroke: var(--gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.eNoTpc .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-unselected-with-icon-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:hover .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-unselected-hover-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:focus-visible .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-unselected-focus-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:focus-visible .oWQJxf {
+  stroke: var(--gm3-connected-button-group-tonal-unselected-focus-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:enabled:active .UQBt2d {
+  color: var(--gm3-connected-button-group-tonal-unselected-pressed-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.NFefP {
+  background-color: var(--gm3-connected-button-group-tonal-unselected-container-color,transparent);
+  border: none;
+  outline: 0
+}
+@media (prefers-reduced-motion) {
+}
+@media (prefers-reduced-motion) {
+}
+.IAgCwf {
+  border-color: var(--gm3-connected-button-group-tonal-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.dbyZPc {
+  background-color: var(--gm3-connected-button-group-tonal-outline-color,var(--gm3-sys-color-outline,#747775))
+}
+.NFefP:disabled .IAgCwf {
+  border-color: var(--gm3-connected-button-group-tonal-disabled-outline-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.NFefP:disabled + .NFefP:disabled .dbyZPc {
+  background-color: var(--gm3-connected-button-group-tonal-disabled-outline-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.NFefP:disabled .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-disabled-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.ynPIhe {
+  background-color: var(--gm3-connected-button-group-tonal-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
+}
+.ynPIhe .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:hover .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:focus-visible .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.ynPIhe:enabled:active .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-selected-pressed-label-text-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+}
+.eNoTpc .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-unselected-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:hover .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-unselected-hover-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:focus-visible .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-unselected-focus-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.eNoTpc:enabled:active .zpP41 {
+  color: var(--gm3-connected-button-group-tonal-unselected-pressed-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+@media (forced-colors:active) {
+  .eNoTpc::before {
+    border: var(--gm3-connected-button-group-tonal-hcm-outline-width,0) solid transparent
+  }
+  .NFefP:disabled :is(.UQBt2d,.zpP41) {
+    color: GrayText
+  }
+  .NFefP:disabled .oWQJxf {
+    stroke: GrayText
+  }
+  .NFefP:disabled .IAgCwf {
+    border-color: GrayText
+  }
+  .NFefP:disabled + .NFefP:disabled .dbyZPc {
+    background-color: GrayText
+  }
+  .IAgCwf {
+    border-color: ButtonBorder
+  }
+  .dbyZPc {
+    background-color: ButtonBorder
+  }
+  .ynPIhe {
+    background-color: ButtonText
+  }
+  .ynPIhe .UQBt2d,
+  .ynPIhe .zpP41 {
+    color: ButtonFace
+  }
+  .oWQJxf {
+    stroke: ButtonFace
+  }
+  .eNoTpc .UQBt2d,
+  .eNoTpc .zpP41 {
+    color: ButtonText
+  }
+  .ynPIhe:focus-visible .UQBt2d,
+  .ynPIhe:focus-visible .zpP41 {
+    color: ButtonFace
+  }
+  .ynPIhe:focus-visible .oWQJxf {
+    stroke: ButtonFace
+  }
+  .ynPIhe:hover .UQBt2d,
+  .ynPIhe:hover .zpP41 {
+    color: ButtonFace
+  }
+  .ynPIhe:hover .oWQJxf {
+    stroke: ButtonFace
+  }
+  .ynPIhe:enabled:active .UQBt2d,
+  .ynPIhe:enabled:active .zpP41 {
+    color: ButtonFace
+  }
+  .ynPIhe:enabled:active .oWQJxf {
+    stroke: ButtonFace
+  }
+  .eNoTpc:focus-visible .UQBt2d,
+  .eNoTpc:focus-visible .zpP41 {
+    color: ButtonText
+  }
+  .eNoTpc:focus-visible .oWQJxf {
+    stroke: ButtonText
+  }
+  .eNoTpc:hover .UQBt2d,
+  .eNoTpc:hover .zpP41 {
+    color: ButtonText
+  }
+  .eNoTpc:enabled:active .UQBt2d,
+  .eNoTpc:enabled:active .zpP41 {
+    color: ButtonText
+  }
 }
 .sO6IOb {
   border: 1px solid #dadce0
