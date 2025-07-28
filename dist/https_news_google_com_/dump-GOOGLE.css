@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.gYZm5qI2wCo.L.B1.O/am=GAgkEQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2Ootr0Fbf2uD0pCLyvw0iAglloIog/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.gYZm5qI2wCo.L.B1.O/am=GAgkAQCAgS0wgAEE/d=1/ed=1/rs=ALs0n2OMlEz_C3CeG1ninj4nTMn95OaG5Q/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14259,41 +14259,58 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDD3nPCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCKpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The New York Times-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO64oDMJavPDCLpvCMKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #ffcf44
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #121212
 }
-#ucc-5 .pLZE8d::before {
-  background: #ffcf44
+#ucc-3 .pLZE8d::before {
+  background: #121212
 }
-#ucc-5 .jzzMj {
-  background: #ffcf44
+#ucc-3 .jzzMj {
+  background: #121212
 }
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #121212
 }
-#ucc-5 .MyQDIb {
-  background: #ffcf44
+#ucc-3 .MyQDIb {
+  background: #121212
 }
-.dm7YTc #ucc-5 .vP0hTc::before {
-  background: #ffcf44
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #121212
 }
-.dm7YTc #ucc-5 .vP0hTc {
-  color: #ffcf44
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #121212
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Associated Press-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Associated Press-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'The Associated Press-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDDsgdeKMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14333,4 +14350,28 @@ body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
 }
 body:not(.dm7YTc) #ucc-7 .vP0hTc {
   color: #00234b
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #04a8ae
+}
+#ucc-9 .pLZE8d::before {
+  background: #04a8ae
+}
+#ucc-9 .jzzMj {
+  background: #04a8ae
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #04a8ae
+}
+#ucc-9 .MyQDIb {
+  background: #04a8ae
+}
+.dm7YTc #ucc-9 .vP0hTc::before {
+  background: #04a8ae
+}
+.dm7YTc #ucc-9 .vP0hTc {
+  color: #04a8ae
 }
