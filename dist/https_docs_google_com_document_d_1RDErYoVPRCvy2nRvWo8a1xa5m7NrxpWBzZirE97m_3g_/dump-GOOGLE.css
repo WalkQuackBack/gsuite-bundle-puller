@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/1243571687-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/2852978665-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -1540px -190px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -851px -284px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2526,7 +2526,7 @@ a:active {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -978px -554px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -432px -144px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3481,7 +3481,7 @@ a:active {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -1540px -190px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -851px -284px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -4411,6 +4411,9 @@ a:active {
 }
 @keyframes rotateTurn {
 }
+.magicBarActionButtonContainerNonWhiteBackground .docs-gm3-filled-button {
+  outline: 1px solid #d3dbe5
+}
 .magicBarActionButtonContainer .docs-gm3-filled-button {
   background: #f0f4f9;
   color: #444746
@@ -4450,6 +4453,7 @@ a:active {
   color: #747775
 }
 .magicbarPromptInputViewInputContainer {
+  background: #fff;
   border: 1px solid #d5dae1
 }
 .magicbarPromptInputViewInputContainer:focus-within {
@@ -4468,6 +4472,12 @@ a:active {
 }
 .magicbarPromptInputViewErrorMessageContainer {
   color: #b3261e
+}
+.suggestionNudgePluginContainer {
+  background: #edf2fa;
+  border: none;
+  box-shadow: none;
+  color: #000
 }
 .miniChapterSwitcherContainerView.breadcrumbSwitcherUiVariant .miniChapterSwitcherNavigationEntryPointIcon {
   background: #e9eef6
@@ -7757,30 +7767,33 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
     border-color: GrayText
   }
 }
-.replyGenViewFeedbackContainerMenuButton,
-.replyGenViewFeedbackContainerThumbsButtons {
+.replyGenViewReplyGenButtonCaption {
+  border-color: #c4c7c5
+}
+.replyGenFeedbackViewLabel {
+  color: #444746
+}
+.replyGenFeedbackViewMenuButton,
+.replyGenFeedbackViewThumbsButtons {
   outline: 0
 }
-.replyGenViewFeedbackContainerMenuButton:hover,
-.replyGenViewFeedbackContainerThumbsButtons:hover {
+.replyGenFeedbackViewMenuButton:hover,
+.replyGenFeedbackViewThumbsButtons:hover {
   background-color: rgba(68,71,70,.08)
 }
-.replyGenViewFeedbackContainerMenuButton:active,
-.replyGenViewFeedbackContainerMenuButton:focus,
-.replyGenViewFeedbackContainerThumbsButtons:active,
-.replyGenViewFeedbackContainerThumbsButtons:focus {
+.replyGenFeedbackViewMenuButton:active,
+.replyGenFeedbackViewMenuButton:focus,
+.replyGenFeedbackViewThumbsButtons:active,
+.replyGenFeedbackViewThumbsButtons:focus {
   background-color: rgba(68,71,70,.1)
 }
 @media screen and (forced-colors:active) {
-  .replyGenViewFeedbackContainerMenuButton:active,
-  .replyGenViewFeedbackContainerMenuButton:focus,
-  .replyGenViewFeedbackContainerThumbsButtons:active,
-  .replyGenViewFeedbackContainerThumbsButtons:focus {
+  .replyGenFeedbackViewMenuButton:active,
+  .replyGenFeedbackViewMenuButton:focus,
+  .replyGenFeedbackViewThumbsButtons:active,
+  .replyGenFeedbackViewThumbsButtons:focus {
     outline: 1px solid
   }
-}
-.replyGenViewReplyGenButtonCaption {
-  border-color: #c4c7c5
 }
 .docs-live-region-log.docs-palette {
   background-color: #fff;
@@ -8301,6 +8314,9 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 }
 .building-blocks-walkthrough-promo.title {
   color: #202124
+}
+.emoji-detail-sidebar-user-name-invalid-attribution {
+  color: #b3261e
 }
 .emoji-detail-sidebar-user-timestamp {
   color: #5c5f5e
@@ -9731,6 +9747,22 @@ a.docs-revisions-sidebar-revisions-empty-learn-more {
 .getting-started-dialog-upload-media-cta-group .getting-started-dialog-upload-media-cta:focus {
   background-color: #d5dae1
 }
+.filter-menu-button {
+  background-color: #f0f4f9;
+  border: 1px solid transparent
+}
+.filter-menu-button-hover {
+  background-color: #dce1e8
+}
+.filter-menu-button-open {
+  background-color: #d5dae1
+}
+.goog-inline-block.filter-menu-button.filter-menu-button-selected {
+  background-color: #d3e3fd
+}
+.goog-inline-block.filter-menu-button.filter-menu-button-selected.filter-menu-button-hover {
+  background-color: #b9cbe7
+}
 .appsDocsTemplatesThumbnailControlFailure {
   background-color: #f1f3f4;
   border-color: #dadce0
@@ -10621,7 +10653,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -1540px -190px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -851px -284px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10682,7 +10714,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -1540px -190px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -851px -284px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -13409,7 +13441,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -1540px -190px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -851px -284px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13471,7 +13503,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite843_gm3_grey_medium.svg) -1540px -190px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite846_gm3_grey_medium.svg) -851px -284px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -15553,6 +15585,7 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
   background-color: #217bfe;
   box-shadow: 0 2px 3px rgba(46,100,222,.2)
 }
+.kixGlobalFabRoot.onFocusExpanded:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer,
 .kixGlobalFabRoot.onLoadExpanded:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer,
 .kixGlobalFabRoot:hover:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer {
   background: linear-gradient(45deg,#076eff,#4fabff)
@@ -16546,9 +16579,6 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .kix-smart-controls-button-sidebar-footer {
   background-color: #edf2fa;
   border-top: 1px solid #c4c7c5
-}
-.kix-smart-controls-button-sidebar-footer-audio-button {
-  border-top: 0
 }
 .kix-smart-controls-button-sidebar-execute-apps-script-action-edit-view-open-macros-editor-button,
 .kix-smart-controls-button-sidebar-footer-insert-button {
@@ -24730,10 +24760,14 @@ screen and (forced-colors:active) {
     border-color: CanvasText
   }
 }
+.appsElementsGenerativeaiAstTableContainer .appsElementsGenerativeAiCitationsAnchorAttributionMarker {
+  background-color: var(--gm3-sys-color-surface-container-high,#e9eef6)
+}
 .appsElementsGenerativeAiCitationsAnchorAttributionMarker:focus-visible {
   outline: 0
 }
-.appsElementsGenerativeAiCitationsAnchorAttributionMarkerHighlight {
+.appsElementsGenerativeAiCitationsAnchorAttributionMarkerHighlight,
+.appsElementsGenerativeaiAstTableContainer .appsElementsGenerativeAiCitationsAnchorAttributionMarkerHighlight {
   background-color: var(--gm3-sys-color-surface-container-highest,#dde3ea)
 }
 .appsElementsGenerativeaiAstInlineSource:hover {
@@ -25349,6 +25383,9 @@ screen and (forced-colors:active) {
 }
 .emojiDetailSidebarTimestamp {
   color: #444746
+}
+.emojiDetailSidebarUsernameWithInvalidAttribution {
+  color: #b3261e
 }
 .appsElementsEmojipickerSearchInput:focus {
   outline: 0
