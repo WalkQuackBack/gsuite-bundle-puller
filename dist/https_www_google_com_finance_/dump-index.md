@@ -122,6 +122,7 @@
 - #f0f2f5
 - #046e00
 - #001d35
+- #004a77
 - #c2e7ff
 - rgb(24,128,56)
 - rgb(132,48,206)
@@ -327,7 +328,8 @@
 | #cccfd9 | #cccfd9 | `.b56Sv, ` |
 | #f0f2f5 | #f0f2f5 | `.b56Sv, ` |
 | #046e00 | #046e00 | `.b56Sv, ` |
-| #001d35 | #001d35 | `.OhA4E .SQAIec, , .OhA4E .T4ACf:not(:disabled) .bBr1te, .OhA4E .T4ACf:hover .bBr1te, .OhA4E .T4ACf:hover .SQAIec, .OhA4E .T4ACf:focus-visible .bBr1te, .OhA4E .T4ACf:focus-visible .SQAIec, .OhA4E .T4ACf:enabled:active .bBr1te, .OhA4E .T4ACf:enabled:active .SQAIec, .OhA4E .T4ACf:not(:disabled) .HhUn9, .OhA4E .T4ACf:hover .HhUn9, .OhA4E .T4ACf:focus-visible .HhUn9, .OhA4E .T4ACf:enabled:active .HhUn9, .OhA4E .T4ACf` |
+| #001d35 | #001d35 | `.WwL44e, ` |
+| #004a77 | #004a77 | `.OhA4E .SQAIec, , .OhA4E .T4ACf:not(:disabled) .bBr1te, .OhA4E .T4ACf:hover .bBr1te, .OhA4E .T4ACf:hover .SQAIec, .OhA4E .T4ACf:focus-visible .bBr1te, .OhA4E .T4ACf:focus-visible .SQAIec, .OhA4E .T4ACf:enabled:active .bBr1te, .OhA4E .T4ACf:enabled:active .SQAIec, .OhA4E .T4ACf:not(:disabled) .HhUn9, .OhA4E .T4ACf:hover .HhUn9, .OhA4E .T4ACf:focus-visible .HhUn9, .OhA4E .T4ACf:enabled:active .HhUn9, .OhA4E .T4ACf` |
 | #c2e7ff | #c2e7ff | `.OhA4E .T4ACf, ` |
 | rgb(24,128,56) | rgb(24,128,56) | `.sJAWLb, , .IivJ0c` |
 | rgb(132,48,206) | rgb(132,48,206) | `.FdFpAc, ` |
