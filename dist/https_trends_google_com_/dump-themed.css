@@ -340,7 +340,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-trends/_/ss/k=boq-trends.TrendsUi.v3OnJQjMWv0.L.B1.O/am=AAIDZwFA/d=1/ed=1/rs=APgalu6N1PJIM3JafYnbcdypLuZY2MQSXw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-trends/_/ss/k=boq-trends.TrendsUi.GSWWWQNR9ag.L.B1.O/am=EAIDZwFA/d=1/ed=1/rs=APgalu5PkjgvjQYMNLrQc385NHp58e9K0g/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -2943,21 +2943,21 @@ screen and (-ms-high-contrast:none) {
 }
 .wX4xVc-Bz112c-LgbsSe {
   background-color: var(--gm3-icon-button-filled-tonal-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff));
-  color: var(--gm3-icon-button-filled-tonal-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))}
+  color: var(--Δ-gm3-icon-button-filled-tonal-icon-color,var(--gm3-icon-button-filled-tonal-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))}
 .wX4xVc-Bz112c-LgbsSe-OWXEXe-ornU0b {
   background-color: var(--gm3-icon-button-filled-tonal-unselected-container-color,var(--gm3-sys-color-surface-container-highest,#dde3ea));
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))}
 .wX4xVc-Bz112c-LgbsSe-OWXEXe-IT5dJd {
   background-color: var(--gm3-icon-button-filled-tonal-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff));
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))}
+  color: var(--Δ-gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))}
 .wX4xVc-Bz112c-LgbsSe:hover {
-  color: var(--gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--Δ-gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .wX4xVc-Bz112c-LgbsSe:focus {
-  color: var(--gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--Δ-gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .wX4xVc-Bz112c-LgbsSe:active {
-  color: var(--gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--Δ-gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .wX4xVc-Bz112c-LgbsSe-OWXEXe-ornU0b:hover {
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-hover-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
@@ -2969,13 +2969,13 @@ screen and (-ms-high-contrast:none) {
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-pressed-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
 .wX4xVc-Bz112c-LgbsSe-OWXEXe-IT5dJd:hover {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--Δ-gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .wX4xVc-Bz112c-LgbsSe-OWXEXe-IT5dJd:focus {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--Δ-gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .wX4xVc-Bz112c-LgbsSe-OWXEXe-IT5dJd:active {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--Δ-gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .wX4xVc-Bz112c-LgbsSe:disabled {
   background-color: var(--gm3-icon-button-filled-tonal-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
