@@ -143,11 +143,12 @@
 - rgba(0,0,0,.06)
 - rgba(0,0,0,.3)
 - rgba(0,0,0,.15)
+- #001d35
 - #f0f4f9
 - #c2e7ff
 - #1f1f1f
 - #444746
-- #001d35
+- #004a77
 - rgba(32,33,36,.04)
 - rgba(232,234,237,.04)
 - rgb(241,243,244)
@@ -345,11 +346,12 @@
 | rgba(0,0,0,.06) | rgba(0,0,0,.06) | `.CepEHc, ` |
 | rgba(0,0,0,.3) | rgba(0,0,0,.3) | `.CepEHc, , .P9KVBf .hQnXo.sMVRZe` |
 | rgba(0,0,0,.15) | rgba(0,0,0,.15) | `.CepEHc, , .P9KVBf .hQnXo.sMVRZe` |
+| #001d35 | #001d35 | `.mxqHIc, ` |
 | #f0f4f9 | #f0f4f9 | `.ogyIjd-yXBf7b-ZMv3u, ` |
 | #c2e7ff | #c2e7ff | `.ogyIjd-yXBf7b-ZMv3u-HKZIO-uDEFge, ` |
 | #1f1f1f | #1f1f1f | `.ogyIjd-yXBf7b-ZMv3u-AznF2e, , .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd, .ogyIjd-yXBf7b-ZMv3u-AznF2e:hover .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e:focus .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e:active .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:hover .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:focus .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:active .ogyIjd-yXBf7b-ZMv3u-AmTAGb, .ogyIjd-yXBf7b-ZMv3u-AznF2e:hover .ogyIjd-yXBf7b-ZMv3u-cfyjzb, .ogyIjd-yXBf7b-ZMv3u-AznF2e:focus .ogyIjd-yXBf7b-ZMv3u-cfyjzb, .ogyIjd-yXBf7b-ZMv3u-AznF2e:active .ogyIjd-yXBf7b-ZMv3u-cfyjzb` |
 | #444746 | #444746 | `.ogyIjd-yXBf7b-ZMv3u-AznF2e .ogyIjd-yXBf7b-ZMv3u-AmTAGb, , .ogyIjd-yXBf7b-ZMv3u-AznF2e .ogyIjd-yXBf7b-ZMv3u-cfyjzb` |
-| #001d35 | #001d35 | `.ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd .ogyIjd-yXBf7b-ZMv3u-cfyjzb, , .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:hover .ogyIjd-yXBf7b-ZMv3u-cfyjzb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:focus .ogyIjd-yXBf7b-ZMv3u-cfyjzb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:active .ogyIjd-yXBf7b-ZMv3u-cfyjzb` |
+| #004a77 | #004a77 | `.ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd .ogyIjd-yXBf7b-ZMv3u-cfyjzb, , .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:hover .ogyIjd-yXBf7b-ZMv3u-cfyjzb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:focus .ogyIjd-yXBf7b-ZMv3u-cfyjzb, .ogyIjd-yXBf7b-ZMv3u-AznF2e-OWXEXe-auswjd:active .ogyIjd-yXBf7b-ZMv3u-cfyjzb` |
 | rgba(32,33,36,.04) | rgba(32,33,36,.04) | `.YVhSle[aria-selected=true], , .YVhSle[aria-selected=true]:not(:disabled)` |
 | rgba(232,234,237,.04) | rgba(232,234,237,.04) | `.P9KVBf .YVhSle[aria-selected=true], , .P9KVBf .YVhSle[aria-selected=true]:not(:disabled)` |
 | rgb(241,243,244) | rgb(241,243,244) | `.hQnXo, , .hQnXo:not(:disabled)` |
