@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.-eGQfvl_vqw.L.B1.O/am=GAgEAACBgS0wgAEE/d=1/ed=1/rs=ALs0n2OmAIiFwUgsxSZp3nE7Kv8ByImy-A/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.pJDMbGnMV3c.L.B1.O/am=GAgEAAiBgS0wgAEE/d=1/ed=1/rs=ALs0n2Mh6CcJuozN_Eqlu8wr-4AaHQ-mOw/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -8602,6 +8602,9 @@ screen and (forced-colors:active) {
 }
 @media screen and (min-width:345px) and (min-height:550px) and (max-width:1023px) {
 }
+.BLJgTb-JZnCve-gmhCAd {
+  color: var(--gm3-text-field-character-counter-supporting-text-color,unset)
+}
 @keyframes floating-label-shake-float-above {
 }
 .dA2hVd-NLUYnc-xRPttf-DbgRPb,
@@ -12010,12 +12013,6 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
 .dm7YTc .FYIoLc {
   color: #bdc1c6
 }
-.W6FBAb.W6FBAb:hover:not(.zHQkBf),
-.W6FBAb.W6FBAb:not(.zHQkBf),
-.dm7YTc .W6FBAb.W6FBAb:hover:not(.zHQkBf),
-.dm7YTc .W6FBAb.W6FBAb:not(.zHQkBf) {
-  background-color: transparent
-}
 .dm7YTc .W6FBAb .I3hZzc {
   color: #bdc1c6
 }
@@ -12131,17 +12128,100 @@ body.dm7YTc .FKlJgd:not(:disabled):not(:disabled):active {
 }
 @media screen and (max-height:500px) {
 }
-.YwoFG:not(.zHQkBf):not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-RWgCYc-ksKsZd::before {
-  border-bottom-color: #e0e0e0
+@media (forced-colors:active) {
 }
-.YwoFG:not(.zHQkBf):hover:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-RWgCYc-ksKsZd::before {
-  border-bottom-color: #e0e0e0
+@media (forced-colors:active) {
+  .Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-wGMbrd {
+    background-color: Canvas
+  }
 }
-.dm7YTc .YwoFG:not(.zHQkBf):not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-RWgCYc-ksKsZd::before {
-  border-bottom-color: #5f6368
+.Fgl6fe-fmcmS-MvKemf-OWXEXe-qdIk2c {
+  color: var(--gm3-text-field-filled-input-text-prefix-color,#5f6368)
 }
-.dm7YTc .YwoFG:not(.zHQkBf):hover:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-RWgCYc-ksKsZd::before {
-  border-bottom-color: #5f6368
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-MvKemf-OWXEXe-qdIk2c {
+  color: var(--gm3-text-field-filled-disabled-input-text-prefix-color,rgba(60,64,67,.38))
+}
+@media (forced-colors:active) {
+  .Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-MvKemf-OWXEXe-qdIk2c {
+    color: GrayText
+  }
+}
+.Fgl6fe-fmcmS-MvKemf-OWXEXe-iJ4yB {
+  color: var(--gm3-text-field-filled-input-text-suffix-color,#5f6368)
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-MvKemf-OWXEXe-iJ4yB {
+  color: var(--gm3-text-field-filled-disabled-input-text-suffix-color,rgba(60,64,67,.38))
+}
+@media (forced-colors:active) {
+  .Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-MvKemf-OWXEXe-iJ4yB {
+    color: GrayText
+  }
+}
+.Fgl6fe-fmcmS-yrriRe:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me) .Fgl6fe-fmcmS-wGMbrd {
+  caret-color: var(--gm3-text-field-filled-caret-color,var(--gm3-sys-color-primary,#0b57d0));
+  color: var(--gm3-text-field-filled-input-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.Fgl6fe-fmcmS-yrriRe:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me):not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-XpnDCe):hover .Fgl6fe-fmcmS-wGMbrd {
+  color: var(--gm3-text-field-filled-hover-input-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.Fgl6fe-fmcmS-yrriRe:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me).Fgl6fe-fmcmS-yrriRe-OWXEXe-XpnDCe .Fgl6fe-fmcmS-wGMbrd {
+  color: var(--gm3-text-field-filled-focus-input-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-UJflGc:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me) .Fgl6fe-fmcmS-wGMbrd {
+  color: var(--gm3-text-field-filled-error-input-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-UJflGc:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me):not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-XpnDCe):hover .Fgl6fe-fmcmS-wGMbrd {
+  color: var(--gm3-text-field-filled-error-hover-input-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-UJflGc:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me).Fgl6fe-fmcmS-yrriRe-OWXEXe-XpnDCe .Fgl6fe-fmcmS-wGMbrd {
+  caret-color: var(--gm3-text-field-filled-error-focus-caret-color,var(--gm3-sys-color-error,#b3261e));
+  color: var(--gm3-text-field-filled-error-focus-input-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+@media (forced-colors:active) {
+}
+.Fgl6fe-fmcmS-yrriRe.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-wGMbrd {
+  color: var(--gm3-text-field-filled-disabled-input-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+@media (forced-colors:active) {
+  .Fgl6fe-fmcmS-yrriRe.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-wGMbrd {
+    color: GrayText
+  }
+}
+@media (forced-colors:active) {
+}
+.Fgl6fe-fmcmS-wGMbrd {
+  border: none;
+  background: 0 0
+}
+.Fgl6fe-fmcmS-wGMbrd:focus {
+  outline: 0
+}
+.Fgl6fe-fmcmS-wGMbrd:invalid {
+  box-shadow: none
+}
+.Fgl6fe-fmcmS-wGMbrd::-webkit-input-placeholder {
+  color: var(--gm3-text-field-filled-input-text-placeholder-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.Fgl6fe-fmcmS-wGMbrd::placeholder {
+  color: var(--gm3-text-field-filled-input-text-placeholder-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-wGMbrd::-webkit-input-placeholder {
+  color: var(--gm3-text-field-filled-disabled-input-text-placeholder-color,rgba(60,64,67,.38))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me .Fgl6fe-fmcmS-wGMbrd::placeholder {
+  color: var(--gm3-text-field-filled-disabled-input-text-placeholder-color,rgba(60,64,67,.38))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-MFS4be:not(.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me) {
+  background-color: var(--gm3-text-field-filled-container-color,var(--gm3-sys-color-surface-container-highest,#dde3ea))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-OWB6Me {
+  background-color: var(--gm3-text-field-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.04))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-MFS4be:hover .Fgl6fe-fmcmS-OyKIhb {
+  background-color: var(--gm3-text-field-filled-hover-state-layer-color,var(--gm3-sys-color-on-surface,#1f1f1f))
+}
+.Fgl6fe-fmcmS-yrriRe-OWXEXe-UJflGc:hover .Fgl6fe-fmcmS-OyKIhb {
+  background-color: var(--gm3-text-field-filled-error-hover-state-layer-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
 @media (forced-colors:active) {
 }
@@ -13619,9 +13699,8 @@ Data-Href: N/A */
 .BzLGdd.JpY6Fd .U2kNge:nth-of-type(5) {
   background: var(--gn-pubdi-card-5-bg)
 }
-.BLJgTb-JZnCve-gmhCAd {
-  color: var(--gm3-text-field-character-counter-supporting-text-color,unset)
-}
+/*! Inline stylesheet
+Data-Href: N/A */
 @media (forced-colors:active) {
   .qdOxv-fmcmS-yrriRe-OWXEXe-OWB6Me .qdOxv-fmcmS-wGMbrd {
     background-color: Canvas
@@ -13830,14 +13909,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.F8j6Cc {
-  color: #202124
-}
-.dm7YTc .F8j6Cc {
-  color: #fff
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 .dm7YTc .p1eHnf[aria-selected=true] {
   background-color: #3c4043
 }
@@ -13897,6 +13968,14 @@ Data-Href: N/A */
 }
 .dm7YTc .Sz6s4e {
   color: #bdc1c6
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+.F8j6Cc {
+  color: #202124
+}
+.dm7YTc .F8j6Cc {
+  color: #fff
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14255,4 +14334,50 @@ Data-Href: N/A */
 }
 .dm7YTc #i34 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: MarketWatch-headline-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-panel-title-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: MarketWatch-body-font;
+  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #087c08
+}
+#ucc-5 .pLZE8d::before {
+  background: #087c08
+}
+#ucc-5 .jzzMj {
+  background: #087c08
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #087c08
+}
+#ucc-5 .MyQDIb {
+  background: #087c08
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #087c08
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #087c08
 }
