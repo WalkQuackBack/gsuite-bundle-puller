@@ -314,7 +314,7 @@
   box-shadow: inset 1px 1px 0 rgba(0,0,0,calc(.5*.5)),inset 0 -1px 0 rgba(0,0,0,calc(.5*.333))
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.fpezSDXOATA.L.B1.O/am=ghAYs4JBBECmYCEgAAE/d=1/ed=1/rs=ANkVxDnWhym_dkkWMOssNvhjPigzxL_Fvg/m=mainview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.usgNz71dw18.L.B1.O/am=ghAYs4JBBECmYCEgAAE/d=1/ed=1/rs=ANkVxDnaIhTE4Od5xlpPBgg5oKXTfmsahw/m=mainview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -6569,13 +6569,13 @@ screen and (forced-colors:active) {
   color: var(--gm3-list-list-item-hover-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd .W7g1Rb-rymPhb-fpDzbe-fmcmS {
-  color: var(--Δ-gm3-list-list-item-selected-label-text-color,var(--gm3-list-list-item-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+  color: var(--upgradeable-gm3-list-list-item-selected-label-text-color,var(--gm3-list-list-item-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd:focus .W7g1Rb-rymPhb-fpDzbe-fmcmS {
-  color: var(--Δ-gm3-list-list-item-selected-focus-label-text-color,var(--gm3-list-list-item-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+  color: var(--upgradeable-gm3-list-list-item-selected-focus-label-text-color,var(--gm3-list-list-item-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd:hover .W7g1Rb-rymPhb-fpDzbe-fmcmS {
-  color: var(--Δ-gm3-list-list-item-selected-hover-label-text-color,var(--gm3-list-list-item-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+  color: var(--upgradeable-gm3-list-list-item-selected-hover-label-text-color,var(--gm3-list-list-item-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-OWB6Me .W7g1Rb-rymPhb-fpDzbe-fmcmS {
   color: var(--gm3-list-list-item-disabled-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
@@ -6649,11 +6649,11 @@ screen and (forced-colors:active) {
   }
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd:hover .W7g1Rb-rymPhb-KkROqb:has(.W7g1Rb-rymPhb-Abojl) {
-  color: var(--Δ-gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
+  color: var(--upgradeable-gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
 }
 @supports not selector(:has(a)) {
   .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd:hover .W7g1Rb-rymPhb-KkROqb .W7g1Rb-rymPhb-Abojl {
-    color: var(--Δ-gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
+    color: var(--upgradeable-gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
   }
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-OWB6Me .W7g1Rb-rymPhb-KkROqb:has(.W7g1Rb-rymPhb-Abojl) {
@@ -6690,10 +6690,10 @@ screen and (forced-colors:active) {
   }
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd .W7g1Rb-rymPhb-JMEf7e:has(.W7g1Rb-rymPhb-Abojl) {
-  color: var(--Δ-gm3-list-list-item-selected-trailing-icon-color,var(--gm3-list-list-item-selected-trailing-icon-color,var(--gm3-sys-color-primary,#0b57d0)))
+  color: var(--upgradeable-gm3-list-list-item-selected-trailing-icon-color,var(--gm3-list-list-item-selected-trailing-icon-color,var(--gm3-sys-color-primary,#0b57d0)))
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-gk6SMd:hover .W7g1Rb-rymPhb-JMEf7e:has(.W7g1Rb-rymPhb-Abojl) {
-  color: var(--Δ-gm3-list-list-item-selected-hover-trailing-icon-color,var(--gm3-list-list-item-selected-hover-trailing-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
+  color: var(--upgradeable-gm3-list-list-item-selected-hover-trailing-icon-color,var(--gm3-list-list-item-selected-hover-trailing-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
 }
 .W7g1Rb-rymPhb-ibnC6b-OWXEXe-SfQLQb-UbuQg-r4m2rf .W7g1Rb-rymPhb-JMEf7e {
   color: var(--gm3-list-list-item-trailing-supporting-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
@@ -6756,6 +6756,8 @@ screen and (forced-colors:active) {
 }
 .O68mGe-qPzbhe-JNdkSc {
   fill: currentColor
+}
+@media screen and (max-width:384px) {
 }
 .wkLVUc-LgbsSe {
   border: none;
@@ -6852,44 +6854,6 @@ screen and (forced-colors:active) {
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.pYTkkf-Bz112c-LgbsSe {
-  background: 0 0;
-  border: none;
-  fill: currentColor;
-  outline: 0}
-.pYTkkf-Bz112c-LgbsSe::before {
-  border: 1px solid transparent
-}
-.pYTkkf-Bz112c-mRLv6 {
-  outline: 0
-}
-@media not (prefers-reduced-motion) {
-}
-.pYTkkf-Bz112c-LgbsSe {
-  color: var(--gm3-icon-button-standard-unselected-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))}
-.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd {
-  color: var(--gm3-icon-button-standard-selected-icon-color,var(--gm3-sys-color-primary,#0b57d0))}
-.pYTkkf-Bz112c-LgbsSe:hover {
-  color: var(--gm3-icon-button-standard-unselected-hover-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.pYTkkf-Bz112c-LgbsSe:focus {
-  color: var(--gm3-icon-button-standard-unselected-focus-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.pYTkkf-Bz112c-LgbsSe:active {
-  color: var(--gm3-icon-button-standard-unselected-pressed-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
-}
-.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:hover {
-  color: var(--gm3-icon-button-standard-selected-hover-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:focus {
-  color: var(--gm3-icon-button-standard-selected-focus-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:active {
-  color: var(--gm3-icon-button-standard-selected-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.pYTkkf-Bz112c-LgbsSe:disabled {
-  color: var(--gm3-icon-button-standard-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
 .mUIrbf-LgbsSe {
   border: none;
   outline: 0;
@@ -6958,6 +6922,44 @@ Data-Href: N/A */
   .mUIrbf-StrnGf-YYd4I-VtOx3e::before {
     border-color: CanvasText
   }
+}
+.pYTkkf-Bz112c-LgbsSe {
+  background: 0 0;
+  border: none;
+  fill: currentColor;
+  outline: 0}
+.pYTkkf-Bz112c-LgbsSe::before {
+  border: 1px solid transparent
+}
+.pYTkkf-Bz112c-mRLv6 {
+  outline: 0
+}
+@media not (prefers-reduced-motion) {
+}
+.pYTkkf-Bz112c-LgbsSe {
+  color: var(--gm3-icon-button-standard-unselected-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))}
+.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd {
+  color: var(--gm3-icon-button-standard-selected-icon-color,var(--gm3-sys-color-primary,#0b57d0))}
+.pYTkkf-Bz112c-LgbsSe:hover {
+  color: var(--gm3-icon-button-standard-unselected-hover-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.pYTkkf-Bz112c-LgbsSe:focus {
+  color: var(--gm3-icon-button-standard-unselected-focus-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.pYTkkf-Bz112c-LgbsSe:active {
+  color: var(--gm3-icon-button-standard-unselected-pressed-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
+}
+.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:hover {
+  color: var(--gm3-icon-button-standard-selected-hover-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:focus {
+  color: var(--gm3-icon-button-standard-selected-focus-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:active {
+  color: var(--gm3-icon-button-standard-selected-pressed-icon-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.pYTkkf-Bz112c-LgbsSe:disabled {
+  color: var(--gm3-icon-button-standard-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
 }
 .uW2Fw-P5QLlc {
   background-color: var(--gm3-dialog-container-color,var(--gm3-sys-color-surface-container-high,#e9eef6));
