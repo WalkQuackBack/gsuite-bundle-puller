@@ -157,7 +157,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.qmzN0sbT7YE.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAKhAIAEAACCMEBgAAIIBB4AAMRAgWMDkGAJ5AQAAAACQCAAgEAAAAgNMeMAgAAAAAAAAAAAAAAAAAghQCAAAAAAAAAAAAAAAAAACAgCYBEA/d=1/ed=1/rs=AC0raVJHZurNs8zK_VOzhnrCwq-Z2Y_8Jg/m=landingpageview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.FbUrDPGqqsc.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAKhAIAEAACCMEBgAAIIBB4AAMRAgWMDkGAJ5AQAAAACQCAAgEAAAAgNMeMAgAAAAAAAAAAAAAAAAAghQCAAAAAAAAAAAAAAAAAACAgCYBEA/d=1/ed=1/rs=AC0raVIwyjg2egCiDeNtI2jPUhndhQpBXQ/m=landingpageview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -3872,28 +3872,28 @@ screen and (min-width:769px) and (max-width:1023px) {
 }
 @media (forced-colors:none) {
   .OhA4E .SQAIec {
-    stroke: var(--Δ-gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    stroke: var(--upgradeable-gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:not(:disabled) .bBr1te {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-connected-button-group-tonal-selected-with-icon-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:hover .bBr1te {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:hover .SQAIec {
-    stroke: var(--Δ-gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    stroke: var(--upgradeable-gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-connected-button-group-tonal-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:focus-visible .bBr1te {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:focus-visible .SQAIec {
-    stroke: var(--Δ-gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    stroke: var(--upgradeable-gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-connected-button-group-tonal-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:enabled:active .bBr1te {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:enabled:active .SQAIec {
-    stroke: var(--Δ-gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    stroke: var(--upgradeable-gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-connected-button-group-tonal-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .pVxgue:not(:disabled) .bBr1te {
     color: var(--gm3-connected-button-group-tonal-unselected-with-icon-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
@@ -3914,16 +3914,16 @@ screen and (min-width:769px) and (max-width:1023px) {
     background-color: var(--gm3-connected-button-group-tonal-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
   }
   .OhA4E .T4ACf:not(:disabled) .HhUn9 {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-label-text-color,var(--gm3-connected-button-group-tonal-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-label-text-color,var(--gm3-connected-button-group-tonal-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:hover .HhUn9 {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-hover-label-text-color,var(--gm3-connected-button-group-tonal-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-hover-label-text-color,var(--gm3-connected-button-group-tonal-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:focus-visible .HhUn9 {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-focus-label-text-color,var(--gm3-connected-button-group-tonal-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-focus-label-text-color,var(--gm3-connected-button-group-tonal-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .T4ACf:enabled:active .HhUn9 {
-    color: var(--Δ-gm3-connected-button-group-tonal-selected-pressed-label-text-color,var(--gm3-connected-button-group-tonal-selected-pressed-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
+    color: var(--upgradeable-gm3-connected-button-group-tonal-selected-pressed-label-text-color,var(--gm3-connected-button-group-tonal-selected-pressed-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
   }
   .OhA4E .pVxgue:not(:disabled) .HhUn9 {
     color: var(--gm3-connected-button-group-tonal-unselected-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
