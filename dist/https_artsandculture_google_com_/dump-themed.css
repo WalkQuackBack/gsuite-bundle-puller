@@ -510,7 +510,7 @@ span.gb_X {
   box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2)
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/artsandculture/_/ss/k=artsandculture.stella.l9IiZvTAlpk.L.W.O/am=AIAhyAYCAAAQ/d=1/rs=AIxt-LpgiE11x0Mov-kA9UkafHWXzKnvYA/m=bDA3e */
+Data-Href: https://www.gstatic.com/_/artsandculture/_/ss/k=artsandculture.stella.sjhD-x_YtFw.L.W.O/am=CIEhSAcC/d=1/rs=AIxt-Lpe2Hc5QFjxrq77BCNU0fW1isyAog/m=bDA3e */
 .wsvqid .MiwKYe,
 .wsvqid .ZM7pef {
   fill: rgb(66,133,244)
@@ -655,51 +655,6 @@ body.CcsDpe .g3VIld {
 @-webkit-keyframes morph-tile-fade-in {
 }
 @keyframes morph-tile-fade-in {
-}
-.mUbCce {
-  border: 0;
-  outline: 0
-}
-.fKz7Od {
-  color: rgba(0,0,0,.54);
-  fill: rgba(0,0,0,.54)
-}
-.p9Nwte {
-  color: rgba(255,255,255,.75);
-  fill: rgba(255,255,255,.75)
-}
-.fKz7Od.u3bW4e {
-  background-color: rgba(0,0,0,.12)
-}
-.p9Nwte.u3bW4e {
-  background-color: rgba(204,204,204,.25)
-}
-.YYBxpf.u3bW4e {
-  background-color: transparent
-}
-.fKz7Od .VTBa7b {
-  background-image: radial-gradient(circle farthest-side,rgba(0,0,0,.12),rgba(0,0,0,.12) 80%,rgba(0,0,0,0) 100%)
-}
-.p9Nwte .VTBa7b {
-  background-image: radial-gradient(circle farthest-side,rgba(204,204,204,.25),rgba(204,204,204,.25) 80%,rgba(204,204,204,0) 100%)
-}
-.mUbCce.RDPZE {
-  color: rgba(0,0,0,.26);
-  fill: rgba(0,0,0,.26)
-}
-.p9Nwte.RDPZE {
-  color: rgba(255,255,255,.502);
-  fill: rgba(255,255,255,0.502)
-}
-.djIBFd {
-  background-color: var(--color-grey-300)
-}
-.xW7guf {
-  background-color: var(--color-black)
-}
-.Ekto1b,
-.ok36rf {
-  background-color: var(--color-blue-600)
 }
 .Xb8XNe {
   background-color: var(--color-grey-200)
@@ -1784,6 +1739,41 @@ screen and (forced-colors:active) {
 }
 .U26fgb.u3bW4e {
   outline: 1px solid transparent
+}
+.mUbCce {
+  border: 0;
+  outline: 0
+}
+.fKz7Od {
+  color: rgba(0,0,0,.54);
+  fill: rgba(0,0,0,.54)
+}
+.p9Nwte {
+  color: rgba(255,255,255,.75);
+  fill: rgba(255,255,255,.75)
+}
+.fKz7Od.u3bW4e {
+  background-color: rgba(0,0,0,.12)
+}
+.p9Nwte.u3bW4e {
+  background-color: rgba(204,204,204,.25)
+}
+.YYBxpf.u3bW4e {
+  background-color: transparent
+}
+.fKz7Od .VTBa7b {
+  background-image: radial-gradient(circle farthest-side,rgba(0,0,0,.12),rgba(0,0,0,.12) 80%,rgba(0,0,0,0) 100%)
+}
+.p9Nwte .VTBa7b {
+  background-image: radial-gradient(circle farthest-side,rgba(204,204,204,.25),rgba(204,204,204,.25) 80%,rgba(204,204,204,0) 100%)
+}
+.mUbCce.RDPZE {
+  color: rgba(0,0,0,.26);
+  fill: rgba(0,0,0,.26)
+}
+.p9Nwte.RDPZE {
+  color: rgba(255,255,255,.502);
+  fill: rgba(255,255,255,0.502)
 }
 .llhEMd {
   background-color: rgba(0,0,0,.502)
