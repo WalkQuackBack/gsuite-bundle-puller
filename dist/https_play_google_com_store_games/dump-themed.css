@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.1oarcOeFdrQ.L.B1.O/am=R2cGrN8nBCYBA_6l36AtACA/d=1/ed=1/rs=AB1caFUTT4SA7zNQbWzzQlJw-ojrPp1GEQ/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.c6b8lsHJZ4U.L.B1.O/am=R2cGrN8nBCYBA_6F36AtACA/d=1/ed=1/rs=AB1caFWhj2kE7fhyOzeEIKM0WU6oUDDjRQ/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -7384,6 +7384,9 @@ screen and (forced-colors:active) {
 @media screen and (min-width:1280px) {
 }
 @media screen and (min-width:1440px) {
+}
+.PcsSFf a {
+  color: #28feaf
 }
 .nnW2Md {
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
