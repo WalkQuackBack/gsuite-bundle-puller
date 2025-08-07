@@ -9,7 +9,7 @@
 ==/UserStyle== */
 @-moz-document url-prefix("https://docs.google.com/document/d/") {
   /**** Generated code START ****/
-  /*! External stylesheet "/static/document/client/css/2927856550-KixCss_ltr.css" */
+  /*! External stylesheet "/static/document/client/css/1201358865-KixCss_ltr.css" */
 .goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight) {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
@@ -202,7 +202,7 @@
 .docgenUiPromptViewInputShimmer {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonCreating.docs-gm3-filled-button {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonCreating.docs-gm3-filled-button {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
 .quotaUpsellMessageDescription {
@@ -2067,7 +2067,7 @@
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button {
   background-color: var(--gm3-icon-button-filled-tonal-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff));
-  color: var(--gm3-icon-button-filled-tonal-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-icon-color,var(--gm3-icon-button-filled-tonal-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--toggle {
   background-color: var(--gm3-icon-button-filled-tonal-unselected-container-color,var(--gm3-sys-color-surface-container-highest,#dde3ea));
@@ -2075,16 +2075,16 @@
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on {
   background-color: var(--gm3-icon-button-filled-tonal-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff));
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:hover {
-  color: var(--gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:focus {
-  color: var(--gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:active {
-  color: var(--gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--toggle:hover {
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-hover-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
@@ -2096,13 +2096,13 @@
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-pressed-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on:hover {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on:focus {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on:active {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:disabled {
   background-color: var(--gm3-icon-button-filled-tonal-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -2265,6 +2265,12 @@
 }
 .boqAddonscardsrendererCardKeyvalueStartIconBackgroundAsset.defaultBackgroundColor {
   background-color: var(--gm3-sys-color-surface,#fff)
+}
+.boqAddonscardsrendererCardLabelText {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.boqAddonscardsrendererCardLabelDescription {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .boqAddonscardsrendererCardSelectioncontrolMultiselectMultiSelectContainer {
   outline: 1px solid var(--outline-border-color)
@@ -3482,7 +3488,7 @@ screen and (forced-colors:active) {
 .appsElementsBadgeFeature {
   background-color: var(--ae-badge-container-color,#1967d2)
 }
-.appsElementsBadgeMain {
+.appsElementsBadgeContainer .appsElementsBadgeMain {
   background-color: var(--ae-badge-container-color,#e8f0fe);
   color: var(--ae-badge-text-color,#174ea6)
 }
@@ -4407,6 +4413,9 @@ screen and (forced-colors:active) {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9);
   color: var(--ae-sidekick-prompt-input-text-color,#000);
   caret-color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsSidekickUserMessagePromptEditorContainer .appsElementsSidekickUserMessagePromptEditor:before {
+  color: var(--ae-sidekick-prompt-input-text-placeholder-color,#5e5e5e)
 }
 .javascriptMaterialdesignGm3WizSnackbar-snackbar__surface {
   background-color: var(--gm3-snackbar-container-color,var(--gm3-sys-color-inverse-surface,#303030))

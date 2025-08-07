@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/2927856550-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/1201358865-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -654px -108px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -432px -1216px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2526,7 +2526,7 @@ a:active {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -582px -1054px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -942px -1328px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3481,7 +3481,7 @@ a:active {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -654px -108px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -432px -1216px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -5469,7 +5469,7 @@ input:disabled.kix-task-bubble-input-field.kix-task-bubble-title-input-field:hov
 .docos-replyview-edit {
   color: #15c
 }
-.docos-replyview-attribution-warning {
+.docos-attribution-warning {
   border-color: #e5e5e5;
   color: #3c4043
 }
@@ -7038,6 +7038,9 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
 .docos-stream-emoji-content .docos-stream-emoji-reply-author .docos-author {
   color: #202124
 }
+.docos-stream-emoji-content .docos-stream-emoji-reply-author .docos-author.docos-stream-emoji-author-unverified {
+  color: #b3261e
+}
 .docos-stream-emoji-header-container {
   background-color: #f1f3f4
 }
@@ -8207,6 +8210,9 @@ span.docs-material-gm-checkbox-disabled.docs-material-gm-checkbox-undetermined {
   border: 1px solid #c7c7c7;
   background-color: #edf2fa
 }
+.emoji-detail-sidebar-attribution-warning {
+  border-color: #e1e3e1
+}
 .building-block-card-content-container {
   border: 1px solid transparent
 }
@@ -9320,11 +9326,11 @@ a.docs-revisions-sidebar-revisions-empty-learn-more {
   border: 1px solid #c4c7c5
 }
 @media (forced-colors:active) {
-  .docgenUiPromptViewNextButton .docs-gm3-filled-button.docs-gm3-button-disabled {
+  .docgenUiPromptViewActionButton .docs-gm3-filled-button.docs-gm3-button-disabled {
     color: GrayText
   }
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonCreating.docs-gm3-filled-button {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonCreating.docs-gm3-filled-button {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff));
   color: #444746
 }
@@ -9332,39 +9338,39 @@ a.docs-revisions-sidebar-revisions-empty-learn-more {
 }
 @media not (prefers-reduced-motion) {
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonRecreate {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonRecreate {
   border: 1px solid transparent;
   background: #c2e7ff;
   color: #001d35
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonRecreate.docs-gm3-button-hover {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonRecreate.docs-gm3-button-hover {
   border: 1px solid transparent;
   background: #c2e7ff;
   color: #001d35;
   background: #b2d7ef;
   box-shadow: 0 1px 2px rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15)
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonRecreate.docs-gm3-button-focused {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonRecreate.docs-gm3-button-focused {
   border: 1px solid transparent;
   background: #c2e7ff;
   color: #001d35;
   background: #abcfe7;
   box-shadow: none
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonRecreate.docs-gm3-button-active {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonRecreate.docs-gm3-button-active {
   border: 1px solid transparent;
   background: #c2e7ff;
   color: #001d35;
   background: #96bad2
 }
-.docgenUiPromptViewNextButton > .docgenUiPromptViewButtonRecreate.docs-gm3-button-disabled {
+.docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonRecreate.docs-gm3-button-disabled {
   background: #0b57d0;
   color: #fff;
   background: rgba(31,31,31,.12);
   color: rgba(31,31,31,.38)
 }
 @media (forced-colors:active) {
-  .docgenUiPromptViewNextButton > .docgenUiPromptViewButtonRecreate.docs-gm3-button-disabled {
+  .docgenUiPromptViewActionButton > .docgenUiPromptViewActionButtonRecreate.docs-gm3-button-disabled {
     color: GrayText
   }
 }
@@ -10677,7 +10683,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -654px -108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -432px -1216px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10738,7 +10744,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -654px -108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -432px -1216px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -12953,10 +12959,6 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   background: linear-gradient(0deg,rgba(105,145,214,.12),rgba(105,145,214,.12)),#fff;
   border: 1px solid #747775
 }
-.docs-image-generation-example-gallery-container:not(.imageGenerationPromptInspirationGalleryWithDisclaimer) .docs-image-generation-example-gallery.docs-image-generation-example-gallery-collapsed,
-.docs-image-generation-example-gallery-container:not(.imageGenerationPromptInspirationGalleryWithDisclaimer) .docs-image-generation-example-gallery.docs-image-generation-example-gallery-collapsed-static {
-  background: 0 0
-}
 .docs-prompt-view {
   background: #edf2fa
 }
@@ -13077,13 +13079,23 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   background-color: #f0f4f9;
   border: none
 }
-.genAiImageSidebarLearnMoreLink {
-  color: #0b57d0
-}
-.docs-image-synthesis-sidebar:has(.genAiImageSidebarFooterDisclaimer) .docs-content-library-image-generation-item:not(:has(.docs-content-library-image-generation-item-feedback-hidden)) {
+.genAiImageSidebarEl .docs-content-library-image-generation-item:not(:has(.docs-content-library-image-generation-item-feedback-hidden)) {
   outline: 2px solid #0b57d0
 }
 @keyframes image-generation-gradient {
+}
+.appsDocsAiGenerativeaiImageGenerateImagesInputEl {
+  border: 1px solid #c4c7c5
+}
+.appsDocsAiGenerativeaiImageGenerateImagesInputTextInputContainer {
+  background-color: #fff
+}
+.appsDocsAiGenerativeaiImageGenerateImagesInputTextInputContainer:has(.goog-textarea:disabled) {
+  background: #f5f7fd;
+  color: #a0a4a8
+}
+.appsDocsAiGenerativeaiImageGenerateImagesInputEl .appsDocsAiGenerativeaiImageGenerateImagesInputTextInputContainer .image-synthesis-creation-button.image-synthesis-create-complete {
+  background: #0b57d0
 }
 .appsDocsAiGenerativeaiImageHistoryViewSeparator {
   border-top: 1px solid #c4c7c5
@@ -13094,6 +13106,14 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
 .appsDocsAiGenerativeaiImageHistoryViewResultHeaderPrompt,
 .appsDocsAiGenerativeaiImageHistoryViewResultHeaderStyle {
   color: #444746
+}
+.appsDocsAiGenerativeaiImageHistoryViewConversationalHeader {
+  color: #444746
+}
+.appsDocsAiGenerativeaiImageHistoryViewLoadingText {
+  color: #444746
+}
+@media not (prefers-reduced-motion) {
 }
 @media screen and (forced-colors:active) {
   .appsDocsAiGenerativeaiImageGenerationColorPaletteContainer {
@@ -13137,12 +13157,12 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
 .docs-material-colorpalette-cell-hover .appsDocsAiGenerativeaiImageGenerationColorPaletteCancelIcon {
   background-color: #e8ebee
 }
-.imageGenerationPromptInspirationGalleryWithDisclaimer .docs-image-generation-example-gallery-expand-button {
+.imageGenerationPromptInspirationGalleryContainer .docs-image-generation-example-gallery-expand-button {
   background-color: #dde3ea;
   border: none;
   outline: transparent
 }
-.imageGenerationPromptInspirationGalleryWithDisclaimer .docs-image-generation-example-gallery-expand-button:focus-visible {
+.imageGenerationPromptInspirationGalleryContainer .docs-image-generation-example-gallery-expand-button:focus-visible {
   outline: 1px solid #0b57d0
 }
 .imageGenerationStylePresetsSelect.docs-material-gm-select {
@@ -13465,7 +13485,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -654px -108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -432px -1216px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13527,7 +13547,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite850_gm3_grey_medium.svg) -654px -108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite852_gm3_grey_medium.svg) -432px -1216px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -13953,18 +13973,13 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   border-color: rgba(0,0,0,.2) transparent
 }
 .drive-viewer {
+  background-color: rgba(0,0,0,.85);
   color: #fff
 }
-.drive-viewer-shadow {
-  background-color: #1e1e1e
-}
-.drive-viewer.drive-viewer-embed .drive-viewer-shadow {
+.drive-viewer.drive-viewer-embed {
   background-color: #d1d1d1
 }
-.drive-viewer-v3 .drive-viewer-shadow {
-  background-color: rgba(0,0,0,.85)
-}
-.drive-viewer-gm3.drive-viewer-v3 .drive-viewer-shadow {
+.drive-viewer.drive-viewer-gm3 {
   background-color: rgba(31,31,31,.92)
 }
 .drive-viewer-focus-outlines-disabled :focus {
@@ -14780,6 +14795,43 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
   background-color: #e8eaed;
   color: #202124
 }
+.style-match-refresh .docs-embedded-content-close-icon:focus,
+.style-match-refresh .docs-embedded-content-close-icon:hover {
+  background-color: #e9eef6;
+  border: 6px solid #e9eef6
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu.goog-menu-vertical {
+  background-color: #f0f4f9;
+  border: none
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .goog-menuitem .docs-embedded-content-controls-menu-item-info-icon-container:focus,
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .goog-menuitem .docs-embedded-content-controls-menu-item-info-icon-container:hover {
+  background-color: rgba(31,31,31,.08)
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.docs-linking-formatting-content-control-menu-item {
+  background-color: #e9eef6
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.docs-linking-formatting-content-control-menu-item.docs-lfccc-menu-item-gemini-style-match {
+  background-color: #fff
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.docs-linking-formatting-content-control-menu-item:focus,
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.docs-linking-formatting-content-control-menu-item:hover {
+  background-color: #dde3ea
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.docs-linking-formatting-content-control-menu-item.goog-menuitem-disabled {
+  background-color: rgba(31,31,31,.12)
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.docs-linking-formatting-content-control-menu-item.goog-menuitem-disabled .docs-embedded-content-controls-menu-item-content-label {
+  color: rgba(31,31,31,.38)
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item .goog-menuitem-icon:not(.docs-omnibox-row-icon):not(.docs-lfccc-menu-item-gemini-style-match) {
+  background-color: #fff;
+  border: 6px solid #fff
+}
+.style-match-refresh.docs-linking-formatting-content-control-container.docs-material .goog-menu .docs-embedded-content-controls-menu-item.goog-menuitem-disabled .goog-menuitem-icon:not(.docs-omnibox-row-icon):not(.docs-lfccc-menu-item-gemini-style-match) {
+  background-color: transparent;
+  border-color: transparent
+}
 .docs-postupdatetoast .docs-ui-toast-control.docs-postupdatetoast-opensidebar:focus {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color
@@ -15398,42 +15450,6 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
 .kix-esignature-signers-select-menu.goog-menu {
   border: 1px solid transparent
 }
-.kix-esignature-manage-signers-dialog-container-header-subtitle-info {
-  color: #747775
-}
-.kix-esignature-manage-signers-dialog-container-signer-label-input.kix-esignature-manage-signers-dialog-signer-error {
-  border: 2px solid #cc442e
-}
-.kix-esignature-manage-signers-dialog-container-error-message-text {
-  color: #cc442e
-}
-.kix-esignature-manage-signers-dialog-container-signer-label-input {
-  border: 1px solid #dadce0;
-  color: #3c4043
-}
-.kix-esignature-manage-signers-dialog-container-add-signer-button {
-  background-image: none;
-  border: 1px solid transparent!important;
-  box-shadow: none;
-  background: 0 0;
-  color: #1a73e8;
-  outline: 0
-}
-.kix-esignature-manage-signers-dialog-container-add-signer-button.goog-flat-button.goog-flat-button-focused,
-.kix-esignature-manage-signers-dialog-container-add-signer-button.goog-flat-button.goog-flat-button-hover {
-  background: #e9f1fe;
-  border: 1px solid #c1d8fb!important;
-  border: none
-}
-.kix-esignature-manage-signers-dialog-container-add-signer-button.goog-flat-button-disabled {
-  background: #fff;
-  border: 1px solid #f1f3f4!important;
-  color: #3c4043
-}
-.kix-esignature-manage-signers-dialog-container-bottom-separator,
-.kix-esignature-manage-signers-dialog-container-top-separator {
-  border-bottom: 1px solid #dadce0
-}
 .kix-esignature-sidebar {
   box-shadow: none;
   background-color: #fff;
@@ -15618,7 +15634,6 @@ body:not(.docs-grille) #titlebar-mode-indicator-container > .kix-titlebar-approv
   box-shadow: 0 2px 3px rgba(46,100,222,.2)
 }
 .kixGlobalFabRoot.onFocusExpanded:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer,
-.kixGlobalFabRoot.onLoadExpanded:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer,
 .kixGlobalFabRoot:hover:not(.kixGlobalFabCollapsed) .kixGlobalFabButtonContainer {
   background: linear-gradient(45deg,#076eff,#4fabff)
 }
@@ -20800,6 +20815,8 @@ input:disabled.kix-variables-sidebar-variable-value-input-field {
 .javascriptMaterialdesignGm3WizMenuSurface-menu-surface:focus {
   outline: 0
 }
+@media (forced-colors:active) and (prefers-color-scheme:dark) {
+}
 .boqAddonscardsrendererCardAutocompleteMenuItemOneLine.hasDivider {
   border-bottom: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
@@ -22570,21 +22587,21 @@ screen and (forced-colors:active) {
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button {
   background-color: var(--gm3-icon-button-filled-tonal-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff));
-  color: var(--gm3-icon-button-filled-tonal-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))}
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-icon-color,var(--gm3-icon-button-filled-tonal-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))}
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--toggle {
   background-color: var(--gm3-icon-button-filled-tonal-unselected-container-color,var(--gm3-sys-color-surface-container-highest,#dde3ea));
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))}
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on {
   background-color: var(--gm3-icon-button-filled-tonal-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff));
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))}
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))}
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:hover {
-  color: var(--gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-icon-button-filled-tonal-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:focus {
-  color: var(--gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-icon-button-filled-tonal-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:active {
-  color: var(--gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-icon-button-filled-tonal-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--toggle:hover {
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-hover-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
@@ -22596,13 +22613,13 @@ screen and (forced-colors:active) {
   color: var(--gm3-icon-button-filled-tonal-toggle-unselected-pressed-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on:hover {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-hover-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on:focus {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-focus-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button--on:active {
-  color: var(--gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#001d35))
+  color: var(--upgradeable-gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-icon-button-filled-tonal-toggle-selected-pressed-icon-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
 .javascriptMaterialdesignGm3WizIconButtonFilledTonal-icon-button:disabled {
   background-color: var(--gm3-icon-button-filled-tonal-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
@@ -22979,6 +22996,12 @@ screen and (forced-colors:active) {
 }
 .boqAddonscardsrendererCardKeyvalueStartIconBackgroundAsset.defaultBackgroundColor {
   background-color: var(--gm3-sys-color-surface,#fff)
+}
+.boqAddonscardsrendererCardLabelText {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.boqAddonscardsrendererCardLabelDescription {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .boqAddonscardsrendererCardSelectioncontrolMultiselectMultiSelectContainer {
   outline: 1px solid var(--outline-border-color)
@@ -25144,16 +25167,30 @@ screen and (forced-colors:active) {
 .suggestionNudgeViewContainer:hover {
   background-color: #e7edf8
 }
-.suggestionNudgeViewCloseButton:hover {
+.suggestionNudgeViewMoreOptionsMenuButton .goog-menu-button-inner-box,
+.suggestionNudgeViewMoreOptionsMenuButton .goog-menu-button-outer-box,
+.suggestionNudgeViewMoreOptionsMenuButton.goog-menu-button {
+  background: 0 0;
+  border: none
+}
+.suggestionNudgeViewDisableNudgeMenuItem .goog-menuitem-content,
+.suggestionNudgeViewReportIssueMenuItem .goog-menuitem-content {
+  color: #444746
+}
+.suggestionNudgeViewCloseButton:hover,
+.suggestionNudgeViewMoreOptionsMenuButton:hover {
   background-color: rgba(31,31,31,.08)
 }
-.suggestionNudgeViewCloseButton:focus {
+.suggestionNudgeViewCloseButton:focus,
+.suggestionNudgeViewMoreOptionsMenuButton:focus {
   background-color: rgba(31,31,31,.08);
   outline: 0
 }
 @media screen and (forced-colors:active) {
   .suggestionNudgeViewCloseButton:focus,
-  .suggestionNudgeViewCloseButton:hover {
+  .suggestionNudgeViewCloseButton:hover,
+  .suggestionNudgeViewMoreOptionsMenuButton:focus,
+  .suggestionNudgeViewMoreOptionsMenuButton:hover {
     background-color: Highlight
   }
 }
@@ -25327,7 +25364,7 @@ screen and (forced-colors:active) {
     color: HighlightText
   }
 }
-.appsElementsBadgeMain {
+.appsElementsBadgeContainer .appsElementsBadgeMain {
   background-color: var(--ae-badge-container-color,#e8f0fe);
   color: var(--ae-badge-text-color,#174ea6)
 }
@@ -25424,6 +25461,9 @@ screen and (forced-colors:active) {
 }
 .emojiDetailSidebarUsernameWithInvalidAttribution {
   color: #b3261e
+}
+.emojiDetailSidebarAttributionWarning {
+  border-color: #e1e3e1
 }
 .appsElementsEmojipickerSearchInput:focus {
   outline: 0
@@ -26338,6 +26378,9 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationContentDialogRoot {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
+.appsElementsWorkspaceRecommendationContentIframeDialogContent {
+  border: none
+}
 .appsElementsWorkspaceRecommendationContentFilledIcon {
   color: var(--gm3-sys-color-on-primary,#fff)
 }
@@ -26565,6 +26608,12 @@ screen and (forced-colors:active) {
 }
 .appsElementsSidekickPromptInputWrapper:not(.appsElementsSidekickPromptInputDisabled) .appsElementsSidekickPromptInput:before {
   color: var(--ae-sidekick-prompt-input-text-placeholder-color,#5e5e5e)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsSidekickPromptInputWrapper:not(.appsElementsSidekickPromptInputDisabled) .appsElementsSidekickPromptInput:before {
+    color: GrayText
+  }
 }
 .appsElementsSidekickPromptInputDisabled {
   background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
@@ -27012,6 +27061,15 @@ screen and (forced-colors:active) {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9);
   color: var(--ae-sidekick-prompt-input-text-color,#000);
   caret-color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsSidekickUserMessagePromptEditorContainer .appsElementsSidekickUserMessagePromptEditor:before {
+  color: var(--ae-sidekick-prompt-input-text-placeholder-color,#5e5e5e)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsSidekickUserMessagePromptEditorContainer .appsElementsSidekickUserMessagePromptEditor:before {
+    color: GrayText
+  }
 }
 .fontsListCssSelectedFontsListItem {
   background-color: #fff
