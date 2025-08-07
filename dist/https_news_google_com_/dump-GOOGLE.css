@@ -14332,49 +14332,81 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #836d3c
-}
-#ucc-5 .pLZE8d::before {
-  background: #836d3c
-}
-#ucc-5 .jzzMj {
-  background: #836d3c
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
-}
-#ucc-5 .MyQDIb {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #836d3c
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #836d3c
+@font-face {
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+@font-face {
+  font-family: 'TucsonSentinel.com-headline-font';
+  src: url(/attachments/CAUqKggAIhBaAjtwAhzpXX6jDpT6fb8AKhQICiIQWgI7cAIc6V1-ow6U-n2_ADCT8KLPP2oWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'TucsonSentinel.com-panel-title-font';
+  src: url(/attachments/CAUqKggAIhBaAjtwAhzpXX6jDpT6fb8AKhQICiIQWgI7cAIc6V1-ow6U-n2_ADDev9TOP2oWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'TucsonSentinel.com-body-font';
+  src: url(/attachments/CAUqKggAIhBaAjtwAhzpXX6jDpT6fb8AKhQICiIQWgI7cAIc6V1-ow6U-n2_ADCll5jPP2oWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #04a8ae
+  color: #26385e
 }
 #ucc-7 .pLZE8d::before {
-  background: #04a8ae
+  background: #26385e
 }
 #ucc-7 .jzzMj {
-  background: #04a8ae
+  background: #26385e
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #04a8ae
+  border-top-color: #26385e
 }
 #ucc-7 .MyQDIb {
-  background: #04a8ae
+  background: #26385e
 }
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: #04a8ae
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #26385e
 }
-.dm7YTc #ucc-7 .vP0hTc {
-  color: #04a8ae
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #26385e
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Washington Times-headline-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Washington Times-body-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #a9091f
+}
+#ucc-9 .pLZE8d::before {
+  background: #a9091f
+}
+#ucc-9 .jzzMj {
+  background: #a9091f
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #a9091f
+}
+#ucc-9 .MyQDIb {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #a9091f
 }
