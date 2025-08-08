@@ -1250,7 +1250,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.Lm0xkrqHkOA.L.B1.O/am=GAgEAAiBgS0wgAEE/d=1/ed=1/rs=ALs0n2MZiM67veupBujI-Lu1Q1u4HlAjTw/m=homeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-dots/_/ss/k=boq-dots.DotsSplashUi_desktop_ms.Lm0xkrqHkOA.L.B1.O/am=GAgEAAiBgS04gAEE/d=1/ed=1/rs=ALs0n2Pi81dfMMjJFCkkc2UIumxWHyRa9w/m=homeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -14329,67 +14329,4 @@ Data-Href: N/A */
 }
 .dm7YTc #i34 {
   background-color: #a596cf
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Barron\27 s-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Barron\27 s-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDepqzJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Barron\27 s-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCf1skBMPfLFTDu1qnJMWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #00234b
-}
-#ucc-5 .pLZE8d::before {
-  background: #00234b
-}
-#ucc-5 .jzzMj {
-  background: #00234b
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #00234b
-}
-#ucc-5 .MyQDIb {
-  background: #00234b
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #00234b
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #00234b
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #04a8ae
-}
-#ucc-9 .pLZE8d::before {
-  background: #04a8ae
-}
-#ucc-9 .jzzMj {
-  background: #04a8ae
-}
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #04a8ae
-}
-#ucc-9 .MyQDIb {
-  background: #04a8ae
-}
-.dm7YTc #ucc-9 .vP0hTc::before {
-  background: #04a8ae
-}
-.dm7YTc #ucc-9 .vP0hTc {
-  color: #04a8ae
 }
