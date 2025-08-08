@@ -14316,18 +14316,18 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i32 {
+#i33 {
   color: #592fd0
 }
-.dm7YTc #i32 {
+.dm7YTc #i33 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i33 {
+#i34 {
   background-color: #592fd0
 }
-.dm7YTc #i33 {
+.dm7YTc #i34 {
   background-color: #a596cf
 }
 /*! Inline stylesheet
@@ -14347,66 +14347,59 @@ Data-Href: N/A */
   src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #07508a
-}
-#ucc-3 .pLZE8d::before {
-  background: #07508a
-}
-#ucc-3 .jzzMj {
-  background: #07508a
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
-}
-#ucc-3 .MyQDIb {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #07508a
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #6d0077
+  color: #07508a
 }
 #ucc-5 .pLZE8d::before {
-  background: #6d0077
+  background: #07508a
 }
 #ucc-5 .jzzMj {
-  background: #6d0077
+  background: #07508a
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #6d0077
+  border-top-color: #07508a
 }
 #ucc-5 .MyQDIb {
-  background: #6d0077
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #6d0077
+  background: #07508a
 }
 body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #6d0077
+  color: #07508a
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Daily Memphian-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Daily Memphian-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-@font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-11 .DaYgZ::after,
+#ucc-11 .pLZE8d::after {
+  color: #e8ab47
+}
+#ucc-11 .pLZE8d::before {
+  background: #e8ab47
+}
+#ucc-11 .jzzMj {
+  background: #e8ab47
+}
+#ucc-11 .QeY9wc:not(.kafKN) {
+  border-top-color: #e8ab47
+}
+#ucc-11 .MyQDIb {
+  background: #e8ab47
+}
+.dm7YTc #ucc-11 .vP0hTc::before {
+  background: #e8ab47
+}
+.dm7YTc #ucc-11 .vP0hTc {
+  color: #e8ab47
 }
