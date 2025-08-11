@@ -157,7 +157,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.G2zbNN0p5JU.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAKhAIAEAACCMEBgAAIIBB4AAMRAgWMDkGAJ5AQAAAACQCAAgEAAAAgNMeMAgAAAAAAAAAAAAAAAAAghQCAAAAAAAAAAAAAAAAAACAgCYBEA/d=1/ed=1/rs=AC0raVIWVZV7LVmGeXY7Lr-jJPCQ8WrZFw/m=landingpageview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.T5K7VRCCWEo.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAKhAIAEAACCMEBgAAIIBB4AAMRAgWMDkGAJ5AQAAAACQCAAgEAAAAgNMeMAgAAAAAAAAAAAAAAAAAghQCAAAAAAAAAAAAAAAAAACAgCYBEA/d=1/ed=1/rs=AC0raVIGWgp6juQ7muVcc_c5pDxRpTnRsg/m=landingpageview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -3829,9 +3829,6 @@ screen and (min-width:769px) and (max-width:1023px) {
   .pVxgue :is(.HhUn9,.bBr1te) {
     color: ButtonText
   }
-  .pVxgue::before {
-    border: var(--gm3-connected-button-group-shared-hcm-outline-width,0) solid transparent
-  }
   .T4ACf:focus-visible :is(.HhUn9,.bBr1te) {
     color: ButtonFace
   }
@@ -3939,6 +3936,9 @@ screen and (min-width:769px) and (max-width:1023px) {
 }
 .OhA4E .pVxgue {
   background-color: var(--gm3-connected-button-group-tonal-unselected-container-color,transparent)
+}
+.OhA4E .pVxgue::before {
+  border: var(--gm3-connected-button-group-tonal-hcm-outline-width,0) solid transparent
 }
 .sO6IOb {
   border: 1px solid #dadce0
