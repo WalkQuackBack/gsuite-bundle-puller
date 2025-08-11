@@ -312,11 +312,13 @@
 - #323232
 - #eeff41
 - rgba(26,115,232,.1)
-- #fef8e5
-- #0f3554
-- #e3d9c6
-- #e1bee7
 - #993915
+- #dbd6ba
+- #313633
+- #c3dde5
+- #1d436f
+- #eeeeee
+- #14947b
 
 ## Colour table
 
@@ -380,7 +382,7 @@
 | rgba(95,99,104,.24) | rgba(95,99,104,.24) | `.gb_B[aria-expanded=true],.gb_B:hover[aria-expanded=true], ` |
 | rgba(232,234,237,.08) | rgba(232,234,237,.08) | `.gb_Mc .gb_jd button:hover svg,.gb_Mc .gb_B:hover, ` |
 | rgba(255,255,255,.12) | rgba(255,255,255,.12) | `.gb_Mc .gb_B[aria-expanded=true],.gb_Mc .gb_B:hover[aria-expanded=true], ` |
-| #3c4043 | #3c4043 | `.gb_ad.gb_bd, , .EY8ABd .VfPpkd-z59Tgd, .EY8ABd .VfPpkd-MlC99b,.EY8ABd .VfPpkd-IqDDtd, .ziykHb .VfPpkd-z59Tgd, .ziykHb .VfPpkd-MlC99b,.ziykHb .VfPpkd-IqDDtd` |
+| #3c4043 | #3c4043 | `.gb_ad.gb_bd, , .EY8ABd .VfPpkd-z59Tgd, .EY8ABd .VfPpkd-MlC99b,.EY8ABd .VfPpkd-IqDDtd, .ziykHb .VfPpkd-z59Tgd, .ziykHb .VfPpkd-MlC99b,.ziykHb .VfPpkd-IqDDtd, .lXkFp .xpBTw .cu_edi_14, .xpBTw.lXkFp .cu_edi_14, .lXkFp .xpBTw .cu_edi_15, .xpBTw.lXkFp .cu_edi_15` |
 | rgba(0,0,0,.14) | rgba(0,0,0,.14) | `.gb_zd, , .zZhnYe, .zZhnYe.qs41qe, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .vOSR6b, .Sx0Nc, .Mh0NNb` |
 | inherit | inherit | `.gb_Fa a,.gb_Qc a, , .gb_bd, .gb_3a, .e0WtYb,.A4B6ub, .Lkmxqf .Yu2jld, .VfPpkd-z59Tgd, .VfPpkd-z59Tgd .VfPpkd-MlC99b, .VfPpkd-z59Tgd .VfPpkd-IqDDtd, .VfPpkd-z59Tgd::before, .VfPpkd-BFbNVe-bF1uUb, .VfPpkd-Bz112c-LgbsSe, .VfPpkd-LgbsSe, .FKF6mc:visited, .J0XlZe, .a9caSc, .HBnAAc, .xq3j6, .X6jHbb, .NAY4Vd, .gJN4Wb .icXnic, .Gg676 .y4FzZb, .mZkNUb::before,.rjZtBb::before, .UgWksb a, .pRW4xf .y4FzZb, .M6tHv, .CSRaGc` |
 | rgba(0,0,0,.87) | rgba(0,0,0,.87) | `.gb_ba, , a.gb_X,span.gb_X, .VfPpkd-MlC99b` |
@@ -506,7 +508,7 @@
 | rgba(255,255,255,0.2) | rgba(255,255,255,0.2) | `:root,.lXkFp, , .CcsDpe, .HaXdpb` |
 | rgba(255,255,255,0.5) | rgba(255,255,255,0.5) | `:root,.lXkFp, , .CcsDpe` |
 | rgba(255,255,255,0.8) | rgba(255,255,255,0.8) | `:root,.lXkFp, , .CcsDpe` |
-| #000000 | #000000 | `:root,.lXkFp, , .MJEpjb.eQX37d, .XTm2Lc, .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7` |
+| #000000 | #000000 | `:root,.lXkFp, , .MJEpjb.eQX37d, .XTm2Lc, .lXkFp .xpBTw .cu_edi_0, .xpBTw.lXkFp .cu_edi_0, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10, .lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11, .lXkFp .xpBTw .cu_edi_12, .xpBTw.lXkFp .cu_edi_12, .lXkFp .xpBTw .cu_edi_14, .xpBTw.lXkFp .cu_edi_14, .lXkFp .xpBTw .cu_edi_16, .xpBTw.lXkFp .cu_edi_16, .lXkFp .xpBTw .cu_edi_17, .xpBTw.lXkFp .cu_edi_17, .lXkFp .xpBTw .cu_edi_18, .xpBTw.lXkFp .cu_edi_18, .lXkFp .xpBTw .cu_edi_19, .xpBTw.lXkFp .cu_edi_19` |
 | rgba(0,0,0,0.1) | rgba(0,0,0,0.1) | `:root,.lXkFp, , .CcsDpe` |
 | rgba(0,0,0,0.2) | rgba(0,0,0,0.2) | `:root,.lXkFp, , .CcsDpe, .YGFwk` |
 | rgba(0,0,0,0.3) | rgba(0,0,0,0.3) | `:root,.lXkFp, ` |
@@ -530,7 +532,7 @@
 | rgb(217,48,37) | rgb(217,48,37) | `.CcsDpe, ` |
 | rgb(234,134,0) | rgb(234,134,0) | `.CcsDpe, ` |
 | rgb(252,201,52) | rgb(252,201,52) | `.CcsDpe, ` |
-| #ffffff | #ffffff, #FFFFFF | `.CcsDpe, , .UzQIof path:nth-child(3), .LarXBf::before, .lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4, .lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10` |
+| #ffffff | #ffffff, #FFFFFF | `.CcsDpe, , .UzQIof path:nth-child(3), .LarXBf::before, .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11, .lXkFp .xpBTw .cu_edi_15, .xpBTw.lXkFp .cu_edi_15, .lXkFp .xpBTw .cu_edi_16, .xpBTw.lXkFp .cu_edi_16, .lXkFp .xpBTw .cu_edi_17, .xpBTw.lXkFp .cu_edi_17, .lXkFp .xpBTw .cu_edi_20, .xpBTw.lXkFp .cu_edi_20, .lXkFp .xpBTw .cu_edi_21, .xpBTw.lXkFp .cu_edi_21` |
 | rgba(255,255,255,0.3) | rgba(255,255,255,0.3) | `.CcsDpe, ` |
 | rgba(255,255,255,0.4) | rgba(255,255,255,0.4) | `.CcsDpe, ` |
 | rgba(255,255,255,0.6) | rgba(255,255,255,0.6) | `.CcsDpe, , .s44ANd` |
@@ -632,8 +634,10 @@
 | #323232 | #323232 | `.Mh0NNb, ` |
 | #eeff41 | #eeff41 | `.x95qze, ` |
 | rgba(26,115,232,.1) | rgba(26,115,232,.1) | `.fe1rZ, ` |
-| #fef8e5 | #fef8e5 | `.lXkFp .xpBTw .cu_edi_0, .xpBTw.lXkFp .cu_edi_0, ` |
-| #0f3554 | #0f3554 | `.lXkFp .xpBTw .cu_edi_1, .xpBTw.lXkFp .cu_edi_1, , .lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2, .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4` |
-| #e3d9c6 | #e3d9c6 | `.lXkFp .xpBTw .cu_edi_1, .xpBTw.lXkFp .cu_edi_1, , .lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2, .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4` |
-| #e1bee7 | #E1BEE7 | `.lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8, ` |
-| #993915 | #993915 | `.lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, ` |
+| #993915 | #993915 | `.m09azd, , .lXkFp .xpBTw .cu_edi_20, .xpBTw.lXkFp .cu_edi_20, .lXkFp .xpBTw .cu_edi_21, .xpBTw.lXkFp .cu_edi_21` |
+| #dbd6ba | #dbd6ba | `.lXkFp .xpBTw .cu_edi_1, .xpBTw.lXkFp .cu_edi_1, ` |
+| #313633 | #313633 | `.lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2, , .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4, .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5` |
+| #c3dde5 | #c3dde5 | `.lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2, , .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4, .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5` |
+| #1d436f | #1d436f | `.lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, , .lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7, .lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9` |
+| #eeeeee | #eeeeee | `.lXkFp .xpBTw .cu_edi_12, .xpBTw.lXkFp .cu_edi_12, , .lXkFp .xpBTw .cu_edi_13, .xpBTw.lXkFp .cu_edi_13, .lXkFp .xpBTw .cu_edi_14, .xpBTw.lXkFp .cu_edi_14, .lXkFp .xpBTw .cu_edi_15, .xpBTw.lXkFp .cu_edi_15` |
+| #14947b | #14947b | `.lXkFp .xpBTw .cu_edi_16, .xpBTw.lXkFp .cu_edi_16, , .lXkFp .xpBTw .cu_edi_17, .xpBTw.lXkFp .cu_edi_17, .lXkFp .xpBTw .cu_edi_18, .xpBTw.lXkFp .cu_edi_18` |
