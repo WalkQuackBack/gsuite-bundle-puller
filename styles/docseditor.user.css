@@ -9,7 +9,7 @@
 ==/UserStyle== */
 @-moz-document url-prefix("https://docs.google.com/document/d/") {
   /**** Generated code START ****/
-  /*! External stylesheet "/static/document/client/css/331530196-KixCss_ltr.css" */
+  /*! External stylesheet "/static/document/client/css/1238135261-KixCss_ltr.css" */
 .goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight) {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
@@ -1044,8 +1044,58 @@
   background-color: var(--dt-inverse-surface,#202124);
   color: var(--dt-inverse-on-surface,#dadce0)
 }
+.kixAudioSliderDurationContainer {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+.kixAudioSliderCurrentTime {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.kixAudioSliderMaxTime,
+.kixAudioSliderTimeSeparator {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.kixAudioSliderStreamingShimmerPlaceholderAnimated {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .kixAudioSliderStreamingShimmerPlaceholderAnimated {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
 .kixAiRefinementsFirstTriggerToastLearnMoreControl {
   color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.aiContextualTextRefineOnPasteBubbleContainerContextualRefineButton:hover {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .aiContextualTextRefineOnPasteBubbleContainerContextualRefineButton:hover {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
+.aiContextualTextRefineOnPasteBubbleContainerContextualRefineButton:focus {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .aiContextualTextRefineOnPasteBubbleContainerContextualRefineButton:focus {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
+.aiContextualTextRefineOnPasteBubbleContainerGenericRefineButton:hover {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .aiContextualTextRefineOnPasteBubbleContainerGenericRefineButton:hover {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
+}
+.aiContextualTextRefineOnPasteBubbleContainerGenericRefineButton:focus {
+  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+}
+@media not (prefers-reduced-motion) {
+  .aiContextualTextRefineOnPasteBubbleContainerGenericRefineButton:focus {
+    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
+  }
 }
 .docs-link-bubble-card-component.docs-link-bubble-sidekick-prompt-button-card-component {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
@@ -1114,24 +1164,6 @@
 .picker-urlview-close-icon svg {
   fill: var(--dt-on-background,#3c4043)
 }
-.appsElementsMediaPlaybackAudioSliderDurationContainer {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-.appsElementsMediaPlaybackAudioSliderCurrentTime {
-  color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsMediaPlaybackAudioSliderMaxTime,
-.appsElementsMediaPlaybackAudioSliderTimeSeparator {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderAnimated {
-  background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
-}
-@media not (prefers-reduced-motion) {
-  .appsElementsMediaPlaybackAudioSliderStreamingShimmerPlaceholderAnimated {
-    background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
-  }
-}
 .javascriptMaterialdesignGm3WizElevation-elevation__overlay {
   background-color: var(--gm3-elevation-surface-tint-layer-color,transparent)
 }
@@ -1156,114 +1188,114 @@
 .javascriptMaterialdesignGm3WizFocusRingInward-focusringinward {
   border-color: var(--gm3-focus-ring-inward-color,var(--gm3-sys-color-secondary,#00639b))
 }
-.javascriptMaterialdesignGm3WizList-divider {
+.javascriptMaterialdesignGm3WizListShared-divider {
   background-color: var(--gm3-list-divider-color,var(--gm3-sys-color-surface-variant,#e1e3e1))
 }
-.javascriptMaterialdesignGm3WizList-list-item {
+.javascriptMaterialdesignGm3WizListShared-list-item {
   background-color: var(--gm3-list-list-item-container-color,var(--gm3-sys-color-surface,#fff))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected {
   background-color: var(--gm3-list-list-item-selected-container-color,var(--gm3-sys-color-secondary-container,#c2e7ff))
 }
-.javascriptMaterialdesignGm3WizList-list-item__content {
+.javascriptMaterialdesignGm3WizListShared-list-item__content {
   color: var(--gm3-list-list-item-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--gm3-list-list-item-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item:focus .javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item:focus .javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--gm3-list-list-item-focus-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item:hover .javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item:hover .javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--gm3-list-list-item-hover-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected .javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected .javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--upgradeable-gm3-list-list-item-selected-label-text-color,var(--gm3-list-list-item-selected-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected:focus .javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected:focus .javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--upgradeable-gm3-list-list-item-selected-focus-label-text-color,var(--gm3-list-list-item-selected-focus-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected:hover .javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected:hover .javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--upgradeable-gm3-list-list-item-selected-hover-label-text-color,var(--gm3-list-list-item-selected-hover-label-text-color,var(--gm3-sys-color-on-secondary-container,#004a77)))
 }
-.javascriptMaterialdesignGm3WizList-list-item--disabled .javascriptMaterialdesignGm3WizList-list-item__primary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--disabled .javascriptMaterialdesignGm3WizListShared-list-item__primary-text {
   color: var(--gm3-list-list-item-disabled-label-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item__secondary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item__secondary-text {
   color: var(--gm3-list-list-item-supporting-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected .javascriptMaterialdesignGm3WizList-list-item__secondary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected .javascriptMaterialdesignGm3WizListShared-list-item__secondary-text {
   color: var(--gm3-list-list-item-selected-supporting-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item--disabled .javascriptMaterialdesignGm3WizList-list-item__secondary-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--disabled .javascriptMaterialdesignGm3WizListShared-list-item__secondary-text {
   color: var(--gm3-list-list-item-disabled-supporting-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item__overline-text {
+.javascriptMaterialdesignGm3WizListShared-list-item__overline-text {
   color: var(--gm3-list-list-item-overline-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected .javascriptMaterialdesignGm3WizList-list-item__overline-text {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected .javascriptMaterialdesignGm3WizListShared-list-item__overline-text {
   color: var(--gm3-list-list-item-selected-overline-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item__start:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item__start:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-leading-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
 @supports not selector(:has(a)) {
-  .javascriptMaterialdesignGm3WizList-list-item__start .javascriptMaterialdesignGm3WizList-list-item__icon {
+  .javascriptMaterialdesignGm3WizListShared-list-item__start .javascriptMaterialdesignGm3WizListShared-list-item__icon {
     color: var(--gm3-list-list-item-leading-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
   }
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected .javascriptMaterialdesignGm3WizList-list-item__start:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected .javascriptMaterialdesignGm3WizListShared-list-item__start:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-selected-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
 @supports not selector(:has(a)) {
-  .javascriptMaterialdesignGm3WizList-list-item--selected .javascriptMaterialdesignGm3WizList-list-item__start .javascriptMaterialdesignGm3WizList-list-item__icon {
+  .javascriptMaterialdesignGm3WizListShared-list-item--selected .javascriptMaterialdesignGm3WizListShared-list-item__start .javascriptMaterialdesignGm3WizListShared-list-item__icon {
     color: var(--gm3-list-list-item-selected-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
   }
 }
-.javascriptMaterialdesignGm3WizList-list-item:hover .javascriptMaterialdesignGm3WizList-list-item__start:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item:hover .javascriptMaterialdesignGm3WizListShared-list-item__start:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-hover-leading-icon-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
 @supports not selector(:has(a)) {
-  .javascriptMaterialdesignGm3WizList-list-item:hover .javascriptMaterialdesignGm3WizList-list-item__start .javascriptMaterialdesignGm3WizList-list-item__icon {
+  .javascriptMaterialdesignGm3WizListShared-list-item:hover .javascriptMaterialdesignGm3WizListShared-list-item__start .javascriptMaterialdesignGm3WizListShared-list-item__icon {
     color: var(--gm3-list-list-item-hover-leading-icon-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
   }
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected:hover .javascriptMaterialdesignGm3WizList-list-item__start:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected:hover .javascriptMaterialdesignGm3WizListShared-list-item__start:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--upgradeable-gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
 }
 @supports not selector(:has(a)) {
-  .javascriptMaterialdesignGm3WizList-list-item--selected:hover .javascriptMaterialdesignGm3WizList-list-item__start .javascriptMaterialdesignGm3WizList-list-item__icon {
+  .javascriptMaterialdesignGm3WizListShared-list-item--selected:hover .javascriptMaterialdesignGm3WizListShared-list-item__start .javascriptMaterialdesignGm3WizListShared-list-item__icon {
     color: var(--upgradeable-gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-list-list-item-selected-hover-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
   }
 }
-.javascriptMaterialdesignGm3WizList-list-item--disabled .javascriptMaterialdesignGm3WizList-list-item__start:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item--disabled .javascriptMaterialdesignGm3WizListShared-list-item__start:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-disabled-leading-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item__start:has(.javascriptMaterialdesignGm3WizList-list-item__avatar) img {
+.javascriptMaterialdesignGm3WizListShared-list-item__start:has(.javascriptMaterialdesignGm3WizListShared-list-item__avatar) img {
   background-color: var(--gm3-list-list-item-leading-avatar-color,var(--gm3-sys-color-primary-container,#d3e3fd))
 }
-.javascriptMaterialdesignGm3WizList-list-item__end:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item__end:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-trailing-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.javascriptMaterialdesignGm3WizList-list-item:hover .javascriptMaterialdesignGm3WizList-list-item__end:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item:hover .javascriptMaterialdesignGm3WizListShared-list-item__end:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-hover-trailing-icon-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.javascriptMaterialdesignGm3WizList-list-item--disabled .javascriptMaterialdesignGm3WizList-list-item__end:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item--disabled .javascriptMaterialdesignGm3WizListShared-list-item__end:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--gm3-list-list-item-disabled-trailing-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected .javascriptMaterialdesignGm3WizList-list-item__end:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected .javascriptMaterialdesignGm3WizListShared-list-item__end:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--upgradeable-gm3-list-list-item-selected-trailing-icon-color,var(--gm3-list-list-item-selected-trailing-icon-color,var(--gm3-sys-color-primary,#0b57d0)))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected:hover .javascriptMaterialdesignGm3WizList-list-item__end:has(.javascriptMaterialdesignGm3WizList-list-item__icon) {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected:hover .javascriptMaterialdesignGm3WizListShared-list-item__end:has(.javascriptMaterialdesignGm3WizListShared-list-item__icon) {
   color: var(--upgradeable-gm3-list-list-item-selected-hover-trailing-icon-color,var(--gm3-list-list-item-selected-hover-trailing-icon-color,var(--gm3-sys-color-on-surface,#1f1f1f)))
 }
-.javascriptMaterialdesignGm3WizList-list-item--with-trailing-meta .javascriptMaterialdesignGm3WizList-list-item__end {
+.javascriptMaterialdesignGm3WizListShared-list-item--with-trailing-meta .javascriptMaterialdesignGm3WizListShared-list-item__end {
   color: var(--gm3-list-list-item-trailing-supporting-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.javascriptMaterialdesignGm3WizList-list-item--selected.javascriptMaterialdesignGm3WizList-list-item--with-trailing-meta .javascriptMaterialdesignGm3WizList-list-item__end {
+.javascriptMaterialdesignGm3WizListShared-list-item--selected.javascriptMaterialdesignGm3WizListShared-list-item--with-trailing-meta .javascriptMaterialdesignGm3WizListShared-list-item__end {
   color: var(--gm3-list-list-item-selected-trailing-supporting-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
-.javascriptMaterialdesignGm3WizList-list-item--disabled.javascriptMaterialdesignGm3WizList-list-item--with-trailing-meta .javascriptMaterialdesignGm3WizList-list-item__end {
+.javascriptMaterialdesignGm3WizListShared-list-item--disabled.javascriptMaterialdesignGm3WizListShared-list-item--with-trailing-meta .javascriptMaterialdesignGm3WizListShared-list-item__end {
   color: var(--gm3-list-list-item-disabled-trailing-supporting-text-color,var(--gm3-sys-color-on-surface,#1f1f1f))
 }
 .javascriptMaterialdesignGm3WizTooltipPlain-tooltip--plain .javascriptMaterialdesignGm3WizTooltipPlain-tooltip__surface {
@@ -2901,42 +2933,6 @@
 .docsCowWizSidebarsSharedSidebarPrimaryLabel {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
-  color: var(--gm3-progress-button-filled-label-text-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:hover .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
-  color: var(--gm3-progress-button-filled-hover-label-text-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:focus-visible .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
-  color: var(--gm3-progress-button-filled-focus-label-text-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:active .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
-  color: var(--gm3-progress-button-filled-pressed-label-text-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
-  color: var(--gm3-progress-button-filled-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
-  color: var(--gm3-progress-button-filled-with-icon-icon-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:hover .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
-  color: var(--gm3-progress-button-filled-with-icon-hover-icon-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:focus-visible .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
-  color: var(--gm3-progress-button-filled-with-icon-focus-icon-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:active .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
-  color: var(--gm3-progress-button-filled-with-icon-pressed-icon-color,var(--gm3-sys-color-on-primary,#fff))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
-  color: var(--gm3-progress-button-filled-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button {
-  background-color: var(--gm3-progress-button-filled-container-color,var(--gm3-sys-color-primary,#0b57d0))
-}
-.javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled {
-  background-color: var(--gm3-progress-button-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
-}
 .kixImageOptionsSidebarCheckboxLabel {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
@@ -3500,6 +3496,42 @@ screen and (forced-colors:active) {
   color: var(--ae-badge-text-color,#174ea6);
   background-color: var(--ae-badge-container-color,#e8f0fe)
 }
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
+  color: var(--gm3-progress-button-filled-label-text-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:hover .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
+  color: var(--gm3-progress-button-filled-hover-label-text-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:focus-visible .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
+  color: var(--gm3-progress-button-filled-focus-label-text-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:active .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
+  color: var(--gm3-progress-button-filled-pressed-label-text-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled .javascriptMaterialdesignGm3WizButtonProgressFilled-button__label {
+  color: var(--gm3-progress-button-filled-disabled-label-text-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
+  color: var(--gm3-progress-button-filled-with-icon-icon-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:hover .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
+  color: var(--gm3-progress-button-filled-with-icon-hover-icon-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:focus-visible .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
+  color: var(--gm3-progress-button-filled-with-icon-focus-icon-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:active .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
+  color: var(--gm3-progress-button-filled-with-icon-pressed-icon-color,var(--gm3-sys-color-on-primary,#fff))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled .javascriptMaterialdesignGm3WizButtonProgressFilled-button__icon-slot {
+  color: var(--gm3-progress-button-filled-with-icon-disabled-icon-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.38))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button {
+  background-color: var(--gm3-progress-button-filled-container-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.javascriptMaterialdesignGm3WizButtonProgressFilled-button:disabled {
+  background-color: var(--gm3-progress-button-filled-disabled-container-color,rgba(var(--gm3-sys-color-on-surface-rgb,31,31,31),.12))
+}
 .fatalErrorDialogTextAreaContainer .fatalErrorDialogTextAreaContainer .fatalErrorDialogTextArea {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
@@ -3604,6 +3636,12 @@ screen and (forced-colors:active) {
 }
 .maestroAddonSidebarCardSummary {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsDocsOfflineOptInPromoStylesLearnMoreLink {
+  color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsDocsOfflineOptInPromoStylesLearnMoreLink:active {
+  color: var(--gm3-sys-color-primary,#0b57d0)
 }
 .appsDocsRevisionsWizSidebarBodySmallOnSurfaceVariant {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
@@ -3788,6 +3826,10 @@ screen and (forced-colors:active) {
 }
 .appsElementsGm3WizSnackbar-snackbar__label {
   color: var(--gm3-snackbar-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
+}
+.appsDocsUiWizStaticBannerRoot {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
+  color: var(--gm3-sys-color-on-primary-container,#0842a0)
 }
 .thumbNailControlUnchecked {
   border: 1px solid var(--gm3-sys-color-outline,#747775)
@@ -3996,6 +4038,12 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationBannerContentTertiary:link {
   color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
 }
+.appsElementsWorkspaceRecommendationBannerContentNeutralOnSurface:link {
+  color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
+}
+.appsElementsWorkspaceRecommendationBannerContentOnSurfaceBackground {
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
 .appsElementsWorkspaceRecommendationBannerContentG1BackgroundWarning {
   background: var(--gm3-sys-color-surface,#fff);
   border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
@@ -4042,6 +4090,18 @@ screen and (forced-colors:active) {
 }
 .appsElementsWorkspaceRecommendationContentTableHead {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsWorkspaceRecommendationDynamicStatisticContainer {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
+.appsElementsWorkspaceRecommendationDynamicStatisticImage {
+  background-color: var(--gm3-sys-color-surface,#fff)
+}
+.appsElementsWorkspaceRecommendationDynamicStatisticLeadingStatistic {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsWorkspaceRecommendationDynamicStatisticDescription {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .appsElementsWorkspaceRecommendationMeterContentOuterBar {
   background: var(--gm3-sys-color-surface-container-high,#e9e8e8)
@@ -4289,26 +4349,26 @@ screen and (forced-colors:active) {
 .appsElementsSidekickUiKitScrim:not([data-scrim=hidden]) {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
-.appsElementsSidekickAiOverviewsCardContent {
+.appsElementsSidekickAiOverviewsModuleContent {
   background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
-.appsElementsSidekickAiOverviewsCardContent table {
+.appsElementsSidekickAiOverviewsModuleContent table {
   background-color: var(--gm3-sys-color-surface,#fff);
   border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
-.appsElementsSidekickAiOverviewsCardContent table td,
-.appsElementsSidekickAiOverviewsCardContent table th {
+.appsElementsSidekickAiOverviewsModuleContent table td,
+.appsElementsSidekickAiOverviewsModuleContent table th {
   border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
-.appsElementsSidekickAiOverviewsCardContent a:any-link:not([class]) {
+.appsElementsSidekickAiOverviewsModuleContent a:any-link:not([class]) {
   color: var(--gm3-sys-color-primary,#0b57d0)
 }
-.appsElementsSidekickAiOverviewsCardContent a:active:not([class]),
-.appsElementsSidekickAiOverviewsCardContent a:hover:not([class]),
-.appsElementsSidekickAiOverviewsCardContent a:visited:not([class]) {
+.appsElementsSidekickAiOverviewsModuleContent a:active:not([class]),
+.appsElementsSidekickAiOverviewsModuleContent a:hover:not([class]),
+.appsElementsSidekickAiOverviewsModuleContent a:visited:not([class]) {
   color: var(--gm3-sys-color-primary,#0b57d0)
 }
-.appsElementsSidekickAiOverviewsCardBody {
+.appsElementsSidekickAiOverviewsModuleBody {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .appsElementsSidekickConversationHistoryConversationListTitle {
