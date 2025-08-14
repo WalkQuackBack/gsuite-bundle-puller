@@ -130,8 +130,6 @@
 - rgba(38,60,64,.262745098)
 - #ccc
 - #fafad2
-- #c2e7ff
-- #004a77
 - rgba(255,255,255,.38)
 - rgba(153,153,153,.4)
 - #0043b2
@@ -203,6 +201,8 @@
 - #00639b
 - #001d35
 - #e1e3e1
+- #c2e7ff
+- #004a77
 - #303030
 - #f2f2f2
 - #b3261e
@@ -370,8 +370,6 @@
 | rgba(38,60,64,.262745098) | rgba(38,60,64,.262745098) | `.ef1twd, , .ZJGYz` |
 | #ccc | #ccc | `.qQqGte, , .aPy7ab, x:-o-prefocus,div.gb_fd, .gb_la, .vk-box.vk-sf-ie, .vk-btn.vk-sf-s, .ita-kd-dropdown-menu.ita-kd-ie` |
 | #fafad2 | #fafad2 | `.aPy7ab, ` |
-| #c2e7ff | #c2e7ff | `.uxUWPd, , .aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd, .Dc9IDc, .wkLVUc-LgbsSe` |
-| #004a77 | #004a77 | `.uxUWPd, , .aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd .aqdrmf-rymPhb-fpDzbe-fmcmS, .aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd:focus .aqdrmf-rymPhb-fpDzbe-fmcmS, .aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd:hover .aqdrmf-rymPhb-fpDzbe-fmcmS, .wkLVUc-LgbsSe, .wkLVUc-vQzf8d, .wkLVUc-LgbsSe:hover .wkLVUc-vQzf8d, .wkLVUc-LgbsSe:focus-visible .wkLVUc-vQzf8d, .wkLVUc-LgbsSe:active .wkLVUc-vQzf8d, .wkLVUc-kBDsod-Rtc0Jf, .wkLVUc-LgbsSe:hover .wkLVUc-kBDsod-Rtc0Jf, .wkLVUc-LgbsSe:focus-visible .wkLVUc-kBDsod-Rtc0Jf, .wkLVUc-LgbsSe:active .wkLVUc-kBDsod-Rtc0Jf` |
 | rgba(255,255,255,.38) | rgba(255,255,255,.38) | `.rNYWSd:disabled, ` |
 | rgba(153,153,153,.4) | rgba(153,153,153,.4) | `a.gb_Qa:active, ` |
 | #0043b2 | #0043b2 | `a.gb_Ra:active, ` |
@@ -443,6 +441,8 @@
 | #00639b | #00639b | `.OiePBf-zPjgPe, , from, to, .KGC9Kd-MPu53c, .GhEnC-GCYh9b, .frX3lc-vlkzWd, .aqdrmf-rymPhb-ibnC6b:focus-visible .aqdrmf-rymPhb-sNKcce,.aqdrmf-rymPhb-ibnC6b-OWXEXe-AHmuwe-ZiwkRe .aqdrmf-rymPhb-sNKcce, .wkLVUc-LgbsSe, .mUIrbf-LgbsSe, .pYTkkf-Bz112c-LgbsSe, .uW2Fw-k2Wrsb-Bz112c` |
 | #001d35 | #001d35 | `.pa1Qpd, , .O68mGe-xl07Ob, .ONv2xf` |
 | #e1e3e1 | #e1e3e1 | `.aqdrmf-clz4Ic, , .O68mGe-xl07Ob-ibnC6b-OWXEXe-gk6SMd, .O68mGe-xl07Ob` |
+| #c2e7ff | #c2e7ff | `.aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd, , .Dc9IDc, .wkLVUc-LgbsSe` |
+| #004a77 | #004a77 | `.aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd .aqdrmf-rymPhb-fpDzbe-fmcmS, , .aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd:focus .aqdrmf-rymPhb-fpDzbe-fmcmS, .aqdrmf-rymPhb-ibnC6b-OWXEXe-gk6SMd:hover .aqdrmf-rymPhb-fpDzbe-fmcmS, .wkLVUc-LgbsSe, .wkLVUc-vQzf8d, .wkLVUc-LgbsSe:hover .wkLVUc-vQzf8d, .wkLVUc-LgbsSe:focus-visible .wkLVUc-vQzf8d, .wkLVUc-LgbsSe:active .wkLVUc-vQzf8d, .wkLVUc-kBDsod-Rtc0Jf, .wkLVUc-LgbsSe:hover .wkLVUc-kBDsod-Rtc0Jf, .wkLVUc-LgbsSe:focus-visible .wkLVUc-kBDsod-Rtc0Jf, .wkLVUc-LgbsSe:active .wkLVUc-kBDsod-Rtc0Jf` |
 | #303030 | #303030 | `.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd, ` |
 | #f2f2f2 | #f2f2f2 | `.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd, ` |
 | #b3261e | #b3261e | `.JIsjjd-Btuy5e, , .JIsjjd-Btuy5e-OWXEXe-hJDwNd` |
