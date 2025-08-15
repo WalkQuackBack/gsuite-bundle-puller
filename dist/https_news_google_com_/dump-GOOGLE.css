@@ -14328,163 +14328,17 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i31 {
+#i33 {
   color: #592fd0
 }
-.dm7YTc #i31 {
+.dm7YTc #i33 {
   color: #a596cf
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#i32 {
+#i34 {
   background-color: #592fd0
 }
-.dm7YTc #i32 {
+.dm7YTc #i34 {
   background-color: #a596cf
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Investor\27 s Business Daily-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #07508a
-}
-#ucc-3 .pLZE8d::before {
-  background: #07508a
-}
-#ucc-3 .jzzMj {
-  background: #07508a
-}
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
-}
-#ucc-3 .MyQDIb {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #07508a
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: MarketWatch-headline-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: MarketWatch-panel-title-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTDs8Li9MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: MarketWatch-body-font;
-  src: url(/attachments/CAUqDwgAKgcICjCO6MkBMNfMFTCqleW5MWoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #087c08
-}
-#ucc-5 .pLZE8d::before {
-  background: #087c08
-}
-#ucc-5 .jzzMj {
-  background: #087c08
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #087c08
-}
-#ucc-5 .MyQDIb {
-  background: #087c08
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #087c08
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #087c08
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #a9091f
-}
-#ucc-7 .pLZE8d::before {
-  background: #a9091f
-}
-#ucc-7 .jzzMj {
-  background: #a9091f
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
-}
-#ucc-7 .MyQDIb {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #a9091f
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Daily Memphian-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Daily Memphian-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #e8ab47
-}
-#ucc-9 .pLZE8d::before {
-  background: #e8ab47
-}
-#ucc-9 .jzzMj {
-  background: #e8ab47
-}
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #e8ab47
-}
-#ucc-9 .MyQDIb {
-  background: #e8ab47
-}
-.dm7YTc #ucc-9 .vP0hTc::before {
-  background: #e8ab47
-}
-.dm7YTc #ucc-9 .vP0hTc {
-  color: #e8ab47
 }
