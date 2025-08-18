@@ -14345,18 +14345,8 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Associated Press-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Associated Press-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDCP2PiIMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Associated Press-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjCE7s4BMOH0KDDsgdeKMmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 /*! Inline stylesheet
@@ -14376,59 +14366,25 @@ Data-Href: N/A */
   src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #ffcf44
-}
-#ucc-5 .pLZE8d::before {
-  background: #ffcf44
-}
-#ucc-5 .jzzMj {
-  background: #ffcf44
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
-}
-#ucc-5 .MyQDIb {
-  background: #ffcf44
-}
-.dm7YTc #ucc-5 .vP0hTc::before {
-  background: #ffcf44
-}
-.dm7YTc #ucc-5 .vP0hTc {
-  color: #ffcf44
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
 #ucc-7 .DaYgZ::after,
 #ucc-7 .pLZE8d::after {
-  color: #a9091f
+  color: #ffcf44
 }
 #ucc-7 .pLZE8d::before {
-  background: #a9091f
+  background: #ffcf44
 }
 #ucc-7 .jzzMj {
-  background: #a9091f
+  background: #ffcf44
 }
 #ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
+  border-top-color: #ffcf44
 }
 #ucc-7 .MyQDIb {
-  background: #a9091f
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #a9091f
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ffcf44
 }
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #a9091f
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ffcf44
 }
