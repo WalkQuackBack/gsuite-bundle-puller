@@ -9,7 +9,7 @@
 ==/UserStyle== */
 @-moz-document url-prefix("https://docs.google.com/document/d/") {
   /**** Generated code START ****/
-  /*! External stylesheet "/static/document/client/css/1238135261-KixCss_ltr.css" */
+  /*! External stylesheet "/static/document/client/css/278754698-KixCss_ltr.css" */
 .goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight) {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
@@ -1096,6 +1096,9 @@
   .aiContextualTextRefineOnPasteBubbleContainerGenericRefineButton:focus {
     background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
   }
+}
+.writingStyleMenuButtonViewLabel {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .docs-link-bubble-card-component.docs-link-bubble-sidekick-prompt-button-card-component {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
@@ -3827,9 +3830,16 @@ screen and (forced-colors:active) {
 .appsElementsGm3WizSnackbar-snackbar__label {
   color: var(--gm3-snackbar-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
 }
-.appsDocsUiWizStaticBannerRoot {
+.appsElementsGm3WizSnackbar-snackbar__label a {
+  color: var(--gm3-snackbar-action-label-text-color,var(--gm3-sys-color-inverse-primary,#a8c7fa))
+}
+.appsDocsUiWizStaticBannerInfoBanner {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
   color: var(--gm3-sys-color-on-primary-container,#0842a0)
+}
+.appsDocsUiWizStaticBannerWarningBanner {
+  background-color: var(--ws-sys-color-extended-yellow-tonal,#fff2b4);
+  color: var(--ws-sys-color-extended-on-yellow-tonal,#6d3a01)
 }
 .thumbNailControlUnchecked {
   border: 1px solid var(--gm3-sys-color-outline,#747775)
@@ -4136,6 +4146,15 @@ screen and (forced-colors:active) {
 }
 .appsElementsWorkspaceRecommendationValuePropGroupValuePropIcon {
   color: var(--gm3-sys-color-primary,#0b57d0)
+}
+.appsElementsRichTextScoperScoperMenuChipSelected {
+  background-color: var(--gm3-sys-color-primary-container,#d3e3fd);
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsRichTextScoperScoperMenuChipUnselected {
+  background-color: var(--gm3-sys-color-surface,#fff);
+  color: var(--gm3-sys-color-outline,#747775);
+  border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
 }
 .appsElementsRichTextScoperScoperMenu {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
