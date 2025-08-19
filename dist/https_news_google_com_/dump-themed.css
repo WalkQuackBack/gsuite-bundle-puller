@@ -14344,3 +14344,105 @@ Data-Href: N/A */
 .dm7YTc #i34 {
   background-color: #a596cf
 }
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rochester Post Bulletin-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw9O2vrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rochester Post Bulletin-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rochester Post Bulletin-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #007db3
+}
+#ucc-3 .pLZE8d::before {
+  background: #007db3
+}
+#ucc-3 .jzzMj {
+  background: #007db3
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #007db3
+}
+#ucc-3 .MyQDIb {
+  background: #007db3
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #007db3
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #007db3
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #04a8ae
+}
+#ucc-5 .pLZE8d::before {
+  background: #04a8ae
+}
+#ucc-5 .jzzMj {
+  background: #04a8ae
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #04a8ae
+}
+#ucc-5 .MyQDIb {
+  background: #04a8ae
+}
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: #04a8ae
+}
+.dm7YTc #ucc-5 .vP0hTc {
+  color: #04a8ae
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Bemidji Pioneer-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDI0qYLMLDdvgMwkO-j_D1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bemidji Pioneer-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDI0qYLMLDdvgMw57b9rExqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Bemidji Pioneer-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDI0qYLMLDdvgMw57b9rExqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #053062
+}
+#ucc-7 .pLZE8d::before {
+  background: #053062
+}
+#ucc-7 .jzzMj {
+  background: #053062
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #053062
+}
+#ucc-7 .MyQDIb {
+  background: #053062
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
+  background: #053062
+}
+body:not(.dm7YTc) #ucc-7 .vP0hTc {
+  color: #053062
+}
