@@ -14346,88 +14346,76 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-3 .DaYgZ::after,
-#ucc-3 .pLZE8d::after {
-  color: #836d3c
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-3 .pLZE8d::before {
-  background: #836d3c
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-3 .jzzMj {
-  background: #836d3c
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
-#ucc-3 .QeY9wc:not(.kafKN) {
-  border-top-color: #836d3c
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #ffd504
 }
-#ucc-3 .MyQDIb {
-  background: #836d3c
+#ucc-7 .pLZE8d::before {
+  background: #ffd504
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
-  background: #836d3c
+#ucc-7 .jzzMj {
+  background: #ffd504
 }
-body:not(.dm7YTc) #ucc-3 .vP0hTc {
-  color: #836d3c
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #ffd504
+}
+#ucc-7 .MyQDIb {
+  background: #ffd504
+}
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ffd504
+}
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ffd504
 }
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Lookout Santa Cruz-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjCr96ALMMOBuQMw_5rZx0pqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Daily Memphian-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Lookout Santa Cruz-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjCr96ALMMOBuQMwi9OAx0pqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Daily Memphian-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDQwJULMJGlqwMwstfVsktqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-@font-face {
-  font-family: 'Lookout Santa Cruz-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjCr96ALMMOBuQMwi9OAx0pqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #59c1c1
-}
-#ucc-5 .pLZE8d::before {
-  background: #59c1c1
-}
-#ucc-5 .jzzMj {
-  background: #59c1c1
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #59c1c1
-}
-#ucc-5 .MyQDIb {
-  background: #59c1c1
-}
-.dm7YTc #ucc-5 .vP0hTc::before {
-  background: #59c1c1
-}
-.dm7YTc #ucc-5 .vP0hTc {
-  color: #59c1c1
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 #ucc-9 .DaYgZ::after,
 #ucc-9 .pLZE8d::after {
-  color: #1b66b1
+  color: #e8ab47
 }
 #ucc-9 .pLZE8d::before {
-  background: #1b66b1
+  background: #e8ab47
 }
 #ucc-9 .jzzMj {
-  background: #1b66b1
+  background: #e8ab47
 }
 #ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #1b66b1
+  border-top-color: #e8ab47
 }
 #ucc-9 .MyQDIb {
-  background: #1b66b1
+  background: #e8ab47
 }
-body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
-  background: #1b66b1
+.dm7YTc #ucc-9 .vP0hTc::before {
+  background: #e8ab47
 }
-body:not(.dm7YTc) #ucc-9 .vP0hTc {
-  color: #1b66b1
+.dm7YTc #ucc-9 .vP0hTc {
+  color: #e8ab47
 }
