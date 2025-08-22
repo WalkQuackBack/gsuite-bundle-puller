@@ -1,5 +1,5 @@
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.RkBhuXEL6gc.L.B1.O/am=i45mwPL7gMAkwIB_wX_QFgAQ/d=1/ed=1/rs=AB1caFXB3LxwPIvbZFQVnMu7-E2ZIJ-RJg/m=appshomeview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/boq-play/_/ss/k=boq-play.PlayStoreUi.Trl2Sq-fFhk.L.B1.O/am=i45mwOL3AYFJgAH_ot-gLQAg/d=1/ed=1/rs=AB1caFUDAFHaPQOr8-Gc-jOCipPlIf7HZw/m=appshomeview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -8784,7 +8784,7 @@ Data-Href: N/A */
 @keyframes quantumWizPaperInputAddUnderline {
 }
 .llhEMd {
-  background-color: rgba(0,0,0,.502)
+  background-color: rgba(0,0,0,.5)
 }
 .g3VIld {
   background-color: #fff;
@@ -8805,7 +8805,7 @@ Data-Href: N/A */
 }
 .TNczib .Wtw8H > .VTBa7b,
 .TNczib .kHssdc > .Vwe4Vb {
-  background-image: radial-gradient(circle farthest-side,rgba(255,255,255,.3),rgba(255,255,255,.3) 80%,rgba(255,255,255,0) 100%)
+  background-image: radial-gradient(circle farthest-side,rgba(255,255,255,.3),rgba(255,255,255,.3) 80%,transparent 100%)
 }
 .TNczib .Wtw8H.RDPZE,
 .TNczib .kHssdc.RDPZE {
