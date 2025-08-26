@@ -311,11 +311,10 @@
 - #323232
 - #eeff41
 - rgba(26,115,232,.1)
-- #fffdce
-- #efefef
-- #ededed
-- #5d4037
-- #fef6e0
+- #d80171
+- #0c8a86
+- #fbc02d
+- #fffde7
 
 ## Colour table
 
@@ -344,7 +343,7 @@
 | rgba(60,64,67,.3) | rgba(60,64,67,.3) | `.gb_Ia, , .gb_Ua.gb_wd:hover, .gb_Ua.gb_wd:focus,.gb_Ua.gb_wd:hover:focus, .gb_Ua.gb_wd:active, #gb a.gb_Ua.gb_H.gb_wd:active, .gb_Wa:focus-visible,.gb_Wa:focus, .nCP5yc:hover, .nCP5yc:active, .b9hyVd, .b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus, .b9hyVd:hover, .b9hyVd:not(:disabled):active, .Kjnxrf:hover, .Kjnxrf:not(:disabled):active` |
 | rgba(0,0,0,.15) | rgba(0,0,0,.15) | `.gb_Ja.gb_Ia, , .gb_Ua:hover, .gb_Ua:active, #gb a.gb_Ua.gb_H.gb_wd:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .gb_P:hover,.gb_P:focus, .gb_P:active, .gb_ka .gb_P:hover,.gb_1 .gb_P:hover,.gb_ka .gb_P:focus,.gb_1 .gb_P:focus` |
 | rgba(0,0,0,.3) | rgba(0,0,0,.3) | `.gb_Ja.gb_Ia, , #gb a.gb_Ua.gb_H.gb_wd:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .eGFS9c, .lTv8zc::before, .QqVQEe .cCNe0, .OBamUe::before, .ryaUXc, .oz4Ese .AugH6d::before, .GBRFk, .jheX3e .R2Vmi::before` |
-| #4285f4 | #4285f4, #4285F4 | `a.gb_Qa, , a.gb_Ra, .gb_Ua, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .OabDMe, .uWlRce, .KYZn9b, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7` |
+| #4285f4 | #4285f4 | `a.gb_Qa, , a.gb_Ra, .gb_Ua, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .OabDMe, .uWlRce, .KYZn9b` |
 | rgba(0,0,0,.12) | rgba(0,0,0,.12) | `a.gb_Qa:hover::after,a.gb_Qa:focus::after, , .gb_Bd, .zZhnYe, .zZhnYe.qs41qe, .O0WRkf.u3bW4e .ZFr60d, .oG5Srb .Vwe4Vb,.zZhnYe .Vwe4Vb, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-INsAgc:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-INsAgc:disabled, .i9lrp, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .fKz7Od.u3bW4e, .fKz7Od .VTBa7b, .JPdR6b, .kCtYwe, .B2l7lc, .vOSR6b, .N2WjGc, .Mh0NNb` |
 | rgba(153,153,153,.4) | rgba(153,153,153,.4) | `a.gb_Qa:active, , .WzwrXb.u3bW4e, .WzwrXb.iWO5td>.NWlf3e` |
 | #0043b2 | #0043b2 | `a.gb_Ra:active, ` |
@@ -379,7 +378,7 @@
 | rgba(95,99,104,.24) | rgba(95,99,104,.24) | `.gb_B[aria-expanded=true],.gb_B:hover[aria-expanded=true], ` |
 | rgba(232,234,237,.08) | rgba(232,234,237,.08) | `.gb_Oc .gb_od button:hover svg,.gb_Oc .gb_B:hover, ` |
 | rgba(255,255,255,.12) | rgba(255,255,255,.12) | `.gb_Oc .gb_B[aria-expanded=true],.gb_Oc .gb_B:hover[aria-expanded=true], ` |
-| #3c4043 | #3c4043, #3C4043 | `.gb_cd.gb_dd, , .EY8ABd .VfPpkd-z59Tgd, .EY8ABd .VfPpkd-MlC99b,.EY8ABd .VfPpkd-IqDDtd, .ziykHb .VfPpkd-z59Tgd, .ziykHb .VfPpkd-MlC99b,.ziykHb .VfPpkd-IqDDtd, .lXkFp .xpBTw .cu_edi_16, .xpBTw.lXkFp .cu_edi_16, .lXkFp .xpBTw .cu_edi_17, .xpBTw.lXkFp .cu_edi_17` |
+| #3c4043 | #3c4043 | `.gb_cd.gb_dd, , .EY8ABd .VfPpkd-z59Tgd, .EY8ABd .VfPpkd-MlC99b,.EY8ABd .VfPpkd-IqDDtd, .ziykHb .VfPpkd-z59Tgd, .ziykHb .VfPpkd-MlC99b,.ziykHb .VfPpkd-IqDDtd` |
 | rgba(0,0,0,.14) | rgba(0,0,0,.14) | `.gb_Bd, , .zZhnYe, .zZhnYe.qs41qe, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .vOSR6b, .Sx0Nc, .Mh0NNb` |
 | inherit | inherit | `.gb_Fa a,.gb_Sc a, , .gb_dd, .gb_3a, .e0WtYb,.A4B6ub, .Lkmxqf .Yu2jld, .VfPpkd-z59Tgd, .VfPpkd-z59Tgd .VfPpkd-MlC99b, .VfPpkd-z59Tgd .VfPpkd-IqDDtd, .VfPpkd-z59Tgd::before, .VfPpkd-BFbNVe-bF1uUb, .VfPpkd-Bz112c-LgbsSe, .VfPpkd-LgbsSe, .FKF6mc:visited, .J0XlZe, .a9caSc, .HBnAAc, .xq3j6, .X6jHbb, .NAY4Vd, .gJN4Wb .icXnic, .Gg676 .y4FzZb, .mZkNUb::before,.rjZtBb::before, .UgWksb a, .pRW4xf .y4FzZb, .M6tHv, .CSRaGc` |
 | rgba(0,0,0,.87) | rgba(0,0,0,.87) | `.gb_ba, , a.gb_X,span.gb_X, .VfPpkd-MlC99b` |
@@ -504,7 +503,7 @@
 | rgba(255,255,255,0.2) | rgba(255,255,255,0.2) | `:root,.lXkFp, , .CcsDpe, .HaXdpb` |
 | rgba(255,255,255,0.5) | rgba(255,255,255,0.5) | `:root,.lXkFp, , .CcsDpe` |
 | rgba(255,255,255,0.8) | rgba(255,255,255,0.8) | `:root,.lXkFp, , .CcsDpe` |
-| #000000 | #000000 | `:root,.lXkFp, , .MJEpjb.eQX37d, .XTm2Lc, .lXkFp .xpBTw .cu_edi_0, .xpBTw.lXkFp .cu_edi_0, .lXkFp .xpBTw .cu_edi_1, .xpBTw.lXkFp .cu_edi_1, .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10, .lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11` |
+| #000000 | #000000 | `:root,.lXkFp, , .MJEpjb.eQX37d, .XTm2Lc, .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10` |
 | rgba(0,0,0,0.1) | rgba(0,0,0,0.1) | `:root,.lXkFp, , .CcsDpe` |
 | rgba(0,0,0,0.2) | rgba(0,0,0,0.2) | `:root,.lXkFp, , .CcsDpe, .YGFwk` |
 | rgba(0,0,0,0.3) | rgba(0,0,0,0.3) | `:root,.lXkFp, ` |
@@ -528,7 +527,7 @@
 | rgb(217,48,37) | rgb(217,48,37) | `.CcsDpe, ` |
 | rgb(234,134,0) | rgb(234,134,0) | `.CcsDpe, ` |
 | rgb(252,201,52) | rgb(252,201,52) | `.CcsDpe, ` |
-| #ffffff | #ffffff, #FFFFFF | `.CcsDpe, , .UzQIof path:nth-child(3), .LarXBf::before, .lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10, .lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11, .lXkFp .xpBTw .cu_edi_14, .xpBTw.lXkFp .cu_edi_14, .lXkFp .xpBTw .cu_edi_15, .xpBTw.lXkFp .cu_edi_15` |
+| #ffffff | #ffffff, #FFFFFF | `.CcsDpe, , .UzQIof path:nth-child(3), .LarXBf::before, .lXkFp .xpBTw .cu_edi_0, .xpBTw.lXkFp .cu_edi_0, .lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2, .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10` |
 | rgba(255,255,255,0.3) | rgba(255,255,255,0.3) | `.CcsDpe, ` |
 | rgba(255,255,255,0.4) | rgba(255,255,255,0.4) | `.CcsDpe, ` |
 | rgba(255,255,255,0.6) | rgba(255,255,255,0.6) | `.CcsDpe, , .s44ANd` |
@@ -630,8 +629,7 @@
 | #323232 | #323232 | `.Mh0NNb, ` |
 | #eeff41 | #eeff41 | `.x95qze, ` |
 | rgba(26,115,232,.1) | rgba(26,115,232,.1) | `.fe1rZ, ` |
-| #fffdce | #fffdce | `.lXkFp .xpBTw .cu_edi_0, .xpBTw.lXkFp .cu_edi_0, , .lXkFp .xpBTw .cu_edi_1, .xpBTw.lXkFp .cu_edi_1, .lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2` |
-| #efefef | #efefef | `.lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4, , .lXkFp .xpBTw .cu_edi_5, .xpBTw.lXkFp .cu_edi_5` |
-| #ededed | #ededed | `.lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, , .lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7` |
-| #5d4037 | #5D4037 | `.lXkFp .xpBTw .cu_edi_12, .xpBTw.lXkFp .cu_edi_12, ` |
-| #fef6e0 | #FEF6E0 | `.lXkFp .xpBTw .cu_edi_12, .xpBTw.lXkFp .cu_edi_12, , .lXkFp .xpBTw .cu_edi_13, .xpBTw.lXkFp .cu_edi_13` |
+| #d80171 | #d80171 | `.lXkFp .xpBTw .cu_edi_0, .xpBTw.lXkFp .cu_edi_0, , .lXkFp .xpBTw .cu_edi_1, .xpBTw.lXkFp .cu_edi_1, .lXkFp .xpBTw .cu_edi_2, .xpBTw.lXkFp .cu_edi_2` |
+| #0c8a86 | #0c8a86 | `.lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, , .lXkFp .xpBTw .cu_edi_4, .xpBTw.lXkFp .cu_edi_4` |
+| #fbc02d | #FBC02D | `.lXkFp .xpBTw .cu_edi_7, .xpBTw.lXkFp .cu_edi_7, , .lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8` |
+| #fffde7 | #FFFDE7 | `.lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11, ` |
