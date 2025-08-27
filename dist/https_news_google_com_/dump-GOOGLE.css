@@ -13537,36 +13537,6 @@ Data-Href: N/A */
     stroke: #4285f4
   }
 }
-.g1VqG {
-  color: #5f6368
-}
-.dm7YTc .g1VqG {
-  color: #bdc1c6
-}
-.SgT3Pc .saYYc,
-.m8xr4d .HpkkI {
-  color: #1a73e8
-}
-.dm7YTc .SgT3Pc .saYYc,
-.dm7YTc .m8xr4d .HpkkI {
-  color: #8ab4f8
-}
-.eKomyd {
-  background: var(--gn-c-banner-background)
-}
-.eKomyd.EA71Tc .g1VqG {
-  color: #444746
-}
-.dm7YTc .eKomyd.EA71Tc .g1VqG {
-  color: #c4c7c5
-}
-.eKomyd.EA71Tc .HpkkI:not(:disabled),
-.eKomyd.EA71Tc .saYYc:not(:disabled) {
-  color: var(--gn-c-primary)
-}
-.eKomyd .WWiHdf {
-  color: var(--gn-c-banner-text)
-}
 .VfPpkd-YAxtVc {
   background-color: #333
 }
@@ -13655,8 +13625,6 @@ screen and (forced-colors:active) {
   background-color: #e8eaed;
   background-color: var(--mdc-ripple-color,#e8eaed)
 }
-/*! Inline stylesheet
-Data-Href: N/A */
 .BzLGdd {
   color: var(--gn-c-on-surface)
 }
@@ -13915,6 +13883,36 @@ Data-Href: N/A */
 }
 .dm7YTc .seTZHc {
   color: #bdc1c6
+}
+.g1VqG {
+  color: #5f6368
+}
+.dm7YTc .g1VqG {
+  color: #bdc1c6
+}
+.SgT3Pc .saYYc,
+.m8xr4d .HpkkI {
+  color: #1a73e8
+}
+.dm7YTc .SgT3Pc .saYYc,
+.dm7YTc .m8xr4d .HpkkI {
+  color: #8ab4f8
+}
+.eKomyd {
+  background: var(--gn-c-banner-background)
+}
+.eKomyd.EA71Tc .g1VqG {
+  color: #444746
+}
+.dm7YTc .eKomyd.EA71Tc .g1VqG {
+  color: #c4c7c5
+}
+.eKomyd.EA71Tc .HpkkI:not(:disabled),
+.eKomyd.EA71Tc .saYYc:not(:disabled) {
+  color: var(--gn-c-primary)
+}
+.eKomyd .WWiHdf {
+  color: var(--gn-c-banner-text)
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14350,82 +14348,4 @@ Data-Href: N/A */
   font-family: 'The Washington Post-headline-font';
   src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Investor\27 s Business Daily-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Investor\27 s Business Daily-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
-  color: #07508a
-}
-#ucc-5 .pLZE8d::before {
-  background: #07508a
-}
-#ucc-5 .jzzMj {
-  background: #07508a
-}
-#ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #07508a
-}
-#ucc-5 .MyQDIb {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
-  background: #07508a
-}
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
-  color: #07508a
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #ffcf44
-}
-#ucc-7 .pLZE8d::before {
-  background: #ffcf44
-}
-#ucc-7 .jzzMj {
-  background: #ffcf44
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
-}
-#ucc-7 .MyQDIb {
-  background: #ffcf44
-}
-.dm7YTc #ucc-7 .vP0hTc::before {
-  background: #ffcf44
-}
-.dm7YTc #ucc-7 .vP0hTc {
-  color: #ffcf44
 }
