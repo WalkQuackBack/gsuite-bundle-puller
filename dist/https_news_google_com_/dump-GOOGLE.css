@@ -13537,6 +13537,36 @@ Data-Href: N/A */
     stroke: #4285f4
   }
 }
+.g1VqG {
+  color: #5f6368
+}
+.dm7YTc .g1VqG {
+  color: #bdc1c6
+}
+.SgT3Pc .saYYc,
+.m8xr4d .HpkkI {
+  color: #1a73e8
+}
+.dm7YTc .SgT3Pc .saYYc,
+.dm7YTc .m8xr4d .HpkkI {
+  color: #8ab4f8
+}
+.eKomyd {
+  background: var(--gn-c-banner-background)
+}
+.eKomyd.EA71Tc .g1VqG {
+  color: #444746
+}
+.dm7YTc .eKomyd.EA71Tc .g1VqG {
+  color: #c4c7c5
+}
+.eKomyd.EA71Tc .HpkkI:not(:disabled),
+.eKomyd.EA71Tc .saYYc:not(:disabled) {
+  color: var(--gn-c-primary)
+}
+.eKomyd .WWiHdf {
+  color: var(--gn-c-banner-text)
+}
 .VfPpkd-YAxtVc {
   background-color: #333
 }
@@ -13625,6 +13655,8 @@ screen and (forced-colors:active) {
   background-color: #e8eaed;
   background-color: var(--mdc-ripple-color,#e8eaed)
 }
+/*! Inline stylesheet
+Data-Href: N/A */
 .BzLGdd {
   color: var(--gn-c-on-surface)
 }
@@ -13883,36 +13915,6 @@ screen and (forced-colors:active) {
 }
 .dm7YTc .seTZHc {
   color: #bdc1c6
-}
-.g1VqG {
-  color: #5f6368
-}
-.dm7YTc .g1VqG {
-  color: #bdc1c6
-}
-.SgT3Pc .saYYc,
-.m8xr4d .HpkkI {
-  color: #1a73e8
-}
-.dm7YTc .SgT3Pc .saYYc,
-.dm7YTc .m8xr4d .HpkkI {
-  color: #8ab4f8
-}
-.eKomyd {
-  background: var(--gn-c-banner-background)
-}
-.eKomyd.EA71Tc .g1VqG {
-  color: #444746
-}
-.dm7YTc .eKomyd.EA71Tc .g1VqG {
-  color: #c4c7c5
-}
-.eKomyd.EA71Tc .HpkkI:not(:disabled),
-.eKomyd.EA71Tc .saYYc:not(:disabled) {
-  color: var(--gn-c-primary)
-}
-.eKomyd .WWiHdf {
-  color: var(--gn-c-banner-text)
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14344,8 +14346,25 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-@font-face {
-  font-family: 'The Washington Post-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #04a8ae
+}
+#ucc-5 .pLZE8d::before {
+  background: #04a8ae
+}
+#ucc-5 .jzzMj {
+  background: #04a8ae
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #04a8ae
+}
+#ucc-5 .MyQDIb {
+  background: #04a8ae
+}
+.dm7YTc #ucc-5 .vP0hTc::before {
+  background: #04a8ae
+}
+.dm7YTc #ucc-5 .vP0hTc {
+  color: #04a8ae
 }
