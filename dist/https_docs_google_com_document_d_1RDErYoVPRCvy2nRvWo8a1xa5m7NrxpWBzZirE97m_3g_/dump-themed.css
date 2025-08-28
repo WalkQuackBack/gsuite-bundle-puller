@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/3269991980-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/2405585285-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -437px -1108px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2524,7 +2524,7 @@ body .google-picker.modal-dialog .picker-close-button {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -536px -722px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1116px -224px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3479,7 +3479,7 @@ body .google-picker.modal-dialog .picker-close-button {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -437px -1108px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -4423,9 +4423,6 @@ body .google-picker.modal-dialog .picker-close-button {
 }
 .magicBarActionButtonContainer .docs-gm3-filled-button.docs-gm3-button-hover {
   box-shadow: none
-}
-.magicbarPromptInputViewTitle {
-  background: linear-gradient(135deg,#217bfe,#078efb 33%,#ac87eb)
 }
 .magicbarPromptInputViewContainer .magicbarPromptInputViewInput {
   border: none;
@@ -10724,7 +10721,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -437px -1108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10785,7 +10782,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -437px -1108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -13138,6 +13135,10 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
 .appsDocsAiGenerativeaiImageGenerateImagesInputEl .appsDocsAiGenerativeaiImageGenerateImagesInputTextInputContainer .image-synthesis-creation-button.image-synthesis-create-complete {
   background: #0b57d0
 }
+.appsDocsAiGenerativeaiImageGenerateImagesInputEl .appsDocsAiGenerativeaiImageGenerateImagesInputButtonContainer .appsDocsAiGenerativeaiImageGenerateImagesInputAspectRatioPicker .docs-material-gm-select-outer-box {
+  background: #f0f4f9;
+  border: none
+}
 .appsDocsAiGenerativeaiImageGenerateImagesInputQuickTextChip {
   background: #f0f4f9
 }
@@ -13534,7 +13535,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -437px -1108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13596,7 +13597,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite858_gm3_grey_medium.svg) -437px -1108px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -23141,7 +23142,8 @@ screen and (forced-colors:active) {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .boqAddonscardsrendererCardSelectioncontrolMultiselectChip.isWorkflowApp {
-  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)}
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
 .boqAddonscardsrendererCardSelectioncontrolMultiselectInsertDriveFileIcon:hover {
   background-color: var(--gm3-sys-color-inverse-on-surface,#f2f2f2)
 }
@@ -23251,6 +23253,9 @@ screen and (forced-colors:active) {
 }
 .boqAddonscardsrendererCardSelectioncontrolSelectionItemLabel {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.boqAddonscardsrendererCardSelectioncontrolVariableChip.isWorkflowApp {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
 @media (forced-colors:none) {
   .javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
@@ -23616,6 +23621,9 @@ screen and (forced-colors:active) {
 .boqAddonscardsrendererCardTextfieldMenuSurface .GmList,
 .boqAddonscardsrendererCardTextfieldTextField .GmList {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.boqAddonscardsrendererCardTextfieldVariableChip.isWorkflowApp {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
 .boqAddonscardsrendererCardTextparagraphTextParagraph {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
@@ -25286,7 +25294,7 @@ screen and (forced-colors:active) {
 .suggestionNudgeViewContainer:hover {
   background-color: #e7edf8
 }
-.suggestionNudgeViewHeaderIcon {
+.suggestionNudgeViewTitleIcon {
   background: 0 0;
   border: none
 }
@@ -25316,6 +25324,9 @@ screen and (forced-colors:active) {
   .suggestionNudgeViewMoreOptionsMenuButton:hover {
     background-color: Highlight
   }
+}
+.suggestionNudgeViewLabel {
+  color: #000
 }
 .suggestionNudgeViewSummaryContent {
   color: #444746
@@ -26231,11 +26242,11 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
   }
 }
 .appsElementsWorkspaceRecommendationDisplayImageIconCloudGreySegment {
-  fill: #80868b
+  fill: #8f8f8f
 }
 @media (prefers-color-scheme:dark) {
   .appsElementsWorkspaceRecommendationDisplayImageIconCloudGreySegment {
-    fill: #9aa0a6
+    fill: #ababab
   }
 }
 .appsElementsWorkspaceRecommendationDisplayImageIconCloudBlueSegment {
@@ -26249,6 +26260,60 @@ screen and (not (prefers-reduced-motion)) and (forced-colors:active) {
 }
 .appsElementsWorkspaceRecommendationDisplayImageIconCloudGreenSegment {
   fill: #34a853
+}
+.appsElementsRichTextScoperScoperMenu {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsRichTextScoperScoperMenu:before {
+  border: 1px solid transparent
+}
+@media screen and (forced-colors:active) {
+  .appsElementsRichTextScoperScoperMenu:before {
+    border-color: CanvasText
+  }
+}
+.appsElementsRichTextScoperMenuHeaderTooltipIcon {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+@media (forced-colors:active) {
+  .appsElementsRichTextScoperMenuHeaderTooltipIcon {
+    outline: 1px solid transparent
+  }
+}
+.appsElementsRichTextScoperMenuHeaderTooltipIcon:hover {
+  background-color: var(--gm3-sys-color-surface-variant,#e1e3e1)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsMultiSectionListContainer {
+    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+  }
+}
+.appsElementsMultiSectionListNoMoreResults {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+.appsElementsMultiSectionListExternal > :last-child:not(:empty) {
+  background-color: #fcbd00;
+  color: #444746
+}
+.appsElementsMultiSectionListUpdatedExternal > :last-child:not(:empty) {
+  background-color: #ffe07c;
+  color: #6d3a01
+}
+[data-theme=dark] .appsElementsMultiSectionListUpdatedExternal > :last-child:not(:empty) {
+  background-color: #8f4e06;
+  color: #ffe07c
+}
+.appsElementsMultiSectionListGuestPassUser > :last-child:not(:empty) {
+  background-color: #acedff;
+  color: #00687c
+}
+[data-theme=dark] .appsElementsMultiSectionListGuestPassUser > :last-child:not(:empty) {
+  background-color: #004e5d;
+  color: #acedff
+}
+.appsElementsMultiSectionListSectionListHeader {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .appsElementsKeyboardShortcutsDialogFooter:before {
   border: 1px solid transparent
@@ -26285,9 +26350,6 @@ screen and (forced-colors:active) {
 .appsElementsKeyboardShortcutsDialogKey {
   color: inherit;
   border: 1px solid currentColor
-}
-.appsElementsMultiSectionListSectionListHeader {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 @media (forced-colors:active) {
 }
@@ -26398,35 +26460,6 @@ screen and (forced-colors:active) {
 .appsElementsMultiPanelPanelContentInnerContainer,
 .appsElementsMultiPanelVideoPlayer {
   background-color: var(--gm3-sys-color-surface,#fff)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsMultiSectionListContainer {
-    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-  }
-}
-.appsElementsMultiSectionListNoMoreResults {
-  color: var(--gm3-sys-color-outline,#747775)
-}
-.appsElementsMultiSectionListExternal > :last-child:not(:empty) {
-  background-color: #fcbd00;
-  color: #444746
-}
-.appsElementsMultiSectionListUpdatedExternal > :last-child:not(:empty) {
-  background-color: #ffe07c;
-  color: #6d3a01
-}
-[data-theme=dark] .appsElementsMultiSectionListUpdatedExternal > :last-child:not(:empty) {
-  background-color: #8f4e06;
-  color: #ffe07c
-}
-.appsElementsMultiSectionListGuestPassUser > :last-child:not(:empty) {
-  background-color: #acedff;
-  color: #00687c
-}
-[data-theme=dark] .appsElementsMultiSectionListGuestPassUser > :last-child:not(:empty) {
-  background-color: #004e5d;
-  color: #acedff
 }
 @media only screen and (min-width:33.75rem) and (max-width:63.9375rem) {
 }
@@ -26599,11 +26632,24 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationEl {
   background-color: transparent
 }
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentTableRow:nth-child(odd) {
+  background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
+}
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentTableRow:nth-child(2n) {
+  background-color: var(--gm3-sys-color-surface,#fff)
+}
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentUnavailableIcon {
+  color: var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentHighlight {
+  border: 2px solid transparent;
+  background: linear-gradient(#fff,#fff) content-box,linear-gradient(#fff,#fff) padding-box,linear-gradient(31.5deg,#217bfe,#078efb 34%,#ac87eb 68%,#ee4d5d) border-box
+}
 .appsElementsWorkspaceRecommendationValuePropMask {
   background-image: radial-gradient(var(--ae-value-prop-mask-color,#bde9ff),var(--gm3-sys-color-surface,#fff))
 }
 .appsElementsWorkspaceRecommendationValuePropCardContainer {
-  background-color: #fff
+  background-color: var(--gm3-sys-color-surface,#fff)
 }
 .appsElementsWorkspaceRecommendationValuePropCardPrimaryFeatureCard {
   background-color: var(--gm3-sys-color-tertiary-container,#c4eed0);
@@ -26613,7 +26659,7 @@ screen and (forced-colors:active) {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
 }
 .appsElementsWorkspaceRecommendationValuePropCardValuePropMedia {
-  background-color: #fff
+  background-color: var(--gm3-sys-color-surface,#fff)
 }
 .appsElementsWorkspaceRecommendationValuePropGroupGroupsContainer .appsElementsWorkspaceRecommendationValuePropGroupPrimaryFeatureGroupTitle {
   color: var(--gm3-sys-color-primary,#0b57d0)
@@ -26626,28 +26672,6 @@ screen and (forced-colors:active) {
 }
 .appsElementsWorkspaceRecommendationValuePropPanelIllustration {
   background: #fff
-}
-.appsElementsRichTextScoperScoperMenu {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsRichTextScoperScoperMenu:before {
-  border: 1px solid transparent
-}
-@media screen and (forced-colors:active) {
-  .appsElementsRichTextScoperScoperMenu:before {
-    border-color: CanvasText
-  }
-}
-.appsElementsRichTextScoperMenuHeaderTooltipIcon {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-@media (forced-colors:active) {
-  .appsElementsRichTextScoperMenuHeaderTooltipIcon {
-    outline: 1px solid transparent
-  }
-}
-.appsElementsRichTextScoperMenuHeaderTooltipIcon:hover {
-  background-color: var(--gm3-sys-color-surface-variant,#e1e3e1)
 }
 .appsElementsSidekickAbuseWarningWarning:link {
   color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))

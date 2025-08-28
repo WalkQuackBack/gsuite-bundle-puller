@@ -13939,6 +13939,14 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+.F8j6Cc {
+  color: #202124
+}
+.dm7YTc .F8j6Cc {
+  color: #fff
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 .dm7YTc .p1eHnf[aria-selected=true] {
   background-color: #3c4043
 }
@@ -13998,14 +14006,6 @@ Data-Href: N/A */
 }
 .dm7YTc .Sz6s4e {
   color: #bdc1c6
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-.F8j6Cc {
-  color: #202124
-}
-.dm7YTc .F8j6Cc {
-  color: #fff
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14367,18 +14367,64 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #836d3c
+}
+#ucc-3 .pLZE8d::before {
+  background: #836d3c
+}
+#ucc-3 .jzzMj {
+  background: #836d3c
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #836d3c
+}
+#ucc-3 .MyQDIb {
+  background: #836d3c
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #836d3c
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #836d3c
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 @font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Wall Street Journal-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Wall Street Journal-panel-title-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'The Wall Street Journal-body-font';
+  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #ffcf44
+}
+#ucc-7 .pLZE8d::before {
+  background: #ffcf44
+}
+#ucc-7 .jzzMj {
+  background: #ffcf44
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #ffcf44
+}
+#ucc-7 .MyQDIb {
+  background: #ffcf44
+}
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ffcf44
+}
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ffcf44
 }

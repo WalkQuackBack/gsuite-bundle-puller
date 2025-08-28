@@ -148,7 +148,7 @@
 
 @-moz-document url-prefix("https://docs.google.com/document/d/") {
     /**** Generated code START ****/
-    /*! External stylesheet "/static/document/client/css/3269991980-KixCss_ltr.css" */
+    /*! External stylesheet "/static/document/client/css/2405585285-KixCss_ltr.css" */
 .goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight) {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
@@ -2544,6 +2544,9 @@
 .boqAddonscardsrendererCardSelectioncontrolSelectionItemLabel {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
+.boqAddonscardsrendererCardSelectioncontrolVariableChip.isWorkflowApp {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
+}
 @media (forced-colors:none) {
   .javascriptMaterialdesignGm3WizChipFilterFlatEl .javascriptMaterialdesignGm3WizChipShared-chip__icon--primary {
     color: var(--gm3-chip-filter-flat-with-icon-icon-color,var(--gm3-sys-color-primary,#0b57d0))
@@ -2772,6 +2775,9 @@
 .boqAddonscardsrendererCardTextfieldMenuSurface .GmList,
 .boqAddonscardsrendererCardTextfieldTextField .GmList {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.boqAddonscardsrendererCardTextfieldVariableChip.isWorkflowApp {
+  background-color: var(--gm3-sys-color-surface-container,#f0f4f9)
 }
 .boqAddonscardsrendererCardTextparagraphTextParagraph {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
@@ -4106,14 +4112,32 @@ screen and (forced-colors:active) {
 .appsElementsGenerativeaiLoadingIndicatorSuggestionsIconMask {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
+.appsElementsRichTextScoperScoperMenu {
+  color: var(--gm3-sys-color-on-surface,#1f1f1f)
+}
+.appsElementsRichTextScoperMenuHeaderTooltipIcon {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
+.appsElementsRichTextScoperMenuHeaderTooltipIcon:hover {
+  background-color: var(--gm3-sys-color-surface-variant,#e1e3e1)
+}
+@media (-ms-high-contrast:active),
+screen and (forced-colors:active) {
+  .appsElementsMultiSectionListContainer {
+    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
+  }
+}
+.appsElementsMultiSectionListNoMoreResults {
+  color: var(--gm3-sys-color-outline,#747775)
+}
+.appsElementsMultiSectionListSectionListHeader {
+  color: var(--gm3-sys-color-on-surface-variant,#444746)
+}
 .appsElementsKeyboardShortcutsDialogSwitch {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
 }
 .appsElementsKeyboardShortcutsDialogKeySequenceAlternateDisabled {
   color: var(--gm3-sys-color-outline-variant,#c4c7c5)
-}
-.appsElementsMultiSectionListSectionListHeader {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
 .appsElementsLinkPreviewBannerSuggestionBanner {
   background-color: var(--gm3-sys-color-primary,#0b57d0);
@@ -4164,15 +4188,6 @@ screen and (forced-colors:active) {
 .appsElementsMultiPanelPanelContentInnerContainer,
 .appsElementsMultiPanelVideoPlayer {
   background-color: var(--gm3-sys-color-surface,#fff)
-}
-@media (-ms-high-contrast:active),
-screen and (forced-colors:active) {
-  .appsElementsMultiSectionListContainer {
-    border: 1px solid var(--gm3-sys-color-outline-variant,#c4c7c5)
-  }
-}
-.appsElementsMultiSectionListNoMoreResults {
-  color: var(--gm3-sys-color-outline,#747775)
 }
 .appsElementsWorkspaceRecommendationBannerContentBannerContent {
   color: var(--gm3-sys-color-on-surface,#1f1f1f)
@@ -4278,8 +4293,20 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationMeterContentDescriptionAlertEscalation {
   color: var(--gm3-sys-color-on-error-container,#8c1d18)
 }
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentTableRow:nth-child(odd) {
+  background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
+}
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentTableRow:nth-child(2n) {
+  background-color: var(--gm3-sys-color-surface,#fff)
+}
+.appsElementsWorkspaceRecommendationFeatureComparisonGridContentUnavailableIcon {
+  color: var(--gm3-sys-color-outline-variant,#c4c7c5)
+}
 .appsElementsWorkspaceRecommendationValuePropMask {
   background-image: radial-gradient(var(--ae-value-prop-mask-color,#bde9ff),var(--gm3-sys-color-surface,#fff))
+}
+.appsElementsWorkspaceRecommendationValuePropCardContainer {
+  background-color: var(--gm3-sys-color-surface,#fff)
 }
 .appsElementsWorkspaceRecommendationValuePropCardPrimaryFeatureCard {
   background-color: var(--gm3-sys-color-tertiary-container,#c4eed0);
@@ -4288,20 +4315,14 @@ screen and (forced-colors:active) {
 .appsElementsWorkspaceRecommendationValuePropCardSecondaryFeatureCard {
   background-color: var(--gm3-sys-color-primary-container,#d3e3fd)
 }
+.appsElementsWorkspaceRecommendationValuePropCardValuePropMedia {
+  background-color: var(--gm3-sys-color-surface,#fff)
+}
 .appsElementsWorkspaceRecommendationValuePropGroupGroupsContainer .appsElementsWorkspaceRecommendationValuePropGroupPrimaryFeatureGroupTitle {
   color: var(--gm3-sys-color-primary,#0b57d0)
 }
 .appsElementsWorkspaceRecommendationValuePropGroupValuePropIcon {
   color: var(--gm3-sys-color-primary,#0b57d0)
-}
-.appsElementsRichTextScoperScoperMenu {
-  color: var(--gm3-sys-color-on-surface,#1f1f1f)
-}
-.appsElementsRichTextScoperMenuHeaderTooltipIcon {
-  color: var(--gm3-sys-color-on-surface-variant,#444746)
-}
-.appsElementsRichTextScoperMenuHeaderTooltipIcon:hover {
-  background-color: var(--gm3-sys-color-surface-variant,#e1e3e1)
 }
 .appsElementsSidekickAbuseWarningWarning:link {
   color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
