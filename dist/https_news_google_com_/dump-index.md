@@ -296,11 +296,8 @@
 - #592fd0
 - #a596cf
 - #121212
-- #087c08
-- #836d3c
-- #ffeb2d
-- #62b2e8
-- #eaa43c
+- #a9091f
+- #ffc0cb
 
 ## Colour table
 
@@ -600,8 +597,5 @@
 | #592fd0 | #592FD0 | `#i33, , #i34` |
 | #a596cf | #A596CF | `.dm7YTc #i33, , .dm7YTc #i34` |
 | #121212 | #121212 | `#ucc-3 .DaYgZ::after, #ucc-3 .pLZE8d::after, , #ucc-3 .pLZE8d::before, #ucc-3 .jzzMj, #ucc-3 .QeY9wc:not(.kafKN), #ucc-3 .MyQDIb, body:not(.dm7YTc) #ucc-3 .vP0hTc::before, body:not(.dm7YTc) #ucc-3 .vP0hTc` |
-| #087c08 | #087C08 | `#ucc-5 .DaYgZ::after, #ucc-5 .pLZE8d::after, , #ucc-5 .pLZE8d::before, #ucc-5 .jzzMj, #ucc-5 .QeY9wc:not(.kafKN), #ucc-5 .MyQDIb, body:not(.dm7YTc) #ucc-5 .vP0hTc::before, body:not(.dm7YTc) #ucc-5 .vP0hTc` |
-| #836d3c | #836D3C | `#ucc-9 .DaYgZ::after, #ucc-9 .pLZE8d::after, , #ucc-9 .pLZE8d::before, #ucc-9 .jzzMj, #ucc-9 .QeY9wc:not(.kafKN), #ucc-9 .MyQDIb, body:not(.dm7YTc) #ucc-9 .vP0hTc::before, body:not(.dm7YTc) #ucc-9 .vP0hTc` |
-| #ffeb2d | #ffeb2d | `#ucc-11 .DaYgZ::after, #ucc-11 .pLZE8d::after, , #ucc-11 .pLZE8d::before, #ucc-11 .jzzMj, #ucc-11 .QeY9wc:not(.kafKN), #ucc-11 .MyQDIb, .dm7YTc #ucc-11 .vP0hTc::before, .dm7YTc #ucc-11 .vP0hTc` |
-| #62b2e8 | #62b2e8 | `#ucc-13 .DaYgZ::after, #ucc-13 .pLZE8d::after, , #ucc-13 .pLZE8d::before, #ucc-13 .jzzMj, #ucc-13 .QeY9wc:not(.kafKN), #ucc-13 .MyQDIb, .dm7YTc #ucc-13 .vP0hTc::before, .dm7YTc #ucc-13 .vP0hTc` |
-| #eaa43c | #eaa43c | `#ucc-15 .DaYgZ::after, #ucc-15 .pLZE8d::after, , #ucc-15 .pLZE8d::before, #ucc-15 .jzzMj, #ucc-15 .QeY9wc:not(.kafKN), #ucc-15 .MyQDIb, .dm7YTc #ucc-15 .vP0hTc::before, .dm7YTc #ucc-15 .vP0hTc` |
+| #a9091f | #a9091f | `#ucc-7 .DaYgZ::after, #ucc-7 .pLZE8d::after, , #ucc-7 .pLZE8d::before, #ucc-7 .jzzMj, #ucc-7 .QeY9wc:not(.kafKN), #ucc-7 .MyQDIb, body:not(.dm7YTc) #ucc-7 .vP0hTc::before, body:not(.dm7YTc) #ucc-7 .vP0hTc` |
+| #ffc0cb | #FFC0CB | `#ucc-9 .DaYgZ::after, #ucc-9 .pLZE8d::after, , #ucc-9 .pLZE8d::before, #ucc-9 .jzzMj, #ucc-9 .QeY9wc:not(.kafKN), #ucc-9 .MyQDIb, .dm7YTc #ucc-9 .vP0hTc::before, .dm7YTc #ucc-9 .vP0hTc` |
