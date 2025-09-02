@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! External stylesheet "/static/document/client/css/2405585285-KixCss_ltr.css" */
+/*! External stylesheet "/static/document/client/css/3997947956-KixCss_ltr.css" */
 .goog-palette {
   outline: 0
 }
@@ -692,7 +692,7 @@ body.docs-hub {
   color: #202124
 }
 .docs-suggestiondialog-preview-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -338px -514px;
   border: none
 }
 #docs-suggestiondialog-no-suggestions:focus {
@@ -2524,7 +2524,7 @@ body .google-picker.modal-dialog .picker-close-button {
   background-image: none
 }
 .docs-gm .docs-material.goog-menu .goog-menuitem.goog-option-selected .goog-menuitem-checkbox {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1116px -224px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -470px -870px
 }
 .docs-gm .docs-menubar .goog-control {
   border: 1px solid transparent;
@@ -3479,7 +3479,7 @@ body .google-picker.modal-dialog .picker-close-button {
 .docs-gm .kix-tablesidebar-control .goog-flat-menu-button-dropdown,
 .docs-gm .modal-dialog .goog-flat-menu-button-dropdown,
 .docs-gm .sketchy-shape-effects-shadow-tile .goog-flat-menu-button-dropdown {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px;
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -338px -514px;
   border: none
 }
 .docs-gm .kix-smart-controls-button-sidebar-edit-view-formatting-controls .goog-flat-menu-button-disabled.goog-flat-menu-button:active,
@@ -10721,7 +10721,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -338px -514px
 }
 .docs-material-color-swatch-color {
   box-shadow: 0 0 0 1px transparent
@@ -10782,7 +10782,7 @@ a.docs-bubble-link-disabled {
   outline: 0
 }
 .docs-gm-labeled-color-picker-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -338px -514px
 }
 .docs-gm-labeled-color-picker-label {
   color: #5f6368
@@ -13535,7 +13535,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-labeled-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -338px -514px
 }
 .docs-material-gm-labeled-select-label {
   color: #5f6368
@@ -13597,7 +13597,7 @@ span.CSS_SHORTCUTS_HELP_POPUP_KEY_MNEMONIC {
   color: #202124
 }
 .docs-material-gm-select-dropdown-icon {
-  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite861_gm3_grey_medium.svg) -1445px -988px
+  background: no-repeat url(https://ssl.gstatic.com/docs/common/material_common_sprite863_gm3_grey_medium.svg) -338px -514px
 }
 @media screen and (forced-colors:active) {
   .docs-material-gm-select-focused .docs-material-gm-select-outer-box {
@@ -22993,7 +22993,9 @@ screen and (forced-colors:active) {
   }
 }
 .GmTooltip .mdc-tooltip__surface {
-  background-color: #3c4043;
+  background-color: #3c4043
+}
+.GmTooltip .mdc-tooltip__surface {
   color: #e8eaed
 }
 .GmTooltip .mdc-tooltip__content,
@@ -23009,7 +23011,9 @@ screen and (forced-colors:active) {
   background-color: #fff
 }
 .GmRichTooltip .mdc-tooltip__surface {
-  background-color: #3c4043;
+  background-color: #3c4043
+}
+.GmRichTooltip .mdc-tooltip__surface {
   color: #e8eaed
 }
 .GmRichTooltip .mdc-tooltip__content,
@@ -26810,6 +26814,9 @@ screen and (forced-colors:active) {
 }
 .appsElementsSidekickPromptInputDisabled {
   background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
+}
+.appsElementsSidekickBanner:link {
+  color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
 }
 @keyframes rotate-spark {
 }

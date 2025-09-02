@@ -9,7 +9,7 @@
 ==/UserStyle== */
 @-moz-document url-prefix("https://docs.google.com/document/d/") {
   /**** Generated code START ****/
-  /*! External stylesheet "/static/document/client/css/2405585285-KixCss_ltr.css" */
+  /*! External stylesheet "/static/document/client/css/3997947956-KixCss_ltr.css" */
 .goog-menuitem.ai-priority-menu-item:not(.goog-menuitem-highlight) {
   background: var(--ae-genai-generation-gradient,linear-gradient(135deg,#d7e6ff,#c7e4ff,#dce2ff,#d7e6ff))
 }
@@ -4281,6 +4281,9 @@ screen and (forced-colors:active) {
 }
 .appsElementsSidekickPromptInputDisabled {
   background-color: var(--gm3-sys-color-surface-container-low,#f8fafd)
+}
+.appsElementsSidekickBanner:link {
+  color: var(--ae-banner-text-link-color,var(--gm3-sys-color-primary,#0b57d0))
 }
 .appsElementsSidekickAgentMessageBubbleContent table {
   background-color: var(--gm3-sys-color-surface,#fff);
