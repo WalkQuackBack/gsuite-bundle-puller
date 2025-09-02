@@ -1,4 +1,4 @@
-/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.1g5Ujf7Z0Ho.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/ct=zgms/rs=AA2YrTvsVPw7vJUW446KreqmAvmIuZqijA" */
+/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.rJ-_WNshdsg.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/ct=zgms/rs=AA2YrTs7QlDGBDD_uX0CXFNSzwYcirvgRw" */
 .gb_Ka {
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
@@ -21,15 +21,15 @@
 .gb_Na {
   fill: #202124
 }
-.gb_Bc {
+.gb_Nc {
   background: rgba(60,64,67,.9);
   color: #fff;
   outline: 1px solid transparent
 }
-.gb_Cc > * {
+.gb_Oc > * {
   color: #c4c7c5
 }
-.gb_Cc div:first-child {
+.gb_Oc div:first-child {
   color: #fff
 }
 .gb_Ea {
@@ -121,14 +121,13 @@ a.gb_Ra:active {
 .gb_Sa {
   box-shadow: 0 1px 1px rgba(0,0,0,.16)
 }
-.gb_Ta {
+.gb_Ta,
+.gb_Ua {
   background: #f8f8f8;
   border: 1px solid #c6c6c6
 }
-.gb_Ua {
-  background: #f8f8f8
-}
 #gb a.gb_Ta.gb_Ta,
+#gb a.gb_Ua,
 .gb_Ta,
 .gb_Ua {
   color: #666
@@ -136,10 +135,9 @@ a.gb_Ra:active {
 .gb_Ua {
   border: 1px solid #4285f4;
   outline: 0;
-  background: #4285f4;
-  background: -webkit-gradient(linear,left top,left bottom,from(top),color-stop(#4387fd),to(#4683ea));
+  background: -webkit-gradient(linear,left top,left bottom,from(#4387fd),to(#4683ea));
   background: -webkit-linear-gradient(top,#4387fd,#4683ea);
-  background: linear-gradient(top,#4387fd,#4683ea)
+  background: linear-gradient(to bottom,#4387fd,#4683ea)
 }
 #gb a.gb_Ua {
   color: #fff
@@ -149,10 +147,9 @@ a.gb_Ra:active {
 }
 .gb_Ua:active {
   box-shadow: inset 0 2px 0 rgba(0,0,0,.15);
-  background: #3c78dc;
-  background: -webkit-gradient(linear,left top,left bottom,from(top),color-stop(#3c7ae4),to(#3f76d3));
+  background: -webkit-gradient(linear,left top,left bottom,from(#3c7ae4),to(#3f76d3));
   background: -webkit-linear-gradient(top,#3c7ae4,#3f76d3);
-  background: linear-gradient(top,#3c7ae4,#3f76d3)
+  background: linear-gradient(to bottom,#3c7ae4,#3f76d3)
 }
 #gb .gb_Va {
   background: #fff;
@@ -200,15 +197,16 @@ a.gb_Ra:active {
 a.gb_B {
   color: #000
 }
-.gb_jd {
+.gb_vd,
+.gb_wd {
   border-color: transparent;
   border-bottom-color: #fff
 }
-.gb_kd {
-  border-color: transparent;
+.gb_wd {
+  border-bottom-color: #ccc;
   border-bottom-color: rgba(0,0,0,.2)
 }
-div.gb_kd,
+div.gb_wd,
 x:-o-prefocus {
   border-bottom-color: #ccc
 }
@@ -220,7 +218,7 @@ x:-o-prefocus {
   box-shadow: 0 2px 10px rgba(0,0,0,.2);
   outline: 0
 }
-.gb_Fa .gb_nd:not(.gb_Qa):focus img {
+.gb_Fa .gb_Cd:not(.gb_Qa):focus img {
   background-color: rgba(0,0,0,.2);
   outline: 0
 }
@@ -228,43 +226,43 @@ x:-o-prefocus {
 .gb_B:focus:not(:focus-visible),
 .gb_B:hover,
 .gb_B[aria-expanded=true],
-.gb_od button:active svg,
-.gb_od button:focus:not(:focus-visible) svg,
-.gb_od button:hover svg {
+.gb_Dd button:active svg,
+.gb_Dd button:focus:not(:focus-visible) svg,
+.gb_Dd button:hover svg {
   outline: 0
 }
+.gb_0c .gb_Dd.gb_Ed button:focus-visible svg,
 .gb_B:focus-visible,
-.gb_Oc .gb_od.gb_pd button:focus-visible svg,
-.gb_od button:focus-visible svg {
+.gb_Dd button:focus-visible svg {
   outline: 1px solid #202124
 }
-.gb_Oc .gb_B:focus-visible,
-.gb_Oc .gb_od button:focus-visible svg {
+.gb_0c .gb_B:focus-visible,
+.gb_0c .gb_Dd button:focus-visible svg {
   outline: 1px solid #f1f3f4
 }
 @media (forced-colors:active) {
-  .gb_Oc .gb_od button:focus-visible svg,
-  .gb_Oc .gb_od.gb_pd button:focus-visible svg,
-  .gb_od button:focus-visible svg {
+  .gb_0c .gb_Dd button:focus-visible svg,
+  .gb_0c .gb_Dd.gb_Ed button:focus-visible svg,
+  .gb_Dd button:focus-visible svg {
     outline: 1px solid currentcolor
   }
 }
+.gb_0c .gb_Dd.gb_Ed button:focus svg,
+.gb_0c .gb_Dd.gb_Ed button:focus:hover svg,
 .gb_B:focus,
 .gb_B:focus:hover,
-.gb_Oc .gb_od.gb_pd button:focus svg,
-.gb_Oc .gb_od.gb_pd button:focus:hover svg,
-.gb_od button:focus svg,
-.gb_od button:focus:hover svg {
+.gb_Dd button:focus svg,
+.gb_Dd button:focus:hover svg {
   background-color: rgba(60,64,67,.1)
 }
+.gb_0c .gb_Dd.gb_Ed button:active svg,
 .gb_B:active,
-.gb_Oc .gb_od.gb_pd button:active svg,
-.gb_od button:active svg {
+.gb_Dd button:active svg {
   background-color: rgba(60,64,67,.12)
 }
+.gb_0c .gb_Dd.gb_Ed button:hover svg,
 .gb_B:hover,
-.gb_Oc .gb_od.gb_pd button:hover svg,
-.gb_od button:hover svg {
+.gb_Dd button:hover svg {
   background-color: rgba(60,64,67,.08)
 }
 .gb_Wa .gb_B.gb_Za:hover {
@@ -277,32 +275,32 @@ x:-o-prefocus {
 .gb_B[aria-expanded=true] .gb_F {
   fill: #5f6368
 }
-.gb_Oc .gb_B:hover,
-.gb_Oc .gb_od button:hover svg {
+.gb_0c .gb_B:hover,
+.gb_0c .gb_Dd button:hover svg {
   background-color: rgba(232,234,237,.08)
 }
-.gb_Oc .gb_B:focus,
-.gb_Oc .gb_B:focus:hover,
-.gb_Oc .gb_od button:focus svg,
-.gb_Oc .gb_od button:focus:hover svg {
+.gb_0c .gb_B:focus,
+.gb_0c .gb_B:focus:hover,
+.gb_0c .gb_Dd button:focus svg,
+.gb_0c .gb_Dd button:focus:hover svg {
   background-color: rgba(232,234,237,.1)
 }
-.gb_Oc .gb_B:active,
-.gb_Oc .gb_od button:active svg {
+.gb_0c .gb_B:active,
+.gb_0c .gb_Dd button:active svg {
   background-color: rgba(232,234,237,.12)
 }
-.gb_Oc .gb_B:hover[aria-expanded=true],
-.gb_Oc .gb_B[aria-expanded=true] {
+.gb_0c .gb_B:hover[aria-expanded=true],
+.gb_0c .gb_B[aria-expanded=true] {
   background-color: rgba(255,255,255,.12)
 }
-.gb_Oc .gb_B[aria-expanded=true] .gb_F {
-  fill: #fff
+.gb_0c .gb_B[aria-expanded=true] .gb_F {
+  fill: #ffffff
 }
 @media (max-width:350px) {
 }
 @media screen and (max-width:319px) {
 }
-.gb_cd.gb_dd {
+.gb_nd.gb_od {
   color: #3c4043
 }
 .gb_Fa {
@@ -311,105 +309,105 @@ x:-o-prefocus {
 .gb_Fa svg {
   fill: currentColor
 }
-.gb_Bd {
+.gb_Rd {
   box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
 }
-.gb_Qd {
+.gb_5d {
   color: #000
 }
-.gb_Oc {
+.gb_0c {
   color: #fff
 }
-.gb_Fa a,
-.gb_Sc a {
+.gb_4c a,
+.gb_Fa a {
   color: inherit
 }
 .gb_ba {
   color: rgba(0,0,0,.87)
 }
-.gb_5c .gb_yd,
+.gb_4c svg,
 .gb_Fa svg,
-.gb_Sc svg,
-.gb_ed .gb_yd {
+.gb_gd .gb_Od,
+.gb_pd .gb_Od {
   color: #5f6368
 }
-.gb_Oc .gb_ed .gb_Nc,
-.gb_Oc .gb_ed .gb_gd,
-.gb_Oc .gb_ed .gb_yd,
-.gb_Oc svg,
-.gb_Sc.gb_Xc .gb_yd,
-.gb_Sc.gb_Xc svg {
+.gb_0c .gb_pd .gb_Od,
+.gb_0c .gb_pd .gb_Zc,
+.gb_0c .gb_pd .gb_rd,
+.gb_0c svg,
+.gb_4c.gb_9c .gb_Od,
+.gb_4c.gb_9c svg {
   color: rgba(255,255,255,.87)
 }
-.gb_dd {
+.gb_od {
   color: inherit
 }
 a.gb_X,
 span.gb_X {
   color: rgba(0,0,0,.87)
 }
-.gb_Oc a.gb_X,
-.gb_Oc span.gb_X {
+.gb_0c a.gb_X,
+.gb_0c span.gb_X {
   color: #fff
 }
-.gb_Ua.gb_wd:hover {
+.gb_Ua.gb_Md:hover {
   background: #1b66c9;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_Ua.gb_wd:focus,
-.gb_Ua.gb_wd:hover:focus {
+.gb_Ua.gb_Md:focus,
+.gb_Ua.gb_Md:hover:focus {
   background: #1c5fba;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_Ua.gb_wd:active {
+.gb_Ua.gb_Md:active {
   background: #1b63c1;
   box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
 }
-.gb_wd {
+.gb_Md {
   background: #1a73e8;
   border: 1px solid transparent
 }
-#gb .gb_Oc a.gb_wd:not(.gb_H),
-#gb.gb_Oc a.gb_wd {
+#gb .gb_0c a.gb_Md:not(.gb_H),
+#gb.gb_0c a.gb_Md {
   background: #fff;
   border-color: #dadce0;
   box-shadow: none;
   color: #1a73e8
 }
-#gb a.gb_Ua.gb_H.gb_wd {
+#gb a.gb_Ua.gb_H.gb_Md {
   background: #8ab4f8;
   border: 1px solid transparent;
   box-shadow: none;
   color: #202124
 }
-#gb .gb_Oc a.gb_wd:hover:not(.gb_H),
-#gb.gb_Oc a.gb_wd:hover {
+#gb .gb_0c a.gb_Md:hover:not(.gb_H),
+#gb.gb_0c a.gb_Md:hover {
   background: #f8fbff;
   border-color: #cce0fc
 }
-#gb a.gb_Ua.gb_H.gb_wd:hover {
+#gb a.gb_Ua.gb_H.gb_Md:hover {
   background: #93baf9;
   border-color: transparent;
   box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.3)
 }
-#gb .gb_Oc a.gb_wd:focus:hover:not(.gb_H),
-#gb .gb_Oc a.gb_wd:focus:not(.gb_H),
-#gb.gb_Oc a.gb_wd:focus:hover:not(.gb_H),
-#gb.gb_Oc a.gb_wd:focus:not(.gb_H) {
+#gb .gb_0c a.gb_Md:focus:hover:not(.gb_H),
+#gb .gb_0c a.gb_Md:focus:not(.gb_H),
+#gb.gb_0c a.gb_Md:focus:hover:not(.gb_H),
+#gb.gb_0c a.gb_Md:focus:not(.gb_H) {
   background: #f4f8ff;
   outline: 1px solid #c9ddfc
 }
-#gb a.gb_Ua.gb_H.gb_wd:focus,
-#gb a.gb_Ua.gb_H.gb_wd:focus:hover {
+#gb a.gb_Ua.gb_H.gb_Md:focus,
+#gb a.gb_Ua.gb_H.gb_Md:focus:hover {
   background: #a6c6fa;
   border-color: transparent;
   box-shadow: none
 }
-#gb .gb_Oc a.gb_wd:active:not(.gb_H),
-#gb.gb_Oc a.gb_wd:active {
+#gb .gb_0c a.gb_Md:active:not(.gb_H),
+#gb.gb_0c a.gb_Md:active {
   background: #ecf3fe
 }
-#gb a.gb_Ua.gb_H.gb_wd:active {
+#gb a.gb_Ua.gb_H.gb_Md:active {
   background: #a1c3f9;
   box-shadow: 0 1px 2px rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15)
 }
@@ -447,8 +445,8 @@ span.gb_X {
   outline: 1px solid #f1f3f4;
   box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px 0 rgba(0,0,0,.3)
 }
-.gb_Wa.gb_H:active,
-.gb_Wa.gb_Wc.gb_H:focus {
+.gb_Wa.gb_8c.gb_H:focus,
+.gb_Wa.gb_H:active {
   background-color: rgba(241,243,244,.1);
   border: 1px solid #5f6368
 }
@@ -458,20 +456,20 @@ span.gb_X {
 .gb_P {
   border: 0
 }
-.gb_eb {
+.gb_fb {
   background-color: #e8f0fe;
   border: 1px solid rgba(32,33,36,.08)
 }
-.gb_eb.gb_P:active,
-.gb_eb.gb_P:hover {
+.gb_fb.gb_P:active,
+.gb_fb.gb_P:hover {
   box-shadow: none
 }
-.gb_fb {
+.gb_gb {
   background: #fff;
   border: none;
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
-.gb_xc {
+.gb_hb {
   color: #1f71e7
 }
 @media (-webkit-min-device-pixel-ratio:1.25),
@@ -488,19 +486,19 @@ span.gb_X {
 .gb_P:active::after {
   background: rgba(0,0,0,.1)
 }
-.gb_ib {
+.gb_mb {
   border-top: 4px solid #000;
   border-left: 4px dashed transparent;
   border-right: 4px dashed transparent
 }
-.gb_Zd.gb_td {
+.gb_nb.gb_eb {
   color: #fff
 }
-#gb#gb .gb_1.gb_1 a.gb_hb,
-#gb#gb.gb_1.gb_1 a.gb_hb {
+#gb#gb .gb_1.gb_1 a.gb_jb,
+#gb#gb.gb_1.gb_1 a.gb_jb {
   color: #fff
 }
-.gb_1.gb_1 .gb_ib {
+.gb_1.gb_1 .gb_mb {
   border-top-color: #fff
 }
 .gb_1 .gb_P:focus,

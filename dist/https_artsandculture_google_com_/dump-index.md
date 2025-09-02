@@ -35,9 +35,9 @@
 - #666
 - #4387fd
 - #4683ea
-- #3c78dc
 - #3c7ae4
 - #3f76d3
+- #ffffff
 - #dadce0
 - #1a73e8
 - #f8fbff
@@ -50,8 +50,8 @@
 - rgba(232,234,237,.12)
 - rgba(232,234,237,.1)
 - #000
-- rgba(0,0,0,.2)
 - #ccc
+- rgba(0,0,0,.2)
 - #f1f3f4
 - currentcolor
 - rgba(60,64,67,.1)
@@ -209,7 +209,6 @@
 - rgb(217,48,37)
 - rgb(234,134,0)
 - rgb(252,201,52)
-- #ffffff
 - rgba(255,255,255,0.3)
 - rgba(255,255,255,0.4)
 - rgba(255,255,255,0.6)
@@ -321,17 +320,17 @@
 
 | Hex | Unique selectors | Uses |
 | :--------------------------------------- | :--------------------------------------- | :--------------------------------------- |
-| rgba(60,64,67,.30) | rgba(60,64,67,.30) | `.gb_Ka, , .gb_fb` |
-| rgba(60,64,67,.15) | rgba(60,64,67,.15) | `.gb_Ka, , .gb_Ia, #gb a.gb_Ua.gb_H.gb_wd:active, .gb_Wa:focus-visible,.gb_Wa:focus, .gb_fb, .nCP5yc:hover, .nCP5yc:active, .b9hyVd, .b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus, .b9hyVd:hover, .b9hyVd:not(:disabled):active, .Kjnxrf:hover, .Kjnxrf:not(:disabled):active` |
+| rgba(60,64,67,.30) | rgba(60,64,67,.30) | `.gb_Ka, , .gb_gb` |
+| rgba(60,64,67,.15) | rgba(60,64,67,.15) | `.gb_Ka, , .gb_Ia, #gb a.gb_Ua.gb_H.gb_Md:active, .gb_Wa:focus-visible,.gb_Wa:focus, .gb_gb, .nCP5yc:hover, .nCP5yc:active, .b9hyVd, .b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus, .b9hyVd:hover, .b9hyVd:not(:disabled):active, .Kjnxrf:hover, .Kjnxrf:not(:disabled):active` |
 | #f9ab00 | #f9ab00 | `.gb_La, ` |
 | #fdd663 | #fdd663 | `.gb_H .gb_La, ` |
 | #d93025 | #d93025 | `.gb_Ma>.gb_La, ` |
 | #f28b82 | #f28b82 | `.gb_H .gb_Ma>.gb_La, ` |
-| #202124 | #202124 | `.gb_Na,.gb_H .gb_Ma>.gb_Na, , .gb_Oc .gb_od.gb_pd button:focus-visible svg,.gb_od button:focus-visible svg,.gb_B:focus-visible, #gb a.gb_Ua.gb_H.gb_wd, .gb_Wa:focus-visible,.gb_Wa:focus` |
-| rgba(60,64,67,.9) | rgba(60,64,67,.9) | `.gb_Bc, ` |
-| #fff | #fff | `.gb_Bc, , a.gb_Ra, #gb a.gb_Ua, #gb .gb_Va, .gb_jd, .gb_la, .gb_Oc .gb_B[aria-expanded=true] .gb_F, #gb .gb_Oc a.gb_wd:not(.gb_H),#gb.gb_Oc a.gb_wd, .gb_Wa.gb_H .gb_3a, .gb_Wa:focus-visible,.gb_Wa:focus, .gb_fb, .gb_Zd.gb_td, #gb#gb.gb_1.gb_1 a.gb_hb,#gb#gb .gb_1.gb_1 a.gb_hb, .gb_1.gb_1 .gb_ib, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .UxubU,.UxubU a, :root,.lXkFp, .VfPpkd-suEOdc.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd,.VfPpkd-suEOdc.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-ma6Yeb,.VfPpkd-suEOdc.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-BFbNVe-bF1uUb, .EY8ABd.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd,.EY8ABd.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-ma6Yeb,.EY8ABd.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .ziykHb.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd,.ziykHb.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-ma6Yeb,.ziykHb.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-k8QpJ .VfPpkd-Jh9lGc::before, .VfPpkd-LgbsSe-OWXEXe-k8QpJ .VfPpkd-Jh9lGc::after, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-MV7yeb .VfPpkd-Jh9lGc::before, .VfPpkd-LgbsSe-OWXEXe-MV7yeb .VfPpkd-Jh9lGc::after, .nCP5yc:not(:disabled), .nCP5yc .VfPpkd-UdE5de-uDEFge .VfPpkd-JGcpL-uI4vCe-LkdAo,.nCP5yc .VfPpkd-UdE5de-uDEFge .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .b9hyVd:not(:disabled), .rFrNMe.dm7YTc .whsOnd, .XHsn7e, .g3VIld, .TNczib .kHssdc, .JPdR6b, .Fc71id, .cMpTz, .d6FFRb, .CYOJYe .RMfJhb, .tacsfb, .waf27, .zJo0dd, .NAY4Vd, .XkWAb-pVNTue .XkWAb-xJ5Hz, .XkWAb-eJuzjc,.XkWAb-a4WLyb, .XkWAb-pVNTue .XkWAb-IlRY5e, .tk3N6e-VCkuzd, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-d6mlqf .tk3N6e-VCkuzd-ez0xG, .tk3N6e-VCkuzd-y6n2Me .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-cX0Lwc .tk3N6e-VCkuzd-ez0xG, .tk3N6e-suEOdc, .tk3N6e-suEOdc-Ya1KTb .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-d6mlqf .tk3N6e-suEOdc-jQ8oHc, .tk3N6e-suEOdc-y6n2Me .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-cX0Lwc .tk3N6e-suEOdc-jQ8oHc, .Mh0NNb` |
-| transparent | transparent | `.gb_Bc, , .gb_Ea, .gb_Ea:focus-visible, .gb_Fa .gb_Ha, #gb .gb_Va.gb_H, .gb_jd, .gb_kd, .gb_Wa .gb_B.gb_Za:hover, .gb_wd, #gb a.gb_Ua.gb_H.gb_wd, #gb a.gb_Ua.gb_H.gb_wd:hover, #gb a.gb_Ua.gb_H.gb_wd:focus,#gb a.gb_Ua.gb_H.gb_wd:focus:hover, .gb_Wa.gb_H, .gb_ib, .O0WRkf, .ZFr60d, *, .ha3bPc .uFenQ, .YtXkff.roI1Nb .AFnmuc, .sSKVP, .je1lbe .cHiYIc:focus,.je1lbe .cHiYIc:hover, :root,.lXkFp, .CcsDpe, .VfPpkd-JGcpL-uI4vCe-u014N, .VfPpkd-JGcpL-uI4vCe-LkdAo-Bd00G,.VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .VfPpkd-z59Tgd::before, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-Bz112c-LgbsSe, .VfPpkd-Bz112c-J1Ukfc-LhBDec, .VfPpkd-Bz112c-J1Ukfc-LhBDec::after, .VfPpkd-LgbsSe, .VfPpkd-LgbsSe .VfPpkd-J1Ukfc-LhBDec, .VfPpkd-LgbsSe .VfPpkd-J1Ukfc-LhBDec::after, .VfPpkd-LgbsSe-OWXEXe-INsAgc .VfPpkd-Jh9lGc, .ksBjEc:not(:disabled), .rFrNMe, .whsOnd, .K0Y8Se, .dEOOab,.ovnfwe:not(:empty), .U26fgb.u3bW4e, .mUbCce, .YYBxpf.u3bW4e, .g3VIld, .JPdR6b, .z80M1.FwR7Pc, .Lg6Rjf, .PdPnMe, .DIJzlf .mUbCce,.DIJzlf .JRtysb, .tgf85c.apTFrf .mUbCce,.tgf85c.apTFrf .JRtysb, .JRtysb, .X6jHbb, .xq3j6.ERcjC .X6jHbb, .xq3j6.dj3yTd .X6jHbb, .toZRUd .cVtnyb:not(:disabled), .toZRUd .cVtnyb:not(:disabled):hover, .TDJ0Lb, .ZNRwRc, .t3RZAc, .t3RZAc .vxLcHb, .gy5j7c, .NQwUHc .C5m2fc:not(:last-child)::after, .lXkFp .QqVQEe, .Jyzpcc span, .n9YQJf .vxLcHb, .BJU89::after, .XkWAb-cYRDff, .XkWAb-pVNTue .XkWAb-xJ5Hz, .BK2CBb .cVtnyb:not(:disabled), .BK2CBb .cVtnyb:not(:disabled):hover, .MiE7Yb::before, .rwDsQ .bs5ied::after, .rwDsQ.p7wIkf .bs5ied::after, .Zjyl9c, .M6RrE, .EGZqub .cVtnyb:not(:disabled), .EGZqub .cVtnyb:not(:disabled):hover, .IJH8ef::before, .ApcsGd::before, .VmNwRc .BPexLd, .VmNwRc, .VmNwRc .ExERKe, .VmNwRc:not(.lTX8Ic), .KfknTb:nth-child(1)::after, .am7Xye, .T1l3pf .sulpxf, .r8xDCb .XkWAb-GfpNfc, .Y7Jci, 100%, .ryaUXc::after, .LsSwGf, .YGFwk, .W0u25d, .uGTP0d, .dKcQBb,.hbIP5e, .tk3N6e-VCkuzd-kmh2Gb, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-jQ8oHc,.tk3N6e-VCkuzd-d6mlqf .tk3N6e-VCkuzd-jQ8oHc, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-jQ8oHc, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-d6mlqf .tk3N6e-VCkuzd-ez0xG, .tk3N6e-VCkuzd-y6n2Me .tk3N6e-VCkuzd-jQ8oHc,.tk3N6e-VCkuzd-cX0Lwc .tk3N6e-VCkuzd-jQ8oHc, .tk3N6e-VCkuzd-y6n2Me .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-cX0Lwc .tk3N6e-VCkuzd-ez0xG, .tk3N6e-suEOdc-Ya1KTb .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-d6mlqf .tk3N6e-suEOdc-jQ8oHc, .tk3N6e-suEOdc-Ya1KTb .tk3N6e-suEOdc-ez0xG,.tk3N6e-suEOdc-d6mlqf .tk3N6e-suEOdc-ez0xG, .tk3N6e-suEOdc-y6n2Me .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-cX0Lwc .tk3N6e-suEOdc-jQ8oHc, .tk3N6e-suEOdc-y6n2Me .tk3N6e-suEOdc-ez0xG,.tk3N6e-suEOdc-cX0Lwc .tk3N6e-suEOdc-ez0xG, .Df0wFe button, .RY7Eqf, .lXkFp .fAvaxe, .I2Zlce::after, .xZCdgf::before, .xZCdgf::after, .WcRekc .r8xDCb, .lXkFp .jwuQz, .qU3Bne, .ecfisc::selection, .eJVzYe::before,.bs4xne::before, .LarXBf::before` |
-| #c4c7c5 | #c4c7c5 | `.gb_Cc>*, , :root,.lXkFp, .CcsDpe, .TDPAJf` |
+| #202124 | #202124 | `.gb_Na,.gb_H .gb_Ma>.gb_Na, , .gb_0c .gb_Dd.gb_Ed button:focus-visible svg,.gb_Dd button:focus-visible svg,.gb_B:focus-visible, #gb a.gb_Ua.gb_H.gb_Md, .gb_Wa:focus-visible,.gb_Wa:focus` |
+| rgba(60,64,67,.9) | rgba(60,64,67,.9) | `.gb_Nc, ` |
+| #fff | #fff | `.gb_Nc, , a.gb_Ra, #gb a.gb_Ua, .gb_vd,.gb_wd, .gb_la, #gb .gb_0c a.gb_Md:not(.gb_H),#gb.gb_0c a.gb_Md, .gb_Wa.gb_H .gb_3a, .gb_Wa:focus-visible,.gb_Wa:focus, .gb_gb, .gb_nb.gb_eb, #gb#gb.gb_1.gb_1 a.gb_jb,#gb#gb .gb_1.gb_1 a.gb_jb, .gb_1.gb_1 .gb_mb, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .UxubU,.UxubU a, :root,.lXkFp, .VfPpkd-suEOdc.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd,.VfPpkd-suEOdc.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-ma6Yeb,.VfPpkd-suEOdc.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-BFbNVe-bF1uUb, .EY8ABd.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd,.EY8ABd.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-ma6Yeb,.EY8ABd.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .ziykHb.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd,.ziykHb.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-ma6Yeb,.ziykHb.VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-k8QpJ .VfPpkd-Jh9lGc::before, .VfPpkd-LgbsSe-OWXEXe-k8QpJ .VfPpkd-Jh9lGc::after, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-MV7yeb .VfPpkd-Jh9lGc::before, .VfPpkd-LgbsSe-OWXEXe-MV7yeb .VfPpkd-Jh9lGc::after, .nCP5yc:not(:disabled), .nCP5yc .VfPpkd-UdE5de-uDEFge .VfPpkd-JGcpL-uI4vCe-LkdAo,.nCP5yc .VfPpkd-UdE5de-uDEFge .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .b9hyVd:not(:disabled), .rFrNMe.dm7YTc .whsOnd, .XHsn7e, .g3VIld, .TNczib .kHssdc, .JPdR6b, .Fc71id, .cMpTz, .d6FFRb, .CYOJYe .RMfJhb, .tacsfb, .waf27, .zJo0dd, .NAY4Vd, .XkWAb-pVNTue .XkWAb-xJ5Hz, .XkWAb-eJuzjc,.XkWAb-a4WLyb, .XkWAb-pVNTue .XkWAb-IlRY5e, .tk3N6e-VCkuzd, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-d6mlqf .tk3N6e-VCkuzd-ez0xG, .tk3N6e-VCkuzd-y6n2Me .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-cX0Lwc .tk3N6e-VCkuzd-ez0xG, .tk3N6e-suEOdc, .tk3N6e-suEOdc-Ya1KTb .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-d6mlqf .tk3N6e-suEOdc-jQ8oHc, .tk3N6e-suEOdc-y6n2Me .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-cX0Lwc .tk3N6e-suEOdc-jQ8oHc, .Mh0NNb` |
+| transparent | transparent | `.gb_Nc, , .gb_Ea, .gb_Ea:focus-visible, .gb_Fa .gb_Ha, #gb .gb_Va.gb_H, .gb_vd,.gb_wd, .gb_Wa .gb_B.gb_Za:hover, .gb_Md, #gb a.gb_Ua.gb_H.gb_Md, #gb a.gb_Ua.gb_H.gb_Md:hover, #gb a.gb_Ua.gb_H.gb_Md:focus,#gb a.gb_Ua.gb_H.gb_Md:focus:hover, .gb_Wa.gb_H, .gb_mb, .O0WRkf, .ZFr60d, *, .ha3bPc .uFenQ, .YtXkff.roI1Nb .AFnmuc, .sSKVP, .je1lbe .cHiYIc:focus,.je1lbe .cHiYIc:hover, :root,.lXkFp, .CcsDpe, .VfPpkd-JGcpL-uI4vCe-u014N, .VfPpkd-JGcpL-uI4vCe-LkdAo-Bd00G,.VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .VfPpkd-z59Tgd::before, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-Bz112c-LgbsSe, .VfPpkd-Bz112c-J1Ukfc-LhBDec, .VfPpkd-Bz112c-J1Ukfc-LhBDec::after, .VfPpkd-LgbsSe, .VfPpkd-LgbsSe .VfPpkd-J1Ukfc-LhBDec, .VfPpkd-LgbsSe .VfPpkd-J1Ukfc-LhBDec::after, .VfPpkd-LgbsSe-OWXEXe-INsAgc .VfPpkd-Jh9lGc, .ksBjEc:not(:disabled), .rFrNMe, .whsOnd, .K0Y8Se, .dEOOab,.ovnfwe:not(:empty), .U26fgb.u3bW4e, .mUbCce, .YYBxpf.u3bW4e, .g3VIld, .JPdR6b, .z80M1.FwR7Pc, .Lg6Rjf, .PdPnMe, .DIJzlf .mUbCce,.DIJzlf .JRtysb, .tgf85c.apTFrf .mUbCce,.tgf85c.apTFrf .JRtysb, .JRtysb, .X6jHbb, .xq3j6.ERcjC .X6jHbb, .xq3j6.dj3yTd .X6jHbb, .toZRUd .cVtnyb:not(:disabled), .toZRUd .cVtnyb:not(:disabled):hover, .TDJ0Lb, .ZNRwRc, .t3RZAc, .t3RZAc .vxLcHb, .gy5j7c, .NQwUHc .C5m2fc:not(:last-child)::after, .lXkFp .QqVQEe, .Jyzpcc span, .n9YQJf .vxLcHb, .BJU89::after, .XkWAb-cYRDff, .XkWAb-pVNTue .XkWAb-xJ5Hz, .BK2CBb .cVtnyb:not(:disabled), .BK2CBb .cVtnyb:not(:disabled):hover, .MiE7Yb::before, .rwDsQ .bs5ied::after, .rwDsQ.p7wIkf .bs5ied::after, .Zjyl9c, .M6RrE, .EGZqub .cVtnyb:not(:disabled), .EGZqub .cVtnyb:not(:disabled):hover, .IJH8ef::before, .ApcsGd::before, .VmNwRc .BPexLd, .VmNwRc, .VmNwRc .ExERKe, .VmNwRc:not(.lTX8Ic), .KfknTb:nth-child(1)::after, .am7Xye, .T1l3pf .sulpxf, .r8xDCb .XkWAb-GfpNfc, .Y7Jci, 100%, .ryaUXc::after, .LsSwGf, .YGFwk, .W0u25d, .uGTP0d, .dKcQBb,.hbIP5e, .tk3N6e-VCkuzd-kmh2Gb, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-jQ8oHc,.tk3N6e-VCkuzd-d6mlqf .tk3N6e-VCkuzd-jQ8oHc, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-jQ8oHc, .tk3N6e-VCkuzd-Ya1KTb .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-d6mlqf .tk3N6e-VCkuzd-ez0xG, .tk3N6e-VCkuzd-y6n2Me .tk3N6e-VCkuzd-jQ8oHc,.tk3N6e-VCkuzd-cX0Lwc .tk3N6e-VCkuzd-jQ8oHc, .tk3N6e-VCkuzd-y6n2Me .tk3N6e-VCkuzd-ez0xG,.tk3N6e-VCkuzd-cX0Lwc .tk3N6e-VCkuzd-ez0xG, .tk3N6e-suEOdc-Ya1KTb .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-d6mlqf .tk3N6e-suEOdc-jQ8oHc, .tk3N6e-suEOdc-Ya1KTb .tk3N6e-suEOdc-ez0xG,.tk3N6e-suEOdc-d6mlqf .tk3N6e-suEOdc-ez0xG, .tk3N6e-suEOdc-y6n2Me .tk3N6e-suEOdc-jQ8oHc,.tk3N6e-suEOdc-cX0Lwc .tk3N6e-suEOdc-jQ8oHc, .tk3N6e-suEOdc-y6n2Me .tk3N6e-suEOdc-ez0xG,.tk3N6e-suEOdc-cX0Lwc .tk3N6e-suEOdc-ez0xG, .Df0wFe button, .RY7Eqf, .lXkFp .fAvaxe, .I2Zlce::after, .xZCdgf::before, .xZCdgf::after, .WcRekc .r8xDCb, .lXkFp .jwuQz, .qU3Bne, .ecfisc::selection, .eJVzYe::before,.bs4xne::before, .LarXBf::before` |
+| #c4c7c5 | #c4c7c5 | `.gb_Oc>*, , :root,.lXkFp, .CcsDpe, .TDPAJf` |
 | rgba(68,71,70,.08) | rgba(68,71,70,.08) | `.gb_Ea:hover, ` |
 | rgba(68,71,70,.12) | rgba(68,71,70,.12) | `.gb_Ea:focus,.gb_Ea:active, ` |
 | #0b57d0 | #0b57d0 | `.gb_Ea:focus-visible, , .gb_Fa .gb_Ha, .gb_Ha:focus-visible, :root,.lXkFp, .CcsDpe, .TDPAJf` |
@@ -340,68 +339,68 @@
 | #0842a0 | #0842a0 | `.gb_Ha:hover, , :root,.lXkFp, .CcsDpe, .TDPAJf` |
 | #062e6f | #062e6f | `.gb_Ha:focus,.gb_Ha:active, , .CcsDpe, .TDPAJf, .CcsDpe .dlG9ue, .CcsDpe .MIbY2` |
 | #d3e3fd | #d3e3fd | `.gb_H .gb_Ha:hover, , :root,.lXkFp, .CcsDpe, .TDPAJf, .CcsDpe .dlG9ue` |
-| #ecf3fe | #ecf3fe | `.gb_H .gb_Ha:focus,.gb_H .gb_Ha:active, , #gb .gb_Va:active,#gb .gb_Va:focus:active, #gb .gb_Oc a.gb_wd:active:not(.gb_H),#gb.gb_Oc a.gb_wd:active, .CcsDpe .dlG9ue` |
-| rgba(60,64,67,.3) | rgba(60,64,67,.3) | `.gb_Ia, , .gb_Ua.gb_wd:hover, .gb_Ua.gb_wd:focus,.gb_Ua.gb_wd:hover:focus, .gb_Ua.gb_wd:active, #gb a.gb_Ua.gb_H.gb_wd:active, .gb_Wa:focus-visible,.gb_Wa:focus, .nCP5yc:hover, .nCP5yc:active, .b9hyVd, .b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus, .b9hyVd:hover, .b9hyVd:not(:disabled):active, .Kjnxrf:hover, .Kjnxrf:not(:disabled):active` |
-| rgba(0,0,0,.15) | rgba(0,0,0,.15) | `.gb_Ja.gb_Ia, , .gb_Ua:hover, .gb_Ua:active, #gb a.gb_Ua.gb_H.gb_wd:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .gb_P:hover,.gb_P:focus, .gb_P:active, .gb_ka .gb_P:hover,.gb_1 .gb_P:hover,.gb_ka .gb_P:focus,.gb_1 .gb_P:focus` |
-| rgba(0,0,0,.3) | rgba(0,0,0,.3) | `.gb_Ja.gb_Ia, , #gb a.gb_Ua.gb_H.gb_wd:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .eGFS9c, .lTv8zc::before, .QqVQEe .cCNe0, .OBamUe::before, .ryaUXc, .oz4Ese .AugH6d::before, .GBRFk, .jheX3e .R2Vmi::before` |
+| #ecf3fe | #ecf3fe | `.gb_H .gb_Ha:focus,.gb_H .gb_Ha:active, , #gb .gb_Va:active,#gb .gb_Va:focus:active, #gb .gb_0c a.gb_Md:active:not(.gb_H),#gb.gb_0c a.gb_Md:active, .CcsDpe .dlG9ue` |
+| rgba(60,64,67,.3) | rgba(60,64,67,.3) | `.gb_Ia, , .gb_Ua.gb_Md:hover, .gb_Ua.gb_Md:focus,.gb_Ua.gb_Md:hover:focus, .gb_Ua.gb_Md:active, #gb a.gb_Ua.gb_H.gb_Md:active, .gb_Wa:focus-visible,.gb_Wa:focus, .nCP5yc:hover, .nCP5yc:active, .b9hyVd, .b9hyVd.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.b9hyVd:not(.VfPpkd-ksKsZd-mWPk3d):focus, .b9hyVd:hover, .b9hyVd:not(:disabled):active, .Kjnxrf:hover, .Kjnxrf:not(:disabled):active` |
+| rgba(0,0,0,.15) | rgba(0,0,0,.15) | `.gb_Ja.gb_Ia, , .gb_Ua:hover, .gb_Ua:active, #gb a.gb_Ua.gb_H.gb_Md:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .gb_P:hover,.gb_P:focus, .gb_P:active, .gb_ka .gb_P:hover,.gb_1 .gb_P:hover,.gb_ka .gb_P:focus,.gb_1 .gb_P:focus` |
+| rgba(0,0,0,.3) | rgba(0,0,0,.3) | `.gb_Ja.gb_Ia, , #gb a.gb_Ua.gb_H.gb_Md:hover, .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .eGFS9c, .lTv8zc::before, .QqVQEe .cCNe0, .OBamUe::before, .ryaUXc, .oz4Ese .AugH6d::before, .GBRFk, .jheX3e .R2Vmi::before` |
 | #4285f4 | #4285f4 | `a.gb_Qa, , a.gb_Ra, .gb_Ua, .e3Duub,.e3Duub a,.e3Duub a:hover,.e3Duub a:link,.e3Duub a:visited, .HQ8yf,.HQ8yf a, .OabDMe, .uWlRce, .KYZn9b` |
-| rgba(0,0,0,.12) | rgba(0,0,0,.12) | `a.gb_Qa:hover::after,a.gb_Qa:focus::after, , .gb_Bd, .zZhnYe, .zZhnYe.qs41qe, .O0WRkf.u3bW4e .ZFr60d, .oG5Srb .Vwe4Vb,.zZhnYe .Vwe4Vb, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-INsAgc:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-INsAgc:disabled, .i9lrp, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .fKz7Od.u3bW4e, .fKz7Od .VTBa7b, .JPdR6b, .kCtYwe, .B2l7lc, .vOSR6b, .N2WjGc, .Mh0NNb` |
+| rgba(0,0,0,.12) | rgba(0,0,0,.12) | `a.gb_Qa:hover::after,a.gb_Qa:focus::after, , .gb_Rd, .zZhnYe, .zZhnYe.qs41qe, .O0WRkf.u3bW4e .ZFr60d, .oG5Srb .Vwe4Vb,.zZhnYe .Vwe4Vb, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-k8QpJ:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-INsAgc:not(:disabled), .VfPpkd-LgbsSe-OWXEXe-INsAgc:disabled, .i9lrp, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .fKz7Od.u3bW4e, .fKz7Od .VTBa7b, .JPdR6b, .kCtYwe, .B2l7lc, .vOSR6b, .N2WjGc, .Mh0NNb` |
 | rgba(153,153,153,.4) | rgba(153,153,153,.4) | `a.gb_Qa:active, , .WzwrXb.u3bW4e, .WzwrXb.iWO5td>.NWlf3e` |
 | #0043b2 | #0043b2 | `a.gb_Ra:active, ` |
 | rgba(0,0,0,.16) | rgba(0,0,0,.16) | `.gb_Sa, , .Sx0Nc:hover` |
-| #f8f8f8 | #f8f8f8 | `.gb_Ta, , .gb_Ua` |
-| #c6c6c6 | #c6c6c6 | `.gb_Ta, ` |
-| #666 | #666 | `.gb_Ta,#gb a.gb_Ta.gb_Ta,.gb_Ua, ` |
+| #f8f8f8 | #f8f8f8 | `.gb_Ta,.gb_Ua, ` |
+| #c6c6c6 | #c6c6c6 | `.gb_Ta,.gb_Ua, ` |
+| #666 | #666 | `.gb_Ta,#gb a.gb_Ta.gb_Ta,.gb_Ua,#gb a.gb_Ua, ` |
 | #4387fd | #4387fd | `.gb_Ua, ` |
 | #4683ea | #4683ea | `.gb_Ua, ` |
-| #3c78dc | #3c78dc | `.gb_Ua:active, ` |
 | #3c7ae4 | #3c7ae4 | `.gb_Ua:active, ` |
 | #3f76d3 | #3f76d3 | `.gb_Ua:active, ` |
-| #dadce0 | #dadce0 | `#gb .gb_Va, , #gb .gb_Va:hover, #gb .gb_Oc a.gb_wd:not(.gb_H),#gb.gb_Oc a.gb_wd, .gb_Wa` |
-| #1a73e8 | #1a73e8 | `#gb .gb_Va, , .gb_wd, #gb .gb_Oc a.gb_wd:not(.gb_H),#gb.gb_Oc a.gb_wd, .EY8ABd .VfPpkd-IqDDtd-hSRGPd, .ziykHb .VfPpkd-IqDDtd-hSRGPd` |
-| #f8fbff | #f8fbff | `#gb .gb_Va:hover, , #gb .gb_Oc a.gb_wd:hover:not(.gb_H),#gb.gb_Oc a.gb_wd:hover` |
+| #ffffff | #ffffff, #FFFFFF | `#gb .gb_Va, , .gb_0c .gb_B[aria-expanded=true] .gb_F, .CcsDpe, .UzQIof path:nth-child(3), .LarXBf::before, .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10` |
+| #dadce0 | #dadce0 | `#gb .gb_Va, , #gb .gb_Va:hover, #gb .gb_0c a.gb_Md:not(.gb_H),#gb.gb_0c a.gb_Md, .gb_Wa` |
+| #1a73e8 | #1a73e8 | `#gb .gb_Va, , .gb_Md, #gb .gb_0c a.gb_Md:not(.gb_H),#gb.gb_0c a.gb_Md, .EY8ABd .VfPpkd-IqDDtd-hSRGPd, .ziykHb .VfPpkd-IqDDtd-hSRGPd` |
+| #f8fbff | #f8fbff | `#gb .gb_Va:hover, , #gb .gb_0c a.gb_Md:hover:not(.gb_H),#gb.gb_0c a.gb_Md:hover` |
 | #174ea6 | #174ea6 | `#gb .gb_Va:hover, , #gb .gb_Va:focus, #gb .gb_Va:active,#gb .gb_Va:focus:active` |
-| #f4f8ff | #f4f8ff | `#gb .gb_Va:focus, , #gb .gb_Oc a.gb_wd:focus:not(.gb_H),#gb .gb_Oc a.gb_wd:focus:hover:not(.gb_H),#gb.gb_Oc a.gb_wd:focus:not(.gb_H),#gb.gb_Oc a.gb_wd:focus:hover:not(.gb_H)` |
-| #5f6368 | #5f6368 | `#gb .gb_Va.gb_H, , .gb_B[aria-expanded=true] .gb_F, .gb_Fa svg,.gb_Sc svg,.gb_ed .gb_yd,.gb_5c .gb_yd, .gb_Wa.gb_H, .gb_Wa.gb_H:hover, .gb_Wa.gb_H:active,.gb_Wa.gb_Wc.gb_H:focus` |
-| #8ab4f8 | #8ab4f8 | `#gb .gb_Va.gb_H, , #gb a.gb_Ua.gb_H.gb_wd` |
+| #f4f8ff | #f4f8ff | `#gb .gb_Va:focus, , #gb .gb_0c a.gb_Md:focus:not(.gb_H),#gb .gb_0c a.gb_Md:focus:hover:not(.gb_H),#gb.gb_0c a.gb_Md:focus:not(.gb_H),#gb.gb_0c a.gb_Md:focus:hover:not(.gb_H)` |
+| #5f6368 | #5f6368 | `#gb .gb_Va.gb_H, , .gb_B[aria-expanded=true] .gb_F, .gb_Fa svg,.gb_4c svg,.gb_pd .gb_Od,.gb_gd .gb_Od, .gb_Wa.gb_H, .gb_Wa.gb_H:hover, .gb_Wa.gb_H:active,.gb_Wa.gb_8c.gb_H:focus` |
+| #8ab4f8 | #8ab4f8 | `#gb .gb_Va.gb_H, , #gb a.gb_Ua.gb_H.gb_Md` |
 | rgba(255,255,255,.04) | rgba(255,255,255,.04) | `#gb .gb_Va.gb_H:hover, ` |
 | #e8eaed | #e8eaed | `#gb .gb_Va.gb_H:hover, , #gb .gb_Va.gb_H:focus, #gb .gb_Va.gb_H:active,#gb .gb_Va.gb_H:focus:active, .NZp2ef, .EY8ABd .VfPpkd-z59Tgd, .ziykHb .VfPpkd-z59Tgd` |
-| rgba(232,234,237,.12) | rgba(232,234,237,.12) | `#gb .gb_Va.gb_H:focus, , .gb_Oc .gb_od button:active svg,.gb_Oc .gb_B:active` |
-| rgba(232,234,237,.1) | rgba(232,234,237,.1) | `#gb .gb_Va.gb_H:active,#gb .gb_Va.gb_H:focus:active, , .gb_Oc .gb_od button:focus svg,.gb_Oc .gb_od button:focus:hover svg,.gb_Oc .gb_B:focus,.gb_Oc .gb_B:focus:hover` |
-| #000 | #000 | `.gb_B,a.gb_B, , .gb_la, .gb_ib, :root,.lXkFp, .CcsDpe, .VfPpkd-ksKsZd-XxIAqe::before,.VfPpkd-ksKsZd-XxIAqe::after, .VfPpkd-Bz112c-LgbsSe .VfPpkd-Bz112c-Jh9lGc::before,.VfPpkd-Bz112c-LgbsSe .VfPpkd-Bz112c-Jh9lGc::after, .XHsn7e, .XkWAb-pVNTue .XkWAb-sM5MNb, .XkWAb-pVNTue .XkWAb-ZdFRdf, .XkWAb-pVNTue .XkWAb-UH1Jve, .TDPAJf` |
-| rgba(0,0,0,.2) | rgba(0,0,0,.2) | `.gb_kd, , .gb_la, .gb_Fa .gb_nd:not(.gb_Qa):focus img, .gb_Bd, .gb_ka .gb_P:hover,.gb_1 .gb_P:hover,.gb_ka .gb_P:focus,.gb_1 .gb_P:focus, .zZhnYe, .zZhnYe.qs41qe, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .vOSR6b, .xnayO, .tk3N6e-VCkuzd, .N7WK4, .Mh0NNb` |
-| #ccc | #ccc | `x:-o-prefocus,div.gb_kd, , .gb_la` |
-| #f1f3f4 | #f1f3f4 | `.gb_Oc .gb_od button:focus-visible svg,.gb_Oc .gb_B:focus-visible, , .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .gb_4a.gb_5a` |
-| currentcolor | currentcolor, currentColor | `.gb_Oc .gb_od.gb_pd button:focus-visible svg,.gb_od button:focus-visible svg,.gb_Oc .gb_od button:focus-visible svg, , .gb_Fa svg, .VfPpkd-Bz112c-LgbsSe, svg.VfPpkd-kBDsod, .NMm5M, .N2Gztb` |
-| rgba(60,64,67,.1) | rgba(60,64,67,.1) | `.gb_Oc .gb_od.gb_pd button:focus svg,.gb_Oc .gb_od.gb_pd button:focus:hover svg,.gb_od button:focus svg,.gb_od button:focus:hover svg,.gb_B:focus,.gb_B:focus:hover, ` |
-| rgba(60,64,67,.12) | rgba(60,64,67,.12) | `.gb_Oc .gb_od.gb_pd button:active svg,.gb_od button:active svg,.gb_B:active, , .nCP5yc:disabled, .Rj2Mlf:disabled, .b9hyVd:disabled, .Kjnxrf:disabled` |
-| rgba(60,64,67,.08) | rgba(60,64,67,.08) | `.gb_Oc .gb_od.gb_pd button:hover svg,.gb_od button:hover svg,.gb_B:hover, ` |
+| rgba(232,234,237,.12) | rgba(232,234,237,.12) | `#gb .gb_Va.gb_H:focus, , .gb_0c .gb_Dd button:active svg,.gb_0c .gb_B:active` |
+| rgba(232,234,237,.1) | rgba(232,234,237,.1) | `#gb .gb_Va.gb_H:active,#gb .gb_Va.gb_H:focus:active, , .gb_0c .gb_Dd button:focus svg,.gb_0c .gb_Dd button:focus:hover svg,.gb_0c .gb_B:focus,.gb_0c .gb_B:focus:hover` |
+| #000 | #000 | `.gb_B,a.gb_B, , .gb_la, .gb_mb, :root,.lXkFp, .CcsDpe, .VfPpkd-ksKsZd-XxIAqe::before,.VfPpkd-ksKsZd-XxIAqe::after, .VfPpkd-Bz112c-LgbsSe .VfPpkd-Bz112c-Jh9lGc::before,.VfPpkd-Bz112c-LgbsSe .VfPpkd-Bz112c-Jh9lGc::after, .XHsn7e, .XkWAb-pVNTue .XkWAb-sM5MNb, .XkWAb-pVNTue .XkWAb-ZdFRdf, .XkWAb-pVNTue .XkWAb-UH1Jve, .TDPAJf` |
+| #ccc | #ccc | `.gb_wd, , x:-o-prefocus,div.gb_wd, .gb_la` |
+| rgba(0,0,0,.2) | rgba(0,0,0,.2) | `.gb_wd, , .gb_la, .gb_Fa .gb_Cd:not(.gb_Qa):focus img, .gb_Rd, .gb_ka .gb_P:hover,.gb_1 .gb_P:hover,.gb_ka .gb_P:focus,.gb_1 .gb_P:focus, .zZhnYe, .zZhnYe.qs41qe, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .vOSR6b, .xnayO, .tk3N6e-VCkuzd, .N7WK4, .Mh0NNb` |
+| #f1f3f4 | #f1f3f4 | `.gb_0c .gb_Dd button:focus-visible svg,.gb_0c .gb_B:focus-visible, , .gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, .gb_4a.gb_5a` |
+| currentcolor | currentcolor, currentColor | `.gb_0c .gb_Dd.gb_Ed button:focus-visible svg,.gb_Dd button:focus-visible svg,.gb_0c .gb_Dd button:focus-visible svg, , .gb_Fa svg, .VfPpkd-Bz112c-LgbsSe, svg.VfPpkd-kBDsod, .NMm5M, .N2Gztb` |
+| rgba(60,64,67,.1) | rgba(60,64,67,.1) | `.gb_0c .gb_Dd.gb_Ed button:focus svg,.gb_0c .gb_Dd.gb_Ed button:focus:hover svg,.gb_Dd button:focus svg,.gb_Dd button:focus:hover svg,.gb_B:focus,.gb_B:focus:hover, ` |
+| rgba(60,64,67,.12) | rgba(60,64,67,.12) | `.gb_0c .gb_Dd.gb_Ed button:active svg,.gb_Dd button:active svg,.gb_B:active, , .nCP5yc:disabled, .Rj2Mlf:disabled, .b9hyVd:disabled, .Kjnxrf:disabled` |
+| rgba(60,64,67,.08) | rgba(60,64,67,.08) | `.gb_0c .gb_Dd.gb_Ed button:hover svg,.gb_Dd button:hover svg,.gb_B:hover, ` |
 | rgba(95,99,104,.24) | rgba(95,99,104,.24) | `.gb_B[aria-expanded=true],.gb_B:hover[aria-expanded=true], ` |
-| rgba(232,234,237,.08) | rgba(232,234,237,.08) | `.gb_Oc .gb_od button:hover svg,.gb_Oc .gb_B:hover, ` |
-| rgba(255,255,255,.12) | rgba(255,255,255,.12) | `.gb_Oc .gb_B[aria-expanded=true],.gb_Oc .gb_B:hover[aria-expanded=true], ` |
-| #3c4043 | #3c4043, #3C4043 | `.gb_cd.gb_dd, , .EY8ABd .VfPpkd-z59Tgd, .EY8ABd .VfPpkd-MlC99b,.EY8ABd .VfPpkd-IqDDtd, .ziykHb .VfPpkd-z59Tgd, .ziykHb .VfPpkd-MlC99b,.ziykHb .VfPpkd-IqDDtd, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10, .lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11` |
-| rgba(0,0,0,.14) | rgba(0,0,0,.14) | `.gb_Bd, , .zZhnYe, .zZhnYe.qs41qe, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .vOSR6b, .Sx0Nc, .Mh0NNb` |
-| inherit | inherit | `.gb_Fa a,.gb_Sc a, , .gb_dd, .gb_3a, .e0WtYb,.A4B6ub, .Lkmxqf .Yu2jld, .VfPpkd-z59Tgd, .VfPpkd-z59Tgd .VfPpkd-MlC99b, .VfPpkd-z59Tgd .VfPpkd-IqDDtd, .VfPpkd-z59Tgd::before, .VfPpkd-BFbNVe-bF1uUb, .VfPpkd-Bz112c-LgbsSe, .VfPpkd-LgbsSe, .FKF6mc:visited, .J0XlZe, .a9caSc, .HBnAAc, .xq3j6, .X6jHbb, .NAY4Vd, .gJN4Wb .icXnic, .Gg676 .y4FzZb, .mZkNUb::before,.rjZtBb::before, .UgWksb a, .pRW4xf .y4FzZb, .M6tHv, .CSRaGc` |
+| rgba(232,234,237,.08) | rgba(232,234,237,.08) | `.gb_0c .gb_Dd button:hover svg,.gb_0c .gb_B:hover, ` |
+| rgba(255,255,255,.12) | rgba(255,255,255,.12) | `.gb_0c .gb_B[aria-expanded=true],.gb_0c .gb_B:hover[aria-expanded=true], ` |
+| #3c4043 | #3c4043, #3C4043 | `.gb_nd.gb_od, , .EY8ABd .VfPpkd-z59Tgd, .EY8ABd .VfPpkd-MlC99b,.EY8ABd .VfPpkd-IqDDtd, .ziykHb .VfPpkd-z59Tgd, .ziykHb .VfPpkd-MlC99b,.ziykHb .VfPpkd-IqDDtd, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10, .lXkFp .xpBTw .cu_edi_11, .xpBTw.lXkFp .cu_edi_11` |
+| rgba(0,0,0,.14) | rgba(0,0,0,.14) | `.gb_Rd, , .zZhnYe, .zZhnYe.qs41qe, .VfPpkd-suEOdc-OWXEXe-nzrxxc .VfPpkd-z59Tgd, .VfPpkd-Djsh7e-XxIAqe-cGMI2b, .VfPpkd-LgbsSe-OWXEXe-MV7yeb, .VfPpkd-LgbsSe-OWXEXe-MV7yeb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe,.VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(.VfPpkd-ksKsZd-mWPk3d):focus, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:hover, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:not(:disabled):active, .VfPpkd-LgbsSe-OWXEXe-MV7yeb:disabled, .XHsn7e, .XHsn7e:hover, .XHsn7e.qs41qe, .XHsn7e:focus, .JPdR6b, .vOSR6b, .Sx0Nc, .Mh0NNb` |
+| inherit | inherit | `.gb_Fa a,.gb_4c a, , .gb_od, .gb_3a, .e0WtYb,.A4B6ub, .Lkmxqf .Yu2jld, .VfPpkd-z59Tgd, .VfPpkd-z59Tgd .VfPpkd-MlC99b, .VfPpkd-z59Tgd .VfPpkd-IqDDtd, .VfPpkd-z59Tgd::before, .VfPpkd-BFbNVe-bF1uUb, .VfPpkd-Bz112c-LgbsSe, .VfPpkd-LgbsSe, .FKF6mc:visited, .J0XlZe, .a9caSc, .HBnAAc, .xq3j6, .X6jHbb, .NAY4Vd, .gJN4Wb .icXnic, .Gg676 .y4FzZb, .mZkNUb::before,.rjZtBb::before, .UgWksb a, .pRW4xf .y4FzZb, .M6tHv, .CSRaGc` |
 | rgba(0,0,0,.87) | rgba(0,0,0,.87) | `.gb_ba, , a.gb_X,span.gb_X, .VfPpkd-MlC99b` |
-| rgba(255,255,255,.87) | rgba(255,255,255,.87) | `.gb_Oc svg,.gb_Sc.gb_Xc svg,.gb_Oc .gb_ed .gb_yd,.gb_Oc .gb_ed .gb_Nc,.gb_Oc .gb_ed .gb_gd,.gb_Sc.gb_Xc .gb_yd, ` |
-| #1b66c9 | #1b66c9 | `.gb_Ua.gb_wd:hover, ` |
-| rgba(66,64,67,.15) | rgba(66,64,67,.15) | `.gb_Ua.gb_wd:hover, , .gb_Ua.gb_wd:focus,.gb_Ua.gb_wd:hover:focus, .gb_Ua.gb_wd:active` |
-| #1c5fba | #1c5fba | `.gb_Ua.gb_wd:focus,.gb_Ua.gb_wd:hover:focus, ` |
-| #1b63c1 | #1b63c1 | `.gb_Ua.gb_wd:active, ` |
-| #cce0fc | #cce0fc | `#gb .gb_Oc a.gb_wd:hover:not(.gb_H),#gb.gb_Oc a.gb_wd:hover, ` |
-| #93baf9 | #93baf9 | `#gb a.gb_Ua.gb_H.gb_wd:hover, ` |
-| #c9ddfc | #c9ddfc | `#gb .gb_Oc a.gb_wd:focus:not(.gb_H),#gb .gb_Oc a.gb_wd:focus:hover:not(.gb_H),#gb.gb_Oc a.gb_wd:focus:not(.gb_H),#gb.gb_Oc a.gb_wd:focus:hover:not(.gb_H), ` |
-| #a6c6fa | #a6c6fa | `#gb a.gb_Ua.gb_H.gb_wd:focus,#gb a.gb_Ua.gb_H.gb_wd:focus:hover, ` |
-| #a1c3f9 | #a1c3f9 | `#gb a.gb_Ua.gb_H.gb_wd:active, ` |
+| rgba(255,255,255,.87) | rgba(255,255,255,.87) | `.gb_0c svg,.gb_4c.gb_9c svg,.gb_0c .gb_pd .gb_Od,.gb_0c .gb_pd .gb_Zc,.gb_0c .gb_pd .gb_rd,.gb_4c.gb_9c .gb_Od, ` |
+| #1b66c9 | #1b66c9 | `.gb_Ua.gb_Md:hover, ` |
+| rgba(66,64,67,.15) | rgba(66,64,67,.15) | `.gb_Ua.gb_Md:hover, , .gb_Ua.gb_Md:focus,.gb_Ua.gb_Md:hover:focus, .gb_Ua.gb_Md:active` |
+| #1c5fba | #1c5fba | `.gb_Ua.gb_Md:focus,.gb_Ua.gb_Md:hover:focus, ` |
+| #1b63c1 | #1b63c1 | `.gb_Ua.gb_Md:active, ` |
+| #cce0fc | #cce0fc | `#gb .gb_0c a.gb_Md:hover:not(.gb_H),#gb.gb_0c a.gb_Md:hover, ` |
+| #93baf9 | #93baf9 | `#gb a.gb_Ua.gb_H.gb_Md:hover, ` |
+| #c9ddfc | #c9ddfc | `#gb .gb_0c a.gb_Md:focus:not(.gb_H),#gb .gb_0c a.gb_Md:focus:hover:not(.gb_H),#gb.gb_0c a.gb_Md:focus:not(.gb_H),#gb.gb_0c a.gb_Md:focus:hover:not(.gb_H), ` |
+| #a6c6fa | #a6c6fa | `#gb a.gb_Ua.gb_H.gb_Md:focus,#gb a.gb_Ua.gb_H.gb_Md:focus:hover, ` |
+| #a1c3f9 | #a1c3f9 | `#gb a.gb_Ua.gb_H.gb_Md:active, ` |
 | rgba(255,255,255,.88) | rgba(255,255,255,.88) | `.gb_Wa, ` |
 | #d2e3fc | #d2e3fc | `.gb_Wa:hover, ` |
 | rgba(248,250,255,.88) | rgba(248,250,255,.88) | `.gb_Wa:hover, ` |
 | rgba(241,243,244,.04) | rgba(241,243,244,.04) | `.gb_Wa.gb_H:hover, ` |
 | rgba(241,243,244,.12) | rgba(241,243,244,.12) | `.gb_Wa.gb_H:focus-visible,.gb_Wa.gb_H:focus, ` |
-| rgba(241,243,244,.1) | rgba(241,243,244,.1) | `.gb_Wa.gb_H:active,.gb_Wa.gb_Wc.gb_H:focus, ` |
-| #e8f0fe | #e8f0fe | `.gb_eb, ` |
-| rgba(32,33,36,.08) | rgba(32,33,36,.08) | `.gb_eb, ` |
-| #1f71e7 | #1f71e7 | `.gb_xc, ` |
+| rgba(241,243,244,.1) | rgba(241,243,244,.1) | `.gb_Wa.gb_H:active,.gb_Wa.gb_8c.gb_H:focus, ` |
+| #e8f0fe | #e8f0fe | `.gb_fb, ` |
+| rgba(32,33,36,.08) | rgba(32,33,36,.08) | `.gb_fb, ` |
+| #1f71e7 | #1f71e7 | `.gb_hb, ` |
 | rgba(0,0,0,.1) | rgba(0,0,0,.1) | `.gb_P:active::after, ` |
 | rgb(66,133,244) | rgb(66,133,244) | `.wsvqid .ZM7pef,.wsvqid .MiwKYe, , :root,.lXkFp, .CcsDpe, .DU29of .VfPpkd-JGcpL-uI4vCe-LkdAo,.DU29of .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G, .DU29of .VfPpkd-JGcpL-Ydhldb-R6PoUb .VfPpkd-JGcpL-IdXvz-LkdAo-Bd00G` |
 | rgb(154,160,166) | rgb(154,160,166) | `.nRz5Be, , :root,.lXkFp, .CcsDpe` |
@@ -528,7 +527,6 @@
 | rgb(217,48,37) | rgb(217,48,37) | `.CcsDpe, ` |
 | rgb(234,134,0) | rgb(234,134,0) | `.CcsDpe, ` |
 | rgb(252,201,52) | rgb(252,201,52) | `.CcsDpe, ` |
-| #ffffff | #ffffff, #FFFFFF | `.CcsDpe, , .UzQIof path:nth-child(3), .LarXBf::before, .lXkFp .xpBTw .cu_edi_3, .xpBTw.lXkFp .cu_edi_3, .lXkFp .xpBTw .cu_edi_6, .xpBTw.lXkFp .cu_edi_6, .lXkFp .xpBTw .cu_edi_8, .xpBTw.lXkFp .cu_edi_8, .lXkFp .xpBTw .cu_edi_9, .xpBTw.lXkFp .cu_edi_9, .lXkFp .xpBTw .cu_edi_10, .xpBTw.lXkFp .cu_edi_10` |
 | rgba(255,255,255,0.3) | rgba(255,255,255,0.3) | `.CcsDpe, ` |
 | rgba(255,255,255,0.4) | rgba(255,255,255,0.4) | `.CcsDpe, ` |
 | rgba(255,255,255,0.6) | rgba(255,255,255,0.6) | `.CcsDpe, , .s44ANd` |
