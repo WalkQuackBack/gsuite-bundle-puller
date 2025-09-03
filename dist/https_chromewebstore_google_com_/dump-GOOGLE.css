@@ -200,7 +200,7 @@
 @media only screen and (max-width:452px) {
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.og5CF4Eh84E.L.B1.O/am=SFEFBAa2ACA/d=1/ed=1/rs=AEP720Iag8du5QfFt0iy-zbKGJrLUBJy6Q/m=discoverview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-chrome-webstore/_/ss/k=boq-chrome-webstore.ChromeWebStoreConsumerFeUi.wJjYt6Xs5iE.L.B1.O/am=SJECAgNbABA/d=1/ed=1/rs=AEP720IdaifFfi8VUxjyTz57dMcu2T1OUw/m=discoverview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -760,7 +760,8 @@ body {
 .O68mGe-xl07Ob-nnr98d-uDEFge {
   color: var(--gm3-menu-cascading-menu-indicator-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.O68mGe-hqgu2c::before {
+.O68mGe-hqgu2c::before,
+.O68mGe-sS6BYc::before {
   border: 1px solid transparent
 }
 .O68mGe-xl07Ob-ibnC6b-OWXEXe-gk6SMd::before {
@@ -772,6 +773,10 @@ body {
 .O68mGe-qPzbhe-JNdkSc-r4nke {
   color: var(--gm3-menu-menu-title-label-text-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
+.O68mGe-xl07Ob-OWXEXe-SfQLQb-rvDQTb {
+  background-color: transparent}
+.O68mGe-sS6BYc {
+  background-color: var(--gm3-menu-container-color,var(--gm3-sys-color-surface-container,#f0f4f9))}
 .O68mGe-qPzbhe-JNdkSc {
   fill: currentColor
 }
