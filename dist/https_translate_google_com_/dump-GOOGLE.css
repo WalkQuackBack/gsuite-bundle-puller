@@ -10824,9 +10824,7 @@ screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8_2x.png)
   }
 }
-.ita-ppe-ant {
-  background-color: inherit
-}
+.ita-ppe-ant,
 .ita-ppe-can,
 .ita-ppe-can-list,
 .ita-ppe-div,
@@ -10856,16 +10854,14 @@ screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
   border: none
 }
 .ita-ppe-logo {
-  background-image: url('https://ssl.gstatic.com/inputtools/images/search_button_normal.png')
+  background-image: url(https://ssl.gstatic.com/inputtools/images/search_button_normal.png)
 }
 .ita-ppe-pgd,
 .ita-ppe-pgu {
   border: 1px solid gray;
   background-color: #f5f5f5
 }
-.ita-ppe-tbl {
-  border: none
-}
+.ita-ppe-tbl,
 .ita-ppe-td {
   border: none
 }
@@ -10886,8 +10882,8 @@ screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
   color: grey
 }
 .ita-isv-red {
-  color: transparent;
-  background-image: url('https://ssl.gstatic.com/inputtools/images/tilde.png')
+  color: red;
+  background-image: url(https://fonts.gstatic.com/s/i/short-term/release/googlesymbols/keyboard_arrow_down/default/24px.svg)
 }
 @media screen and (-ms-high-contrast:white-on-black) {
   .ita-ppe-hlt {
@@ -11138,18 +11134,22 @@ screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite8_2x.png)
   }
 }
-@media screen and (-ms-high-contrast:white-on-black) {
+@media (forced-colors:active),
+screen and (-ms-high-contrast:white-on-black) {
   .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8.png)
   }
 }
-@media screen and (-ms-high-contrast:white-on-black) and (-webkit-min-device-pixel-ratio:1.5),
+@media (forced-colors:active) and (-webkit-min-device-pixel-ratio:1.5),
+(forced-colors:active) and (min-resolution:144dpi),
+screen and (-ms-high-contrast:white-on-black) and (-webkit-min-device-pixel-ratio:1.5),
 screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
   .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8_2x.png)
   }
 }
-@media screen and (-ms-high-contrast:white-on-black) {
+@media (forced-colors:active),
+screen and (-ms-high-contrast:white-on-black) {
   .ita-kd-menuitem-hover {
     border: 1px solid
   }
