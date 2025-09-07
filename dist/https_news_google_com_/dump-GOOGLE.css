@@ -14390,3 +14390,34 @@ Data-Href: N/A */
 .dm7YTc #i34 {
   background-color: #a596cf
 }
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'The Washington Post-headline-font';
+  src: url(/attachments/CAUqDwgAKgcICjCO1JQKMLfRdDCPtOicKWozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
+  color: #00449e
+}
+#ucc-5 .pLZE8d::before {
+  background: #00449e
+}
+#ucc-5 .jzzMj {
+  background: #00449e
+}
+#ucc-5 .QeY9wc:not(.kafKN) {
+  border-top-color: #00449e
+}
+#ucc-5 .MyQDIb {
+  background: #00449e
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #00449e
+}
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #00449e
+}
