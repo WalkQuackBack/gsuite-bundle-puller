@@ -11136,7 +11136,7 @@ screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
 }
 @media (forced-colors:active),
 screen and (-ms-high-contrast:white-on-black) {
-  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {
+  .ita-kd-img {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8.png)
   }
 }
@@ -11144,7 +11144,7 @@ screen and (-ms-high-contrast:white-on-black) {
 (forced-colors:active) and (min-resolution:144dpi),
 screen and (-ms-high-contrast:white-on-black) and (-webkit-min-device-pixel-ratio:1.5),
 screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
-  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {
+  .ita-kd-img {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8_2x.png)
   }
 }
