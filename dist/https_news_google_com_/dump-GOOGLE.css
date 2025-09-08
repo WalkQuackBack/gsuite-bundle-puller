@@ -13964,6 +13964,14 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
+.F8j6Cc {
+  color: #202124
+}
+.dm7YTc .F8j6Cc {
+  color: #fff
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 .dm7YTc .p1eHnf[aria-selected=true] {
   background-color: #3c4043
 }
@@ -14023,14 +14031,6 @@ Data-Href: N/A */
 }
 .dm7YTc .Sz6s4e {
   color: #bdc1c6
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-.F8j6Cc {
-  color: #202124
-}
-.dm7YTc .F8j6Cc {
-  color: #fff
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14389,4 +14389,60 @@ Data-Href: N/A */
 }
 .dm7YTc #i34 {
   background-color: #a596cf
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #07508a
+}
+#ucc-3 .pLZE8d::before {
+  background: #07508a
+}
+#ucc-3 .jzzMj {
+  background: #07508a
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
+}
+#ucc-3 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Rough Draft Atlanta-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+@font-face {
+  font-family: 'Rough Draft Atlanta-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
 }
