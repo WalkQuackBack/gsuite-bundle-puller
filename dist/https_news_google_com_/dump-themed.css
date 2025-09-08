@@ -13964,14 +13964,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.F8j6Cc {
-  color: #202124
-}
-.dm7YTc .F8j6Cc {
-  color: #fff
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 .dm7YTc .p1eHnf[aria-selected=true] {
   background-color: #3c4043
 }
@@ -14031,6 +14023,14 @@ Data-Href: N/A */
 }
 .dm7YTc .Sz6s4e {
   color: #bdc1c6
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+.F8j6Cc {
+  color: #202124
+}
+.dm7YTc .F8j6Cc {
+  color: #fff
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14432,17 +14432,34 @@ body:not(.dm7YTc) #ucc-3 .vP0hTc {
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'Rough Draft Atlanta-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Washington Times-headline-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'Rough Draft Atlanta-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Washington Times-body-font';
+  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-@font-face {
-  font-family: 'Rough Draft Atlanta-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDclKMLMJ-fuwMw6I6o-T1qFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
+#ucc-9 .DaYgZ::after,
+#ucc-9 .pLZE8d::after {
+  color: #a9091f
+}
+#ucc-9 .pLZE8d::before {
+  background: #a9091f
+}
+#ucc-9 .jzzMj {
+  background: #a9091f
+}
+#ucc-9 .QeY9wc:not(.kafKN) {
+  border-top-color: #a9091f
+}
+#ucc-9 .MyQDIb {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
+  background: #a9091f
+}
+body:not(.dm7YTc) #ucc-9 .vP0hTc {
+  color: #a9091f
 }
