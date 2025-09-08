@@ -314,7 +314,7 @@
   box-shadow: inset 1px 1px 0 rgba(0,0,0,.25),inset 0 -1px 0 rgba(0,0,0,.1665)
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi._NWOlMxiyVU.L.B1.O/am=AhAYc6rAIArIFCwEBCA/d=1/ed=1/rs=ANkVxDnDDT1AT7q2XgLs9kvGqg0v4aDrsw/m=mainview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-translate/_/ss/k=boq-translate.TranslateWebserverUi.17AnpRHH-dM.L.B1.O/am=AhAY41RhEAVkChYCAhA/d=1/ed=1/rs=ANkVxDlGOIq3ZCWhHmazN5wog83YgmWl2Q/m=mainview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -8390,6 +8390,8 @@ screen and (forced-colors:active) {
   @media screen and (min-width:1280px) {
   }
 }
+@media screen and (min-width:1280px) {
+}
 .qQqGte {
   background-color: #fff;
   border: 1px solid #ccc
@@ -8408,10 +8410,6 @@ screen and (forced-colors:active) {
 }
 .ccvoYb {
   background-color: #fff
-}
-@media screen and (min-width:1280px) {
-}
-@media screen and (min-width:720px) {
 }
 .OucA2b {
   border-bottom: 1px solid rgba(0,0,0,.12)
@@ -10655,7 +10653,7 @@ Data-Href: N/A */
 .pYTkkf-Bz112c-LgbsSe:hover {
   color: var(--gm3-icon-button-standard-unselected-hover-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
-.pYTkkf-Bz112c-LgbsSe:focus {
+.pYTkkf-Bz112c-LgbsSe:focus-visible {
   color: var(--gm3-icon-button-standard-unselected-focus-icon-color,var(--gm3-sys-color-on-surface-variant,#444746))
 }
 .pYTkkf-Bz112c-LgbsSe:active {
@@ -10664,7 +10662,7 @@ Data-Href: N/A */
 .pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:hover {
   color: var(--gm3-icon-button-standard-selected-hover-icon-color,var(--gm3-sys-color-primary,#0b57d0))
 }
-.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:focus {
+.pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:focus-visible {
   color: var(--gm3-icon-button-standard-selected-focus-icon-color,var(--gm3-sys-color-primary,#0b57d0))
 }
 .pYTkkf-Bz112c-LgbsSe-OWXEXe-IT5dJd:active {
@@ -11136,7 +11134,7 @@ screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
 }
 @media (forced-colors:active),
 screen and (-ms-high-contrast:white-on-black) {
-  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {
+  .ita-kd-img {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8.png)
   }
 }
@@ -11144,7 +11142,7 @@ screen and (-ms-high-contrast:white-on-black) {
 (forced-colors:active) and (min-resolution:144dpi),
 screen and (-ms-high-contrast:white-on-black) and (-webkit-min-device-pixel-ratio:1.5),
 screen and (-ms-high-contrast:white-on-black) and (min-resolution:144dpi) {
-  .ita-kd-menuitem.ita-kd-selected .ita-kd-checkbox {
+  .ita-kd-img {
     background-image: url(https://www.gstatic.com/inputtools/images/ita_sprite_grey8_2x.png)
   }
 }
