@@ -27362,108 +27362,513 @@ screen and (forced-colors:active) {
 .appsElementsGenerativeaiReportAbuseCommonReportFooterContent {
   color: var(--gm3-sys-color-on-surface-variant,#444746)
 }
-.gb_B:hover {
-  background-color: rgba(60,64,67,.08)
+.gb_Ka {
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
-.gb_B:focus,
-.gb_N[aria-expanded=true] {
-  background-color: rgba(60,64,67,.1)
+.gb_La {
+  fill: #f9ab00
 }
-.gb_B:active {
-  background-color: rgba(60,64,67,.12)
+.gb_H .gb_La {
+  fill: #fdd663
 }
-.gb_B:focus-visible {
-  outline: 1px solid #202124
+.gb_Ma > .gb_La {
+  fill: #d93025
 }
-.gb_H .gb_B:hover {
-  background-color: rgba(232,234,237,.08)
+.gb_H .gb_Ma > .gb_La {
+  fill: #f28b82
 }
-.gb_H .gb_B:focus,
-.gb_H .gb_N[aria-expanded=true] {
-  background-color: rgba(232,234,237,.1)
+.gb_Ma > .gb_Na {
+  fill: white
 }
-.gb_H .gb_B:active {
-  background-color: rgba(232,234,237,.12)
+.gb_H .gb_Ma > .gb_Na,
+.gb_Na {
+  fill: #202124
 }
-.gb_H .gb_B:focus-visible {
-  outline-color: #f1f3f4
+.gb_Nc {
+  background: rgba(60,64,67,.9);
+  color: #fff;
+  outline: 1px solid transparent
 }
-.gb_A:hover {
-  background: #1b66c9;
-  box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
+.gb_Oc > * {
+  color: #c4c7c5
 }
-.gb_A:focus {
-  background: #1c5fba;
-  box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
+.gb_Oc div:first-child {
+  color: #fff
 }
-.gb_A:active {
-  background: #1b63c1;
-  box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
+.gb_Ea {
+  background: 0 0;
+  border: 1px solid transparent;
+  outline: 0
 }
-.gb_H .gb_A:hover {
-  background: #93baf9;
-  box-shadow: 0 1px 2px 0 rgba(0,0,0,.3),0 1px 3px 1px rgba(0,0,0,.15)
+.gb_Ea:hover {
+  background-color: rgba(68,71,70,.08)
 }
-.gb_H .gb_A:focus {
-  background: #a6c6fa;
-  box-shadow: none
+.gb_Ea:active,
+.gb_Ea:focus {
+  background-color: rgba(68,71,70,.12)
 }
-.gb_H .gb_A:active {
-  background: #a1c3f9;
-  box-shadow: 0 1px 2px rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15)
+.gb_Ea:focus-visible {
+  border-color: #0b57d0;
+  outline: 1px solid transparent
 }
-.gb_C:hover .gb_O {
-  background: rgba(68,71,70,.08)
+.gb_H .gb_Ea:active,
+.gb_H .gb_Ea:focus,
+.gb_H .gb_Ea:hover {
+  background-color: rgba(227,227,227,.08)
 }
-.gb_C:active .gb_O,
-.gb_C:focus .gb_O {
-  background: rgba(68,71,70,.12)
+.gb_H .gb_Ea:focus-visible {
+  border-color: #a8c7fa
 }
-.gb_C:focus-visible .gb_O {
-  outline: 1px solid #0b57d0
+.gb_Fa .gb_Ha {
+  border: 1px solid transparent;
+  color: #0b57d0
 }
-.gb_H .gb_C:hover .gb_O {
-  background: rgba(196,199,197,.08)
+.gb_Ha:hover {
+  color: #0842a0
 }
-.gb_H .gb_C:active .gb_O,
-.gb_H .gb_C:focus .gb_O {
-  background: rgba(196,199,197,.12)
+.gb_Ha:active,
+.gb_Ha:focus {
+  color: #062e6f
 }
-.gb_H .gb_C:focus-visible .gb_O {
-  outline: 1px solid #a8c7fa
+.gb_Ha:focus-visible {
+  border-color: #0b57d0
+}
+.gb_H .gb_Ha {
+  color: #a8c7fa
+}
+.gb_H .gb_Ha:hover {
+  color: #d3e3fd
+}
+.gb_H .gb_Ha:active,
+.gb_H .gb_Ha:focus {
+  color: #ecf3fe
+}
+.gb_H .gb_Ha:focus-visible {
+  border-color: #a8c7fa;
+  color: #a8c7fa;
+  outline: 0
+}
+.gb_Ia {
+  box-shadow: 0 -1px 2px 0 rgba(60,64,67,.3),0 -2px 6px 2px rgba(60,64,67,.15)
+}
+.gb_Ja.gb_Ia {
+  box-shadow: 0 2px 6px 2px rgba(0,0,0,.15),0 1px 2px 0 rgba(0,0,0,.3)
+}
+@media only screen and (max-width:452px) {
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.gb_A,
-.gb_B,
-.gb_C {
+@-webkit-keyframes gb__a {
+}
+@keyframes gb__a {
+}
+a.gb_Qa {
+  border: none;
+  color: #4285f4;
   outline: 0
 }
-.gb_D {
-  outline: 0
+a.gb_Qa:focus::after,
+a.gb_Qa:hover::after {
+  background-color: rgba(0,0,0,.12)
 }
-.gb_E,
-.gb_F {
-  fill: #5f6368
+a.gb_Qa:active {
+  background-color: rgba(153,153,153,.4)
 }
-.gb_H .gb_E,
-.gb_H .gb_F {
-  fill: rgba(255,255,255,.87)
-}
-a.gb_A {
-  background: #1a73e8;
-  border: 1px solid transparent;
+a.gb_Ra {
+  background-color: #4285f4;
   color: #fff
 }
-.gb_H .gb_A {
+a.gb_Ra:active {
+  background-color: #0043b2
+}
+.gb_Sa {
+  box-shadow: 0 1px 1px rgba(0,0,0,.16)
+}
+.gb_Ta,
+.gb_Ua {
+  background: #f8f8f8;
+  border: 1px solid #c6c6c6
+}
+#gb a.gb_Ta.gb_Ta,
+#gb a.gb_Ua,
+.gb_Ta,
+.gb_Ua {
+  color: #666
+}
+.gb_Ua {
+  border: 1px solid #4285f4;
+  outline: 0;
+  background: -webkit-gradient(linear,left top,left bottom,from(#4387fd),to(#4683ea));
+  background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+  background: linear-gradient(to bottom,#4387fd,#4683ea)
+}
+#gb a.gb_Ua {
+  color: #fff
+}
+.gb_Ua:hover {
+  box-shadow: 0 1px 0 rgba(0,0,0,.15)
+}
+.gb_Ua:active {
+  box-shadow: inset 0 2px 0 rgba(0,0,0,.15);
+  background: -webkit-gradient(linear,left top,left bottom,from(#3c7ae4),to(#3f76d3));
+  background: -webkit-linear-gradient(top,#3c7ae4,#3f76d3);
+  background: linear-gradient(to bottom,#3c7ae4,#3f76d3)
+}
+#gb .gb_Va {
+  background: #fff;
+  border: 1px solid #dadce0;
+  color: #1a73e8
+}
+#gb .gb_Va:hover {
+  background: #f8fbff;
+  border-color: #dadce0;
+  color: #174ea6
+}
+#gb .gb_Va:focus {
+  background: #f4f8ff;
+  color: #174ea6;
+  outline: 1px solid #174ea6
+}
+#gb .gb_Va:active,
+#gb .gb_Va:focus:active {
+  background: #ecf3fe;
+  color: #174ea6
+}
+#gb .gb_Va.gb_H {
+  background: 0 0;
+  border: 1px solid #5f6368;
+  color: #8ab4f8
+}
+#gb .gb_Va.gb_H:hover {
+  background: rgba(255,255,255,.04);
+  color: #e8eaed
+}
+#gb .gb_Va.gb_H:focus {
+  background: rgba(232,234,237,.12);
+  color: #e8eaed;
+  outline: 1px solid #e8eaed
+}
+#gb .gb_Va.gb_H:active,
+#gb .gb_Va.gb_H:focus:active {
+  background: rgba(232,234,237,.1);
+  color: #e8eaed
+}
+.gb_B {
+  outline: 0
+}
+.gb_B,
+a.gb_B {
+  color: #000
+}
+.gb_vd,
+.gb_wd {
+  border-color: transparent;
+  border-bottom-color: #fff
+}
+.gb_wd {
+  border-bottom-color: #ccc;
+  border-bottom-color: rgba(0,0,0,.2)
+}
+div.gb_wd,
+x:-o-prefocus {
+  border-bottom-color: #ccc
+}
+.gb_la {
+  background: #fff;
+  border: 1px solid #ccc;
+  border-color: rgba(0,0,0,.2);
+  color: #000;
+  box-shadow: 0 2px 10px rgba(0,0,0,.2);
+  outline: 0
+}
+.gb_Fa .gb_Cd:not(.gb_Qa):focus img {
+  background-color: rgba(0,0,0,.2);
+  outline: 0
+}
+.gb_B:active,
+.gb_B:focus:not(:focus-visible),
+.gb_B:hover,
+.gb_B[aria-expanded=true],
+.gb_Dd button:active svg,
+.gb_Dd button:focus:not(:focus-visible) svg,
+.gb_Dd button:hover svg {
+  outline: 0
+}
+.gb_0c .gb_Dd.gb_Ed button:focus-visible svg,
+.gb_B:focus-visible,
+.gb_Dd button:focus-visible svg {
+  outline: 1px solid #202124
+}
+.gb_0c .gb_B:focus-visible,
+.gb_0c .gb_Dd button:focus-visible svg {
+  outline: 1px solid #f1f3f4
+}
+@media (forced-colors:active) {
+  .gb_0c .gb_Dd button:focus-visible svg,
+  .gb_0c .gb_Dd.gb_Ed button:focus-visible svg,
+  .gb_Dd button:focus-visible svg {
+    outline: 1px solid currentcolor
+  }
+}
+.gb_0c .gb_Dd.gb_Ed button:focus svg,
+.gb_0c .gb_Dd.gb_Ed button:focus:hover svg,
+.gb_B:focus,
+.gb_B:focus:hover,
+.gb_Dd button:focus svg,
+.gb_Dd button:focus:hover svg {
+  background-color: rgba(60,64,67,.1)
+}
+.gb_0c .gb_Dd.gb_Ed button:active svg,
+.gb_B:active,
+.gb_Dd button:active svg {
+  background-color: rgba(60,64,67,.12)
+}
+.gb_0c .gb_Dd.gb_Ed button:hover svg,
+.gb_B:hover,
+.gb_Dd button:hover svg {
+  background-color: rgba(60,64,67,.08)
+}
+.gb_Wa .gb_B.gb_Za:hover {
+  background-color: transparent
+}
+.gb_B:hover[aria-expanded=true],
+.gb_B[aria-expanded=true] {
+  background-color: rgba(95,99,104,.24)
+}
+.gb_B[aria-expanded=true] .gb_F {
+  fill: #5f6368
+}
+.gb_0c .gb_B:hover,
+.gb_0c .gb_Dd button:hover svg {
+  background-color: rgba(232,234,237,.08)
+}
+.gb_0c .gb_B:focus,
+.gb_0c .gb_B:focus:hover,
+.gb_0c .gb_Dd button:focus svg,
+.gb_0c .gb_Dd button:focus:hover svg {
+  background-color: rgba(232,234,237,.1)
+}
+.gb_0c .gb_B:active,
+.gb_0c .gb_Dd button:active svg {
+  background-color: rgba(232,234,237,.12)
+}
+.gb_0c .gb_B:hover[aria-expanded=true],
+.gb_0c .gb_B[aria-expanded=true] {
+  background-color: rgba(255,255,255,.12)
+}
+.gb_0c .gb_B[aria-expanded=true] .gb_F {
+  fill: #ffffff
+}
+@media (max-width:350px) {
+}
+@media screen and (max-width:319px) {
+}
+.gb_nd.gb_od {
+  color: #3c4043
+}
+.gb_Fa {
+  color: #000
+}
+.gb_Fa svg {
+  fill: currentColor
+}
+.gb_Rd {
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
+}
+.gb_5d {
+  color: #000
+}
+.gb_0c {
+  color: #fff
+}
+.gb_4c a,
+.gb_Fa a {
+  color: inherit
+}
+.gb_ba {
+  color: rgba(0,0,0,.87)
+}
+.gb_4c svg,
+.gb_Fa svg,
+.gb_gd .gb_Od,
+.gb_pd .gb_Od {
+  color: #5f6368
+}
+.gb_0c .gb_pd .gb_Od,
+.gb_0c .gb_pd .gb_Zc,
+.gb_0c .gb_pd .gb_rd,
+.gb_0c svg,
+.gb_4c.gb_9c .gb_Od,
+.gb_4c.gb_9c svg {
+  color: rgba(255,255,255,.87)
+}
+.gb_od {
+  color: inherit
+}
+a.gb_X,
+span.gb_X {
+  color: rgba(0,0,0,.87)
+}
+.gb_0c a.gb_X,
+.gb_0c span.gb_X {
+  color: #fff
+}
+.gb_Ua.gb_Md:hover {
+  background: #1b66c9;
+  box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
+}
+.gb_Ua.gb_Md:focus,
+.gb_Ua.gb_Md:hover:focus {
+  background: #1c5fba;
+  box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
+}
+.gb_Ua.gb_Md:active {
+  background: #1b63c1;
+  box-shadow: 0 1px 3px 1px rgba(66,64,67,.15),0 1px 2px 0 rgba(60,64,67,.3)
+}
+.gb_Md {
+  background: #1a73e8;
+  border: 1px solid transparent
+}
+#gb .gb_0c a.gb_Md:not(.gb_H),
+#gb.gb_0c a.gb_Md {
+  background: #fff;
+  border-color: #dadce0;
+  box-shadow: none;
+  color: #1a73e8
+}
+#gb a.gb_Ua.gb_H.gb_Md {
   background: #8ab4f8;
+  border: 1px solid transparent;
+  box-shadow: none;
   color: #202124
 }
-.gb_O {
-  fill: #1a73e8
+#gb .gb_0c a.gb_Md:hover:not(.gb_H),
+#gb.gb_0c a.gb_Md:hover {
+  background: #f8fbff;
+  border-color: #cce0fc
 }
-.gb_H .gb_O {
-  fill: #8ab4f8
+#gb a.gb_Ua.gb_H.gb_Md:hover {
+  background: #93baf9;
+  border-color: transparent;
+  box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.3)
+}
+#gb .gb_0c a.gb_Md:focus:hover:not(.gb_H),
+#gb .gb_0c a.gb_Md:focus:not(.gb_H),
+#gb.gb_0c a.gb_Md:focus:hover:not(.gb_H),
+#gb.gb_0c a.gb_Md:focus:not(.gb_H) {
+  background: #f4f8ff;
+  outline: 1px solid #c9ddfc
+}
+#gb a.gb_Ua.gb_H.gb_Md:focus,
+#gb a.gb_Ua.gb_H.gb_Md:focus:hover {
+  background: #a6c6fa;
+  border-color: transparent;
+  box-shadow: none
+}
+#gb .gb_0c a.gb_Md:active:not(.gb_H),
+#gb.gb_0c a.gb_Md:active {
+  background: #ecf3fe
+}
+#gb a.gb_Ua.gb_H.gb_Md:active {
+  background: #a1c3f9;
+  box-shadow: 0 1px 2px rgba(60,64,67,.3),0 2px 6px 2px rgba(60,64,67,.15)
+}
+@media screen and (max-width:319px) {
+}
+.gb_Wa {
+  background-color: rgba(255,255,255,.88);
+  border: 1px solid #dadce0;
+  outline: 0
+}
+.gb_Wa.gb_H {
+  background-color: transparent;
+  border: 1px solid #5f6368
+}
+.gb_Wa.gb_H .gb_3a {
+  background: #fff
+}
+.gb_Wa:hover {
+  border: 1px solid #d2e3fc;
+  background-color: rgba(248,250,255,.88)
+}
+.gb_Wa.gb_H:hover {
+  background-color: rgba(241,243,244,.04);
+  border: 1px solid #5f6368
+}
+.gb_Wa:focus,
+.gb_Wa:focus-visible {
+  background-color: #fff;
+  outline: 1px solid #202124;
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
+}
+.gb_Wa.gb_H:focus,
+.gb_Wa.gb_H:focus-visible {
+  background-color: rgba(241,243,244,.12);
+  outline: 1px solid #f1f3f4;
+  box-shadow: 0 1px 3px 1px rgba(0,0,0,.15),0 1px 2px 0 rgba(0,0,0,.3)
+}
+.gb_Wa.gb_8c.gb_H:focus,
+.gb_Wa.gb_H:active {
+  background-color: rgba(241,243,244,.1);
+  border: 1px solid #5f6368
+}
+.gb_4a.gb_5a {
+  background-color: #f1f3f4
+}
+.gb_P {
+  border: 0
+}
+.gb_fb {
+  background-color: #e8f0fe;
+  border: 1px solid rgba(32,33,36,.08)
+}
+.gb_fb.gb_P:active,
+.gb_fb.gb_P:hover {
+  box-shadow: none
+}
+.gb_gb {
+  background: #fff;
+  border: none;
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
+}
+.gb_hb {
+  color: #1f71e7
+}
+@media (-webkit-min-device-pixel-ratio:1.25),
+(min-resolution:1.25dppx),
+(min-device-pixel-ratio:1.25) {
+}
+.gb_P:focus,
+.gb_P:hover {
+  box-shadow: 0 1px 0 rgba(0,0,0,.15)
+}
+.gb_P:active {
+  box-shadow: inset 0 2px 0 rgba(0,0,0,.15)
+}
+.gb_P:active::after {
+  background: rgba(0,0,0,.1)
+}
+.gb_mb {
+  border-top: 4px solid #000;
+  border-left: 4px dashed transparent;
+  border-right: 4px dashed transparent
+}
+.gb_nb.gb_eb {
+  color: #fff
+}
+#gb#gb .gb_1.gb_1 a.gb_jb,
+#gb#gb.gb_1.gb_1 a.gb_jb {
+  color: #fff
+}
+.gb_1.gb_1 .gb_mb {
+  border-top-color: #fff
+}
+.gb_1 .gb_P:focus,
+.gb_1 .gb_P:hover,
+.gb_ka .gb_P:focus,
+.gb_ka .gb_P:hover {
+  box-shadow: 0 1px 0 rgba(0,0,0,.15),0 1px 2px rgba(0,0,0,.2)
 }
 /*! Inline stylesheet
 Data-Href: N/A */
