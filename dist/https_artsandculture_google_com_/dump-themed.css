@@ -1,4 +1,4 @@
-/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.mNmoKZZmNuE.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/ct=zgms/rs=AA2YrTuCFsUYSdxg8eKTAzlgJ62hYMQ54w" */
+/*! External stylesheet "https://www.gstatic.com/og/_/ss/k=og.qtm.rJ-_WNshdsg.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhba,qhbr,qhch,qhga,qhid,qhin/d=1/ed=1/ct=zgms/rs=AA2YrTs7QlDGBDD_uX0CXFNSzwYcirvgRw" */
 .gb_Ka {
   box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)
 }
@@ -309,10 +309,10 @@ x:-o-prefocus {
 .gb_Fa svg {
   fill: currentColor
 }
-.gb_Sd {
+.gb_Rd {
   box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2)
 }
-.gb_7d {
+.gb_5d {
   color: #000
 }
 .gb_0c {
@@ -331,14 +331,12 @@ x:-o-prefocus {
 .gb_pd .gb_Od {
   color: #5f6368
 }
-.gb_0c svg,
-.gb_4c.gb_9c svg {
-  color: rgba(255,255,255,.87)
-}
 .gb_0c .gb_pd .gb_Od,
 .gb_0c .gb_pd .gb_Zc,
 .gb_0c .gb_pd .gb_rd,
-.gb_4c.gb_9c .gb_Od {
+.gb_0c svg,
+.gb_4c.gb_9c .gb_Od,
+.gb_4c.gb_9c svg {
   color: rgba(255,255,255,.87)
 }
 .gb_od {
