@@ -157,7 +157,7 @@
   background-color: #f5f5f5
 }
 /*! Inline stylesheet
-Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.RnE5k_1yR2k.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAKiAQAABAAIQBAgMAAAAAIICBAAdgIEKwgJHFAMAbBAIAACERAJBAAAAAADjtAYMAAAAAAAAAAAAAAAAAAACAIIUAAAAAAAAAAAAAAAAAAAAAABCoSQAE/d=1/ed=1/rs=AC0raVLSB8LMC5BM_cGk8ALvYADebc9jLw/m=landingpageview,_b,_tp */
+Data-Href: https://www.gstatic.com/_/mss/boq-finance/_/ss/k=boq-finance.GoogleFinanceUi.ndxFsxu5zLE.L.B1.O/am=AAAgCAIAAAAAAAAAAAAAAAAAAAAAKiAQAABAAIQBAgMAAAAAIICBAAdgIEKwgJHFAMAbBAIAACERAJBAAAAAADjtAYMAAAAAAAAAAAAAAAAAAACAIIUAAAAAAAAAAAAAAAAAAAAAABCoSQAE/d=1/ed=1/rs=AC0raVLzCkvYHwJH1_wB2qOOvP1Sw7ePWg/m=landingpageview,_b,_tp */
 body {
   color: rgba(0,0,0,.87)
 }
@@ -2165,13 +2165,6 @@ screen and (forced-colors:active) {
 }
 @media (forced-colors:active) {
 }
-.ne2Ple-z59Tgd::before {
-  border: 1px solid transparent
-}
-.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd {
-  background-color: var(--gm3-tooltip-plain-container-color,var(--gm3-sys-color-inverse-surface,#303030));
-  color: var(--gm3-tooltip-plain-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
-}
 .OiePBf-zPjgPe {
   box-shadow: 0 0 0 var(--gm3-focus-ring-outward-track-width,3px) var(--gm3-focus-ring-outward-color,var(--gm3-sys-color-secondary,#00639b));
   outline: var(--gm3-focus-ring-outward-track-width,3px) solid transparent
@@ -2190,6 +2183,13 @@ screen and (forced-colors:active) {
   }
 }
 @media (prefers-reduced-motion) {
+}
+.ne2Ple-z59Tgd::before {
+  border: 1px solid transparent
+}
+.ne2Ple-suEOdc-OWXEXe-pijamc .ne2Ple-z59Tgd {
+  background-color: var(--gm3-tooltip-plain-container-color,var(--gm3-sys-color-inverse-surface,#303030));
+  color: var(--gm3-tooltip-plain-supporting-text-color,var(--gm3-sys-color-inverse-on-surface,#f2f2f2))
 }
 .TRHLAc {
   background: #68e
