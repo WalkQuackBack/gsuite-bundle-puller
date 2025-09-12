@@ -13966,14 +13966,6 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-.F8j6Cc {
-  color: #202124
-}
-.dm7YTc .F8j6Cc {
-  color: #fff
-}
-/*! Inline stylesheet
-Data-Href: N/A */
 .dm7YTc .p1eHnf[aria-selected=true] {
   background-color: #3c4043
 }
@@ -14033,6 +14025,14 @@ Data-Href: N/A */
 }
 .dm7YTc .Sz6s4e {
   color: #bdc1c6
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+.F8j6Cc {
+  color: #202124
+}
+.dm7YTc .F8j6Cc {
+  color: #fff
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14395,180 +14395,63 @@ Data-Href: N/A */
 /*! Inline stylesheet
 Data-Href: N/A */
 @font-face {
-  font-family: 'The Wall Street Journal-headline-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTCVnaXEKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Wall Street Journal-panel-title-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDgv4HFKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-panel-title-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwnKKc3TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
 @font-face {
-  font-family: 'The Wall Street Journal-body-font';
-  src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
+  font-family: 'Investor\27 s Business Daily-body-font';
+  src: url(/attachments/CAUqEAgAKgcICjDOm4YLMJD1gwMwy4i73TZqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
+  color: #07508a
+}
+#ucc-3 .pLZE8d::before {
+  background: #07508a
+}
+#ucc-3 .jzzMj {
+  background: #07508a
+}
+#ucc-3 .QeY9wc:not(.kafKN) {
+  border-top-color: #07508a
+}
+#ucc-3 .MyQDIb {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
+  background: #07508a
+}
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
+  color: #07508a
+}
+/*! Inline stylesheet
+Data-Href: N/A */
 #ucc-5 .DaYgZ::after,
 #ucc-5 .pLZE8d::after {
-  color: #ffcf44
+  color: #836d3c
 }
 #ucc-5 .pLZE8d::before {
-  background: #ffcf44
+  background: #836d3c
 }
 #ucc-5 .jzzMj {
-  background: #ffcf44
+  background: #836d3c
 }
 #ucc-5 .QeY9wc:not(.kafKN) {
-  border-top-color: #ffcf44
+  border-top-color: #836d3c
 }
 #ucc-5 .MyQDIb {
-  background: #ffcf44
+  background: #836d3c
 }
-.dm7YTc #ucc-5 .vP0hTc::before {
-  background: #ffcf44
+body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+  background: #836d3c
 }
-.dm7YTc #ucc-5 .vP0hTc {
-  color: #ffcf44
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'West Central Tribune-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMwmKvirUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'West Central Tribune-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMw5P6drUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'West Central Tribune-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDs0qYLMNTdvgMw5P6drUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
-  color: #053062
-}
-#ucc-9 .pLZE8d::before {
-  background: #053062
-}
-#ucc-9 .jzzMj {
-  background: #053062
-}
-#ucc-9 .QeY9wc:not(.kafKN) {
-  border-top-color: #053062
-}
-#ucc-9 .MyQDIb {
-  background: #053062
-}
-body:not(.dm7YTc) #ucc-9 .vP0hTc::before {
-  background: #053062
-}
-body:not(.dm7YTc) #ucc-9 .vP0hTc {
-  color: #053062
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Rochester Post Bulletin-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw9O2vrUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rochester Post Bulletin-panel-title-font';
-  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Rochester Post Bulletin-body-font';
-  src: url(/attachments/CAUqEAgAKgcICjDY0qYLMMDdvgMw1dbarUxqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-11 .DaYgZ::after,
-#ucc-11 .pLZE8d::after {
-  color: #007db3
-}
-#ucc-11 .pLZE8d::before {
-  background: #007db3
-}
-#ucc-11 .jzzMj {
-  background: #007db3
-}
-#ucc-11 .QeY9wc:not(.kafKN) {
-  border-top-color: #007db3
-}
-#ucc-11 .MyQDIb {
-  background: #007db3
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc::before {
-  background: #007db3
-}
-body:not(.dm7YTc) #ucc-11 .vP0hTc {
-  color: #007db3
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Santa Monica Daily Press-headline-font';
-  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-13 .DaYgZ::after,
-#ucc-13 .pLZE8d::after {
-  color: #ed8e21
-}
-#ucc-13 .pLZE8d::before {
-  background: #ed8e21
-}
-#ucc-13 .jzzMj {
-  background: #ed8e21
-}
-#ucc-13 .QeY9wc:not(.kafKN) {
-  border-top-color: #ed8e21
-}
-#ucc-13 .MyQDIb {
-  background: #ed8e21
-}
-.dm7YTc #ucc-13 .vP0hTc::before {
-  background: #ed8e21
-}
-.dm7YTc #ucc-13 .vP0hTc {
-  color: #ed8e21
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-15 .DaYgZ::after,
-#ucc-15 .pLZE8d::after {
-  color: #a9091f
-}
-#ucc-15 .pLZE8d::before {
-  background: #a9091f
-}
-#ucc-15 .jzzMj {
-  background: #a9091f
-}
-#ucc-15 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
-}
-#ucc-15 .MyQDIb {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-15 .vP0hTc::before {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-15 .vP0hTc {
-  color: #a9091f
+body:not(.dm7YTc) #ucc-5 .vP0hTc {
+  color: #836d3c
 }
