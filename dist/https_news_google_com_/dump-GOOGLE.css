@@ -13758,8 +13758,6 @@ Data-Href: N/A */
 .BzLGdd.JpY6Fd .U2kNge:nth-of-type(5) {
   background: var(--gn-pubdi-card-5-bg)
 }
-/*! Inline stylesheet
-Data-Href: N/A */
 @media (forced-colors:active) {
   .qdOxv-fmcmS-yrriRe-OWXEXe-OWB6Me .qdOxv-fmcmS-wGMbrd {
     background-color: Canvas
@@ -14396,61 +14394,27 @@ Data-Href: N/A */
 }
 /*! Inline stylesheet
 Data-Href: N/A */
-#ucc-5 .DaYgZ::after,
-#ucc-5 .pLZE8d::after {
+#ucc-3 .DaYgZ::after,
+#ucc-3 .pLZE8d::after {
   color: #6d0077
 }
-#ucc-5 .pLZE8d::before {
+#ucc-3 .pLZE8d::before {
   background: #6d0077
 }
-#ucc-5 .jzzMj {
+#ucc-3 .jzzMj {
   background: #6d0077
 }
-#ucc-5 .QeY9wc:not(.kafKN) {
+#ucc-3 .QeY9wc:not(.kafKN) {
   border-top-color: #6d0077
 }
-#ucc-5 .MyQDIb {
+#ucc-3 .MyQDIb {
   background: #6d0077
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc::before {
+body:not(.dm7YTc) #ucc-3 .vP0hTc::before {
   background: #6d0077
 }
-body:not(.dm7YTc) #ucc-5 .vP0hTc {
+body:not(.dm7YTc) #ucc-3 .vP0hTc {
   color: #6d0077
-}
-/*! Inline stylesheet
-Data-Href: N/A */
-@font-face {
-  font-family: 'Washington Times-headline-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjC_gebGSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-@font-face {
-  font-family: 'Washington Times-body-font';
-  src: url(/attachments/CAUqKggAIhBcERswRnPnLkaJ3_gLN8OaKhQICiIQXBEbMEZz5y5Gid_4CzfDmjD15qvHSmoWYXBwbGljYXRpb24veC1mb250LXR0Zg?hl=en-US&gl=US&ceid=US%3Aen);
-  font-display: block
-}
-#ucc-7 .DaYgZ::after,
-#ucc-7 .pLZE8d::after {
-  color: #a9091f
-}
-#ucc-7 .pLZE8d::before {
-  background: #a9091f
-}
-#ucc-7 .jzzMj {
-  background: #a9091f
-}
-#ucc-7 .QeY9wc:not(.kafKN) {
-  border-top-color: #a9091f
-}
-#ucc-7 .MyQDIb {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc::before {
-  background: #a9091f
-}
-body:not(.dm7YTc) #ucc-7 .vP0hTc {
-  color: #a9091f
 }
 /*! Inline stylesheet
 Data-Href: N/A */
@@ -14469,25 +14433,54 @@ Data-Href: N/A */
   src: url(/attachments/CAUqDwgAKgcICjDW3MkBMOfLFTDI167EKmozYXBwbGljYXRpb24vdm5kLm9hc2lzLm9wZW5kb2N1bWVudC5mb3JtdWxhLXRlbXBsYXRl?hl=en-US&gl=US&ceid=US%3Aen);
   font-display: block
 }
-#ucc-9 .DaYgZ::after,
-#ucc-9 .pLZE8d::after {
+#ucc-5 .DaYgZ::after,
+#ucc-5 .pLZE8d::after {
   color: #ffcf44
 }
-#ucc-9 .pLZE8d::before {
+#ucc-5 .pLZE8d::before {
   background: #ffcf44
 }
-#ucc-9 .jzzMj {
+#ucc-5 .jzzMj {
   background: #ffcf44
 }
-#ucc-9 .QeY9wc:not(.kafKN) {
+#ucc-5 .QeY9wc:not(.kafKN) {
   border-top-color: #ffcf44
 }
-#ucc-9 .MyQDIb {
+#ucc-5 .MyQDIb {
   background: #ffcf44
 }
-.dm7YTc #ucc-9 .vP0hTc::before {
+.dm7YTc #ucc-5 .vP0hTc::before {
   background: #ffcf44
 }
-.dm7YTc #ucc-9 .vP0hTc {
+.dm7YTc #ucc-5 .vP0hTc {
   color: #ffcf44
+}
+/*! Inline stylesheet
+Data-Href: N/A */
+@font-face {
+  font-family: 'Santa Monica Daily Press-headline-font';
+  src: url(/attachments/CAUqEAgAKgcICjCkgNYLMLeb7QMwyYrNjltqFmFwcGxpY2F0aW9uL3gtZm9udC10dGY?hl=en-US&gl=US&ceid=US%3Aen);
+  font-display: block
+}
+#ucc-7 .DaYgZ::after,
+#ucc-7 .pLZE8d::after {
+  color: #ed8e21
+}
+#ucc-7 .pLZE8d::before {
+  background: #ed8e21
+}
+#ucc-7 .jzzMj {
+  background: #ed8e21
+}
+#ucc-7 .QeY9wc:not(.kafKN) {
+  border-top-color: #ed8e21
+}
+#ucc-7 .MyQDIb {
+  background: #ed8e21
+}
+.dm7YTc #ucc-7 .vP0hTc::before {
+  background: #ed8e21
+}
+.dm7YTc #ucc-7 .vP0hTc {
+  color: #ed8e21
 }
