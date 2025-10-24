@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Superseded by [google-suite-color-theme](https://github.com/WalkQuackBack/google-suite-color-theme)
+
 # google css bundle puller
 
 Work in progress, builds may be broken or not work.
